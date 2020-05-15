@@ -1,0 +1,242 @@
+Destaques - 14/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 192.282 casos; 13.280 mortes 
+🌎 Mundo: 4,3 milhões de casos; 298 mil mortes
+--
+📊 Epidemiologia
+
+▶️ Coronavírus é 'eminentemente capaz' de se espalhar pela fala, diz estudo americano. Uma conversa normal gera gotículas no ar que podem permanecer suspensas por dezenas de minutos ou mais e são capazes de transmitir doenças em espaços confinados
+https://oglobo.globo.com/sociedade/coronavirus-eminentemente-capaz-de-se-espalhar-pela-fala-diz-estudo-americano-24426031
+
+▶️ Batalha para encontrar o paciente zero do coronavírus. China se mostra aberta, diante das pressões internacionais, a um estudo da OMS sobre a origem da pandemia
+https://brasil.elpais.com/ciencia/2020-05-13/batalha-para-encontrar-o-paciente-zero-do-coronavirus.html
+
+▶️ Por que a OMS diz que o coronavírus pode nunca desaparecer
+https://www.bbc.com/portuguese/internacional-52664009
+
+▶️ Especial: 200 perguntas sobre a doença e o impacto na sua vida
+https://www.estadao.com.br/infograficos/saude,200-perguntas-sobre-a-doenca-e-o-impacto-na-sua-vida,1091089
+
+▶️ Quais são as maiores causas de morte no Brasil e no mundo e como se comparam com a Covid-19
+https://www.bbc.com/portuguese/internacional-52593837
+
+▶️ O avanço silencioso da Covid-19 em frigoríficos do Brasil. Rio Grande do Sul registrou surtos em pelo menos 12 estabelecimentos.
+https://www.bbc.com/portuguese/brasil-52643096
+✏️ Já são quase 250 casos confirmados entre funcionários e cerca de 20 mil trabalhadores expostos segundo o último boletim epidemiológico divulgado pela Secretaria de Saúde.
+https://saude.rs.gov.br/upload/arquivos/202005/06095855-boletim-epidemiologico-covid-19-coers-se-18.pdf
+
+▶️ Doença rara em crianças nos EUA pode ter relação com coronavírus, diz CNN
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/14/doenca-rara-em-criancas-nos-eua-pode-ter-relacao-com-coronavirus-diz-cnn.htm
+
+▶️ Ministro da Saúde alemão defende 'passaporte de imunidade' à Covid-19. Jens Spahn afirma que outros países europeus já planejam condicionar a entrada de viajantes à apresentação de um certificado de imunidade 
+https://g1.globo.com/mundo/noticia/2020/05/14/ministro-da-saude-alemao-defende-passaporte-de-imunidade-a-covid-19.ghtml
+
+▶️ Número de mortes no Reino Unido pode ser quase o dobro do oficial
+https://www.bbc.com/portuguese/internacional-52643520
+
+▶️ A razão médica pela perda de olfato e paladar provocada pela Covid-19
+https://www.bbc.com/portuguese/internacional-52660860
+
+▶️ Coronavírus pode se manifestar primeiro no sistema digestivo em crianças
+https://www.bbc.com/portuguese/geral-52641957
+✏️ Clinical Characteristics of 5 Covid-19 Cases With Non-respiratory Symptoms as the First Manifestation in Children
+https://www.frontiersin.org/articles/10.3389/fped.2020.00258/full
+
+▶️ Anvisa faz alerta sobre túneis e câmaras de desinfecção de pessoas. Adoção desse mecanismo não invalidaria o vírus dentro do corpo humano
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/anvisa-faz-alerta-sobre-tuneis-e-camaras-de-desinfeccao-de-pessoas
+✏️ Covid-19: esclarecimentos sobre desinfecção de pessoas
+http://portal.anvisa.gov.br/noticias/-/asset_publisher/FXrpx9qY7FbU/content/covid-19-esclarecimentos-sobre-desinfeccao-de-pessoas/219201
+
+▶️ Aeroporto de Brasília tem equipamento que mede temperatura e detecta uso de máscara
+https://g1.globo.com/df/distrito-federal/noticia/2020/05/14/coronavirus-aeroporto-de-brasilia-tem-equipamento-que-mede-temperatura-e-detecta-uso-de-mascara.ghtml
+--
+🔬 Pesquisa científica
+
+▶️ Coronavírus é detectado nos pulmões, rins e outros órgãos, diz estudo
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/14/coronavirus-e-detectado-nos-pulmoes-rins-e-outros-orgaos-diz-estudo.htm
+✏️ Multiorgan and Renal Tropism of SARS-CoV-2
+http://www.nejm.org/doi/full/10.1056/NEJMc2011400
+
+▶️ Gatos podem infectar outros com o coronavírus, mas podem não apresentar sintomas. Descobertas ampliam pesquisas que mostram como felinos podem contrair o vírus. Especialistas dizem que não há evidências de que eles estejam contribuindo para a disseminação da Covid-19.
+https://edition.cnn.com/2020/05/13/health/wellness-cats-infect-each-other/index.html
+✏️ Transmission of SARS-CoV-2 in Domestic Cats
+https://www.nejm.org/doi/full/10.1056/NEJMc2013400?query=featured_coronavirus
+
+▶️ Dois entre quinze cães de famílias com casos humanos de Covid-19 em Hong Kong foram identificados com o vírus por RT-PCR, sorologia, sequenciamento do genoma viral e, em um cão, isolamento do vírus. Evidências sugerem que esses são casos de transmissão humano-animal de SARS-CoV-2.
+✏️ Infection of dogs with SARS-CoV-2
+https://www.nature.com/articles/s41586-020-2334-5
+
+▶️ Diferentes espécies estão ajudando a responder a diferentes perguntas sobre a Covid-19 em humanos, a fim de desenvolver vacinas e tratamentos.
+https://www.scientificamerican.com/article/from-hamsters-to-baboons-the-animals-helping-scientists-understand-the-coronavirus/
+✏️ Pathogenesis and transmission of SARS-CoV-2 in golden hamsters
+https://www.nature.com/articles/s41586-020-2342-5
+
+▶️ Hormônios femininos podem ter papel protetor contra coronavírus
+http://agencia.fapesp.br/hormonios-femininos-podem-ter-papel-protetor-contra-coronavirus/33165/
+✏️ SARS-CoV-2 and the Possible Connection to ERs, ACE2 and RAGE: Focus on Susceptibility Factors
+https://www.preprints.org/manuscript/202005.0178/v1
+
+▶️ Leite materno apresenta resposta imunológica ao coronavírus, diz estudo
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/14/leite-materno-coronavirus.htm
+✏️ Evidence of a significant secretory-IgA-dominant SARS-CoV-2 immune response in human milk following recovery from Covid-19
+https://www.medrxiv.org/content/10.1101/2020.05.04.20089995v1.article-info
+
+▶️ Médicos na Itália relataram a primeira evidência clara de uma ligação entre o Covid-19 e um distúrbio inflamatório raro, mas sério, que exigiu que algumas crianças fossem submetidas a tratamento em UTIs. Registros médicos mostraram que os casos de doença do tipo Kawasaki aumentaram para cerca de 10 por mês em comparação com um a cada três meses nos cinco anos anteriores.
+https://www.theguardian.com/science/2020/may/13/italian-doctors-find-link-between-covid-19-and-inflammatory-disorder
+✏️ An outbreak of severe Kawasaki-like disease at the Italian epicentre of the SARS-CoV-2 epidemic: an observational cohort study
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31103-X/fulltext
+
+▶️ Cientistas estão se afogando nos artigos sobre Covid-19. Novas ferramentas podem ajudar? 
+https://www.sciencemag.org/news/2020/05/scientists-are-drowning-covid-19-papers-can-new-tools-keep-them-afloat
+
+▶️ Oxford testa vacina para Covid-19 em humanos; resultado pode sair em junho 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/14/oxford-testa-vacina-para-covid-19-em-humanos-resultado-pode-sair-em-junho.htm
+
+▶️ Vacina será possível em cerca de um ano, diz agência que aprova medicamentos para a União Europeia
+https://g1.globo.com/bemestar/vacina/noticia/2020/05/14/vacina-sera-possivel-em-cerca-de-um-ano-diz-agencia-europeia.ghtml
+--
+🧪 Diagnóstico
+
+▶️ Pesquisadores da UFSCar estão desenvolvendo testes rápidos para detectar novo coronavírus
+http://agencia.fapesp.br/pesquisadores-da-ufscar-estao-desenvolvendo-testes-rapidos-para-detectar-novo-coronavirus/33149/
+
+▶️ Reino Unido negocia com farmacêutica Roche para adquirir grandes quantidades de seu teste de anticorpos para coronavírus, classificado como "extremamente confiável" 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/14/governo-britanico-negocia-compra-de-teste-de-anticorpos-100-preciso.htm
+
+▶️ Espírito Santo vai fazer teste de anticorpos em 30 mil pessoas
+https://saude.estadao.com.br/noticias/geral,espirito-santo-vai-fazer-teste-de-anticorpos-da-covid-19-em-30-mil-pessoas,70003302595
+--
+🏡 Distanciamento social
+
+▶️ MP recomenda lockdown no estado e no município do Rio
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/mp-recomenda-lockdown-no-estado-e-no-municipio-do-rio
+⏩ MPRJ recomenda medidas mais restritivas de isolamento social, como bloqueio total de atividades não essenciais de forma pontual em áreas mais críticas
+http://www.mprj.mp.br/noticias-todas/-/detalhe-noticia/visualizar/85216
+
+✏️ Recomendação para o Estado do Rio
+http://www.mprj.mp.br/documents/20184/540394/rec_30_ao_gov_erj_final_135___assinado.pdf
+✏️ Recomendação para o Município do Rio
+http://www.mprj.mp.br/documents/20184/540394/rec_28_ao_mrj__final_135__assinado.pdf
+
+▶️ Bolsonaro faz 'apelo' para governadores reverem política de isolamento e diz que está 'pronto para conversar'
+https://g1.globo.com/politica/noticia/2020/05/14/bolsonaro-faz-apelo-para-governadores-reverem-politica-de-isolamento-e-diz-que-esta-disposto-a-conversar.ghtml
+
+▶️ Monitor acompanha taxas de isolamento social no Brasil
+https://www.estadao.com.br/infograficos/saude,monitor-acompanha-taxas-de-isolamento-social-no-brasil,1093828
+--
+🗂️ Política
+
+▶️ Bachelet, alta-comissária da ONU para direitos humanos, diz que 'negação' por parte de líderes agravou Covid-19 no Brasil
+https://g1.globo.com/mundo/noticia/2020/05/14/bachelet-alta-comissaria-da-onu-para-direitos-humanos-diz-que-negacao-por-parte-de-lideres-agravou-covid-19-no-brasil.ghtml
+
+▶️ Helio Gurovitz, do G1 questiona demora para divulgação dos laudos de Bolsonaro
+https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/14/o-enigma-dos-testes-de-bolsonaro.ghtml
+
+⏩ Laudo da Fiocruz apresentado por Bolsonaro não tem CPF, RG nem data de nascimento
+https://politica.estadao.com.br/blogs/fausto-macedo/laudo-da-fiocruz-apresentado-por-bolsonaro-nao-tem-cpf-rg-nem-data-de-nascimento-anvisa-proibe/
+
+▶️ Bolsonaro edita MP que livra agente público de punição no combate ao coronavírus
+https://g1.globo.com/politica/noticia/2020/05/14/mp-livra-de-responsabilidade-agente-publico-que-cometer-erro-em-acao-de-combate-a-pandemia.ghtml
+
+▶️ "Brasil está se tornando um país de pobres", diz Bolsonaro ao criticar isolamento
+https://noticias.uol.com.br/videos/2020/05/14/brasil-esta-se-tornando-um-pais-de-pobres-diz-bolsonaro-ao-criticar-isolamento.htm
+
+⏩ Bolsonaro: 'Vai faltar dinheiro para pagar servidor público'
+https://www.cnnbrasil.com.br/nacional/2020/05/14/bolsonaro-vai-faltar-dinheiro-para-pagar-servidor-publico
+
+▶️ 'História vai mostrar quem estava certo e quem estava errado', diz Mandetta sobre Bolsonaro. Em entrevista à CNN americana, ex-ministro da Saúde afirma que Brasil se encontra apenas no começo da pior parte da crise
+https://oglobo.globo.com/brasil/historia-vai-mostrar-quem-estava-certo-quem-estava-errado-diz-mandetta-sobre-bolsonaro-24425524
+
+▶️ Casos na Casa Branca complicam mensagem de Trump de que é seguro voltar ao trabalho
+https://www.bbc.com/portuguese/internacional-52659393
+
+▶️ Lava Jato prende ex-deputado Paulo Melo e empresário Mário Peixoto; suspeita é de fraude com hospitais de campanha
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/14/lava-jato-faz-operacao-no-rj-nesta-quinta-feira.ghtml
+--
+🥼 Saúde Pública
+
+▶️ Ocupação de leitos de UTI já passa de 80% em cinco estados brasileiros: PE, CE, AM, PA e RJ
+https://www.cnnbrasil.com.br/saude/2020/05/14/ocupacao-de-leitos-de-uti-ja-passa-de-80-em-cinco-estados-brasileiros
+
+▶️ AL: hospitais já recusam pacientes. Sistema dá sinais de saturação com o número crescente de casos
+https://saude.estadao.com.br/noticias/geral,em-alagoas-hospitais-ja-recusam-pacientes,70003302217
+
+▶️ RJ: Hospitais de campanha têm 231 leitos vazios apesar dos 900 pacientes na fila
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/14/hospitais-de-campanha-do-rj-tem-231-leitos-vazios-apesar-dos-900-pacientes-de-covid-19-na-fila.ghtml
+
+▶️ RJ: Estado e Prefeitura só receberam 20% dos respiradores 
+https://oglobo.globo.com/rio/compras-empacadas-estado-prefeitura-do-rio-so-receberam-20-dos-respiradores-para-covid-19-24425889
+
+▶️ SP: Com lotação de 89% na capital paulista, 6 hospitais já não têm mais vagas em UTI
+https://saude.estadao.com.br/noticias/geral,com-lotacao-de-89-na-capital-paulista-6-hospitais-ja-nao-tem-mais-vagas-em-uti,70003302231
+
+▶️ Sem uso da rede privada, só 'um milagre', diz ex-presidente da Anvisa. Médico sanitarista Gonzalo Vecina Neto defende fila única e critica quem relativiza mortes na pandemia
+https://oglobo.globo.com/sociedade/coronavirus/sem-uso-da-rede-privada-so-um-milagre-diz-ex-presidente-da-anvisa-sobre-pandemia-1-24422019
+--
+🌐 Internacional
+
+🇪🇸 Espanha: com 217 mortes nas últimas 24h, passou da marca de 200 óbitos diários pela primeira vez desde o dia 8 de maio. Já são mais de 27 mil.
+
+🇩🇪 Alemanha registrou 933 novos casos nas últimas 24h. Também foram mais 89 mortes - são mais de 7.700 no total.
+
+🇯🇵 Japão tirou o estado de emergência em 37 das 49 prefeituras do país. Porém, Tóquio e Osaka, as duas maiores cidades, seguem nessa condição.
+
+🇨🇳 China acusou os EUA de calúnia depois que o FBI apontou que hackers, pesquisadores e estudantes próximos ao governo chinês roubaram dados sobre tratamentos e vacinas contra o novo coronavírus.
+
+🇫🇷 França: estudo realizado pelo Instituto Pasteur apontou que 4,4% da população francesa (cerca de 2,8 milhões de pessoas) esteve ou está infectada, oficialmente são 178 mil. País registra mais de 27 mil mortes 
+
+🇬🇧 Reino Unido teve 428 novas mortes, totalizando 33.614. Uma atualização nos dados também mostrou que mais de 126 mil testes foram realizados ontem
+
+🇷🇺 Rússia registrou 9.974 novos casos nas últimas 24 horas. País notificou oficialmente 252.245 casos
+--
+🔍 Recortes da pandemia
+
+▶️ O dia a dia dos intensivistas: exaustão, trabalho braçal, ansiedade e medo pelo afrouxamento do isolamento social
+https://oglobo.globo.com/sociedade/o-dia-dia-dos-intensivistas-exaustao-trabalho-bracal-ansiedade-medo-pelo-afrouxamento-do-isolamento-social-24424707
+
+▶️ Opinião: carioca que não vive de privilégios acorda todo dia com medo de adoecer e não ter leitos para ser tratado
+https://oglobo.globo.com/rio/artigo-jogo-da-sobrevivencia-24425929
+
+▶️ Movimento anti-vacina pode prejudicar os esforços para acabar com a pandemia. Estudos de redes sociais mostram que a oposição às vacinas é pequena, mas abrangente - e crescente.
+https://www.nature.com/articles/d41586-020-01423-4
+
+▶️ Pandemia escancara vulnerabilidade de 50 milhões da nova classe C 
+https://noticias.uol.com.br/colunas/marcos-silveira/2020/05/14/130-milhoes-pertencem-as-classes-cde-2-em-cada-3-brasileiros.htm
+
+▶️ Aplicativos de rastreamento de coronavírus não devem ser usados para vigilância em massa, afirma UE
+https://oglobo.globo.com/mundo/aplicativos-de-rastreamento-de-coronavirus-nao-devem-ser-usados-para-vigilancia-em-massa-afirma-ue-24426366
+
+▶️ 'Enterros expressos' escondem a passagem da pandemia na Nicarágua. Sepultamentos de mortos com suspeita de Covid-19 ocorrem de madrugada e longe da família. País relata apenas oito mortes
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/05/14/enterros-expressos-escondem-a-passagem-da-pandemia-na-nicaragua.ghtml
+
+▶️ 'Ausência de familiares é o mais triste' conta sepultador do Caju sobre sua nova rotina no cemitério
+https://oglobo.globo.com/rio/coronavirus-ausencia-de-familiares-o-mais-triste-conta-sepultador-do-caju-sobre-sua-nova-rotina-no-cemiterio-24425947
+
+▶️ Só 6 das 69 universidades federais adotaram ensino a distância 
+https://g1.globo.com/educacao/noticia/2020/05/14/so-6-das-69-universidades-federais-adotaram-ensino-a-distancia-apos-paralisacao-por-causa-da-covid-19.ghtml
+
+▶️ Reitores de federais pedem suspensão de datas do Enem e novo calendário
+https://educacao.uol.com.br/noticias/2020/05/14/reitores-de-federais-pedem-suspensao-de-datas-do-enem-e-novo-calendario.htm
+--
+✅ Curtas
+
+➡ Número de enterros em cemitérios do Rio aumenta 54% em relação ao mês de maio do ano passado
+
+➡ Sepultamentos cresceram 47% em um mês no maior cemitério de São Paulo 
+
+➡ No Amazonas, profissionais de saúde estão impedidos de trabalhar por causa da burocracia
+
+➡ Hospital de campanha construído pelo governo federal em Goiás segue fechado
+
+➡ Denúncias por preços abusivos aumentaram em 124% durante pandemia, diz Procon-RJ
+
+➡ Visitas virtuais amenizam o isolamento de pacientes internados por Covid-19
+
+➡ Quarentena reduz número de suicídios no Japão
+
+➡ EUA não usam ventiladores que pegaram fogo na Rússia
+
+➡ Trump, está mobilizando os militares do país para distribuir a vacina do novo coronavírus quando uma se tornar disponível
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

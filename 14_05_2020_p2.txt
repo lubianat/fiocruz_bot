@@ -1,0 +1,180 @@
+Destaques - 14/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 202.918 casos; 13.993 mortes 
+🌎 Mundo: 4,4 milhões de casos; 301 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Novo coronavírus pode não se espalhar através do contato com fezes. Pesquisadores descobriram que, embora o vírus infecte as células do intestino delgado, o fluido do intestino grosso o inativa. Os autores alertam, no entanto, que, por terem estudado apenas amostras fecais de 10 pacientes, não podem descartar definitivamente a transmissão fecal-oral da Covid-19.
+https://www.reuters.com/article/health-coronavirus-science/update-1-covid-science-twin-antibodies-may-help-fight-coronavirus-cheaper-viral-sequencing-technique-idUSL1N2CV2EP
+✏️ TMPRSS2 and TMPRSS4 promote SARS-CoV-2 infection of human small intestinal enterocytes
+https://immunology.sciencemag.org/content/5/47/eabc3582
+
+▶️ Cientistas descobriram um par de anticorpos que neutralizam o novo coronavírus, por mecanismos ligeiramente diferentes. Encontrar uma maneira de usar os dois simultaneamente pode ser uma maneira de atacar o vírus.
+https://www.reuters.com/article/health-coronavirus-science/update-1-covid-science-twin-antibodies-may-help-fight-coronavirus-cheaper-viral-sequencing-technique-idUSL1N2CV2EP
+✏️ A noncompeting pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2
+https://science.sciencemag.org/content/early/2020/05/12/science.abc2241
+
+▶️ Apesar de mais de 27.000 mortes confirmadas na França, apenas 4,4% das pessoas foram realmente infectadas. A porcentagem está muito abaixo do nível exigido - algo mais que 50% - para alcançar a imunidade do rebanho.
+https://www.reuters.com/article/us-health-coronavirus-france-immunity/only-44-of-french-population-infected-by-coronavirus-pasteur-institute-idUSKBN22Q0RS
+✏️ Estimating the burden of SARS-CoV-2 in France
+https://science.sciencemag.org/lookup/doi/10.1126/science.abc3517
+
+▶️ Pesquisadores descobriram uma maneira mais simples e barata de sequenciar o genoma do novo coronavírus.
+https://www.reuters.com/article/health-coronavirus-science/update-1-covid-science-twin-antibodies-may-help-fight-coronavirus-cheaper-viral-sequencing-technique-idUSL1N2CV2EP
+✏️ A Rapid, Cost-Effective Tailed Amplicon Method for Sequencing SARS-CoV-2
+https://www.biorxiv.org/content/10.1101/2020.05.11.088724v1
+
+▶️ Coronavírus pode levar a alucinações e psicose, diz estudo australiano
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/14/coronavirus-pode-levar-a-alucinacoes-e-psicose-diz-estudo-australiano.htm
+✏️ The potential impact of Covid-19 on psychosis: A rapid review of contemporary epidemic and pandemic research
+https://www.sciencedirect.com/science/article/pii/S0920996420302577
+--
+🧪 Diagnóstico
+
+▶️ Principal método diagnóstico da Covid pode não flagrar o vírus mesmo após sintomas. Autores de estudo fazem alerta de que não se deve descartar a infecção com base apenas na RT-PCR
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/principal-metodo-diagnostico-da-covid-pode-nao-flagrar-o-virus-mesmo-apos-sintomas.shtml
+✏️ Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction–Based SARS-CoV-2 Tests by Time Since Exposure
+https://www.acpjournals.org/doi/10.7326/M20-1495
+
+▶️ Atraso em notificações faz números da Covid-19 caírem aos domingos e segundas. Diferença, segundo técnicos da pasta, se dá pelo regime de plantão nos centros de saúde e em laboratórios, o que atrasa o repasse das informações
+https://saude.estadao.com.br/noticias/geral,atraso-em-notificacoes-faz-numeros-da-covid-19-cair-aos-domingos-e-segundas,70003302865
+--
+📊 Epidemiologia
+
+▶️ Em 24 horas, foram confirmadas mais 844 novas mortes no Brasil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/14/brasil-tem-13993-mortes-causadas-pelo-novo-coronavirus-diz-ministerio.ghtml
+
+▶️ Mortes por coronavírus no mundo chegam a 300 mil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/14/mortes-por-coronavirus-no-mundo-chegam-a-300-mil.ghtml
+
+▶️ Todos os estados brasileiros apresentam tendência de piora na epidemia por Covid-19, aponta levantamento
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/14/todos-os-estados-brasileiros-apresentam-tendencia-de-piora-na-epidemia-por-covid-19-aponta-levantamento.ghtml
+
+▶️ Brasil não tem perspectiva de estabilização ou redução da Covid-19, diz Saúde
+https://economia.uol.com.br/noticias/reuters/2020/05/14/brasil-nao-tem-perspectiva-no-momento-de-estabilizacao-ou-diminuicao-de-covid-19-diz-ministerio.htm
+
+▶️ Brasil terá cerca de 90 mil mortes por coronavírus até agosto, segundo projeção do centro americano que assessora a Opas
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/05/14/brasil-tera-um-total-de-90000-mortes-acumuladas-por-covid-19-ate-agosto-segundo-nova-projecao.htm
+
+▶️ Mesmo antes de existir, vacina para Covid-19 gera disputas entre países e empresas
+https://g1.globo.com/mundo/noticia/2020/05/14/mesmo-antes-de-existir-vacina-para-covid-19-gera-disputas-entre-paises-e-empresas.ghtml
+
+▶️ Sacrificar humanos por imunidade de rebanho é, além de tudo, uma ideia ruim
+https://www.uol.com.br/ecoa/ultimas-noticias/2020/05/14/sacrificar-humanos-por-imunidade-de-rebanho-e-alem-de-tudo-uma-ideia-ruim.htm
+--
+💊 Tratamento
+
+▶️ Bolsonaro enquadra Teich e diz que Ministério da Saúde mudará protocolo sobre cloroquina
+Presidente disse que remédio, sem evidência científica de eficácia, não pode ser só para paciente grave
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/bolsonaro-enquadra-teich-e-diz-que-ministerio-da-saude-mudara-protocolo-sobre-cloroquina.shtml
+
+⏩ Opinião: Defesa da cloroquina por Bolsonaro é tática para enfraquecer quarentena
+https://noticias.uol.com.br/colunas/leonardo-sakamoto/2020/05/14/defesa-da-cloroquina-por-bolsonaro-e-tatica-para-enfraquecer-quarentena.htm
+
+▶️ Fabricante do antiviral remdesivir, o laboratório americano Gilead abriu mão da patente sobre o medicamento para facilitar seu acesso em 127 países. O Brasil, porém, foi excluído da lista.
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/fabricante-abre-mao-de-patente-de-remedio-contra-novo-coronavirus-mas-exclui-brasil.shtml
+--
+🏡 Distanciamento social
+
+▶️ É guerra, tem que jogar pesado com governadores, diz Bolsonaro a empresários. Desde o início da pandemia, presidente minimiza impacto do coronavírus e se coloca contra medidas de distanciamento social
+https://www1.folha.uol.com.br/poder/2020/05/e-guerra-tem-que-jogar-pesado-com-governadores-diz-bolsonaro-a-empresarios.shtml
+
+⏩ Bolsonaro volta a defender isolamento vertical e diz que medida depende de estados e municípios
+https://radioagencianacional.ebc.com.br/politica/audio/2020-05/bolsonaro-volta-defender-isolamento-vertical-e-diz-que-medida-depende-de
+
+⏩ Doria diz que Bolsonaro deve sair da 'bolha de ódio' e acordar para a realidade
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/05/doria-diz-que-bolsonaro-deve-sair-da-bolha-de-odio-e-acordar-para-a-realidade.shtml
+
+▶️ Portugal mantém curva de contágios estável dez dias após relaxar medidas. Diretora geral de Saúde do país explica que a previsão do governo é que novos contágios variem diariamente entre 200 e 300
+https://internacional.estadao.com.br/noticias/geral,portugal-mantem-curva-de-contagios-estavel-dez-dias-apos-relaxar-medidas,70003303237
+--
+🗂️ Política
+
+▶️ MP que isenta agentes públicos de punição pode ser inconstitucional, avaliam ministros do STF
+https://g1.globo.com/politica/blog/valdo-cruz/post/2020/05/14/mp-que-isenta-agentes-publicos-de-punicao-pode-ser-inconstitucional-avaliam-ministros-do-stf.ghtml
+
+⏩ MP publicada nesta quinta é 'obscura' e visa proteger agentes públicos que cometam irregularidade, diz Gilson Dipp ministro aposentado do STJ
+https://g1.globo.com/politica/noticia/2020/05/14/ex-ministro-diz-que-e-preciso-cautela-com-mp-que-isenta-servidor-de-punicao-no-combate-ao-coronavirus-oab-vai-analisar-o-texto.ghtml
+
+⏩ Plenário vai decidir sobre constitucionalidade da MP que livra agentes público de punição durante pandemia, afirma Maia
+https://oglobo.globo.com/brasil/plenario-vai-decidir-sobre-constitucionalidade-da-mp-que-livra-agentes-publico-de-punicao-durante-pandemia-afirma-maia-24427312	
+
+▶️ Bolsonaro pediu para comparar as mortes de Brasil e Argentina. O resultado é péssimo para ele. Presidente também citou Suécia como modelo, mas índice do país escandinavo é ainda pior
+https://www1.folha.uol.com.br/mundo/2020/05/bolsonaro-pediu-para-comparar-as-mortes-de-brasil-e-argentina-o-resultado-e-pessimo-para-ele.shtml
+
+⏩ Análise: Suécia citada por Bolsonaro a empresários é argumento a favor do isolamento
+https://oglobo.globo.com/analitico/suecia-citada-por-bolsonaro-empresarios-argumento-favor-do-isolamento-24426864
+
+▶️ Veja o que Bolsonaro já fez para confrontar medidas de combate ao coronavírus
+https://www1.folha.uol.com.br/poder/2020/03/veja-o-que-bolsonaro-ja-fez-para-confrontar-medidas-de-combate-ao-coronavirus.shtml
+
+▶️ Fundação de pesquisa do Itamaraty vira think tank olavista durante a pandemia. Sob Ernesto Araújo, blogueiros, militantes, fundamentalistas religiosos e teóricos da conspiração substituem diplomatas e professores em palestras
+https://oglobo.globo.com/mundo/fundacao-de-pesquisa-do-itamaraty-vira-think-tank-olavista-durante-pandemia-24427115
+--
+🥼 Saúde Pública
+
+▶️ Brasil teve 199.768 registros de profissionais de saúde com suspeita de Covid-19. Desses, 31.790 foram confirmados (15,9%); 53.677 descartados (26,9%) e 114.301 estão em investigação (57,2%)
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/14/brasil-registra-199768-profissionais-de-saude-com-suspeita-de-coronavirus.htm
+
+▶️ SP: taxa média de ocupação das UTIs de hospitais municipais reservados para Covid-19 chega a 89% pela 1ª vez
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/14/taxa-media-de-ocupacao-das-utis-de-hospitais-municipais-reservados-para-covid-19-chega-a-89percent-pela-1a-vez-em-sao-paulo.ghtml
+
+⏩ SP: Com mais de 54 mil casos, estado abrirá mais um hospital de campanha 
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/com-mais-de-54-mil-casos-sp-abrira-mais-um-hospital-de-campanha-para-covid-19.shtml
+
+▶️ SP: Asilos já contabilizam 29 mortes no interior 
+https://saude.estadao.com.br/noticias/geral,asilos-ja-contabilizam-29-mortes-pelo-coronavirus-no-interior-de-sp,70003302916
+
+▶️ RJ: profissionais da saúde dormem no chão do Hospital de campanha do Maracanã
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/14/imagens-mostram-enfermeiros-e-tecnicos-da-linha-de-frente-do-combate-a-covid-19-dormindo-no-chao-do-hospital-de-campanha-do-maracana.ghtml
+
+▶️ RJ: Justiça dá prazo de mais cinco dias para que leitos comecem a funcionar 
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/05/14/covid-19-justica-do-rio-da-prazo-para-que-leitos-comecem-a-funcionar.htm
+
+▶️ DF: Ibaneis diz que vai proibir hospitais públicos do DF de receber pacientes do Entorno com Covid-19
+https://g1.globo.com/df/distrito-federal/noticia/2020/05/14/ibaneis-diz-que-vai-proibir-hospitais-publicos-do-df-de-receber-pacientes-do-entorno-com-covid-19.ghtml
+
+▶️ PI: governador anuncia 'lei seca', proibição da venda de bebida alcoólica, e medidas mais rígidas 
+https://g1.globo.com/pi/piaui/noticia/2020/05/13/governador-do-piaui-anuncia-lei-seca-proibicao-de-venda-de-bebida-alcoolica-a-partir-de-sexta-15.ghtml
+
+▶️ Quatro em cada dez denúncias a conselho médico apontam falta de equipamentos de proteção
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/quatro-em-cada-dez-denuncias-a-conselho-medico-apontam-falta-de-equipamentos-de-protecao.shtml
+--
+🌐 Internacional
+
+🇵🇹 Portugal teve 187 novos casos, o que eleva o total para 28.319. Além disso, foram registradas 9 mortes, o que aumenta o número para 1.184.
+
+🇺🇸 EUA: Nº de mortes subiu para 83.947, nº de casos atingiu 1.384.930
+--
+🔍 Recortes da pandemia
+
+▶️ Pandemia provoca redução de até 90% de outros exames no Brasil. Estimativa é de que 50 mil pessoas deveriam ter sido diagnosticadas com câncer em um mês.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/14/pandemia-de-coronavirus-provoca-reducao-de-ate-90percent-de-outros-exames-no-brasil.ghtml
+
+▶️ Pesquisa com participação do Brasil vai investigar se quem já praticava atividade física está lidando melhor com a quarentena
+https://g1.globo.com/bemestar/viva-voce/noticia/2020/05/14/pesquisa-com-participacao-do-brasil-vai-investigar-se-quem-ja-praticava-atividade-fisica-esta-lidando-melhor-com-a-quarentena.ghtml
+
+▶️ Voluntários vão dar orientação emocional e financeira para quem está em apuros durante a pandemia
+https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2020/05/14/voluntarios-vao-dar-orientacao-emocional-e-financeira-para-quem-esta-em-apuros-durante-a-pandemia.ghtml
+
+▶️ Vilarejo dizimado pela malária que Guimarães Rosa retratou em 'Sagarana' agora luta contra Covid-19
+https://alias.estadao.com.br/noticias/geral,vilarejo-dizimado-pela-malaria-que-guimaraes-rosa-retratou-em-sagarana-agora-luta-conta-a-covid-19,70003301816
+
+▶️ Entenda por que 37 milhões pediram seguro-desemprego nos EUA, e apenas 1,5 milhão no Brasil
+https://www1.folha.uol.com.br/mercado/2020/05/entenda-porque-37-milhoes-pediram-seguro-desemprego-nos-eua-e-apenas-15-milhao-no-brasil.shtml
+--
+✅ Curtas
+
+➡ Médico Rick Bright, afastado por Trump, fala em 'inverno mais escuro da história' por causa de coronavírus
+
+➡ Restaurantes nos EUA cobram 'taxa da Covid-19' aos clientes em delivery
+
+➡ Ativista Greta Thunberg grava vídeo após apelo de prefeito de Manaus 
+
+➡ Mulher de 108 anos que vivenciou gripe espanhola se recupera do coronavírus
+
+➡ Vaticano adotará medição de temperatura na Basílica de São Pedro 
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)
