@@ -1,0 +1,184 @@
+Destaques - 18/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 254.220 casos; 16.792 mortes 
+🌎 Mundo: 4,7 milhões de casos; 317 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Vacina experimental de uma equipe EUA-Reino Unido protegeu macacos da pneumonia e provocou uma forte resposta imune. 
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ ChAdOx1 nCoV-19 vaccination prevents SARS-CoV-2 pneumonia in rhesus macaques
+https://www.biorxiv.org/content/10.1101/2020.05.13.093195v1
+
+▶️ Estudo identifica um anticorpo, chamado S309, que neutraliza o SARS-CoV-2. Os resultados abrem caminho para profilaxia em indivíduos com alto risco de exposição ou como uma terapia pós-exposição para limitar ou tratar doenças graves.
+https://www.nature.com/articles/s41586-020-2349-y
+
+▶️ A corrida para desvendar as estruturas das proteínas do coronavírus - e desarmá-las com drogas. Como uma rede de biólogos estruturais em todo o mundo redirecionou seus laboratórios para um único objetivo e as descobertas que eles realizaram.
+https://www.nature.com/articles/d41586-020-01444-z
+
+▶️ Medicamentos amplamente utilizados a base de estatinas para baixar o colesterol podem estar associados a substancialmente menos sintomas em pacientes idosos e frágeis com Covid-19, sugere estudo ainda não revisado por pares.
+https://www.reuters.com/article/us-health-coronavirus-science/statins-may-help-older-coronavirus-patients-avoid-symptoms-covid-19-more-than-respiratory-illness-idUSKBN22R2WA
+✏️ The effects of ARBs, ACEIs and statins on clinical outcomes of COVID-19 infection among nursing home residents
+https://www.medrxiv.org/content/10.1101/2020.05.11.20096347v1
+
+▶️ Mais de um em cada três pacientes hospitalizados desenvolveu lesões renais agudas e quase 15% necessitaram de diálise relataram pesquisadores de Nova York.
+✏️ Acute kidney injury in patients hospitalized with Covid-19
+https://www.kidney-international.org/article/S0085-2538(20)30532-9/fulltext
+
+▶️ Estudo aponta que plasma convalescente é seguro, mas ainda não está provado conclusivamente que terapia ajuda os pacientes.
+✏️ Early Safety Indicators of COVID-19 Convalescent Plasma in 5,000 Patients
+https://www.medrxiv.org/content/10.1101/2020.05.12.20099879v1
+
+▶️ Dados dos CDC sobre nº de pessoas com sintomas semelhantes aos da gripe podem ser usados para estimar casos de Covid-19 no país. Por outro lado, as estimativas de mortalidade por gripe não são uma ferramenta útil para comparar a mortalidade da gripe e do coronavírus, revela outra pesquisa.
+✏️ Unmasking the Actual COVID-19 Case Count
+https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa580/5837359
+✏️ Assessment of Deaths From COVID-19 and From Seasonal Influenza
+https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2766121
+--
+📊 Epidemiologia
+
+▶️ Brasil tem 674 novos registros de mortes em 24 horas.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/18/brasil-tem-16792-mortes-causadas-pelo-novo-coronavirus-diz-ministerio.ghtml
+
+▶️ Estudo mostra que só 5% da Espanha foi infectada e indica necessidade de novas quarentenas. 
+https://www.bbc.com/portuguese/internacional-52685597
+
+▶️ 5,2% de infectados é um número grande ou pequeno? Se a epidemia continuar a progredir nessa velocidade, teremos 9,7% da população infectada em mais 15 dias, 18,3% em 30 dias e 65% em exatos dois meses
+https://saude.estadao.com.br/noticias/geral,5-2-de-infectados-e-um-numero-grande-ou-pequeno,70003306480
+
+▶️ Contra subnotificação, favela do Rio recorre ao WhatsApp para registrar casos
+https://www1.folha.uol.com.br/cotidiano/2020/05/contra-subnotificacao-favela-do-rio-recorre-ao-whatsapp-para-registrar-casos.shtml
+
+▶️ OMS publicou recomendações para limpeza e desinfecção de superfícies no contexto da Covid-19, incluindo orientações para unidades de saúde e para outros ambientes. Entidade afirma que a fumigação de desinfetantes não é recomendada em áreas internas ou externas.
+https://www.who.int/publications-detail/cleaning-and-disinfection-of-environmental-surfaces-inthe-context-of-covid-19
+--
+💊 Tratamento
+
+▶️ Doria diz que SP não vai receitar cloroquina contra Covid-19 por decreto
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/18/doria-diz-que-sp-nao-vai-receitar-cloroquina-contra-covid-19-por-decreto.htm
+
+▶️ Trump diz que está tomando hidroxicloroquina para se proteger do coronavírus
+https://internacional.estadao.com.br/noticias/geral,trump-revela-que-esta-tomando-hidroxicloroquina,70003306924
+--
+🧪 Diagnóstico
+
+▶️ Reino Unido promete teste para qualquer pessoa com sintomas acima de 5 anos
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/18/reino-unido-testes-qualquer-pessoas-com-sintomas-acima-de-5-anos.htm
+
+▶️ FDA interrompe programa de testes para coronavírus apoiado por Bill Gates. O programa permite que as pessoas na área de Seattle façam facilmente um teste em casa e pesquisadores dizem que esses testes são essenciais para o monitoramento futuro do vírus.
+https://www.nytimes.com/2020/05/15/us/coronavirus-testing-seattle-bill-gates.html
+--
+🏡 Distanciamento social
+
+▶️ Brasil breca alta de pessoas fora de casa, mas índice segue abaixo de 45%
+https://www.uol.com.br/tilt/noticias/redacao/2020/05/18/lockdown-brasil-registra-alta-no-indice-de-isolamento-social-pela-1-vez.htm 
+
+▶️ RJ: capital registrou taxa de isolamento social de 80% ontem, segundo prefeitura
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/18/taxa-de-isolamento-social-no-rio-de-janeiro-chega-a-80-diz-prefeitura.htm
+
+▶️ SP: Estado tem taxa de isolamento de 54% no fim de semana
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/18/estado-de-sao-paulo-tem-taxa-de-isolamento-de-54-no-fim-de-semana.htm
+
+▶️ SP: Câmara aprova antecipação de feriados municipais para aumentar isolamento. Objetivo de Bruno Covas é criar 'feriadão' desta quarta-feira até domingo. Doria também encaminhou à Alesp projeto que prevê antecipação do feriado de 9 de julho para a próxima segunda.
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/18/camara-de-sp-aprova-antecipacao-de-feriados-municipais-para-aumentar-isolamento-social.ghtml
+
+▶️ Abertura de pontos turísticos, restaurantes e escolas: Europa entra na fase 2 do fim da quarentena
+https://www.uol.com.br/nossa/noticias/rfi/2020/05/18/abertura-de-pontos-turisticos-restaurantes-e-escolas-europa-entra-na-fase-2-do-fim-da-quarentena.htm
+--
+🗂️ Política
+
+▶️ Governo se nega a entregar exames de Covid-19 de Bolsonaro à Câmara. Secretaria-Geral da Presidência diz que resultados já estão disponíveis no STF
+https://politica.estadao.com.br/noticias/geral,governo-se-nega-a-entregar-exames-de-covid-19-de-bolsonaro-a-camara,70003306839
+
+⏩ Prefeito de Manaus, Arthur Virgílio Neto diz "desconfio muito desse teste dele, me pareceu fajuta"
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/18/prefeito-de-manaus-diz-bolsonaro-e-corresponsavel-por-mortes-na-pandemia.htm
+
+▶️ Prefeito de Manaus diz: Bolsonaro é 'corresponsável' por mortes
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/18/prefeito-de-manaus-diz-bolsonaro-e-corresponsavel-por-mortes-na-pandemia.htm
+
+▶️ Governo zera imposto de importação sobre medicamentos em testes
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/18/governo-federal-zera-impostos-sobre-medicamentos-em-testes-contra-covid-19.htm
+
+▶️ Doria promete reação se governo federal virar as costas para SP
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/18/covid-19-doria-promete-reacao-se-governo-federal-virar-as-costas-para-sp.htm
+--
+🏥 Ministério da Saúde
+
+▶️ Bolsonaro não tem pressa e Saúde deve ficar com ministro interino por algum tempo
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/05/18/bolsonaro-nao-tem-pressa-e-saude-deve-ficar-com-ministro-interino-por-algum-tempo.htm
+
+▶️ Médico bolsonarista cotado para Ministério da Saúde culpou mulheres por crise na democracia. Para Ítalo Marsili, admirador do escritor Olavo de Carvalho, "é fácil convencer mulheres a votar, é só seduzi-las"
+https://oglobo.globo.com/brasil/medico-bolsonarista-cotado-para-ministerio-da-saude-culpou-mulheres-por-crise-na-democracia-24432986
+
+▶️ Nise 'profere mentiras' e falácias em entrevista, avalia infectologista e epidemiologista Carlos Magno Fortaleza da Unesp
+https://noticias.uol.com.br/colunas/diogo-schelp/2020/05/18/nise-profere-mentiras-e-falacias-em-entrevista-avalia-infectologista.htm
+--
+📄 Assembleia Mundial da Saúde 
+
+▶️ Em discurso na OMS, ministro interino da Saúde omite gravidade da crise no país. General Pazuello disse que governo oferece recursos necessários para Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/em-discurso-na-oms-ministro-interino-da-saude-omite-gravidade-da-crise-no-pais.shtml
+
+▶️ EUA diz que 'fracasso' da OMS diante da pandemia custou 'muitas vidas'
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/05/18/eua-fracasso-da-oms-diante-da-pandemia-custou-muitas-vidas.htm
+--
+🥼 Saúde Pública
+
+▶️ RJ: médicos e enfermeiros mostram a rotina em CTI; equipe fica até 6 horas sem água
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/18/rotina-em-cti-de-covid-19-no-rj-tem-dialise-permanente-equipe-fica-ate-seis-horas-sem-poder-beber-agua.ghtml
+
+▶️ RJ concede mais de 60 medidas protetivas em mês de quarentena
+https://www.uol.com.br/universa/noticias/redacao/2020/05/18/violencia-domestica-rj-concedeu-62-medidas-protetivas-por-dia-em-abril.htm
+
+▶️ RJ: Witzel nomeia secretário exonerado da Saúde para outro cargo no governo
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/18/witzel-nomeia-secretario-exonerado-da-saude-para-outro-cargo-no-governo.htm
+
+▶️ RJ: auditoria da Secretaria de Saúde detectou irregularidades em contrato de R$ 166 milhões sem licitação
+https://oglobo.globo.com/rio/auditoria-da-secretaria-de-saude-do-rio-detectou-irregularidades-em-contrato-de-166-milhoes-sem-licitacao-24432802
+
+▶️ SP compra 2.000 respiradores e traça plano para evitar lockdown na capital
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/18/sp-compra-2000-respiradores-e-tenta-aliviar-pressao-para-lockdown.htm
+
+▶️ AM: Com ampliação de leitos, sistema de saúde 'desafoga' com novo fluxo de atendimento; taxa de internações é de 82%
+https://g1.globo.com/am/amazonas/noticia/2020/05/18/com-ampliacao-de-leitos-sistema-de-saude-do-am-desafoga-com-novo-fluxo-de-atendimento-taxa-de-internacoes-e-de-82percent.ghtml
+--
+🌐 Internacional
+
+🇳🇴 Noruega rejeita turistas e avisa: 'será mandado de volta'. País tem mais de 8 mil contaminados, cerca de 7 mil recuperados e 232 mortes
+
+🇺🇸 EUA ultrapassaram 1,5 milhão de casos, total de mortes é de quase 90 mil
+
+🇩🇪 Alemanha pretende suspender restrições de viagem de férias para o exterior
+--
+🔍 Recortes da pandemia
+
+▶️ Covid-19 impõe 'carga mais pesada' à rotina de mães cientistas, apontam brasileiras em carta na Science
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/15/maes-cientistas-podem-ter-impacto-negativo-na-carreira-com-pandemia-alerta-grupo-brasileiro.ghtml   
+✏️ Impact of COVID-19 on academic mothers
+https://science.sciencemag.org/content/368/6492/724.1
+
+▶️ O sofrimento da comunidade trans com o 'lockdown por gênero' no Panamá
+https://www.bbc.com/portuguese/internacional-52710374
+
+▶️ Os excluídos 'por engano' do Auxílio Emergencial de R$ 600
+https://www.bbc.com/portuguese/brasil-52694726
+
+▶️ JBS diz que irá à justiça para reabrir unidade em SC parada por Covid-19
+https://economia.uol.com.br/noticias/reuters/2020/05/18/jbs-diz-que-ira-a-justica-para-reabrir-unidade-em-sc-parada-por-covid-19.htm
+
+▶️ Pandemia ressuscita debate sobre a realização de eleições por celular
+https://noticias.uol.com.br/colunas/leonardo-sakamoto/2020/05/18/pandemia-ressuscita-debate-sobre-a-realizacao-de-eleicoes-por-celular.htm
+--
+✅ Curtas
+
+➡ Ciclone deve atingir Índia e Bangladesh, que ainda lutam contra Covid-19 
+
+➡ Hábito de consumo adquirido na pandemia deve permanecer após Covid-19 
+
+➡ Congresso suspende recesso de julho por conta da crise 
+
+➡ Mulher com Covid-19 foge de hospital onde estava internada em Contagem (MG) 
+
+➡ Pessoas são presas por participarem de festa com 3 mil pessoas na Flórida
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)
