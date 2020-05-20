@@ -1,0 +1,125 @@
+Destaques - 19/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 271.628 casos; 17.971 mortes 
+🌎 Mundo: 4,8 milhões de casos; 322 mil mortes
+--
+❇️ Centro Hospitalar da Fiocruz para Covid-19 começa a receber pacientes. Fundação informou que a a ocupação dos leitos será de forma 'gradual e totalmente controlada pelo sistema estadual de regulação de vagas'.
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/19/centro-hospitalar-da-fiocruz-para-covid-19-comeca-a-receber-pacientes.ghtml
+--
+📊 Epidemiologia
+
+▶️ Brasil passa pela primeira vez de mil mortes por Covid-19 incluídas no balanço em um dia e chega ao total de 17.971
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/brasil-tem-17917-mortes-causadas-pelo-novo-coronavirus-diz-ministerio.ghtml
+
+▶️ Covid-19 pode ser transmitida antes que doente tenha sintomas, diz estudo
+https://veja.abril.com.br/saude/covid-19-pode-ser-transmitida-antes-que-doente-tenha-sintomas-diz-estudo/
+✏️ Evidence Supporting Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 While Presymptomatic or Asymptomatic
+https://wwwnc.cdc.gov/eid/article/26/7/20-1595_article
+
+▶️ Contágio nos locais de trabalho foi intenso no início da epidemia, diz estudo de Harvard
+https://www.bbc.com/portuguese/geral-52731878
+✏️ Work-related Covid-19 transmission in six Asian countries/areas: A follow-up study
+https://doi.org/10.1371/journal.pone.0233588
+
+▶️ O que é um vírus endêmico, como pode se tornar o Sars-CoV-2
+https://www.bbc.com/portuguese/geral-52722190
+
+▶️ Brasil tem mais de 100 mil brasileiros recuperados
+https://www.saude.gov.br/noticias/agencia-saude/46897-mais-de-100-mil-brasileiros-ja-estao-recuperados-da-covid-19
+
+▶️ Estado do Rio ultrapassa marca de 3 mil mortes 
+https://oglobo.globo.com/rio/estado-do-rio-ultrapassa-marca-de-3-mil-mortes-por-covid-19-24435176
+--
+🔬 Pesquisa científica
+
+▶️ Conheça as seis vacinas mais promissoras sendo pesquisadas contra a Covid-19
+https://oglobo.globo.com/sociedade/conheca-as-seis-vacinas-mais-promissoras-sendo-pesquisadas-contra-covid-19-24434475	
+
+▶️ Estudo busca mostrar como a pandemia está afetando os sonhos dos brasileiros
+https://www.bbc.com/portuguese/geral-52704871
+--
+😷 Máscaras
+
+▶️ Câmara aprovou o texto-base de projeto que torna obrigatório o uso de máscaras em locais públicos em todo o país
+https://g1.globo.com/politica/noticia/2020/05/19/camara-aprova-uso-obrigatorio-de-mascara-em-todo-o-pais.ghtml
+--
+🧪 Diagnóstico
+
+▶️ USP cria aplicativo utilizando o zebrafish para gerar testes para a Covid-19 cinco vezes mais baratos
+https://www.uol.com.br/tilt/noticias/redacao/2020/05/19/cientistas-brasileiros-desenvolvem-aplicativo-para-diagnostico-da-covid-19.htm
+
+▶️ Wuhan reduz taxa de assintomáticos após 1 milhão de testes em uma semana
+https://noticias.uol.com.br/saude/ultimas-noticias/efe/2020/05/19/wuhan-reduz-taxa-de-assintomaticos-apos-1-milhao-de-testes-em-uma-semana.htm
+--
+🏡 Distanciamento social
+
+▶️ Especialistas sugerem distanciamento e uso de máscaras para quem vive em lugares onde as medidas de restrição estão sendo relaxadas
+https://saude.estadao.com.br/noticias/geral,saia-dizem-especialistas-mas-mantenha-distancia-e-tenha-uma-mascara-a-mao,70003307906
+
+▶️ Prefeitos do litoral de SP querem bloqueios rodoviários durante 'feriadão'
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/05/19/prefeitos-do-litoral-de-sp-vao-a-justica-pedir-bloqueios-rodoviarios-no-feriadao.htm
+--
+🥼 Saúde Pública
+
+▶️ Ministério da Saúde entrega mais 304 respiradores pulmonares. Ao todo, governo já distribuiu 861 itens
+https://www.saude.gov.br/noticias/agencia-saude/46900-ministerio-da-saude-entrega-mais-304-respiradores-pulmonares
+
+▶️ Municípios do interior do Amazonas recebem ajuda
+https://www.saude.gov.br/noticias/agencia-saude/46899-governo-do-brasil-ajuda-municipios-do-interior-do-amazonas
+--
+🗂️ Política
+
+▶️ ‘Estadão’ pede à Justiça que cobre explicações de Fiocruz, Sabin e HFA sobre exames entregues pela defesa de Bolsonaro
+https://politica.estadao.com.br/blogs/fausto-macedo/estadao-pede-a-justica-que-cobre-explicacoes-de-fiocruz-sabin-e-hfa-sobre-exames-entregues-pela-defesa-de-bolsonaro/
+
+▶️ Governo pode manter general na Saúde por tempo indeterminado. Bolsonaro disse a aliados que Pazuello pode ficar no cargo, para evitar desgastes
+https://oglobo.globo.com/brasil/governo-pode-manter-general-na-saude-por-tempo-indeterminado-24434911
+
+▶️ Congresso discutirá adiamento de eleição sem estender mandatos, diz Rodrigo Maia. Presidente da Câmara afirmou que maioria dos líderes defendem mudança da data, sem que mandatos atuais invadam janeiro de 2021
+https://g1.globo.com/politica/eleicoes/2020/noticia/2020/05/19/coronavirus-congresso-discutira-adiamento-de-eleicao-sem-estender-mandatos-diz-maia.ghtml
+
+▶️ Ministro da Educação diz que, em junho, vai consultar inscritos no Enem sobre adiamento do exame
+https://g1.globo.com/educacao/enem/2020/noticia/2020/05/19/ministro-da-educacao-diz-que-em-junho-vai-consultar-inscritos-no-enem-sobre-adiamento-do-exame.ghtml
+
+⏩ Maia afirmou que não irá esperar o governo tomar decisão e deve pautar adiamento do Enem
+https://educacao.estadao.com.br/noticias/geral,demanda-do-adiamento-do-enem-vem-de-todo-o-brasil-diz-maia,70003307813
+
+▶️ Diretor da Anvisa que participou de ato com Bolsonaro é diagnosticado com Covid-19
+https://politica.estadao.com.br/noticias/geral,diretor-da-anvisa-que-participou-de-ato-com-bolsonaro-e-diagnosticado-com-covid-19,70003307900
+
+▶️ Conselho aprova diretrizes para enfrentar a Covid-19 em presídios e veta utilização de contêineres
+https://g1.globo.com/politica/noticia/2020/05/19/conselho-aprova-diretrizes-para-enfrentar-a-covid-19-em-presidios-e-veta-utilizacao-de-conteineres.ghtml
+
+▶️ Após quase 2 meses sem reunião, prefeitos terão encontro amanhã com Saúde
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/19/apos-quase-dois-meses-sem-reuniao-prefeitos-terao-encontro-com-saude.htm
+
+▶️ Trump informou que continua a avaliar a possibilidade de proibir voos com o Brasil
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/05/19/trump-estamos-considerando-eventual-proibicao-de-voos-com-brasil.htm
+--
+🌐 Internacional
+
+🇺🇸 EUA registram 90 mil mortes e 1,5 milhão de casos confirmados
+
+🇬🇧 Reino Unido registra 42.402 óbitos e 248.818 casos, um quarto dos mortos viviam em casas de repouso
+
+🇸🇪 Suécia tem 3.743 mortes de Covid-19. País tem mês com maior número de mortes desde 1993
+--
+🔍 Recortes da pandemia
+
+▶️ 'Somos heroínas que chegam em casa e desabam': o relato de uma enfermeira em meio à pandemia
+https://www.bbc.com/portuguese/brasil-52717872
+
+▶️ Garoto reza em rua deserta do Peru para fim da pandemia para rever avós isolados 
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/garoto-reza-em-rua-deserta-do-peru-para-rever-avos-isolados-e-foto-viraliza-em-redes-sociais.ghtml
+
+▶️ Combinação de pandemia e governos autoritários no mundo é preocupante, diz historiadora e antropóloga Lilia Schwarcz
+https://www.bbc.com/portuguese/brasil-52682049
+--
+✅ Curtas
+
+➡ Coronavírus ameaça progresso nas questões climáticas, diz Fórum de Davos
+
+➡ Gol retoma voos no RJ a partir do dia 24; outras rotas retornam em junho 
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

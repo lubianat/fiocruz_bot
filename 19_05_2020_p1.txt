@@ -1,0 +1,221 @@
+Destaques - 19/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 261.567 casos; 17.375 mortes 
+🌎 Mundo: 4,8 milhões de casos; 319 mil mortes
+--
+📊 Epidemiologia
+
+▶️ Estudo indica pico de Covid-19 nesta semana e estabilidade em julho, com 370 mil casos. Pesquisadores de Coppe/UFRJ, Marinha e Universidade de Bordeaux, na França, fizeram modelo matemático de avanço do vírus
+https://saude.estadao.com.br/noticias/geral,estudo-indica-pico-de-covid-nesta-semana-e-estabilidade-em-julho-com-370-mil-casos,70003307130
+
+▶️ Brasil reduziu taxa de expansão do novo coronavírus de 3,5 para 1,4, mas valor ainda é alto. Cada dois brasileiros infectados transmitem o Sars-CoV-2 para outros três
+https://oglobo.globo.com/sociedade/coronavirus/brasil-reduziu-taxa-de-expansao-do-novo-coronavirus-de-35-para-14-mas-valor-ainda-alto-24433941
+✏️ A dynamic model for Covid-19 in Brazil.
+https://www.medrxiv.org/content/10.1101/2020.05.10.20097550v2
+
+▶️ Quais motivos podem levar o Brasil a ser o novo epicentro do coronavírus? País é o 3º no mundo com mais casos acumulados da doença
+https://saude.estadao.com.br/noticias/geral,quais-motivos-podem-levar-o-brasil-a-ser-o-novo-epicentro-do-coronavirus,70003307186
+
+⏩ Brasil se torna epicentro da pandemia de coronavírus na América, diz site
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/19/brasil-se-torna-epicentro-da-pandemia-de-coronavirus-na-america-diz-site.htm
+
+▶️ Clima quente tem pouca influência sobre coronavírus, diz estudo publicado na revista Science
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/clima-quente-tem-pouca-influencia-sobre-coronavirus-diz-estudo-publicado-na-revista-science.ghtml
+✏️ Susceptible supply limits the role of climate in the early SARS-CoV-2 pandemic
+https://science.sciencemag.org/content/early/2020/05/15/science.abc2535
+
+▶️ Criança pode não transmitir Covid-19 igual adulto, dizem epidemiologistas
+https://www.uol.com.br/vivabem/reuters/2020/05/19/crianca-pode-nao-transmitir-covid-19-igual-adulto-dizem-epidemiologistas.htm
+
+▶️ SP tem recorde de mortes, foram 324 em 24h; Estado supera 5 mil mortos 
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/19/sao-paulo-tem-recorde-de-mortes-em-24-horas-estado-supera-5-mil-mortos.htm
+
+▶️ Oito estados com maior proporção de favelas estão entre os mais atingidos
+https://saude.estadao.com.br/noticias/geral,oito-estados-com-maior-proporcao-de-favelas-estao-entre-os-mais-atingidos-pela-covid,70003306762
+
+▶️ Pacientes graves de Covid-19 podem ter delírios, diz estudo. Pesquisadores dizem que problema atinge minoria de pacientes hospitalizados
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/pacientes-graves-de-covid-19-podem-ter-delirios-diz-estudo.ghtml
+✏️ Psychiatric and neuropsychiatric presentations associated with severe coronavirus infections: a systematic review and meta-analysis with comparison to the Covid-19 pandemic
+https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(20)30203-0/fulltext
+--
+💊 Tratamento
+
+▶️ O que dizem os estudos publicados sobre cloroquina, defendida por Bolsonaro e Trump
+https://www.bbc.com/portuguese/brasil-52686122
+
+▶️ O novo protocolo de uso da cloroquina no tratamento de pacientes com coronavírus do Ministério da Saúde deve acabar ignorado nos Estados
+https://politica.estadao.com.br/blogs/coluna-do-estadao/governadores-nao-devem-seguir-mudancas-no-protocolo-de-uso-da-cloroquina/
+
+▶️ 'Não há evidências para recomendar cloroquina e hidroxicloroquina contra a Covid-19', diz Marcos Espinal diretor da Opas 
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/nao-ha-evidencias-para-recomendar-cloroquina-e-hidroxicloroquina-contra-a-covid-19-diz-diretor-da-opas.ghtml
+
+▶️ Associações médicas publicam documento contra o uso de remédio para malária no tratamento de Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/consenso-de-entidades-medicas-nao-recomenda-hidroxicloroquina-contra-covid-19.shtml
+
+▶️ Quais os riscos de tomar hidroxicloroquina sem estar doente e por prevenção, como Trump?
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/05/19/quais-os-riscos-de-tomar-hidroxicloroquina-sem-estar-doente-e-por-prevencao-como-trump.htm
+
+▶️ Médicos analisam uso da cloroquina contra coronavírus: 'Já foi a droga da esperança'
+https://saude.estadao.com.br/noticias/geral,medicos-analisam-uso-da-cloroquina-contra-coronavirus-ja-foi-a-droga-da-esperanca,70003307210
+
+▶️ Laboratório chinês acredita que pode deter pandemia 'sem vacina'. Medicamento em fase de testes poderia acelerar a cura dos doentes e imunizar temporariamente
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/laboratorio-chines-acredita-que-pode-deter-pandemia-sem-vacina.ghtml
+--
+🔬 Pesquisa científica
+
+▶️ Estudo da Fiocruz aponta que Brasil precisa de gestão coordenada para enfrentar Covid-19
+https://radioagencianacional.ebc.com.br/pesquisa-e-inovacao/audio/2020-05/estudo-da-fiocruz-aponta-que-brasil-precisa-de-gestao-coordenada
+
+▶️ Sem dinheiro, Brasil depende de parcerias para pesquisar cura
+https://oglobo.globo.com/sociedade/coronavirus/sem-dinheiro-brasil-depende-de-parcerias-para-pesquisar-cura-para-covid-19-1-24433916
+
+▶️ EUA rejeitam decisão da OMS que abre caminho para quebra de patentes de vacinas e remédios contra a Covid-19
+https://oglobo.globo.com/mundo/eua-rejeitam-decisao-da-oms-que-abre-caminho-para-quebra-de-patentes-de-vacinas-remedios-contra-covid-19-24434268
+
+▶️ Vacina de Oxford pode ser só parcialmente efetiva
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/19/vacina-de-oxford-pode-ser-so-parcialmente-efetiva-entenda.htm
+
+▶️ Equipamento brasileiro permite monitorar remotamente oxigenação de pacientes com Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/equipamento-brasileiro-permite-monitorar-remotamente-oxigenacao-de-pacientes-com-covid-19.ghtml
+--
+🧪 Diagnóstico
+
+▶️ Parceria entre empresas e universidade acelera produção local de insumos para teste de Covid-19
+http://pesquisaparainovacao.fapesp.br/parceria_entre_empresas_e_universidade_acelera_producao_local_de_insumos_para_teste_de_covid19/1382
+--
+🏡 Distanciamento social
+
+▶️ Estudo mostra a vantagem de quarentenas alternadas em cidades paulistas. Adoção dessa estratégia permitiria manter a atividade econômica do Estado e proteger o sistema de saúde
+http://agencia.fapesp.br/estudo-mostra-a-vantagem-de-quarentenas-alternadas-em-cidades-paulistas/33201/
+✏️ Robot dance: a city-wise automatic control of Covid-19 mitigation levels
+https://www.medrxiv.org/content/10.1101/2020.05.11.20098541v1
+
+▶️ Lugares onde distanciamento não foi decretado podem ter 35 vezes mais casos, diz estudo
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/19/lugares-onde-distanciamento-nao-foi-decretado-podem-ter-35-vezes-mais-casos-de-coronavirus-diz-estudo.ghtml
+
+▶️ Alerj vota projeto que autoriza lockdown no estado, mas decisão dependeria do governo
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/19/alerj-vota-projeto-que-autoriza-lockdown-no-estado-mas-decisao-dependeria-do-governo.ghtml	
+
+▶️ RJ: Crivella diz que medidas de isolamento social serão prorrogadas pelos próximos sete dias
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/19/crivella-diz-que-medidas-de-isolamento-social-serao-prorrogadas-no-rio.ghtml
+
+▶️ SP: Covas sanciona decreto que antecipa feriados municipais para aumentar isolamento social
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/19/covas-sanciona-decreto-que-antecipa-feriados-municipais-para-aumentar-isolamento-social.ghtml
+
+▶️ AP: 'Lockdown' começa com barreiras de trânsito e rodízio de veículos em Macapá
+https://g1.globo.com/ap/amapa/noticia/2020/05/19/lockdown-no-amapa-comeca-com-barreiras-de-transito-e-rodizio-de-veiculos-em-macapa-entenda.ghtml
+
+▶️ MA começa processo de reabertura do comércio na próxima semana
+https://g1.globo.com/ma/maranhao/noticia/2020/05/18/flavio-dino-anuncia-que-maranhao-comeca-processo-de-reabertura-do-comercio-na-proxima-semana.ghtml
+
+▶️ Fim da quarentena em Portugal esbarra no medo da população de sair às ruas
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/05/19/fim-da-quarentena-em-portugal-esbarra-no-medo-da-populacao-de-sair-as-ruas.ghtml
+--
+🥼 Saúde Pública
+
+▶️ 'Escolhemos quem terá mais chances': com saúde em colapso, médicos debatem como decidir quem vai para a UTI
+https://www.bbc.com/portuguese/brasil-52717493
+
+▶️ RJ: apenas metade dos leitos de UTI dos hospitais de campanha do governo vai ter respirador
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/19/apenas-metade-dos-leitos-de-uti-dos-hospitais-de-campanha-do-rj-vai-ter-respirador.ghtml
+
+▶️ RJ: Fila de espera por leitos poderia ser zerada se hospitais de campanha estivessem funcionando
+https://oglobo.globo.com/rio/corrida-por-leitos-fila-de-espera-poderia-ser-zerada-se-hospitais-de-campanha-estivessem-funcionando-24433815
+
+▶️ SP: 6 hospitais municipais estão com UTI’s lotadas com pacientes com coronavírus
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/19/6-hospitais-municipais-de-sao-paulo-estao-com-utis-lotadas-com-pacientes-com-coronavirus.ghtml
+
+▶️ Prisões superlotadas tornam incompatível o isolamento de doentes
+https://g1.globo.com/podcast/o-assunto/noticia/2020/05/19/o-assunto-190-a-covid-19-nas-prisoes-do-brasil.ghtml
+
+⏩ Resolução proíbe uso de contêiner para isolar presos no combate ao novo coronavírus em prisões
+https://g1.globo.com/politica/noticia/2020/05/19/resolucao-proibe-conteiner-para-isolar-presos-contra-disseminacao-do-novo-coronavirus-em-prisoes.ghtml
+
+⏩ Nos presídios do DF: a cada 4 pessoas testadas 1 foi contaminada
+https://g1.globo.com/df/distrito-federal/noticia/2020/05/19/coronavirus-nos-presidios-do-df-a-cada-4-pessoas-testadas-1-foi-contaminada.ghtml
+
+⏩ Motim em presídio por medo da Covid-19 deixa feridos no Peru
+https://g1.globo.com/mundo/noticia/2020/05/19/motim-em-presidio-por-medo-da-covid-19-deixa-feridos-no-peru.ghtml
+
+▶️ Ciclistas querem ciclovias temporárias em SP durante pandemia; OMS recomenda bicicleta para evitar aglomeração
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/19/ciclistas-querem-ciclovias-temporarias-em-sp-durante-pandemia-oms-recomenda-bicicleta-para-evitar-aglomeracao.ghtml
+--
+🏥 Ministério da Saúde
+
+▶️ Pazuello nomeia nove militares do Exército para atuar no Ministério da Saúde
+https://g1.globo.com/politica/noticia/2020/05/19/pazuello-nomeia-nove-militares-do-exercito-para-atuar-no-ministerio-da-saude.ghtml
+
+⏩ Análise: militares temem desgaste com militarização da Saúde e risco de medidas erradas
+https://g1.globo.com/politica/blog/valdo-cruz/post/2020/05/19/militares-temem-desgaste-com-militarizacao-da-saude-e-risco-de-medidas-erradas.ghtml
+
+▶️ Quais devem ser as prioridades do próximo ministro da Saúde?
+https://oglobo.globo.com/sociedade/coronavirus/quais-devem-ser-as-prioridades-do-proximo-ministro-da-saude-24433198
+
+▶️ ‘Não encha o saco, não seja um bebezão’, prega cotado para a Saúde em livro
+https://saidapeladireita.blogfolha.uol.com.br/2020/05/19/nao-encha-o-saco-nao-seja-um-bebezao-prega-cotado-para-a-saude-em-livro/
+
+▶️ Saúde contratou empresa acusada de favorecimento na construção de hospital
+https://oglobo.globo.com/sociedade/coronavirus/saude-contratou-empresa-acusada-de-favorecimento-na-construcao-de-hospital-24434304
+--
+🌐 Internacional
+
+🇯🇵 Japão começa a reabrir cinemas
+
+🇫🇷 França fecha 70 escolas uma semana após a volta às aulas devido a novos casos 
+
+🇦🇹 Áustria rejeita plano econômico da UE para lidar com pandemia
+
+🇸🇲 San Marino quer fazer teste do coronavírus em toda população
+--
+🔍 Recortes da pandemia
+
+▶️ Trump ameaçou suspender permanentemente o financiamento da OMS se esta não se comprometer com melhorias dentro de 30 dias. Ele também ameaçou reconsiderar a filiação nos EUA.
+https://g1.globo.com/mundo/noticia/2020/05/19/trump-ameca-cortar-verba-para-a-oms-permanentemente.ghtml 
+✏️ Carta enviada por Trump a Tedros Adhanom
+https://twitter.com/realDonaldTrump/status/1262577580718395393
+
+▶️ OMS continuará liderando combate global ao coronavírus, garante diretor-geral 
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/05/19/oms-continuara-liderando-combate-global-ao-coronavirus-garante-diretor-geral.htm
+
+▶️ Indígenas da Amazônia brasileira usam ervas medicinais contra o coronavírus
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/05/19/indigenas-da-amazonia-brasileira-usam-ervas-medicinais-contra-o-coronavirus.htm
+
+▶️ Os 10 países que mais gastaram para enfrentar a pandemia 
+https://www.bbc.com/portuguese/internacional-52721417
+
+▶️ Falta de coordenação no combate ao coronavírus prejudica retomada da economia, apontam empresários
+https://g1.globo.com/economia/noticia/2020/05/18/falta-de-coordenacao-no-combate-ao-coronavirus-prejudica-retomada-da-economia-apontam-empresarios.ghtml
+
+▶️ Veja medidas econômicas adotadas pelos países para socorrer população e empresas
+https://g1.globo.com/economia/noticia/2020/05/19/veja-medidas-economicas-adotadas-pelos-paises-para-socorrer-populacao-e-empresas.ghtml
+
+▶️ Governo do Reino Unido culpa seus próprios cientistas por conselhos "errados" sobre como combater o coronavírus
+https://www.businessinsider.com/coronavirus-uk-blames-scientists-for-wrong-advice-on-pandemic-2020-5
+
+▶️ Coronavírus acirra a Guerra Fria 2.0 entre China e EUA
+https://www1.folha.uol.com.br/mundo/2020/05/coronavirus-acirra-a-guerra-fria-20-entre-china-e-estados-unidos.shtml
+
+▶️ Moradores realizam protesto em Noronha e pedem que servidores recém-chegados deixem a ilha
+https://g1.globo.com/pe/pernambuco/blog/viver-noronha/post/2020/05/19/moradores-realizam-protesto-em-noronha-e-pedem-que-servidores-recem-chegados-deixem-a-ilha.ghtml
+
+▶️ Como será a nova rotina de museus, feiras e grandes eventos de artes visuais
+https://oglobo.globo.com/cultura/artes-visuais/cultura-pos-covid-como-sera-nova-rotina-de-museus-feiras-grandes-eventos-de-artes-visuais-24433482
+--
+✅ Curtas
+
+➡ Adiamento do Enem 2020 pode ser votado no Senado nesta terça
+
+➡ Anvisa recomenda que aeroportos e companhias aéreas exijam uso de máscara de passageiros
+
+➡ Prefeito do Rio diz que não autorizou Flamengo a retomar treinos 
+
+➡ Fake news diz que Ministério da Saúde repassa R$ 12 mil a hospitais por cada morte por Covid-19
+
+➡ Nancy Pelosi diz que Trump não deve usar cloroquina por ser 'obeso mórbido' 
+
+➡ Pesquisa prevê que até 60% das estreias de cinema para 2020 serão adiadas 
+
+➡ Einstein e Sírio-Libanês fazem corte de salários
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)
