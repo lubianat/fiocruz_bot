@@ -1,0 +1,196 @@
+Destaques - 28/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 438.238 casos; 26.754 mortes 
+🌎 Mundo: 5,7 milhões de casos; 358 mil mortes
+--
+➕ Brasil tem 1.156 registros de morte incluídos em 24 horas
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/28/brasil-tem-26754-mortes-por-covid-19-diz-ministerio.ghtml
+--
+🔬 Pesquisa científica
+
+▶️ Pacientes em estudo chinês têm resultado positivo para Covid-19 mesmo depois de alta hospitalar. Cientistas acreditam que pesquisa mostra necessidade de examinar resultados de testes PCR mesmo após recuperação
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/28/pacientes-em-estudo-chines-tem-resultado-positivo-para-covid-19-mesmo-depois-de-alta-hospitalar.ghtml
+✏️ Recurrent Positive Reverse Transcriptase–Polymerase Chain Reaction Results for Coronavirus Disease 2019 in Patients Discharged From a Hospital in China
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2766379
+
+▶️ Coalizão de Espectrometria de Massa da Covid-19 (Covid-19 MS Coalition) busca fornecer informações de nível molecular sobre o SARS-CoV-2 no hospedeiro humano e deve revelar informações fisiopatológicas e estruturais para tratar e minimizar a infecção.
+✏️ The COVID-19 MS Coalition—accelerating diagnostics, prognostics, and treatment
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31211-3/
+
+▶️ Em sala com melhor ventilação, após 30 segundos, o número de gotículas caiu pela metade, enquanto que sem ventilação levou cerca de 5 minutos. Em uma sala mal ventilada, o número de gotículas foi reduzido pela metade em 1,4 minutos.
+✏️ Small droplet aerosols in poorly ventilated spaces and SARS-CoV-2 transmission
+https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30245-9
+
+▶️ Análise: como a Covid-19 afeta o cérebro? Por Marcelo M. S. Lima é professor associado do Departamento de Fisiologia da UFPR
+https://abori.com.br/artigos/como-a-covid-19-afeta-o-cerebro/
+
+▶️ Como os países estão usando a genômica para ajudar a evitar uma segunda onda de coronavírus. Cientistas da Nova Zelândia, Reino Unido e outros lugares estão usando dados de sequências para rastrear novas infecções, à medida que os bloqueios diminuem.
+https://www.nature.com/articles/d41586-020-01573-5
+
+🎦 Vídeo: cientistas pesquisam se vacina contra tuberculose pode proteger contra o coronavírus
+https://noticias.uol.com.br/videos/afp/2020/05/28/cientistas-pesquisam-se-vacina-contra-tuberculose-pode-proteger-contra-o-coronavirus.htm
+
+▶️ Série de autopsias em pacientes afro-americanos que morreram de Covid-19 identifica presença de trombose e microangiopatia nos pequenos vasos e capilares dos pulmões, com hemorragia associada, entre fatores que contribuíram significativamente para a morte.
+✏️ Pulmonary and cardiac pathology in African American patients with Covid-19: an autopsy series from New Orleans
+https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30243-5
+
+▶️ Merck revela seus planos de vacina e terapia para Covid-19. A empresa fez acordos para desenvolver e fabricar duas vacinas diferentes e um composto antiviral experimental que já está em testes clínicos iniciais.
+https://www.sciencemag.org/news/2020/05/merck-one-big-pharma-s-biggest-players-reveals-its-covid-19-vaccine-and-therapy-plans
+
+▶️ Incidência de paradas cardíacas fora de hospitais dobrou durante a pandemia.
+✏️ Out-of-hospital cardiac arrest during the COVID-19 pandemic in Paris, France: a population-based, observational study
+https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(20)30117-1
+--
+📊 Epidemiologia
+
+▶️ Wanderson Oliveira diz que Sul e Sudeste terão pico da Covid-19 em um mês. A estimativa segue a lógica dos outros vírus respiratórios sazonais no Brasil.
+https://www.cnnbrasil.com.br/saude/2020/05/28/wanderson-oliveira-diz-que-sul-e-sudeste-terao-pico-da-covid-19-em-um-mes
+
+▶️ América Latina já responde por 40% de mortes diárias
+https://www.uol.com.br/vivabem/noticias/bloomberg/2020/05/28/america-latina-ja-responde-por-40-de-mortes-diarias-por-virus.htm
+
+▶️ Taxa de contágio mostra crescimento em estados ainda pouco atingidos, e Rio e SP longe da estabilização
+https://oglobo.globo.com/sociedade/coronavirus/taxa-de-contagio-da-covid-19-mostra-crescimento-em-estados-ainda-pouco-atingidos-rio-sp-longe-da-estabilizacao-24449549
+
+▶️ SP: estado tem 95.865 casos, com o registro de mais 6.382 casos nas últimas 24h, um dia após anúncio de flexibilização. Estado tem 4.701 pessoas internadas em UTIs e 7.805 em enfermarias. Taxa de ocupação de leitos é de 77,4% no estado e de 89,2% na Grande São Paulo.
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/28/um-dia-apos-anuncio-de-flexibilizacao-sp-registra-recorde-de-6382-novos-casos-de-coronavirus-em-24-horas-e-passa-de-95-mil-confirmacoes.ghtml
+
+▶️ RJ: estado teve mais 251 óbitos e 2,3 mil casos confirmados. O total de infecções diagnosticadas nos municípios fluminenses chegou a 44.866, e o número de vítimas a 4.856. Capital tem 25.974 infectados. 
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/numero-de-mortos-por-covid-19-chega-4856-no-estado-do-rio
+
+▶️ CE: o terceiro no país em número de casos e de mortes pela doença, tem 37.275 casos e 2.671 óbitos. 
+https://saude.estadao.com.br/noticias/geral,ceara-entra-em-fase-de-testes-a-partir-de-1-de-junho-para-retomada-da-economia,70003317744
+
+▶️ PA deixou de registrar quase 1 mil mortes de Covid-19 e número total ultrapassa 2,5 mil
+https://g1.globo.com/pa/para/noticia/2020/05/28/divulgacao-atrasada-de-quase-15-mil-notificacoes-revela-fragilidade-nos-dados-da-covid-19-no-para.ghtml
+
+▶️ Doença ligada à Covid-19 surge em criança e preocupa grupo que convive com trissomia 21
+https://sao-paulo.estadao.com.br/blogs/blog-da-garoa/doenca-associada-a-covid-surge-em-criancas-e-preocupa-comunidade-que-convive-com-trissomia-21/
+
+▶️ 3 mudanças drásticas causadas pela pandemia nos EUA, país que chegou a 100 mil mortos
+https://www.bbc.com/portuguese/internacional-52828789
+
+▶️ Pesquisadores ponderam por que a Covid-19 parece mais mortal nos EUA e na Europa do que na Ásia
+https://www.washingtonpost.com/world/researchers-ponder-why-covid-appears-more-deadly-in-the-us-and-europe-than-in-asia/2020/05/26/81889d06-8a9f-11ea-9759-6d20ba0f2c0e_story.html
+
+▶️ Em uma grande coorte da Louisiana (EUA), 76,9% dos pacientes hospitalizados com Covid-19 e 70,6% dos que morreram eram negros, enquanto os negros representam apenas 31% da população em questão.
+✏️ Hospitalization and Mortality among Black Patients and White Patients with Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMsa2011686
+
+▶️ Mulheres e homens em Massachusetts experimentaram aumentos relativos praticamente idênticos no aumento da mortalidade quando as mortes por Covid-19 começaram sua rápida ascensão. 
+✏️ Excess mortality in men and women in Massachusetts during the Covid-19 pandemic
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31234-4/
+
+▶️ Após rastreio e isolamento de contatos, 167 casos afetando 101 residentes, 50 profissionais de saúde e 16 visitantes foram relacionados a um único em uma instituição.
+✏️ Epidemiology of Covid-19 in a Long-Term Care Facility in King County, Washington
+https://www.nejm.org/doi/full/10.1056/NEJMoa2005412
+
+▶️ Artigo discute perspectivas para os asilos nos EUA após a pandemia. Até início de maio, a doença havia tirado a vida de mais de 28 mil residentes e funcionários de casas de repouso no país.
+✏️ Long-Term Care Policy after Covid-19 — Solving the Nursing Home Crisis
+https://www.nejm.org/doi/full/10.1056/NEJMp2014811
+--
+💊 Tratamento
+
+▶️ Operadora de saúde demite médico e pressiona por uso de cloroquina para Covid-19
+https://www1.folha.uol.com.br/cotidiano/2020/05/operadora-de-saude-demite-medico-e-pressiona-por-uso-de-cloroquina-para-covid-19.shtml
+
+▶️ Casa Branca: Trump se sente 'ótimo' após tomar cloroquina e 'faria de novo'
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/28/casa-branca-trump-se-sente-otimo-apos-tomar-cloroquina-e-faria-de-novo.htm
+--
+🧪 Diagnóstico
+
+▶️ Inglaterra e Escócia podem perder testes devido a coleta inadequada
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/28/inglaterra-e-escocia-testes-dados-coronavirus.htm
+--
+🏡 Distanciamento social
+
+▶️ Os trabalhadores rurais que se isolaram para proteger cidade do Piauí do coronavírus
+https://www.bbc.com/portuguese/brasil-52827786
+
+▶️ Taxa de isolamento social fica em 48% em São Paulo
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/taxa-de-isolamento-social-fica-em-48-em-sao-paulo
+
+▶️ Prefeitos de cidades da Grande SP pedem revisão de classificação após ficarem de fora da flexibilização da quarentena
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/28/prefeitos-de-cidades-da-grande-sp-pedem-revisao-de-classificacao-apos-ficarem-de-fora-da-flexibilizacao-da-quarentena.ghtml
+--
+🗂️ Política
+
+▶️ Rejeição a Bolsonaro bate recorde, mas base se mantém, diz Datafolha. Antes rachado em três, Brasil tem polo contrário ao presidente com 43% e favorável, fixo em 33%
+https://www1.folha.uol.com.br/poder/2020/05/rejeicao-a-bolsonaro-bate-recorde-mas-base-se-mantem-diz-datafolha.shtml
+
+▶️ Davi Alcolumbre prorroga validade da MP que flexibiliza ano letivo; MP retira quantidade mínima de dias do ano letivo de 2020
+https://agenciabrasil.ebc.com.br/educacao/noticia/2020-05/alcolumbre-prorroga-validade-da-mp-que-flexibiliza-ano-letivo
+
+▶️ Após reportagem sobre isolamento social e acidentes de trânsito, Polícia Rodoviária Federal limita atendimento à imprensa. PFR um dos chefes da área de comunicação depois que a TV Globo levou ao ar uma reportagem mostrando que aumentaram as mortes em acidentes nas rodovias federais em abril, por causa do afrouxamento do isolamento social
+https://www.bbc.com/portuguese/brasil-52815995
+--
+🥼 Saúde Pública
+
+▶️ Fiocruz estuda parcerias para a produção de vacina contra a Covid-19
+https://jovempan.com.br/programas/jornal-da-manha/fiocruz-parcerias-vacina-covid-19.html
+
+▶️ Planos de saúde incluirão mais 6 exames na lista obrigatória
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/28/coronavirus-planos-de-saude-incluirao-mais-6-exames-na-lista-obrigatoria.htm
+
+▶️ RJ: Witzel entrega menos da metade dos hospitais prometidos
+https://brasil.estadao.com.br/noticias/rio-de-janeiro,witzel-entrega-menos-da-metade-dos-hospitais-prometidos-para-o-rio,70003317719
+
+▶️ Entidades acompanham avanço da Covid-19 nas comunidades quilombolas
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/entidades-acompanham-avanco-da-covid-19-nas-comunidades-quilombolas
+
+▶️ O que o crescente racha entre os EUA e a OMS significa para a Covid-19 e a saúde global. Se Trump deixar de lado a OMS, os especialistas preveem incoerência, ineficiência e ressurgimento de doenças mortais.
+https://www.nature.com/articles/d41586-020-01586-0
+--
+🌐 Internacional
+
+🇺🇸 EUA chegam a 100.446 mortes, casos se aproximam de 1,7 milhão 
+
+🇦🇷 Argentina chegou a 500 mortes, foram oito novos óbitos nas últimas 24h, enquanto houve mais 706 notificações de pessoas infectadas, o que elevou o total a 13.933
+
+🇪🇸 Espanha registra apenas uma morte diária e tem 27.119 mortes. Nas últimas 24h foram registrados 182 casos, elevando o total para 237.906.
+
+🇫🇷 França é "favorável" a reabrir fronteiras na UE em 15 junho
+
+🇸🇻 El Salvador: sistema de saúde tornou-se insuficiente para atender pessoas infectadas pelo novo coronavírus após superar 2.100 casos 
+
+🇬🇧 Inglaterra libera encontros de até 6 pessoas em parques a partir de segunda. Escolas se recusam a seguir cronograma de reabertura do governo
+
+🇮🇹 Itália: medidas de segurança foram indicadas para poder reabrir as escolas em setembro. 
+
+🇮🇱 Israel realiza 100 mil testes para prevenir segundo surto. País registrou mais de 16.800 casos e 281 óbitos
+--
+🔍 Recortes da pandemia
+
+▶️ EUA superam 100 mil mortes com funerárias em crise
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/28/eua-superam-100-mil-mortes-por-virus-com-funerarias-em-crise.htm
+
+▶️ Fake news sobre coronavírus gera tumulto no México; mensagem dizia que prefeito 'envenenou' população
+https://g1.globo.com/mundo/noticia/2020/05/28/fake-news-sobre-coronavirus-gera-tumulto-no-mexico-mensagem-dizia-que-prefeito-envenenou-populacao.ghtml
+
+▶️ Aplicativo Magalu traz botão para denunciar casos de violência doméstica. Casos aumentaram na quarentena
+https://www.uol.com.br/universa/noticias/redacao/2020/05/28/aplicativo-magalu-divulga-botao-para-denunciar-casos-de-violencia-domestica.htm
+
+▶️ Será o fim do beijo para cumprimentar? 
+https://g1.globo.com/mundo/noticia/2020/05/28/sera-o-fim-do-beijo-para-cumprimentar-pandemia-ameaca-um-dos-rituais-mais-tradicionais-da-franca.ghtml
+
+▶️ Desemprego e medo da Covid-19 expulsam argentinos residentes no Brasil
+https://oglobo.globo.com/mundo/desemprego-medo-da-covid-19-expulsam-argentinos-residentes-no-brasil-24449152
+
+▶️ Diretrizes éticas para aplicativos de rastreamento de contatos. Quatro especialistas em ética digital elaboraram 16 perguntas para avaliar se um aplicativo é eticamente justificável e até que ponto.
+https://www.nature.com/articles/d41586-020-01578-0
+
+▶️ American Airlines e outras aéreas anunciam milhares de demissões
+https://oglobo.globo.com/economia/american-airlines-outras-aereas-anunciam-milhares-de-demissoes-24450786
+--
+✅ Curtas
+
+➡️ Petrobras e IBP vão financiar projetos de ventiladores pulmonares
+
+➡️ Cruz Vermelha e escoteiros pedem voluntários para combate à Covid-19
+
+➡️ Cerca de 40% dos trabalhadores em home office durante a epidemia receberam e-mail com vírus no Brasil
+
+➡️ Trump assina decreto que questiona proteção legal a redes sociais após Twitter pedir checagem de postagem do presidente
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

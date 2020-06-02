@@ -1,0 +1,183 @@
+Destaques - 26/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 391.222 casos; 24.512 mortes 
+🌎 Mundo: 5,5 milhões de casos; 348 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Como Covid-19 reduz oxigenação sem afetar respiração do infectado
+https://epoca.globo.com/como-covid-19-reduz-oxigenacao-sem-afetar-respiracao-do-infectado-24443078
+✏️ Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMoa2015432
+
+▶️ Estudo detalha como coronavírus se espalhou em hospital na África do Sul e aponta equipe como fator de contaminação
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/26/estudo-detalha-como-coronavirus-se-espalhou-em-hospital-na-africa-do-sul-e-aponta-equipe-como-fator-de-contaminacao.ghtml
+⏩ Study tells ‘remarkable story’ about COVID-19’s deadly rampage through a South African hospital
+https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african
+✏️ Report into a nosocomial outbreak of coronavirus disease 2019 (Covid-19) at Netcare St. Augustine’s Hospital
+https://www.krisp.org.za/news.php?id=421
+
+▶️ Empresa americana testa possível vacina contra o Covid-19 na Austrália
+https://g1.globo.com/bemestar/vacina/noticia/2020/05/26/empresa-americana-testa-possivel-vacina-contra-o-covid-19-na-australia.ghtml
+
+▶️ Pesquisa aponta que, durante a pandemia, 76% dos entrevistados se mostraram mais interessados em ouvir orientações de pesquisadores e cientistas
+https://piaui.folha.uol.com.br/na-contramao-do-governo-brasileiros-acreditam-mais-na-ciencia/
+--
+📊 Epidemiologia
+
+▶️ Brasil tem 1.039 registros de morte incluídos no balanço em 24 horas.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/26/brasil-tem-24512-mortes-causada-pelo-novo-coronavirus-diz-ministerio-da-saude.ghtml
+
+▶️ Como o que sabemos sobre a Covid-19 mudou radicalmente em poucas semanas
+https://www.bbc.com/portuguese/geral-52803096
+
+▶️ O que fazer para evitar ser infectado pelo coronavírus em diferentes situações
+https://www.bbc.com/portuguese/geral-52804775
+
+▶️ Imunidade de rebanho 'não é a melhor estratégia' contra Covid-19, diz secretário substituto de Vigilância em Saúde do Ministério da Saúde, Eduardo Macário
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/26/imunidade-de-rebanho-nao-e-a-melhor-estrategia-contra-covid-19-diz-secretario-do-ministerio-da-saude.ghtml
+
+▶️ Contágio de coronavírus continua acelerado no Brasil. Imperial College prevê 9.000 mortes nesta semana
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/contagio-de-coronavirus-continua-acelerado-no-brasil-indicam-estatisticas.shtml
+✏️ Short-term forecasts of Covid-19 deaths in multiple countries
+https://mrc-ide.github.io/covid19-short-term-forecasts/index.html#projections-and-effective-reproduction-number-estimates%E2%80%8B
+
+▶️ Modelo usado pela Casa Branca eleva para 125 mil projeção de mortes por Covid-19 no Brasil até agosto. Até meados de maio, previsão era de que 88 mil pessoas morreriam da doença no país no mesmo período
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/modelo-usado-pela-casa-branca-aumenta-para-125-mil-projecao-de-mortes-por-covid-19-no-brasil-ate-agosto.shtml
+
+⏩ Opas cita projeção de mortes
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/26/opas-preve-883-mil-mortes-por-covid-19-no-brasil-ate-inicio-de-agosto.ghtml
+
+⏩ Diretora da OPAS afirma que luta contra a pandemia deve incluir tratamento de doenças crônicas
+https://www.paho.org/bra/index.php?option=com_content&view=article&id=6181:diretora-da-opas-afirma-que-luta-contra-a-pandemia-de-covid-19-deve-incluir-tratamento-de-doencas-cronicas&Itemid=839
+
+▶️ SP registra mais de 86 mil casos e ultrapassa China; nº de mortes subiu para 6.423 e a taxa de ocupação de leitos de UTI já chega a 87,7% na capital
+https://saude.estadao.com.br/noticias/geral,sao-paulo-registra-mais-de-86-mil-casos-de-coronavirus,70003315013
+
+▶️ RJ registra 256 novos óbitos e agora tem 4.361. São 40.024 casos, sendo 726 confirmados no período de um dia
+https://oglobo.globo.com/rio/covid-19-estado-do-rio-tem-novo-recorde-de-mortes-em-24-horas-passa-de-40-mil-casos-confirmados-24447151
+--
+💊 Tratamento
+
+▶️ MPF pede explicações ao Ministério da Saúde sobre orientação para uso da cloroquina
+https://g1.globo.com/politica/noticia/2020/05/26/mpf-pede-explicacoes-ao-ministerio-da-saude-sobre-orientacao-para-uso-da-cloroquina.ghtml
+
+▶️ Hospitais de SP, Einstein e Sírio Libanês mantêm pesquisa sobre cloroquina após OMS suspender testes com o medicamento
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/26/hospitais-de-sp-mantem-pesquisa-sobre-cloroquina-apos-oms-suspender-testes-com-o-medicamento.ghtml
+
+▶️ Índia apoia uso profilático de hidroxicloroquina para Covid-19
+https://internacional.estadao.com.br/noticias/geral,india-apoia-uso-profilatico-de-hidroxicloroquina-para-covid-19,70003315306
+
+▶️ Itália suspende uso da hidroxicloroquina contra novo coronavírus
+https://noticias.uol.com.br/ultimas-noticias/ansa/2020/05/26/italia-suspende-uso-da-hidroxicloroquina-contra-covid-19.htm
+--
+🏡 Distanciamento social
+
+▶️ “Quem derruba a economia é o vírus. O distanciamento momentâneo entre as pessoas salva vidas”, diz Rodrigo Maia
+https://g1.globo.com/politica/noticia/2020/05/26/maia-faz-apelo-a-maturidade-de-quem-tem-mandato-publico-e-pede-pacificacao-dos-espiritos.ghtml
+--
+🧪 Diagnóstico
+
+▶️ Ministério da Saúde adquiriu 13,9 milhões de testes PCR, 4,77 milhões foram entregues até o momento, sendo que 3,12 milhões já foram distribuídos aos laboratórios nos estados. Até agora, foram realizados 460,1 mil testes, ou seja, menos de 10% do total comprado
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/covid-19-ministerio-da-saude-fala-sobre-vigilancia-em-saude
+
+▶️ Ministério da Saúde diz que 5 laboratórios da rede privada fizeram 47,2% dos testes de Covid-19 no Brasil. Segundo um levantamento da pasta, ao menos 871.839 exames foram realizados no país.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/26/ministerio-da-saude-diz-que-5-laboratorios-da-rede-privada-fizeram-42percent-dos-testes-de-covid-19-no-brasil.ghtml
+
+▶️ São Paulo testará 90 mil profissionais da saúde para Covid-19
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/05/26/sao-paulo-testara-90-mil-profissionais-da-saude-para-covid-19.htm
+--
+🥼 Saúde Pública
+
+▶️ Ministério da Saúde já distribuiu 1.437 equipamentos para 17 estados brasileiros
+https://www.saude.gov.br/noticias/agencia-saude/46939-governo-do-brasil-entrega-mais-de-mil-respiradores-pulmonares
+
+▶️ No maior sistema hospitalar de Nova York, muitos pacientes com coronavírus em ventiladores não sobrevivem
+https://www.washingtonpost.com/health/2020/04/22/coronavirus-ventilators-survival/
+
+▶️ 'Máscaras jogadas nas ruas podem estar contaminadas e servir de vetor da Covid-19', diz infectologista
+https://noticias.uol.com.br/saude/ultimas-noticias/rfi/2020/05/26/mascaras-jogadas-nas-ruas-podem-estar-contaminadas-e-servir-de-vetor-da-covid-19-diz-infectologista.htm
+
+🎙️ Podcast: a batalha por leitos de UTI e o sistema que gerencia as vagas 
+https://open.spotify.com/episode/1QGNKmlqG2X0cjKdDx7Cd2?si=4Dl4SmBLT6mwTQoAtVzdjw&context=spotify%3Ashow%3A5lm4P7moiDE2a85m9ksdfo
+--
+🗂️ Política
+
+▶️ Investigação diz que Witzel está no topo de grupo que fraudou orçamento até de caixa-d'água. Dados enviados pelo Ministério Público Federal ao STJ afirmam que governador tinha comando de ações; ele nega irregularidades
+https://www1.folha.uol.com.br/poder/2020/05/investigacao-diz-que-witzel-esta-no-topo-de-grupo-que-fraudou-orcamento-ate-de-caixa-dagua.shtml
+
+▶️ Governo impõe quarentena remunerada de seis meses a Mandetta. Ex-ministro deverá aguardar antes de atuar no setor privado, segundo decisão da Comissão de Ética da Presidência
+https://oglobo.globo.com/brasil/governo-impoe-quarentena-remunerada-de-seis-meses-mandetta-24446768
+
+▶️ Eleições podem ser adiadas se autoridades de saúde recomendarem, diz novo presidente do TSE, Luís Roberto Barroso
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/26/barroso-eleicoes-podem-ser-adiadas-se-autoridades-de-saude-recomendarem.htm
+
+▶️ Câmara aprova projeto que destina R$ 3 bi ao setor cultural durante a crise do coronavírus
+https://g1.globo.com/politica/noticia/2020/05/26/camara-aprova-projeto-que-destina-r-3-bi-ao-setor-cultural-durante-a-crise-do-coronavirus.ghtml
+
+▶️ Braga Netto diz que proibição de entrada de brasileiros nos EUA é "técnica" 
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/26/braga-netto-diz-proibicao-de-entrada-de-brasileiros-nos-eua-e-tecnica.htm
+
+▶️ Senado aprova requisição obrigatória de leitos privados pelo SUS
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/05/26/senado-aprova-requisicao-obrigatoria-de-leitos-privados-pelo-sus.htm
+
+▶️ Governo cria protocolos para frigoríficos atuarem durante a pandemia
+https://economia.uol.com.br/noticias/redacao/2020/05/26/governo-cria-protocolos-para-frigorificos-atuarem-durante-a-pandemia.htm
+--
+🌐 Internacional
+
+🇺🇸 EUA: mortes chegam a 98.261, país tem 1.662.414 casos
+
+🇫🇷 França teve 83 mortes nas últimas 24h e 276 novos casos. Os números permanecem em declínio. País soma 28.530 mortos e 145.555 casos
+
+🇨🇱 Chile tem sistema de saúde à beira do colapso. País registrou 4.895 casos em 24h, atingindo um total de 73.997, com 43 novas mortes, contagem chega a 761
+
+🇩🇪 Alemanha estende regra de distanciamento social até fim de junho
+
+🇵🇾 Paraguai reabre comércio e registra movimento intenso nas ruas. País, um dos menos afetados na América do Sul, registra 865 casos e 11 mortes
+--
+🔍 Recortes da pandemia
+
+▶️ Sem especialização nem direito, trabalhadores das periferias sofrem mais e contam como é viver na crise da Covid-19
+https://economia.uol.com.br/reportagens-especiais/desempregados-periferia-coronavirus/index.htm#desempregados-da-periferia
+
+▶️ Cerca de 89% dos profissionais de saúde sentem medo do coronavírus, aponta pesquisa da FGV
+https://www1.folha.uol.com.br/cotidiano/2020/05/maioria-dos-profissionais-de-saude-sente-medo-do-coronavirus-aponta-pesquisa.shtml
+
+▶️ Surdos que leem lábios enfrentam dificuldades por causa de máscaras
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/surdos-que-leem-labios-enfrentam-dificuldades-por-causa-de-mascaras.shtml
+
+▶️ Em mês de quarentena, polícia do Rio mata quase seis pessoas por dia
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/05/26/em-mes-de-quarentena-policia-do-rio-mata-quase-seis-pessoas-por-dia.htm
+
+▶️ Sem receber visitas, pacientes usam videochamada para falar com a família. Para alguns, é uma despedida
+https://g1.globo.com/bemestar/viva-voce/noticia/2020/05/26/sem-receber-visitas-pacientes-tem-na-videochamada-chance-de-contato-com-a-familia-alguns-ate-de-uma-despedida.ghtml
+
+▶️ Enfermeiros e médicos italianos reclamam de esquecimento após auge da pandemia
+https://www.bbc.com/portuguese/internacional-52809097
+
+▶️ Por que os japoneses com Covid-19 se sentem obrigado a pedir desculpas
+https://www.bbc.com/portuguese/internacional-52748221
+--
+✅ Curtas
+
+➡ SP recebe 333 respiradores da China e da Turquia e prevê 2,7 mil até junho 
+
+➡ Inquilinos descumprem regras de isolamento e são despejados no Guarujá
+
+➡ Manaus inaugura 1º hospital para indígenas com coronavírus no país
+
+➡ Auxílio Emergencial: 10,1 milhões de pedidos feitos por app e site ainda aguardam análise, diz Caixa
+
+➡ Projeto que obriga escolas e faculdades a oferecer descontos de 30% durante a pandemia é aprovado na Alerj
+
+➡ Voluntários consertam mais de mil respiradores e devolvem a hospitais
+
+➡ Ministro Dias Toffoli testa negativo para coronavírus pela 4ª vez em um mês
+
+➡ Defensoria pede que STF emita habeas corpus a grávidas e lactantes presas 
+
+➡ Testes para tuberculose diminuíram 40% entre março e abril, diz Saúde 
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

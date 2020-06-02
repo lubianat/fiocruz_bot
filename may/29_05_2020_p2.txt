@@ -1,0 +1,135 @@
+Destaques - 29/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 465.166 casos; 27.878 mortes 
+🌎 Mundo: 5,8 milhões de casos; 363 mil mortes
+--
+➕ Brasil tem 1.124 registros de morte incluídos em 24 horas
+https://covid.saude.gov.br/
+--
+🔬 Pesquisa científica
+
+▶️ Revista Lancet publica correções em estudo sobre cloroquina, mas resultados permanecem. Publicação também incluiu dados brutos, provavelmente por causa de pedido de cientistas
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/revista-lancet-publica-correcoes-em-estudo-sobre-cloroquina-mas-resultados-permanecem.shtml
+✏️ Department of Error
+https://marlin-prod.literatumonline.com/pb-assets/Lancet/pdfs/S0140673620312496.pdf
+
+▶️ Pesquisadores russos viram cobaias na corrida por uma vacina. Chefe de instituto russo de pesquisa Gamaleïa, Alexandre Guintsbourg, afirmou ter injetado a vacina que está testando em si próprio.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/29/pesquisadores-russos-viram-cobaias-na-corrida-por-uma-vacina-contra-o-novo-coronavirus.ghtml
+
+▶️ Sono desregulado, falta de apetite e cansaço foram alguns dos incômodos relatados por brasileiros durante a quarentena, revela pesquisa Vigitel do Ministério da Saúde
+https://g1.globo.com/bemestar/viva-voce/noticia/2020/05/29/problemas-com-sono-apetite-e-desinteresse-pesquisa-do-ministerio-aponta-queixas-durante-a-quarentena.ghtml
+
+▶️ Artigo de revisão aborda como o SARS-CoV-2 pode levar a alterações psiquiátricas, considerando diferentes hipóteses. Participação de pesquisadores da Fiocruz e UFRJ
+https://sbi.org.br/sblogi/psycho-neuroendocrine-immune-interactions-in-covid-19-potential-impacts-on-mental-health/
+✏️ Psycho-Neuroendocrine-Immune Interactions in Covid-19: Potential Impacts on Mental Health
+https://www.frontiersin.org/articles/10.3389/fimmu.2020.01170/full
+
+▶️ Imunidade contra o novo coronavírus pode durar apenas seis meses, sugere estudo
+https://www.otempo.com.br/coronavirus/imunidade-contra-o-novo-coronavirus-pode-durar-apenas-seis-meses-alerta-estudo-1.2341806
+✏️ Human coronavirus reinfection dynamics: lessons for SARS-CoV-2
+https://www.researchgate.net/publication/341467148_Human_coronavirus_reinfection_dynamics_lessons_for_SARS-CoV-2
+--
+📊 Epidemiologia
+
+▶️ O mundo ainda está longe de alcançar a imunidade de grupo contra o coronavírus. Contagens oficiais de casos costumam detectar apenas uma fração do número de infecções 
+https://saude.estadao.com.br/noticias/geral,o-mundo-ainda-esta-longe-de-alcancar-a-imunidade-de-grupo-contra-o-coronavirus,70003318224
+
+▶️ SP registra 5.691 novos casos e chega a 101.556 confirmados. Estado soma 7.275 óbitos e tem 12,5 mil pacientes internados em hospitais por suspeita ou confirmação, sendo 4.710 em UTI e 7.822 em enfermaria
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/sp-passa-de-100-mil-casos-confirmados-e-7-mil-obitos-por-coronavirus
+
+▶️ RJ registra 3.067 novos casos e 223 mortes; taxa de letalidade é de 10,59%. Estado passou de 5 mil mortes e se aproximou dos 48 mil casos. Há ainda 1.315 óbitos em investigação e 260 foram descartados
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/29/rj-passa-das-5-mil-mortes-e-tem-quase-48-mil-casos-de-covid-19.ghtml
+
+▶️ Gata de estimação se recupera da Covid-19 na França. Papille, de 9 anos, contraiu coronavírus de seus donos, que estavam confinados em casa. Casos de transmissão de humanos para animais são raros, e não há registro de animais domésticos que tenham infectado pessoas.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/29/gata-de-estimacao-se-recupera-da-covid-19-na-franca.ghtml
+
+▶️ EUA recomendam mudanças radicais nos escritórios. Diretrizes incluem medição de temperatura, limpeza e proteção de mesas de trabalho e proibição da utilização de transporte público
+https://veja.abril.com.br/saude/coronavirus-estados-unidos-recomendam-mudancas-radicais-nos-escritorios/
+--
+🏡 Distanciamento social
+
+▶️ Temporão: 'Se tivéssemos isolamento acima de 60%, poderíamos sair mais rápido'. Para ex-ministro da Saúde, enquanto o número de casos e de óbitos continuar crescendo, não há como o Brasil pensar em sair da pandemia
+https://saude.estadao.com.br/noticias/geral,se-tivessemos-isolamento-acima-de-60-poderiamos-sair-mais-rapido-diz-ex-ministro-temporao,70003318215
+
+▶️ SP: veja a mudança no discurso das autoridades desde a possibilidade de lockdown até a flexibilização da quarentena
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/29/veja-a-mudanca-no-discurso-das-autoridades-de-sp-desde-a-possibilidade-de-lockdown-ate-a-flexibilizacao-da-quarentena.ghtml
+
+⏩ SP: Doria diz não se 'submeter a pressão de prefeitos' e mantém isolamento na Grande SP. Governo dividiu região metropolitana em cinco áreas para reavaliar localmente reabertura nas próximas semanas
+https://www1.folha.uol.com.br/cotidiano/2020/05/doria-rebate-criticas-e-mantem-isolamento-na-grande-sp.shtml
+
+⏩ SP: para acelerar reabertura, cidades fazem corrida por leito hospitalar no interior. Disponibilidade é um dos principais critérios para a retomada das atividades
+https://saude.estadao.com.br/noticias/geral,para-acelerar-reabertura-cidades-fazem-corrida-por-leito-hospitalar-no-interior-de-sp,70003319016
+
+⏩ SP: bares espaçam mesas e clientes marcam salão no interior após afrouxamento da quarentena
+https://www1.folha.uol.com.br/cotidiano/2020/05/bares-espacam-mesas-e-clientes-marcam-salao-no-interior-apos-afrouxamento-da-quarentena.shtml
+
+▶️ MG: BH não vai ampliar a reabertura do comércio na próxima semana. Prefeitura suspendeu segunda etapa devido aceleração de contágio no estado
+https://g1.globo.com/mg/minas-gerais/noticia/2020/05/29/kalil-anuncia-que-processo-de-reabertura-de-comercio-em-bh-esta-suspenso-na-proxima-semana.ghtml
+
+▶️ AM: sem apoio de prefeito, estado anuncia reabertura gradual do comércio em Manaus
+https://www1.folha.uol.com.br/cotidiano/2020/05/sem-apoio-de-prefeito-governo-do-am-anuncia-reabertura-gradual-do-comercio-em-manaus.shtml
+
+▶️ Ministro do STF, Luiz Fux suspende autorização para academias reabrirem em dois estados. Reabertura não atende a interesse nacional, diz 
+https://agenciabrasil.ebc.com.br/justica/noticia/2020-05/fux-suspende-autorizacao-para-academias-abrirem-em-go-e-sp
+--
+🥼 Saúde Pública
+
+▶️ Trump anuncia fim da relação entre Estados Unidos e OMS. "Redirecionaremos esses fundos para outras necessidades globais urgentes de saúde pública" disse.
+https://internacional.estadao.com.br/noticias/geral,trump-anuncia-fim-do-relacionamento-entre-estados-unidos-e-oms,70003319054
+
+⏩ Os argumentos de Trump para anunciar rompimento
+https://www.bbc.com/portuguese/internacional-52857170
+
+▶️ Ministério da Saúde divulga balanço de doações para combate à Covid-19
+https://www.saude.gov.br/noticias/agencia-saude/46976-ministerio-da-saude-divulga-balanco-de-doacoes-para-combate-a-covid-20
+
+▶️ Centro de tratamento da Covid-19 é entregue em 30 dias e bate recorde nacional. Com 60 leitos, nova instalação em Porto Alegre é a obra hospitalar mais rápida da história do Brasil
+https://www1.folha.uol.com.br/empreendedorsocial/2020/05/centro-de-tratamento-da-covid-19-e-entregue-em-30-dias-e-bate-recorde-nacional.shtml
+
+▶️ Denúncias apontam para escalada da violência contra mulheres no país. Balanço foi divulgado hoje pela Ouvidoria de Direitos Humanos
+https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2020-05/denuncias-apontam-para-escalada-da-violencia-contra-mulheres-no
+--
+🌐 Internacional
+
+🇬🇷 Grécia reabre turismo para 29 países; Brasil e EUA são vetados
+
+🇺🇸 EUA: cidade de NY iniciará reabertura no dia 8 e deve permitir atividades industriais e de construção civil, e lojas de rua podem funcionar em sistema 'para viagem'
+
+🇸🇪 Suécia é deixada de reabertura de fronteiras pela Dinamarca e Noruega
+--
+🔍 Recortes da pandemia
+
+▶️ Preconceito contra idosos cresce na pandemia, diz ex-diretor de envelhecimento da OMS
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/preconceito-contra-idosos-cresce-na-pandemia-afirma-ex-diretor-de-envelhecimento-da-oms.shtml
+
+▶️ Hábitos de higiene e melhor interação com tecnologia serão mantidos por leitores após pandemia
+https://www1.folha.uol.com.br/paineldoleitor/2020/05/habitos-de-higiene-e-melhor-interacao-com-tecnologia-serao-incorporados-por-leitores-apos-pandemia-veja-relatos.shtml
+
+▶️ Restaurante francês cria cápsulas de plástico para proteger clientes
+https://g1.globo.com/turismo-e-viagem/noticia/2020/05/29/restaurante-frances-cria-capsulas-de-plastico-para-proteger-clientes-contra-a-covid-19.ghtml
+
+▶️ Ministério Público do Trabalho recebe mais de 1,7 mil denúncias relacionadas à pandemia em SP
+https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2020-05/mpt-recebe-mais-de-17-mil-denuncias-relacionadas-pandemia-em-sp
+
+▶️ Celebridades se unem a alerta do Fórum Econômico sobre risco da pandemia para a fome na África
+https://www1.folha.uol.com.br/colunas/painelsa/2020/05/celebridades-se-unem-a-alerta-do-forum-economico-sobre-risco-da-pandemia-para-a-fome-na-africa.shtml
+
+▶️ Escolas usam rádio para levar conteúdo a estudantes de todo o país
+https://www1.folha.uol.com.br/educacao/2020/05/escolas-usam-radio-para-levar-conteudo-a-estudantes-de-todo-o-pais.shtml
+--
+✅ Curtas
+
+➡️ Coronavírus leva dívida bruta do Brasil ao maior patamar da história
+
+➡️ Não existe vacina que cure Covid-19 em três horas, fake news circula no Facebook
+
+➡️ Conselho de reitores confirma congelamento de salários na Unicamp, USP e Unesp
+
+➡️ Doria quer que empresas de São Paulo testem funcionários
+
+➡️ Vivara se une a Gisele Bündchen e doa R$ 1 milhão a comunidades vulneráveis
+
+➡️ Anemia hereditária, talassemia não é fator de risco para o coronavírus
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

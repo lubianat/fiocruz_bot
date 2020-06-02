@@ -1,0 +1,208 @@
+Destaques - 02/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 531.768 casos; 30.152 mortes 
+🌎 Mundo: 6,3 milhões de casos; 376 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Mutações aleatórias levaram o Sars-CoV-2 a adquirir grande afinidade com a proteína ACE2 transformando-a em porta de entrada para a infecção. Todas as pessoas têm os mesmos aminoácidos em 30 pontos chaves do contato entre o vírus e a ACE2, o que torna todas as populações humanas do planeta suscetíveis. Estudo será publicado em breve na revista Genetics and Molecular Biology
+https://www.bbc.com/portuguese/brasil-52885403
+
+▶️ Estudo mapeia células de vias respiratórias e mostra que elas têm mais 'portas de entrada' para o coronavírus
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/02/estudo-mapeia-celulas-de-vias-respiratorias-e-mostra-que-elas-tem-mais-portas-de-entrada-para-o-coronavirus.ghtml
+
+▶️ Análises de sequências genéticas parciais de 781 coronavírus encontrados em morcegos na China destaca o gênero Rhinolophus como crucial para a evolução dos patógenos. O trabalho é um dos mais abrangentes sobre a evolução dos coronavírus e foi realizado pela equipe que teve o financiamento cortado pelo governo dos EUA recentemente.
+https://www.sciencemag.org/news/2020/06/nih-halted-study-unveils-its-massive-analysis-bat-coronaviruses
+✏️ Origin and cross-species transmission of bat coronaviruses in China
+https://www.biorxiv.org/content/10.1101/2020.05.31.116061v1
+
+▶️ Vacina em desenvolvimento na Universidade de Oxford entra em sua fase três de testes clínicos
+https://www.uol.com.br/vivabem/noticias/agencia-estado/2020/06/02/com-brasileira-oxford-inicia-3-fase-de-vacina-contra-coronavirus.htm
+
+⏩ 'Ideia não é ter competição', diz cientista brasileira que integra pesquisa da vacina de Oxford
+https://saude.estadao.com.br/noticias/geral,ideia-nao-e-ter-uma-competicao-diz-imunologista-brasileira-sobre-vacina-contra-a-covid-19,70003321603
+
+▶️ Proteínas no sangue podem prever gravidade da doença
+https://www.uol.com.br/vivabem/reuters/2020/06/02/coronavirus-proteinas-no-sangue-podem-prever-gravidade-diz-estudo.htm
+✏️ Ultra-high-throughput clinical proteomics reveals classifiers of Covid-19 infection
+https://www.cell.com/cell-systems/fulltext/S2405-4712(20)30197-6
+
+▶️ Em um pequeno estudo, um teste de anticorpos para Covid-19 que pode ser feito em casa mostrou um alto grau de precisão.
+https://www.reuters.com/article/us-health-coronavirus-science/in-home-antibody-test-shows-promise-recovering-surgery-patients-at-risk-from-coronavirus-idUSKBN2383HF
+✏️ A serological assay to detect SARS-CoV-2 antibodies in at-home collected finger-prick dried blood spots
+https://www.medrxiv.org/content/10.1101/2020.05.29.20116004v1
+
+▶️ Pacientes submetidos a cirurgias que pegam o coronavírus enquanto se recuperam apresentaram maior índice de complicações e risco de morte. Isso sugere adiar cirurgias não essenciais onde o coronavírus circula ativamente.
+✏️ Mortality and pulmonary complications in patients undergoing surgery with perioperative SARS-CoV-2 infection: an international cohort study
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31182-X
+
+▶️ A reação exagerada do sistema imunológico pode não ser a causa de desfechos negativos na Covid-19. Em um novo estudo, apenas 4% dos 71 pacientes com doença grave tiveram uma verdadeira tempestade de citocinas.
+✏️ Targeted Immunosuppression Distinguishes COVID-19 from Influenza in Moderate and Severe Disease
+https://www.medrxiv.org/content/10.1101/2020.05.28.20115667v1
+
+▶️ Sobreviventes da Covid-19 precisarão de terapia de reabilitação, dizem especialistas do Reino Unido
+✏️ The Stanford Hall consensus statement for post-Covid-19 rehabilitation 
+https://bjsm.bmj.com/content/early/2020/05/31/bjsports-2020-102596
+
+▶️ Estudo afirma ser a primeira revisão de todas as evidências disponíveis da eficácia do distanciamento físico, máscaras faciais e proteção ocular para evitar a disseminação da Covid-19. Maior distanciamento físico de uma pessoa exposta reduz significativamente o risco de transmissão, máscaras N95 são mais eficazes do que outras coberturas faciais.
+https://www.medscape.com/viewarticle/931551
+✏️ Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and Covid-19: a systematic review and meta-analysis
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9
+--
+📊 Epidemiologia
+
+▶️ Brasil deve chegar a 1 milhão de casos em pouco mais de duas semanas, indica uma plataforma estatística da UFRGS
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/02/brasil-projecao-ufrgs-coronavirus-casos.htm
+✏️ Projeção do Instituto de Informática
+https://covid19.ufrgs.dev/tools/predictions
+
+▶️ Covid-19 avança pelo Brasil e um a cada três casos já é fora de capitais e regiões metropolitanas
+https://saude.estadao.com.br/noticias/geral,um-em-cada-tres-casos-de-covid-19-ja-ocorre-fora-das-capitais-e-do-seu-entorno,70003321678
+
+▶️ Coronavírus já matou mais de 375 mil pessoas em todo o mundo
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/02/mais-de-375000-mortos-por-coronavirus-no-mundo.htm
+
+▶️ Líderes que promovem cooperação ajudam a superar pandemias
+http://agencia.fapesp.br/lideres-que-promovem-cooperacao-ajudam-a-superar-pandemias/33286/
+✏️ Using social and behavioural science to support Covid-19 pandemic response
+https://www.nature.com/articles/s41562-020-0884-z
+
+⏩ Análise: três países que venceram o vírus: o que Islândia, Nova Zelândia e Japão têm a ensinar ao resto do mundo?
+https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/06/02/tres-paises-que-venceram-o-virus.ghtml
+
+▶️ Análise: autoridades de saúde e governos estaduais advertem que protestos que agitam os EUA agravarão a pandemia 
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/06/02/tragedia-anunciada-nos-eua.ghtml
+
+▶️ Após casos de Covid-19 em grupos musicais, especialistas alertam para riscos em lives e corais
+https://g1.globo.com/pop-arte/musica/noticia/2020/06/02/apos-casos-de-covid-19-em-grupos-musicais-especialistas-alertam-para-riscos-em-lives-e-corais.ghtml
+
+▶️ Datafolha: maioria dos brasileiros conhece alguém que pegou coronavírus
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/maioria-dos-brasileiros-conhece-alguem-que-pegou-coronavirus-mostra-datafolha.shtml
+
+▶️ Site mostra se você mora em área de risco de Covid-19
+https://www.bbc.com/portuguese/brasil-52855085
+📍 Juntos Contra o Covid
+https://juntoscontraocovid.org/
+
+▶️ Testes em massa em Wuhan não registram novos casos, mas encontram 300 portadores assintomáticos
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/02/testes-em-massa-em-wuhan-registram-300-portadores-assintomaticos-de-coronavirus-mas-nenhum-novo-caso.htm
+
+▶️ PA: retomada das atividades registra aglomeração e desrespeito aos protocolos de distanciamento
+https://saude.estadao.com.br/noticias/geral,retomada-das-atividades-no-para-registra-aglomeracao-e-desrespeito-aos-protocolos-de-distanciamento,70003321769	
+--
+🏡 Distanciamento social
+
+▶️ Flexibilização ocorre em época de alta circulação de vírus respiratórios, alerta Fiocruz. Coordenador do Infogripe considera que reabertura agora é precipitada, pois a incidência de síndrome respiratória aguda grave é maior neste momento
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/02/estados-anunciam-flexibilizacao-em-epoca-de-alta-circulacao-de-virus-respiratorios-apontam-series-historicas-da-fiocruz.ghtml
+
+▶️ 'Pensem duas vezes antes de suspender medidas de distanciamento social', alerta diretora-geral da Opas, Carissa Etienne
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/02/pensem-duas-vezes-antes-de-suspender-medidas-de-distanciamento-social-alerta-diretora-geral-da-opas.ghtml
+
+▶️ Países europeus criam rankings de visitantes mais ou menos seguros. Viagens dentro do bloco começam a ser liberadas
+https://www1.folha.uol.com.br/mundo/2020/06/paises-europeus-criam-rankings-de-visitantes-mais-ou-menos-seguros.shtml
+
+▶️ Opinião: Estado, empresas e cidadãos terão de realizar tarefas para flexibilizar o isolamento
+https://saude.estadao.com.br/noticias/geral,regras-de-ouro,70003321540
+
+▶️ RJ: Witzel prorroga medidas restritivas até sexta-feira. Somente serviços essenciais devem permanecer funcionando, mas seguindo os protocolos
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/02/witzel-prorroga-medidas-restritivas-no-rj-ate-sexta-feira.ghtml
+
+↪️ RJ: Após flexibilização do isolamento, cariocas vão às praias. Permanência na areia, no entanto, segue proibida
+
+↪️ AL prorroga medidas restritivas até 10 de junho. Estado tem 10.837 casos confirmados de coronavírus e 461 óbitos pela doença. 
+
+↪️ PE com diminuição da fila por vaga de UTI, anuncia reabertura gradual. Estado tem 2.875 óbitos e 34.900 casos 
+
+↪️ SP: Associação de lojistas de shopping critica protocolo para reabertura
+
+↪️ 38 shoppings reabrem no interior de SP e Brasil tem 218 abertos em 14 estados, diz associação
+--
+🥼 Saúde Pública
+
+▶️ Aumento do uso de antibióticos para combater a pandemia aumentará a resistência bacteriana e em última instância provocará mais mortes, alerta OMS
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/02/alta-no-uso-de-antibioticos-por-pandemia-causara-mais-mortes-alerta-oms.htm
+
+▶️ Covid-19 ameaça aldeias yanomamis vizinhas a garimpo
+https://www.bbc.com/portuguese/brasil-52886924
+
+⏩ Lideranças do povo Yanomami fazem campanha contra presença de garimpo
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/liderancas-do-povo-yanomami-fazem-campanha-contra-presenca-de-garimpo.shtml
+
+▶️ Manaus tem 30 mil índios de diferentes povos, com 91 mortos nos 29 povoados atingidos
+https://saude.estadao.com.br/noticias/geral,virus-ja-chegou-as-aldeias-indigenas-diz-arcebispo-de-manaus,70003321723
+
+▶️ Em Santos, maior favela de palafitas do Brasil enfrenta pandemia, fogo e água
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/maior-favela-de-palafitas-do-brasil-enfrenta-pandemia-fogo-e-agua.shtml
+--
+🗂️ Política
+
+▶️ Bilionário Carlos Wizard vai assumir secretaria de Ciência, Tecnologia e Insumos Estratégicos do Ministério da Saúde. Pasta é considerada estratégica por coordenar parcerias para fabricação de medicamentos
+https://saude.estadao.com.br/noticias/geral,bilionario-carlos-wizard-vai-assumir-secretaria-do-ministerio-da-saude,70003322050
+
+▶️ Ao menos 35 servidores da Presidência da República foram infectados
+https://politica.estadao.com.br/noticias/geral,planalto-registra-pelo-menos-35-servidores-infectados-pelo-coronavirus,70003322009
+
+▶️ MEC aprova diretrizes de ensino durante a pandemia, mas veta trecho que se refere ao Enem
+https://educacao.estadao.com.br/noticias/geral,mec-aprova-diretrizes-de-ensino-durante-a-pandemia-mas-veta-trecho-que-se-refere-ao-enem,70003321633
+--
+💊 Tratamento
+
+▶️ Farmacêutica trabalha em versão inalável de antiviral em teste para Covid-19. Em testes, remdesivir trouxe melhoras a pacientes 
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/02/farmaceutica-trabalha-em-versao-inalavel-de-antiviral-em-teste-para-covid-19.ghtml
+
+▶️ Conselho de medicina de SP registra denúncias de falsos tratamentos da Covid-19
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/conselho-de-medicina-de-sp-registra-denuncias-de-falsos-tratamentos-da-covid-19.shtml
+
+▶️ Bolsonaro volta a defender cloroquina: Quem reclama, dê alternativa
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/02/bolsonaro-volta-a-defender-cloroquina-quem-reclama-de-alternativa.htm
+--
+🌐 Internacional
+
+🌍 África ultrapassa 144 mil contágios e mais de 4 mil mortes, segundo a OMS
+
+🇮🇷 Irã: pelo segundo dia consecutivo registrou mais de 3.000 novos casos  nas últimas 24 horas, chegando a 157.562 casos. País teve 64  mortes, balanço chega a 7.942
+
+🇺🇸 EUA registrou 743 novas mortes em 24h, elevando o total a 105.099. País tem 1.809.109 casos
+
+🇫🇷 França: nova fase do fim da quarentena inclui cafés e restaurantes. País teve 31 mortes e 338 casos nas últimas 24h, levando a 28.833 mortos e 152.091 infectados. Pacientes nas UTIs diminuem (1.302)
+
+🇮🇹 Itália registra quase 33.500 mortes em três meses. Presidente alerta que a crise não terminou 
+
+🇬🇧 Reino Unido tem mais de 49.000 mortes com causa suspeita ou comprovada do novo coronavírus
+
+🇲🇽 México superou as 10 mil mortes e acumula mais de 93 mil casos. País iniciou a reabertura gradativa de atividades econômicas
+
+🇯🇵 Japão: Tóquio registra mais 30 novos casos, primeira vez em 19 dias que esse número é registrado. País libera testes à base de saliva para aumentar nº de diagnósticos
+
+🇵🇪 Peru ultrapassou 170 mil casos e mais de 4.600 mortes. País enfrenta escassez de oxigênio para tratar pacientes 
+
+🇵🇹 Portugal: surtos em Lisboa comprometem reabertura. País teve 1.424 mortes, em um universo de aproximadamente 32.700 casos 
+
+🇸🇬 Singapura afrouxa medidas de isolamento e reabre escolas
+
+🇩🇪 Alemanha: cerca de 7,3 milhões de trabalhadores tiveram horário reduzido 
+--
+🔍 Recortes da pandemia
+
+▶️ Pandemia leva a mudança de ritos funerários e da forma como os brasileiros vivenciam o luto
+https://g1.globo.com/bemestar/viva-voce/noticia/2020/06/02/pandemia-de-coronavirus-leva-a-mudanca-de-ritos-funerarios-e-da-forma-como-os-brasileiros-vivenciam-o-luto.ghtml
+
+▶️ Agência da ONU recomenda diretrizes de saúde para companhias aéreas
+https://www.uol.com.br/nossa/noticias/afp/2020/06/02/agencia-da-onu-recomenda-diretrizes-de-saude-para-companhias-aereas.htm
+--
+✅ Curtas
+
+➡️ MEC aprova aulas aos sábados e nas férias depois da pandemia 
+
+➡️ Escolas temem que adultos abandonem estudos após pandemia
+
+➡️ Supermercados de SP doam 117 toneladas de comida em uma semana 
+
+➡️ Mais de 200 personalidades pedem ao G20 uma reunião sobre o coronavírus 
+
+➡️ Combater a pandemia é uma necessidade para a recuperação da economia, aponta FMI
+
+➡️ 90% dos eleitores brasileiros apoiam regulamentação de redes sociais para combater 'fake news', diz pesquisa Ibope
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

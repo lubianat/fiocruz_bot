@@ -1,0 +1,246 @@
+Destaques - 01/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 514.992 casos; 29.341 mortes 
+🌎 Mundo: 6,2 milhões de casos; 373 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Equipe da Fiocruz Minas trabalha em vacina brasileira para Covid-19. Desenvolvimento laboratorial deve ser concluído ano que vem
+https://agenciabrasil.ebc.com.br/educacao/noticia/2020-05/equipe-da-fiocruz-mg-trabalha-em-vacina-brasileira-para-covid-19
+
+▶️ Pesquisadores confirmaram que o parente mais próximo do SARS-CoV-2 é um coronavírus que infecta morcegos. Mas a capacidade desse vírus de infectar seres humanos foi adquirida através da troca de um fragmento de gene crítico de um coronavírus que infecta pangolim.
+https://scienceblog.com/516678/likely-that-more-human-coronaviruses-will-arise/amp/
+✏️ Emergence of SARS-CoV-2 through recombination and strong purifying selection
+https://advances.sciencemag.org/content/early/2020/05/28/sciadv.abb9153
+
+▶️ Mudança no soro de pacientes graves com Covid-19 pode prever o desenvolvimento da doença, dizem cientistas chineses
+https://www.globaltimes.cn/content/1190143.shtml
+✏️ Proteomic and Metabolomic Characterization of Covid-19 Patient Sera
+https://www.cell.com/cell/fulltext/S0092-8674(20)30627-9
+
+▶️ Estudo francês tem resultados positivos de antirreumático contra Covid-19
+https://www.uol.com.br/vivabem/noticias/rfi/2020/05/30/estudo-frances-tem-resultados-positivos-de-antirreumatico-contra-covid-19.htm
+✏️ Anakinra for severe forms of Covid-19: a cohort study
+https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(20)30164-8/fulltext
+
+▶️ Cientistas encontram uma maneira de infectar ratos com coronavírus
+https://www.sciencealert.com/scientists-have-found-a-way-to-infect-mice-with-the-coronavirus-here-s-why-that-s-super-important
+✏️ Gene edited mice can be infected with coronavirus like people
+https://www.scimex.org/newsfeed/gene-edited-mice-infected-with-coronavirus-like-people
+
+▶️ Vacina planejada para Mers e Sars vira modelo em pesquisa de imunização contra a Covid-19
+https://g1.globo.com/bemestar/vacina/noticia/2020/05/30/vacina-planejada-para-mers-e-sars-vira-modelo-em-pesquisa-de-imunizacao-contra-a-covid-19.ghtml
+✏️ Immunogenicity of a DNA vaccine candidate for Covid-19
+https://www.nature.com/articles/s41467-020-16505-0
+
+▶️ Nature: qual o risco de os animais espalharem o coronavírus? Pesquisadores dizem que há uma necessidade urgente de descobrir se os animais podem pegar o vírus e passá-lo para as pessoas.
+https://www.nature.com/articles/d41586-020-01574-4
+
+▶️ Teste positivo de coronavírus não garante infecciosidade
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ Predicting infectious SARS-CoV-2 from diagnostic samples
+https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa638/5842165
+
+▶️ Nariz pode ser o ponto de entrada do corpo para infecção
+✏️ SARS-CoV-2 Reverse Genetics Reveals a Variable Infection Gradient in the
+Respiratory Tract
+https://www.cell.com/cell/pdf/S0092-8674(20)30675-9.pdf
+--
+💊 Tratamento
+
+▶️ Mais de 100 especialistas alertam para falhas em estudo que condenou o uso da cloroquina no mundo. O responsável pelo programa de malária da OMS, Pedro Alonso, afirma que o trabalho, o maior sobre o medicamento já feito e publicado na The Lancet, tem “inconsistências alarmantes”
+https://brasil.elpais.com/ciencia/2020-05-30/mais-de-100-especialistas-alertam-para-falhas-em-estudo-que-condenou-o-uso-da-cloroquina-no-mundo.html
+
+⏩ Mundo se divide sobre o uso da hidroxicloroquina contra coronavírus 
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/01/o-mundo-dividido-sobre-o-uso-da-hidroxicloroquina.htm
+
+⏩ EUA enviam 2 milhões de doses de hidroxicloroquina ao Brasil
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/eua-enviam-2-milhoes-de-doses-de-hidroxicloroquina-ao-brasil-para-tratar-a-covid-19.shtml	
+
+▶️ Hospitais do Reino Unido testam cinco novos medicamentos em busca de tratamento com coronavírus: heparina, bemcentinib, med3506, calquence e zilucoplan. 
+https://www.theguardian.com/world/2020/jun/01/uk-hospitals-trial-five-new-drugs-search-coronavirus-treatment
+
+▶️ Rússia disponibilizará seu primeiro remédio, registrado com o nome Avifavir, aprovado para o tratamento de pacientes de Covid-19 a partir da próxima semana
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/01/exclusivo-russia-disponibilizara-remedio-contra-covid-19-na-proxima-semana.htm
+--
+📊 Epidemiologia
+
+▶️ Cientistas brasileiros desenvolvem aplicativo que monitora em tempo real a tendência de aceleração ou desaceleração do crescimento da Covid-19
+http://agencia.fapesp.br/cientistas-brasileiros-desenvolvem-acelerometro-da-covid-19/33278/
+
+▶️ Brasil teve maior número de novos casos e mortes no mundo em uma semana
+https://noticias.uol.com.br/colunas/jamil-chade/2020/06/01/brasil-teve-maior-numero-de-novos-casos-e-mortes-no-mundo-em-uma-semana.htm
+
+⏩ Especial: Brasil passa a casa de meio milhão de casos
+https://noticias.uol.com.br/reportagens-especiais/brasil-passa-dos-500-mil-casos-de-covid/index.htm#ja-somos-500-mil
+
+▶️ Dados do governo indicam 140% a mais de mortes por Covid-19 no país. Nº de óbitos até início de maio pode ultrapassar 16 mil, mais do que o dobro do que o Ministério da Saúde divulgou à época
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/dados-do-governo-indicam-140-a-mais-de-mortes-por-covid-no-pais.shtml
+
+▶️ 1,8 mil indígenas são infectados por Covid-19 em 78 povos no Brasil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/01/18-mil-indigenas-sao-infectados-por-covid-19-em-78-povos-no-brasil-diz-organizacao.ghtml
+
+▶️ Como foram controladas as pandemias de Sars e Mers (e no que elas se diferenciam da atual)
+https://www.bbc.com/portuguese/internacional-52815216
+
+▶️ Testes em massa em Wuhan podem ter erradicado coronavírus na região
+https://noticias.uol.com.br/ultimas-noticias/bloomberg/2020/06/01/testes-em-massa-em-wuhan-podem-ter-erradicado-coronavirus-na-regiao.htm
+
+▶️ O que está por trás da 'explosão' de mortes em casa em meio à pandemia
+https://www.bbc.com/portuguese/brasil-52802249
+
+⏩ Com coronavírus, cai o número de atendimentos médicos e cresce o de mortes por outras doenças
+https://www.bbc.com/portuguese/brasil-52802104
+
+▶️ Europa avança na reabertura; América Latina supera um milhão de casos
+https://g1.globo.com/mundo/noticia/2020/06/01/europa-avanca-na-reabertura-al-supera-um-milhao-de-casos-de-covid-19.ghtml
+
+▶️ Como cidade na fronteira com Brasil se tornou a líder de casos na Colômbia
+https://www.bbc.com/portuguese/internacional-52864994
+
+↪️ RJ registra 5.344 óbitos e 53.388 casos. Há 1.293 mortes em investigação e 260 foram descartadas. Entre os confirmados, 38.735 pacientes se recuperaram
+
+↪️ PE confirmou mais 1.032 infectados e 67 mortos ontem. Estado tem 34.450 casos e 2.807 óbitos
+--
+🏡 Distanciamento social
+
+▶️ RJ: confira os pontos do esboço do decreto estadual que permite funcionamento de shoppings e comércio a partir do dia 8
+https://oglobo.globo.com/rio/reabertura-do-rio-confira-os-pontos-do-esboco-do-decreto-estadual-que-permite-funcionamento-de-shoppings-comercio-partir-do-dia-8-1-24456145
+
+⏩ RJ: capital anuncia reabertura gradual a partir de terça. Lojas de decoração e concessionárias poderão reabrir; atividade no calçadão e celebrações em igrejas serão liberadas
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/01/prefeitura-do-rio-anuncia-que-vai-fazer-reabertura-gradual-em-seis-fases.ghtml
+
+▶️ SP: novas regras de quarentena entram em vigor nesta segunda, autorização para funcionar segue apenas para comércio essencial
+https://g1.globo.com/sp/sao-paulo/noticia/2020/06/01/novas-regras-de-quarentena-entram-em-vigor-nesta-segunda-em-sp-entenda.ghtml
+
+▶️ DF: comerciantes apresentam estudo pedindo reabertura. O estudo compara as taxas de letalidade por coronavírus no DF com outras cidades brasileiras que já reabriram. DF tem 8.300 casos e 142 mortes.
+https://economia.uol.com.br/noticias/redacao/2020/06/01/coronavirus-comerciantes-do-df-apresentam-estudo-pedindo-reabertura.htm
+--
+🥼 Saúde Pública
+
+▶️ "Há uma politização excessiva da pandemia", diz Fernando Bozza, médico infectologista e pesquisador da Fiocruz 
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/01/ha-uma-politizacao-excessiva-da-pandemia-diz-medico-infectologista-da-fiocruz.htm
+
+▶️ Como a peste bubônica fez surgir as duas instituições de pesquisa mais importantes do Brasil: Fiocruz e Instituto Butantan
+https://www.bbc.com/portuguese/brasil-52801687
+
+▶️ Ministério da Saúde institui Centros Comunitários de Referência para testagem e identificação precoce de casos de síndrome gripal ou Covid-19.
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/centros-comunitarios-identificarao-de-forma-precoce-covid-19
+✏️ Portaria
+http://www.in.gov.br/en/web/dou/-/portaria-n-1.445-de-29-de-maio-de-2020-259414867
+
+▶️ RJ: taxa de ocupação de leitos de UTI para Covid-19 na capital é de 91%
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/taxa-de-ocupacao-de-leitos-de-uti-para-covid-19-no-rio-e-de-91
+
+▶️ Máscaras compradas na China estão finalmente chegando ao país
+https://saude.estadao.com.br/noticias/geral,enfim-as-mascaras-compradas-na-china-estao-chegando-ao-pais,70003320391
+
+▶️ Pandemia afeta tratamento de hipertensão em mais de metade dos países
+https://www1.folha.uol.com.br/cotidiano/2020/06/pandemia-afeta-tratamento-de-hipertensao-em-mais-de-metade-dos-paises.shtml
+
+▶️ Dia Mundial sem Tabaco analisa relação do tabagismo com a Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/dia-mundial-sem-tabaco-analisa-relacao-do-tabagismo-com-covid-19
+
+▶️ OMS diz que gostaria de continuar colaborando com os EUA
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/01/oms-diz-que-gostaria-de-continuar-colaborando-com-os-estados-unidos.ghtml
+
+⏩ Análise: OMS deve passar por auditoria urgente para restabelecer governança e prioridades
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/01/oms-deve-passar-por-auditoria-urgente-para-restabelecer-governanca-e-prioridades.htm
+
+⏩ Líderes mundiais criticam ruptura dos EUA com a OMS
+https://g1.globo.com/mundo/noticia/2020/05/30/lideres-mundiais-criticam-ruptura-dos-estados-unidos-com-a-oms.ghtml
+
+▶️ Suspeitos de fraudar venda de respiradores são presos no DF e RJ
+
+↪️ Um em cada 5 médicos diz que está capacitado para atender Covid-19
+
+↪️ Com cirurgias adiadas e alto custo da Covid-19, hospitais privados temem fechar
+
+↪️ Sepultamentos sobem desde janeiro em SP; em abril, alta foi de 50%
+
+↪️ Gripe: vacinação é prorrogada para público de todas as fases da campanha até dia 30
+--
+🗂️ Política
+
+▶️ Verba adicional para a saúde na pandemia alcança R$ 54,5 bilhões. Valor representa 16,3% dos recursos liberados pelo governo, mas até agora só R$ 9,1 bilhões saíram dos cofres públicos
+https://saude.estadao.com.br/noticias/geral,verba-adicional-para-a-saude-na-pandemia-alcanca-r-54-5-bilhoes,70003320359
+
+▶️ Redução de repasses na pandemia põe governadores em choque com Legislativo e Judiciário nos estados
+https://www1.folha.uol.com.br/poder/2020/06/reducao-de-repasses-na-pandemia-poe-governadores-em-choque-com-legislativo-e-judiciario-nos-estados.shtml
+
+▶️ Bolsonaro contrariou aliados e conselhos de assessores ao participar do ato de domingo
+https://g1.globo.com/politica/blog/valdo-cruz/post/2020/06/01/bolsonaro-contrariou-aliados-e-conselhos-de-assessores-ao-ir-ao-ato-do-domingo.ghtml
+--
+🌐 Internacional
+
+🇮🇷 Irã anunciou cerca de 3.000 novos casos nas últimas 24 horas, o número mais alto em dois meses
+
+🇵🇹 Portugal teve 297 novos casos ontem. País registra 1.410 mortes e 32.500 casos 
+
+🇷🇺 Rússia: Moscou flexibiliza confinamento apesar de aumento de casos. Após mais de 9.000 novos casos registrados em apenas um dia, país superou 400.000 infectados com 4.693 mortes
+
+🇲🇽 México registrou 3.152 novos contágios e 151 óbitos. País tem 90.664 casos confirmados e 9.930 mortes.
+
+🇨🇴 Colômbia confirmou 1.147 novos casos e 49 mortes. País tem 29.383 casos e 939 mortes
+
+🇵🇪 Peru registrou 8.805 casos e 135 mortes nas últimas 24h. País tem 164.476 casos e 4.506 mortes.
+
+🇦🇷 Argentina confirmou 637 novos infectados e 9 mortes. País tem 16.851 casos e 539 mortes.
+
+🇦🇺 Austrália registrou cerca de 7.200 casos e 103 mortes. País adotou plano de três etapas para retirar a maioria das restrições até julho
+
+🇺🇸 EUA: protestos contra violência policial provocam temores de maior disseminação 
+
+🇨🇳 China reportou 16 novos casos, o maior aumento em quase três semanas. País tem 83.017 casos e 4.634 mortes
+
+🇰🇷 Coreia do Sul registrou 238 casos nos últimos cinco dias. Infecções foram ligadas a casas noturnas, restaurantes e um enorme armazém de comércio eletrônico
+
+🇰🇵 Coreia do Norte: escolas retomam atividades 
+
+🇦🇲 Armênia: primeiro-ministro Nikol Pashinián testa positivo
+--
+🔍 Recortes da pandemia
+
+▶️ Como se manter informado sobre a pandemia sem sofrer 'overdose' de notícias
+https://www.bbc.com/portuguese/vert-cap-52728277
+
+▶️ As universidades nunca mais serão as mesmas após a crise do coronavírus
+https://www.nature.com/articles/d41586-020-01518-y
+
+▶️ Desde o tempo de Galileu, negação da ciência passou do campo religioso para o político, diz astrofísico
+https://www.bbc.com/portuguese/internacional-52803301
+
+▶️ Pesquisadores defendem economia ambientalista para superar a crise causada pela Covid-19
+http://agencia.fapesp.br/pesquisadores-defendem-economia-ambientalista-para-superar-a-crise-causada-pela-covid-19/33279/
+
+▶️ Suspensão de aulas devido ao novo coronavírus coloca a alfabetização de uma geração em risco
+https://oglobo.globo.com/sociedade/coronavirus/suspensao-de-aulas-devido-ao-novo-coronavirus-coloca-alfabetizacao-de-uma-geracao-em-risco-24455814
+
+▶️ Os riscos da quarentena para as mulheres
+https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2020/05/31/os-riscos-da-quarentena-para-as-mulheres.ghtml
+
+▶️ Pós-pandemia pode ser de sofrimento mental generalizado ou de redescoberta da solidariedade, diz pensador italiano
+https://www.bbc.com/portuguese/geral-52465777
+
+▶️ Crise escancara desigualdade, e Brasil terá retomada lenta, dizem economistas
+https://g1.globo.com/economia/noticia/2020/06/01/recuperacao-pos-pandemia-crise-escancara-desigualdade-e-brasil-tera-retomada-lenta-dizem-economistas.ghtml
+
+▶️ Turnos alternados? As ideias que podem mudar o ambiente de trabalho pós-coronavírus
+https://economia.uol.com.br/noticias/bbc/2020/06/01/turnos-alternados-as-ideias-que-podem-mudar-o-ambiente-trabalho-pos-coronavirus.htm
+
+▶️ Pesquisadores não precisam mais de consentimento para acessar seus registros médicos no Reino Unido
+https://theconversation.com/coronavirus-researchers-no-longer-need-consent-to-access-your-medical-records-138567
+
+▶️ Pandemia tirou mundo de rota suicida do sistema econômico tradicional, diz Nobel da Paz
+https://www1.folha.uol.com.br/mercado/2020/05/pandemia-tirou-mundo-de-rota-suicida-do-sistema-economico-tradicional-diz-nobel-da-paz.shtml
+--
+✅ Curtas
+
+➡️ Médico causa polêmica ao afirmar que Itália está livre do coronavírus 
+
+➡️ Putin remarca votação adiada pela pandemia, e pode estender seu governo até 2036
+
+➡️ SP chega a 3.000 policiais afastados por suspeita de contaminação por Covid-19
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

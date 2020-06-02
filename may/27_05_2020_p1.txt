@@ -1,0 +1,154 @@
+Destaques - 27/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 394.507 casos; 24.600 mortes 
+🌎 Mundo: 5,6 milhões de casos; 351 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Ferramenta computacional permite selecionar antígenos do coronavírus para criar vacina terapêutica
+http://agencia.fapesp.br/ferramenta-computacional-permite-selecionar-antigenos-do-coronavirus-para-criar-vacina-terapeutica/33250/
+✏️ Custommune: a web tool to design personalized and population-targeted vaccine epitopes
+https://www.medrxiv.org/content/10.1101/2020.04.25.20079426v1
+
+▶️ Pessoas sem sintomas infectam durante 8 dias, aponta estudo em Wuhan
+https://www.cnnbrasil.com.br/saude/2020/05/27/pessoas-sem-sintomas-infectam-durante-8-dias-aponta-estudo-em-wuhan
+✏️ Comparison of Clinical Characteristics of Patients with Asymptomatic vs Symptomatic Coronavirus Disease 2019 in Wuhan, China
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2766237
+
+▶️ Vacina da Covid-19: conheça a situação das maiores pesquisas
+https://www.cnnbrasil.com.br/saude/2020/05/26/vacina-da-covid-19-conheca-a-situacao-das-maiores-pesquisas
+
+▶️ Anúncios de vacinas mudam a forma de trabalho de investidores, cientistas e jornalistas. Busca desesperada por solução contra o coronavírus provoca reação apressada e às vezes incompleta
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/anuncios-de-vacinas-mudam-a-forma-de-trabalho-de-investidores-cientistas-e-jornalistas.shtml
+--
+📊 Epidemiologia
+
+▶️ Novo método da Prefeitura do Rio para registrar óbitos com Covid-19 exclui 1.177 mortos da estatística. A partir desta terça-feira, serão consideradas na contagem apenas mortes cujos atestados de óbito contêm confirmação de infecção
+https://oglobo.globo.com/rio/novo-metodo-da-prefeitura-do-rio-para-registrar-obitos-com-covid-19-exclui-1177-mortos-da-estatistica-24447428
+
+▶️ Citada como exemplo por Bolsonaro, estratégia da Suécia contra coronavírus não serve para o Brasil, diz responsável por plano
+https://www.bbc.com/portuguese/internacional-52806218
+
+▶️ Com trabalhos arriscados e moradias superlotadas, latinos estão entre os mais infectados nos EUA
+https://internacional.estadao.com.br/noticias/geral,entenda-por-que-tantos-latinos-estao-entre-os-mais-infectados-nos-eua,70003315603
+
+▶️ Por que grupos defendem máscaras transparentes como padrão
+https://www.bbc.com/portuguese/geral-52806075
+
+▶️ Cidade chinesa estabelece ranking de notas e cores para controlar saúde de moradores
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/05/27/cidade-chinesa-estabelece-ranking-de-notas-e-cores-para-controlar-saude-de-moradores.ghtml
+--
+💊 Tratamento
+
+▶️ OMS retirou a cloroquina da lista de drogas que seriam testadas para tratamento da Covid-19 no programa internacional Solidarity.
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/oms-desiste-de-testar-cloroquina-em-tratamento-de-covid-19.shtml
+
+▶️ França proíbe uso da hidroxicloroquina para tratar a Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/27/franca-proibe-uso-da-hidroxicloroquina-para-tratar-a-covid-19.ghtml
+
+▶️ EUA doarão 2 milhões de comprimidos de hidroxicloroquina ao Brasil, diz Bolsonaro
+https://oglobo.globo.com/sociedade/covid-19-eua-doarao-2-milhoes-de-comprimidos-de-hidroxicloroquina-ao-brasil-diz-bolsonaro-24447978
+
+▶️ Procuradorias em estados recomendam ampliação do uso de cloroquina. Medidas em GO, MG e PI contrariam estudos científicos
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/procuradorias-em-estados-recomendam-ampliacao-do-uso-de-cloroquina.shtml
+--
+🏡 Distanciamento social
+
+▶️ Quarentena em SP é prorrogada por 15 dias com flexibilização progressiva em diferentes regiões do estado
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/27/quarentena-em-sp-e-prorrogada-com-flexibilizacao-progressiva-em-diferentes-regioes-do-estado.ghtml
+
+⏩ 'Retomada consciente' das atividades no estado acontecerá a partir de 1º de junho, segundo Doria
+https://www.cnnbrasil.com.br/politica/2020/05/27/doria-anuncia-retomada-consciente-das-atividades-no-estado-de-sao-paulo
+
+⏩ Iniciar flexibilização da quarentena em São Paulo pode ser prematuro. Ideal seria afrouxar isolamento somente quando curva de mortos e infectados estiver descendente
+https://saude.estadao.com.br/noticias/geral,iniciar-flexibilizacao-da-quarentena-em-sao-paulo-pode-ser-prematuro-dizem-especialistas,70003315722
+
+⏩ "Uma ação coordenada e bem estruturada fará com que não sigamos o lockdown na cidade de São Paulo", diz ex presidente da SBI.
+https://saude.estadao.com.br/noticias/geral,evidencias-da-quarentena,70003315713
+
+▶️ 'Lockdown' tem apoio de 60% dos brasileiros, diz Datafolha
+https://www1.folha.uol.com.br/cotidiano/2020/05/lockdown-tem-apoio-de-60-dos-brasileiros-diz-datafolha.shtml
+
+▶️ Países que priorizaram economia e não pauta social vivem momento grave na pandemia, diz Luiz Fux, presidente em exercício do STF
+https://g1.globo.com/politica/noticia/2020/05/27/fux-diz-que-paises-que-preferiram-modelo-economico-ao-social-vivem-momento-grave-na-pandemia.ghtml
+
+▶️ Crivella publica prorrogação de medidas de isolamento até a próxima terça-feira. Capital registrou 147 mortes e 824 novos casos em 24h
+https://oglobo.globo.com/rio/crivella-publica-prorrogacao-de-medidas-de-isolamento-contra-covid-19-ate-proxima-terca-feira-24447211
+
+⏩ Templos religiosos terão que seguir normas para reabrir no Rio: disponibilizar álcool gel 70%, garantir distância mínima de 2m e só permitir acesso e permanência com o uso de máscara
+https://oglobo.globo.com/rio/confira-as-normas-que-templos-religiosos-terao-que-seguir-para-reabrir-no-rio-24445863
+--
+🥼 Saúde Pública
+
+▶️ Jundiaí faz teste domiciliar contra coronavírus e ganha destaque em mapa da ONU
+https://saude.estadao.com.br/noticias/geral,jundiai-faz-teste-domiciliar-contra-coronavirus-e-ganha-destaque-em-mapa-da-onu,70003315581
+
+🎙️ Podcast: a realidade do socorro às vítimas da Covid-19 no Brasil
+https://g1.globo.com/bemestar/podcast/noticia/2020/05/27/bem-estar-40-a-realidade-do-socorro-as-vitimas-da-covid-19-no-brasil.ghtml
+--
+🗂️ Política
+
+▶️ Lewandowski rejeita recurso do ‘Estadão’ para certificar que Bolsonaro entregou todos os exames de Covid-19. Para ministro do STF, eventuais questionamentos sobre a validade dos exames devem ser esclarecidos na Justiça Federal de São Paulo
+https://politica.estadao.com.br/blogs/fausto-macedo/lewandowski-rejeita-recurso-do-estadao-para-certificar-que-bolsonaro-entregou-todos-os-exames-de-covid-19/
+
+▶️ A despedida de Wanderson Oliveira do Ministério da Saúde: 'Tinha uma pedra no meio do caminho'. Leia trechos da carta do ex-secretário de Vigilância em Saúde que desenhou a estratégia de prevenção e combate à Covid-19 no Brasil.
+https://www.huffpostbrasil.com/entry/wanderson-oliveira_br_5ecdd3b4c5b6d40c1d5560e8
+
+▶️ Após deixar Ministério da Saúde, Gabbardo passa a integrar equipe de Doria
+https://www.cnnbrasil.com.br/nacional/2020/05/27/apos-deixar-ministerio-da-saude-gabbardo-passa-a-integrar-equipe-de-doria
+
+▶️ Pazuello nomeia coronel do Exército Luiz Otávio Franco Duarte para Secretaria de Atenção Especializada à Saúde do MS
+https://www.cnnbrasil.com.br/politica/2020/05/27/pazuello-nomeia-coronel-do-exercito-para-secretaria-do-ministerio-da-saude
+
+▶️ Receita médica de David Uip, que prescrevia difosfato de cloroquina, foi vazada por gerente de farmácia
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/05/receita-medica-de-david-uip-foi-vazada-por-gerente-de-farmacia.shtml
+--
+🌐 Internacional
+
+🌍 África tem aumento de 30% de casos em apenas uma semana. Continente tem 118.927 infectados, nº de óbitos chegou a 3.574
+
+🇰🇷 Coreia do Sul tem 40 novos casos, total chega a 11.265,  aumento mais expressivo desde 8 de abril
+
+🇲🇽 México registra um total de 8.134 mortes e 74.560 casos. Aumento de 3.455 infecções registradas e mais 501 mortes em 24h
+
+🇨🇭 Suíça registrou mais de 30 mil casos e 1.917 mortes. País anunciou novo relaxamento em medidas de contenção 
+
+🇹🇭 Tailândia tem nove novas infecções, elevando o total para 3.054 casos.  No país, 2.931 pacientes se recuperaram e 57 morreram.
+
+🇪🇸 Espanha realiza luto oficial de 10 dias pelos mortos da Covid-19
+
+🇵🇦 Panamá reabre mais setores econômicos e flexibiliza quarentena
+
+🇨🇳 China planeja relaxar restrições a voos internacionais. Em Wuhan,  6,5 milhões, de um total de 11 milhões de habitantes, passaram por exames.
+
+🇳🇿 Nova Zelândia anuncia que não tem mais pacientes internados por Covid-19
+--
+🔍 Recortes da pandemia
+
+▶️ Vírus na China pode sobreviver à epidemia e desperta o temor com a privacidade. Software de rastreamento do vírus usado pelo governo coleta informações como dados de localização de pessoas em centenas de cidades 
+https://internacional.estadao.com.br/noticias/geral,virus-na-china-pode-sobreviver-a-epidemia-e-desperta-o-temor-com-a-privacidade,70003315662
+
+▶️ 'Estado precisa socorrer os mais vulneráveis', diz fundador da Central Única das Favelas (Cufa)
+https://saude.estadao.com.br/noticias/geral,o-estado-precisa-socorrer-os-mais-vulneraveis-diz-fundador-da-central-unica-das-favelas,70003315540
+
+▶️ Brasil fecha 1,1 milhão de vagas com carteira assinada desde o começo da pandemia
+https://www1.folha.uol.com.br/mercado/2020/05/brasil-fecha-11-milhao-de-vagas-com-carteira-assinada-desde-o-comeco-da-pandemia.shtml
+
+▶️ Pandemia ameaça criar 'geração perdida' de jovens expondo-os a empregos precários, diz OCDE
+https://www.bbc.com/portuguese/internacional-52814564
+
+▶️ Plataforma de divulgação científica identifica fake news sobre Covid-19
+http://agencia.fapesp.br/plataforma-de-divulgacao-cientifica-identifica-fake-news-sobre-covid-19/33252/
+--
+✅ Curtas
+
+➡ ONU: estados aproveitam pandemia para restringir acesso ao aborto nos EUA
+
+➡ Conta de luz não terá cobrança extra até o fim do ano, informa Aneel
+
+➡ Governo diz que já identificou mais de 160 mil fraudes no auxílio emergencial
+
+➡ Pesquisa mostra que 77% dos americanos voltariam aos cinemas em até dois meses
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

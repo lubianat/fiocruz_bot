@@ -1,0 +1,144 @@
+Destaques - 22/05/2020 [parte 2] 
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 330.890 casos; 21.048 mortes 
+🌎 Mundo: 5,1 milhões de casos; 336 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Pesquisadores desvendam o mecanismo que torna o coronavírus mais grave em diabéticos. O artigo encontra-se em revisão na Cell Metabolism, mas já está disponível em versão preprint
+http://agencia.fapesp.br/pesquisadores-desvendam-mecanismo-que-torna-covid-19-mais-grave-em-diabeticos/33237/
+✏️ Elevated Glucose Levels Favor Sars-Cov-2 Infection and Monocyte Response Through a Hif-1α/Glycolysis Dependent Axis
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3606770
+
+▶️ Vacina chinesa para a Covid-19 tem resultados iniciais seguros e induz a resposta imunológica em humanos. Estudo acompanhou 108 voluntários saudáveis e trouxe resultados promissores em menos de um mês.
+https://g1.globo.com/bemestar/vacina/noticia/2020/05/22/em-teste-inicial-vacina-chinesa-contra-a-covid-19-tem-resultados-seguros-e-induz-resposta-imunologica.ghtml
+✏️ Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31208-3/fulltext
+
+▶️ Estudo indica não haver indício de que vitamina D ajuda a prevenir Covid-19
+https://www.uol.com.br/vivabem/noticias/efe/2020/05/22/estudo-indica-nao-haver-indicio-de-que-vitamina-d-ajuda-a-prevenir-a-covid.htm
+✏️ Vitamin D and SARS-CoV-2 virus/COVID-19 disease 
+https://nutrition.bmj.com/content/early/2020/05/15/bmjnph-2020-000089
+
+▶️ Estudo identifica lesões na placenta de grávidas diagnosticadas com Covid-19. Nascimentos não foram afetados, mas descoberta dos pesquisadores sugerem alterações no fluxo sanguíneo entre as mães e feto.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/22/estudo-identifica-lesoes-na-placenta-de-gravidas-diagnosticadas-com-covid-19.ghtml
+✏️ Placental Pathology in Covid-19 
+https://academic.oup.com/ajcp/advance-article/doi/10.1093/ajcp/aqaa089/5842018
+
+▶️ EUA planejam mega esforço de testagem de vacinas contra coronavírus
+https://noticias.uol.com.br/saude/ultimas-noticias/reuters/2020/05/22/eua-planejam-mega-esforco-de-testagem-de-vacinas-contra-coronavirus.htm
+
+▶️ Governo do Brasil tem postura anticiência, diz pesquisador Luiz Davidovich, presidente da Academia Brasileira de Ciências, à revista Nature
+https://noticias.uol.com.br/colunas/diogo-schelp/2020/05/22/governo-do-brasil-tem-postura-anitciencia-diz-pesquisador-a-revista-nature.htm
+✏️ ‘Medications should be prescribed by doctors, not the president’: leading Brazilian scientist discusses the pandemic
+https://www.nature.com/articles/d41586-020-01506-2
+--
+📊 Epidemiologia
+
+▶️ Brasil: nas últimas 24h, foram incluídos ao balanço 1.001 registros de morte por Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/22/brasil-tem-21048-mortes-causadas-pelo-novo-coronavirus-diz-ministerio.ghtml
+
+⏩ Brasil registra 20.803 novos casos confirmados e se torna o segundo com mais casos no mundo
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/brasil-registra-1001-novas-mortes-por-coronavirus-e-se-torna-o-segundo-com-mais-casos-no-mundo.shtml
+
+▶️ Imperial College vê transmissão do coronavírus no Brasil fora de controle e calcula que 6.980 óbitos ocorram no país nesta semana, variando de 5.850 a 8.070
+https://saude.estadao.com.br/noticias/geral,imperial-college-ve-transmissao-do-coronavirus-no-brasil-fora-de-controle-e-estima-mortes,70003311663
+
+▶️ Vírus avança em México, Argentina e Peru. Contração econômica na região da América Latina e Caribe será de 5,3% este ano - a pior desde 1930; região tem 640 mil casos
+https://internacional.estadao.com.br/noticias/geral,virus-avanca-em-mexico-argentina-e-peru-e-torna-america-latina-novo-foco-da-pandemia,70003311163
+
+⏩ Análise: como a América do Sul se tornou o novo epicentro da pandemia de coronavírus
+https://www.bbc.com/portuguese/internacional-52779245
+
+▶️ São Paulo chega a 5.773 mortes por coronavírus; Grande SP tem 91,4% da UTIs ocupadas. Dos 645 municípios do estado, 500 já tem registro da doença
+https://saude.estadao.com.br/noticias/geral,sao-paulo-chega-a-5773-mortes-por-covid-19-com-76871-casos-grande-sp-tem-91-4-da-utis-ocupadas,70003311580
+
+▶️ Rio de Janeiro tem uma taxa de mortalidade por Covid-19 de 12,7%, quase o dobro da média nacional, de 6,5%. Na capital, os dados atualizados pelo IBGE às 9h10 de hoje contabilizavam 18.743 casos e 2.376 mortos.
+https://noticias.uol.com.br/saude/ultimas-noticias/estado/2020/05/22/rio-tem-letalidade-de-127-por-covid-quase-o-dobro-da-media-nacional-65.htm
+--
+💊 Tratamento
+
+▶️ Sociedade Brasileira de Cardiologia afirma não recomendar o uso da cloroquina e da hidroxicloroquina como tratamento inicial de pacientes com diagnóstico da Covid-19
+https://brpolitico.com.br/noticias/sociedade-brasileira-de-cardiologia-da-sugestoes-de-como-proceder-caso-o-paciente-opte-pela-cloroquina/
+✏️ Nota de Esclarecimento
+https://www.portal.cardiol.br/post/nota-de-esclarecimento-1
+
+▶️ Médico da USP explica estudo da Lancet e alerta que cloroquina 'pode matar'
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/22/medico-da-usp-explica-novo-estudo-e-ve-irresponsabilidade-com-a-cloroquina.htm
+--
+🏡 Distanciamento social
+
+▶️ UFRJ recomenda lockdown no Rio para evitar colapso da saúde em junho. Pico da epidemia no RJ deve ocorrer no início de junho, e número de infectados poderá chegar a 40 mil
+https://saude.estadao.com.br/noticias/geral,pesquisadores-da-ufrj-recomenda-lockdown-no-rio-para-evitar-colapso-da-saude-em-junho,70003311525
+
+▶️ Crivella faz acenos a Bolsonaro, mas não anuncia data de reabertura de atividades 
+https://brasil.estadao.com.br/noticias/rio-de-janeiro,apos-reuniao-crivella-faz-acenos-a-bolsonaro-mas-nao-anuncia-data-de-reabertura-de-atividades,70003311412
+
+▶️ Estado de São Paulo foi de plano para reabertura a possível lockdown em um mês
+https://www1.folha.uol.com.br/cotidiano/2020/05/estado-de-sao-paulo-foi-de-plano-para-reabertura-a-possivel-lockdown-em-um-mes.shtml
+
+▶️ Bolsonaro diz a parlamentares que avalia decreto para liberar praias a nadadores e surfistas
+https://saude.estadao.com.br/noticias/geral,bolsonaro-diz-a-parlamentares-que-avalia-decreto-para-liberar-praias-a-nadadores-e-surfistas,70003311561
+--
+🥼 Saúde Pública
+
+▶️ Crivella tira informações sobre óbitos da Covid-19 de plataforma online e diz que protocolo de contagem no Rio será revisto
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/22/crivella-tira-informacoes-sobre-obitos-da-covid-19-de-plataforma-online-e-diz-que-protocolo-de-contagem-no-rio-sera-revisto.ghtml
+
+▶️ Após suspeita de fraude, Hospital de Campanha de Casimiro de Abreu pode não ser aberto
+https://oglobo.globo.com/rio/apos-suspeita-de-fraude-hospital-de-campanha-de-casimiro-de-abreu-pode-nao-ser-aberto-1-24440446
+
+▶️ Médico confunde ao indicar cloroquina e criticar isolamento social e o uso de respiradores. Homem que aparece em vídeo faz afirmações sobre como lidar com a pandemia de coronavírus que não têm comprovação científica e são questionadas por diversas autoridades de saúde
+https://politica.estadao.com.br/blogs/estadao-verifica/medico-confunde-ao-indicar-cloroquina-e-criticar-isolamento-social-e-o-uso-de-respiradores/
+--
+🗂️ Política
+
+▶️ Em reunião, Bolsonaro reclama de pressão para mostrar exames de Covid-19 e que impeachment por isso seria 'babaquice'
+https://g1.globo.com/politica/noticia/2020/05/22/em-video-de-reuniao-bolsonaro-reclama-de-pressao-para-mostrar-exames-de-covid-19-e-que-abrir-impeachment-por-isso-seria-babaquice.ghtml
+
+⏩ Bolsonaro diz que pior que furar isolamento é passar fome: 'Tá na merda' 
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/22/bolsonaro-diz-que-pior-que-furar-isolamento-e-passar-fome-ta-na-m.htm
+
+⏩ Teich alertou o presidente e os ministros sobre uma "segunda fase" da crise da saúde no país, logo após o controle do coronavírus, durante a reunião ministerial de 22 de abril
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/22/teich-alertou-bolsonaro-sobredemanda-reprimida-de-pacientes-apos-pandemia.htm
+
+⏩ Ministro do Meio Ambiente defende passar 'a boiada' e 'mudar' regras enquanto atenção da mídia está voltada para a Covid-19
+https://g1.globo.com/politica/noticia/2020/05/22/ministro-do-meio-ambiente-defende-passar-a-boiada-e-mudar-regramento-e-simplificar-normas.ghtml
+
+▶️ Estado não pode praticar política pública que produza um genocídio, diz Luís Roberto Barroso, Ministro do Supremo
+https://g1.globo.com/politica/noticia/2020/05/22/existem-instituicoes-que-nao-podem-ser-capturadas-pelo-governo-diz-barroso.ghtml
+
+▶️ Organizações evangélicas repudiam Bolsonaro e manifestam apoio à ciência
+https://www1.folha.uol.com.br/cotidiano/2020/05/organizacoes-evangelicas-repudiam-bolsonaro-e-manifestam-apoio-a-ciencia.shtml
+
+▶️ Guedes: 'A China é aquele cara que você sabe que tem que aguentar'.
+https://economia.uol.com.br/noticias/redacao/2020/05/22/guedes-a-china-e-aquele-cara-que-voce-sabe-que-tem-que-aguentar.htm
+--
+🌐 Internacional
+
+🌍 África: casos ultrapassam os 100 mil, anuncia OMS. 18 países e 1 território da região africana têm mais de mil casos da doença. Já são mais de 3 mil mortes no continente.
+
+🇺🇸 EUA passam de 94 mil mortes com quase 1,6 milhão de casos confirmados
+--
+🔍 Recortes da pandemia
+
+🎦 Programa 'Combate ao Coronavírus' chega ao fim após 10 semanas informando sobre a pandemia
+https://g1.globo.com/bemestar/coronavirus/edicao/2020/05/22/videos-2205-combate-ao-coronavirus.ghtml#video-8572430-id
+
+▶️ Hipocondríacos relatam impacto psicológico da pandemia
+https://emais.estadao.com.br/noticias/comportamento,hipocondriacos-relatam-impacto-psicologico-da-pandemia-do-novo-coronavirus,70003311523
+
+▶️ A escritora que relatou a vida em Wuhan e despertou a ira dos nacionalistas
+https://www.bbc.com/portuguese/internacional-52769728
+
+🎦 Vídeo: ciência do coronavírus: como os vírus evoluem e o que isso pode significar numa pandemia?
+https://www.bbc.com/portuguese/geral-52748200
+--
+✅ Curtas
+
+➡ Trump pressiona governadores a reabrirem casas de culto 'agora mesmo'
+
+➡ Governador da Bahia segue São Paulo e antecipa feriados em Salvador e mais oito municípios
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

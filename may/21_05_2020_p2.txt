@@ -1,0 +1,193 @@
+Destaques - 21/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 310.087 casos; 20.047 mortes 
+🌎 Mundo: 5 milhões de casos; 331 mil mortes
+--
+▶️ Brasil registra 1.188 mortes por Covid-19 em 24 horas. Total passa de 20 mil.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/21/brasil-tem-20047-mortes-causadas-pelo-novo-coronavirus-diz-ministerio.ghtml
+--
+🧪 Diagnóstico
+
+▶️ Hospital Albert Einstein desenvolve teste para o coronavírus que une alta precisão e detecção em larga escala. Técnica foi patenteada nos Estados Unidos e estará disponível a partir de junho
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/21/hospital-albert-einstein-desenvolve-teste-para-o-coronavirus-que-une-alta-precisao-e-deteccao-em-larga-escala.ghtml
+
+⏩ Tecnologia permite analisar 16 vezes mais amostras por vez
+https://saude.estadao.com.br/noticias/geral,einstein-cria-teste-de-coronavirus-que-permite-analisar-16-vezes-mais-amostras-por-vez,70003310339
+
+▶️ Testes para Covid-19: conheça os diferentes tipos e saiba como fazer
+https://saude.estadao.com.br/noticias/geral,conheca-os-diferentes-testes-para-covid-19-e-saiba-quando-fazer,70003309254
+--
+🔬 Pesquisa científica
+
+▶️ Anvisa faz orientações sobre uso de plasma para combater Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/anvisa-faz-orientacoes-sobre-uso-de-plasma-para-combater-covid-19
+✏️ Nota técnica
+http://portal.anvisa.gov.br/documents/219201/4340788/SEI_ANVISA+-+1011896+-+Nota+T%C3%A9cnica+10+GHBIO+%28002%29.pdf/26070bd5-385d-47cf-8dd4-80e2095fa35e
+
+▶️ Macacos que se recuperaram da infecção pelo coronavírus estão protegidos da reinfecção, embora não seja claro quanto tempo a proteção dura, aponta pesquisa.
+✏️ SARS-CoV-2 infection protects against rechallenge in rhesus macaques
+https://science.sciencemag.org/content/early/2020/05/19/science.abc4776.full
+
+▶️ Vacina de DNA induziu produção de anticorpos e proteção contra desafio com o SARS-CoV-2 em macacos.
+✏️ DNA vaccine protection against SARS-CoV-2 in rhesus macaques
+https://science.sciencemag.org/content/early/2020/05/19/science.abc6284
+
+▶️ Pacientes idosos com Covid-19 em ventilação mecânica geralmente não sobrevivem, relatam hospitais de NY. 
+https://www.washingtonpost.com/health/elderly-covid-19-patients-on-ventilators-usually-do-not-survive-new-york-hospitals-report/2020/05/19/ba20e822-99f8-11ea-89fd-28fb313d1886_story.html
+✏️ Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31189-2/fulltext
+
+▶️ Autópsia dos pulmões de sete pacientes que morreram de Covid-19 mostrou angiogênese aumentada. Nos pulmões, a quantidade de crescimento de novos vasos era 2,7 vezes maior que a dos pulmões de pacientes com influenza.
+✏️ Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMoa2015432?query=featured_coronavirus
+
+▶️ Estudo americano mostra que pacientes com Covid-19 tiveram AVCs mais graves
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/21/estudo-americano-mostra-que-pacientes-com-covid-19-tiveram-avcs-mais-graves.htm
+✏️ SARS-CoV-2 and Stroke in a New York Healthcare System
+https://www.ahajournals.org/doi/10.1161/STROKEAHA.120.030335
+
+▶️ Novos estudos mostram que o nariz pode conter as respostas de por que as crianças parecem menos vulneráveis ​​à infecção pelo novo coronavírus e por que a perda do olfato é um sintoma de Covid-19.
+https://www.reuters.com/article/us-health-coronavirus-science/monkey-studies-encouraging-for-coronavirus-vaccine-virus-travels-further-on-breezy-days-idUSKBN22W2RP
+✏️ Nasal Gene Expression of Angiotensin-Converting Enzyme 2 in Children and Adults
+https://jamanetwork.com/journals/jama/fullarticle/2766524
+✏️ Expression of the SARS-CoV-2 Entry Proteins, ACE2 and TMPRSS2, in Cells of the Olfactory Epithelium: Identification of Cell Types and Trends with Age
+https://pubs.acs.org/doi/full/10.1021/acschemneuro.0c00210
+
+▶️ Em dias ventosos, ficar a dois metros de distância de outras pessoas pode não ser suficiente para evitar gotículas de saliva que contêm o novo coronavírus, de acordo com dois artigos
+✏️ On coughing and airborne droplet transmission to humans
+https://aip.scitation.org/doi/10.1063/5.0011960
+✏️ Influence of wind and relative humidity on the social distancing effectiveness to prevent Covid-19 airborne transmission: A numerical study
+https://www.sciencedirect.com/science/article/pii/S0021850220300744?via%3Dihub
+
+▶️ Menos pacientes estão chegando aos hospitais com ataques cardíacos e derrames; médicos temem que as pessoas estejam fugindo das salas de emergência com medo da Covid-19.
+✏️ The Covid-19 Pandemic and the Incidence of Acute Myocardial Infarction
+https://www.nejm.org/doi/full/10.1056/NEJMc2015630
+✏️ Collateral Effect of Covid-19 on Stroke Evaluation in the United States
+https://www.nejm.org/doi/10.1056/NEJMc2014816
+✏️ The Covid-19 Pandemic and Acute Aortic Dissections in New York: A Matter of Public Health
+https://www.sciencedirect.com/science/article/abs/pii/S0735109720353109?via%3Dihub
+
+▶️ Mulheres estão publicando menos durante a pandemia? Análises sugerem que, em todas as disciplinas, a taxa de publicação de mulheres caiu em relação à dos homens
+https://www.nature.com/articles/d41586-020-01294-9
+✏️ Covid-19’s gendered impact on academic productivity
+https://github.com/drfreder/pandemic-pub-bias/blob/master/README.md
+--
+📊 Epidemiologia
+
+▶️ Fiocruz alerta que mais de 7,8 milhões de brasileiros moram em lugares onde a distância para um local onde haja atendimento adequado para a doença seja de pelo menos quatro horas
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/05/21/fiocruz-78-milhoes-de-brasileiros-nao-tem-atendimento-adequado.htm
+
+▶️ Mais de 100 mil brasileiros devem morrer de Covid-19, segundo especialistas e profissionais de saúde pública, que advertiram que a pobreza generalizada e a desigualdade social no país alimentarão um aumento explosivo dos casos.
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/especialistas-preveem-mais-de-100-mil-mortes-por-coronavirus-no-brasil.shtml
+⏩ Brazil emerges as a top global coronavirus hotspot
+https://www.ft.com/content/065c783e-2402-4c0d-ad40-1b5e38ae96d4
+
+▶️ Coronavírus avança pelo interior e já está em mais de 60% dos municípios. Número de cidades com casos confirmados aumentou 12 vezes em menos de 2 meses.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/21/em-menos-de-dois-meses-total-de-municipios-com-casos-de-covid-19-aumentou-quase-12-vezes.ghtml
+
+⏩ Epidemia vive 'nova etapa' e avanço ao interior é inevitável, diz ministro interino
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/epidemia-de-coronavirus-vive-nova-etapa-e-avanco-ao-interior-e-inevitavel-diz-ministro-interino-da-saude.shtml
+
+▶️ Após quase três meses, primeira paciente diagnosticada com Covid-19 no DF recebe alta da UTI
+https://g1.globo.com/df/distrito-federal/noticia/2020/05/21/primeira-paciente-diagnosticada-com-covid-19-no-df-recebe-alta-da-uti.ghtml
+
+▶️ RJ chegou a 32.089 casos confirmados e 3.412 mortes. Nas últimas 24h foram 1.717 novos casos e 175 óbitos.
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/rio-tem-32-mil-casos-confirmados-e-3412-mortes-por-covid-19
+
+▶️ SP: com 195 novos registros de mortes em 24h, chega a 5.558 número de vítimas no estado
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/21/com-195-novos-registros-de-mortes-em-24-horas-chega-a-5558-numero-de-vitimas-de-covid-19-no-estado-de-sp.ghtml
+--
+💊 Tratamento
+
+▶️ Ministério da Saúde muda texto com orientações sobre uso de cloroquina. Nova versão tem mudança no título, recolhe assinaturas de técnicos do ministério e traz alterações nas referências.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/21/ministerio-da-saude-divulga-versao-de-orientacoes-sobre-cloroquina-com-asinaturas.ghtml
+--
+🏡 Distanciamento social
+
+▶️ CDC lançou orientação completa de 60 páginas sobre como reabrir com segurança. Documento é um roteiro atrasado para a reabertura de escolas, creches, restaurantes e transporte coletivo, semanas depois que os estados começaram a abrir em seus próprios termos.
+https://www.washingtonpost.com/local/education/cdc-guidelines-released-at-last-offer-low-key-guide-to-reopening/2020/05/19/c99eb63a-99f8-11ea-a282-386f56d579e6_story.html
+✏️ CDC Activities and Initiatives Supporting the COVID-19 Response and the President’s Plan for Opening America Up Again
+https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Activities-Initiatives-for-COVID-19-Response.pdf
+
+▶️ Crivella se reúne com Bolsonaro e anuncia que deve começar reabertura 'nos próximos dias'
+https://oglobo.globo.com/rio/covid-19-crivella-se-reune-com-bolsonaro-anuncia-que-deve-comecar-reabertura-nos-proximos-dias-24438861
+
+▶️ RJ: Niterói começa a flexibilizar isolamento social. Cidade havia entrado em lockdown no último dia 11
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/niteroi-comeca-flexibilizar-isolamento-social
+
+▶️ SP: isolamento social sobe para 51% na capital no feriado de quarta; taxa no estado é de 49%
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/21/isolamento-social-sobe-para-51percent-na-cidade-de-sp-no-feriado-de-quarta-taxa-no-estado-e-de-49percent.ghtml
+
+▶️ Soubemos do feriadão pela imprensa, diz prefeito de Santos
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/21/soubemos-de-feriado-por-meio-pela-imprensa-diz-prefeito-de-santos.htm
+
+▶️ Doria nega que tenha decretado lockdown em São Paulo. Circulam pelas redes sociais mensagens que dizem que governo fez um projeto de lei com a proibição de circulação de pessoas
+https://g1.globo.com/sp/sao-paulo/noticia/2020/05/21/doria-nega-que-tenha-decretado-lockdown-em-sao-paulo.ghtml
+
+▶️ Em alguns países, centros de isolamento do governo ajudaram a reduzir infecções. Os EUA resistiram à estratégia, reflexo dos custos e prioridades conflitantes, normas culturais e desconfiança do governo.
+https://www.washingtonpost.com/health/in-some-nations-government-isolation-centers-helped-reduce-covid-19-infections-the-us-has-resisted-the-strategy/2020/05/19/533850d6-9616-11ea-9f5e-56d8239bf9ad_story.html
+--
+🥼 Saúde Pública
+
+▶️ Inauguração dos hospitais de campanha do Rio de Janeiro é adiada 
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/05/21/inauguracao-dos-hospitais-de-campanha-do-rio-de-janeiro-e-adiada.htm
+
+▶️ Mundo quer evitar guerra de vacinas; Trump joga por si mesmo
+https://noticias.uol.com.br/saude/ultimas-noticias/afp/2020/05/21/mundo-quer-evitar-guerra-de-vacinas-trump-joga-por-si-mesmo.htm
+
+▶️ MG: Zema prevê volta das aulas, critica prefeito de BH e minimiza subnotificações. Estado tem 5.596 casos e 191 óbitos
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/21/zema-retorno-aulas-critica-kalil.htm
+
+▶️ SP: sistema prisional registra 22 mortes por Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/sistema-prisional-de-sao-paulo-registra-22-mortes-por-covid-19
+--
+🗂️ Política
+
+▶️ Economia cita R$ 125,8 bi em medidas de suporte a estados e municípios
+https://economia.uol.com.br/noticias/estadao-conteudo/2020/05/21/ministerio-cita-r-1258-bi-em-medidas-de-suporte-a-estado-e-municipio.htm
+
+▶️ Congresso aprova crédito suplementar de R$ 343,6 bilhões para despesas
+https://agenciabrasil.ebc.com.br/politica/noticia/2020-05/congresso-aprova-credito-suplementar-de-r-3436-bilhoes-para-despesas
+
+▶️ Maioria do STF vota por limitar MP que livra agente público de punição durante pandemia
+https://g1.globo.com/politica/noticia/2020/05/21/maioria-do-stf-vota-por-limitar-mp-que-livra-agente-publico-de-punicao-durante-pandemia.ghtml
+
+▶️ Congresso avalia adiar 1º turno das eleições para 15 de novembro ou 6 de dezembro
+https://g1.globo.com/politica/eleicoes/2020/noticia/2020/05/21/congresso-avalia-adiar-1o-turno-das-eleicoes-para-15-de-novembro-ou-6-de-dezembro-diz-maia.ghtml
+
+▶️ Deputados abrem crédito e autorizam governo a contornar 'regra de ouro'
+https://g1.globo.com/politica/noticia/2020/05/21/congresso-deputados-abrem-credito-e-autorizam-governo-a-contornar-regra-de-ouro.ghtml
+--
+🌐 Internacional
+
+🇪🇸 Espanha aposta que em julho poderá receber turistas estrangeiros em segurança 
+
+🇹🇿 Tanzânia: presidente defende imunidade de rebanho
+--
+🔍 Recortes da pandemia
+
+▶️ Quase metade das contas que tuítam sobre coronavírus provavelmente são robôs, aponta pesquisa. Pesquisadores identificaram mais de 100 narrativas falsas proliferando por contas controladas por robôs.
+https://www.npr.org/sections/coronavirus-live-updates/2020/05/20/859814085/researchers-nearly-half-of-accounts-tweeting-about-coronavirus-are-likely-bots
+--
+✅ Curtas
+
+➡ EUA doam US$ 3 milhões para ajudar Brasil no combate à pandemia
+
+➡ Ministro interino da Saúde convida Nelson Teich para aconselhar pasta
+
+➡ Deputada vai à Câmara vestindo máscara com a frase de Bolsonaro: 'E daí?'
+
+➡ INSS inicia na segunda-feira pagamento da segunda parcela do 13º de aposentados e pensionistas
+
+➡ Witzel pede reunião com Bolsonaro e explica críticas ao presidente 
+
+➡ Retorno de jogadores a treinos é responsabilidade de dirigentes, diz Witzel 
+
+➡ Pobreza causada por coronavírus aumenta casos de sexo em troca de moradia 
+
+➡ EUA doam R$ 31 milhões em ventiladores para a Rússia 
+
+➡ EUA perdem 38,6 milhões de empregos e pode demandar mais ajuda, diz secretário do Tesouro 
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

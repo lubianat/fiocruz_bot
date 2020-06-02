@@ -1,0 +1,168 @@
+Destaques - 01/06/2020 [parte 2] 
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 526.447 casos; 29.937 mortes 
+🌎 Mundo: 6,6 milhões de casos; 374 mil mortes
+--
+➕ Brasil tem 623 registros de morte por Covid-19 em 24 horas e se aproxima de 30 mil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/01/brasil-registra-29937-mortes-de-covid-19-diz-ministerio.ghtml
+--
+🔬 Pesquisa científica
+
+❇️ Fiocruz desenvolve novo protocolo para sequenciamento do coronavírus. Metodologia oferece ampla cobertura de todo o genoma do vírus e reduz falhas que podem ocorrer no processo
+https://odia.ig.com.br/rio-de-janeiro/2020/06/5926698-fiocruz-desenvolve-novo-protocolo-para-sequenciamento-do-coronavirus.html
+
+▶️ Distância de 2 m, máscaras e proteção aos olhos podem reduzir dispersão da Covid-19. Pesquisa analisou mais de 200 estudos observacionais em 16 países sobre o uso dessas proteções e aponta que elas ajudam, mas não evitam totalmente o risco de infecção
+https://saude.estadao.com.br/noticias/geral,distancia-de-2-m-mascaras-e-protecao-aos-olhos-podem-reduzir-dispersao-da-covid-19,70003321507
+✏️ Mortality and pulmonary complications in patients undergoing surgery with perioperative SARS-CoV-2 infection: an international cohort study
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31182-X/fulltext
+
+▶️ Sequenciamento de 84 genomas do SARS-CoV2 indica múltiplas introduções independentes, mas isoladas, principalmente da Europa e de outras partes dos Estados Unidos.
+✏️ Introductions and early spread of SARS-CoV-2 in the New York City area
+https://science.sciencemag.org/content/early/2020/05/28/science.abc1917
+
+▶️ Estudo aponta que infectados com Covid-19 perdem em média 80% do olfato
+https://www.cnnbrasil.com.br/saude/2020/05/30/estudo-aponta-que-infectados-com-covid-19-perdem-em-media-80-do-olfato
+
+▶️ Farmacêutica Eli Lilly começa a testar em humanos tratamento contra Covid-19. O primeiro de um tratamento com anticorpos contra a doença
+https://economia.uol.com.br/noticias/reuters/2020/06/01/eli-lilly-comeca-a-testar-em-humanos-tratamento-contra-covid-19.htm
+
+▶️ Robovid-19 criado pela UFF tira dúvidas sobre novo coronavírus
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/robovid-19-criado-pela-uff-tira-duvidas-sobre-novo-coronavirus
+
+▶️ Cientistas enfrentam trabalho por turnos, máscaras e distanciamento à medida que os lockdowns pelo coronavírus diminuem
+https://www.nature.com/articles/d41586-020-01587-z
+
+▶️ Brasil entra em rede global de produção de vacinas contra Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/brasil-entra-em-rede-global-de-producao-de-vacinas-contra-covid-19.shtml
+--
+📊 Epidemiologia
+
+▶️ OMS acredita que Brasil e outros países do continente ainda não atingiram o pico da pandemia
+https://saude.estadao.com.br/noticias/geral,oms-acredita-que-brasil-e-outros-paises-do-continente-ainda-nao-atingiram-o-pico-da-pandemia,70003321050
+
+▶️ Estudo projeta pelo menos 85 mil mortes por Covid-19 no Brasil em julho - um aumento de 226% em relação aos números do Ministério da Saúde coletados em 28 de maio para fazer as projeções
+https://www.cnnbrasil.com.br/saude/2020/06/01/estudo-projeta-pelo-menos-85-mil-mortes-por-covid-19-no-brasil-em-julho
+
+▶️ Análise: protestos antirracismo vão provocar uma segunda onda de coronavírus nos EUA?
+https://www1.folha.uol.com.br/mundo/2020/06/protestos-antirracismo-vao-provocar-uma-2a-onda-de-coronavirus-nos-eua.shtml
+
+▶️ Intervenções precoces da África do Sul atrasaram o pico dos casos Covid-19. Artigo descreve os oito estágios da resposta nacional e os desafios em andamento.
+✏️ The South African Response to the Pandemic
+https://www.nejm.org/doi/full/10.1056/NEJMc2014960
+
+▶️ As mudanças nos ambientes de trabalho recomendadas pelo EUA para a reabertura
+https://www.bbc.com/portuguese/internacional-52879618
+✏️ Covid-19 Employer Information for Office Buildings
+https://www.cdc.gov/coronavirus/2019-ncov/community/office-buildings.html
+
+▶️ Recuperação do coronavírus pode durar três meses após alta hospitalar
+https://www.cnnbrasil.com.br/saude/2020/05/30/recuperacao-do-coronavirus-pode-durar-tres-meses-apos-alta-hospitalar
+
+▶️ RJ registrou 54.530 casos e 5.462 mortes. São 1.142 casos e 118 óbitos a mais em 24h. Há ainda 1.288 óbitos em investigação e 40.355 pacientes se recuperaram 
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/rj-registra-54-mil-casos-confirmados-e-5462-mortes-por-covid-19
+
+▶️ São Paulo registrou 111.296 casos e 7.667 mortes. Estado tem 4.681 pessoas internadas em UTI e 7.777 em enfermarias em casos suspeitos ou confirmados. Taxa de ocupação de leitos de UTI é de 69,3% e de 83,2% na Grande SP.
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/sao-paulo-tem-mais-de-111-mil-casos-confirmados-de-coronavirus
+--
+🏡 Distanciamento social
+
+▶️ Fiocruz defende em nota técnica, que o estado do Rio de Janeiro adote de forma rigorosa medidas de distanciamento social até que a situação da pandemia esteja sob controle no estado e municípios
+https://agenciabrasil.ebc.com.br/geral/noticia/2020-06/fiocruz-ainda-nao-e-momento-de-relaxar-isolamento-social-no-rio
+✏️ Nota técnica
+https://agencia.fiocruz.br/sites/agencia.fiocruz.br/files/u91/nota_tecnica_sobre_criterios_e_medidas_de_distanciamento_social_covid-19_28_05_2020.pdf
+
+⏩ Flexibilização do isolamento social no RJ coloca cidade em risco, diz Fiocruz
+https://canaltech.com.br/saude/flexibilizacao-do-isolamento-social-no-rj-coloca-cidade-em-risco-diz-fiocruz-165788/
+
+▶️ UFRJ recomenda lockdown no Rio 
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/ufrj-recomenda-lockdown-no-rio-para-conter-covid-19
+✏️ Nota técnica
+https://ufrj.br/sites/default/files/img-noticia/2020/05/nota_tecnica_covidimetros_erj.pdf
+
+▶️ Infectologista Júlio Croda critica flexibilização de isolamento
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/01/ex-ministerio-da-saude-infectologista-critica-flexibilizacao-de-isolamento.htm
+
+▶️ RJ: Crivella libera calçadão, igrejas e atividades esportivas individuais no mar a partir de terça-feira. Prefeitura aponta jogos com 1/3 do público nos estádios a partir de julho
+https://oglobo.globo.com/rio/reabertura-do-rio-crivella-libera-calcadao-igrejas-atividades-esportivas-individuais-no-mar-partir-de-terca-feira-24456676
+
+▶️ SP: Regras para início da flexibilização começam a valer; 90% do estado está nas fases 1 e 2
+https://sao-paulo.estadao.com.br/noticias/geral,regras-para-inicio-da-flexibilizacao-comecam-a-valer-em-sp-90do-estado-esta-nas-fases-1-e-2,70003321119
+
+⏩ SP: bares e restaurantes do interior adotam medidas para reabertura
+https://agenciabrasil.ebc.com.br/geral/noticia/2020-06/bares-e-restaurantes-do-interior-de-sp-adotam-medidas-para-reabertura
+
+▶️ CE: Fortaleza tem trânsito intenso e aglomeração em ônibus no primeiro dia de volta às atividades - 67 mil cearenses devem retornar ao trabalho, 44 mil somente na capital
+https://saude.estadao.com.br/noticias/geral,primeiro-dia-de-volta-as-atividades-em-fortaleza-tem-transito-intenso-e-aglomeracao-em-onibus,70003321335
+
+▶️ País já tem 36,5% dos shoppings reabertos
+https://economia.estadao.com.br/noticias/geral,com-inicio-da-retomada-das-atividades-comerciais-pais-ja-tem-36-5-dos-shoppings-reabertos,70003321288
+
+▶️ Reino Unido torna ilegal sexo entre pessoas que não moram na mesma casa
+https://www.uol.com.br/universa/noticias/redacao/2020/06/01/reino-unido-torna-ilegal-sexo-entre-pessoas-que-nao-moram-na-mesma-casa.htm
+
+↪️ RJ: São João de Meriti inicia reabertura do comércio na Baixada Fluminense
+
+↪️ SP: litoral norte manterá praias fechadas em fim de semana
+--
+🥼 Saúde Pública
+
+▶️ Por que é errado usar a máscara no queixo
+https://g1.globo.com/bemestar/coronavirus/videos-perguntas-e-respostas/noticia/2020/06/01/coronavirus-por-que-e-errado-usar-a-mascara-no-queixo.ghtml
+
+▶️ Após três meses de pandemia, governo anuncia centros de referência a Covid-19 em favelas. Espaços, que devem ser instalados pelos municípios, poderão receber financiamento federal
+https://www1.folha.uol.com.br/cotidiano/2020/06/apos-tres-meses-de-pandemia-governo-anuncia-centros-de-referencia-a-covid-19-em-favelas.shtml
+--
+🗂️ Política
+
+▶️ União comprou R$ 1,907 bi em insumos de combate ao coronavírus
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/uniao-comprou-r-1907-bi-em-insumos-de-combate-ao-coronavirus
+
+🎦 Vídeo: Ministro interino da Saúde faz visita à Fiocruz 
+https://recordtv.r7.com/cidade-alerta-rj/videos/ministro-interino-da-saude-faz-visita-a-fiocruz-nesta-sexta-feira-29-01062020
+
+▶️ Acusada de fraude, empresa tentou vender respiradores a outros estados
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/acusada-de-fraude-empresa-tentou-vender-respiradores-outros-estados
+--
+💊 Tratamento
+
+▶️ Convênios que adotaram cloroquina esvaziaram seus CTIs, diz Nise Yamaguchi
+https://noticias.uol.com.br/colunas/diogo-schelp/2020/06/01/convenios-que-adotaram-cloroquina-esvaziaram-seus-ctis-diz-nise-yamaguchi.htm
+--
+🌐 Internacional
+
+🇨🇱 Chile teve 5.471 novos casos e 59 mortes nas últimas 24h. País tem mais de 105 mil infectados e 1.113 mortes, com a rede de saúde quase no limite
+
+🇪🇸 Espanha: pela primeira vez desde o início da pandemia, Espanha não registra mortes. País tem 27.127 mortos e 239.638 casos
+
+🇺🇸 EUA registram 1.787.680 casos confirmados e 104.396 mortes. Em relação a ontem, foram 26.177 novos casos, um crescimento de 1,4%.
+
+🇪🇨 Equador, com 17,5 milhões de habitantes, tem mais de 39.000 casos e 3.358 mortes. País retomou os voos comerciais internos e retomará os internacionais durante a semana
+--
+🔍 Recortes da pandemia
+
+▶️ Violência contra a mulher aumenta em meio à pandemia; denúncias ao 180 sobem 40%
+https://brasil.estadao.com.br/noticias/geral,violencia-contra-a-mulher-aumenta-em-meio-a-pandemia-denuncias-ao-180-sobem-40,70003320872
+🎙️ Podcast:
+https://www.cnnbrasil.com.br/nacional/2020/05/29/perigo-dentro-de-casa-isolamento-social-e-aumento-da-violencia-contra-a-mulher
+
+▶️ Como super-ricos estão passando o período de quarentena
+https://www.bbc.com/portuguese/internacional-52885733
+
+▶️ Jovem perdeu avó, mãe e irmão para o coronavírus
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/01/jovem-perdeu-avo-mae-e-irmao-para-o-coronavirus-minha-familia-acabou.htm
+
+🎙️ Podcast O Assunto: A síria que escapou da guerra e morreu de Covid-19
+https://g1.globo.com/podcast/o-assunto/noticia/2020/06/01/o-assunto-200-a-siria-que-escapou-da-guerra-e-morreu-de-covid.ghtml
+--
+✅ Curtas
+
+➡️ Festa com botes com cerca de 1.500 pessoas é interrompida pela polícia na Alemanha
+
+➡️ Proposta quer contar em dobro o tempo de contribuição de quem combate Covid-19
+
+➡️ Empresários doam mais R$ 51 milhões para o estado de SP
+
+➡️ Gramado volta a receber turistas e espera Dia dos Namorados movimentado
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

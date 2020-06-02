@@ -1,0 +1,185 @@
+Destaques - 29/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 441.315 casos; 26.788 mortes 
+🌎 Mundo: 5,8 milhões de casos; 361 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Pesquisa indica renda afetada, alta da depressão e mais consumo de álcool e tabaco no Brasil pós-pandemia. Fiocruz, UFMG e Unicamp coletaram informações sobre saúde física e mental, renda, consumo de álcool e cigarro de 44.062 brasileiros 
+https://g1.globo.com/bemestar/viva-voce/noticia/2020/05/29/pesquisa-indica-renda-afetada-alta-da-depressao-e-mais-consumo-de-alcool-e-tabaco-no-brasil-pos-pandemia.ghtml
+
+▶️ Pesquisadores buscam moléculas antivirais para tratamento da Covid-19
+http://agencia.fapesp.br/pesquisadores-buscam-moleculas-antivirais-para-tratamento-da-covid-19/33270/
+
+▶️ Um "nível extremamente alto" de superdisseminação viral ajudou a propagar o novo coronavírus em Israel, segundo os autores de uma análise genômica.
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ Full genome viral sequences inform patterns of SARS-CoV-2 spread into and within Israel
+https://www.medrxiv.org/content/10.1101/2020.05.21.20104521v1
+
+▶️ Crianças e adolescentes com menos de 20 anos têm muito menos probabilidade do que os adultos de serem infectados, aponta grande revisão sistemática de artigos de periódicos, preprints e relatórios
+✏️ Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis
+https://www.medrxiv.org/content/10.1101/2020.05.20.20108126v1
+
+▶️ Aplicativo permite usar peixe paulistinha para diagnosticar a Covid-19
+http://agencia.fapesp.br/aplicativo-permite-usar-peixe-paulistinha-para-diagnosticar-a-covid-19/33272/
+
+▶️ Brasil entra em grupo da OMS para acesso a inovações contra Covid-19. Plataforma lançada nesta sexta-feira é uma base de dados global para reunir informações no combate ao vírus
+https://saude.estadao.com.br/noticias/geral,oms-lanca-base-de-dados-mundial-para-acesso-a-inovacoes-contra-covid-19,70003318730
+
+▶️ Tecnologia vestível pode detectar os sintomas do coronavírus antes mesmo que você perceba que está doente. Pesquisadores dizem que o fluxo constante de dados de anéis Oura, Fitbits e Apple Watches poderia eventualmente ser usado como um sistema de alerta precoce.
+https://www.washingtonpost.com/technology/2020/05/28/wearable-coronavirus-detect/
+
+▶️ Estudo francês com 1,3 mil pacientes diabéticos mostra que 10% dos hospitalizados morreram em menos de 1 semana
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/29/coronavirus-estudo-frances-com-13-mil-pacientes-diabeticos-mostra-que-10percent-dos-hospitalizados-morreram-em-menos-de-1-semana.ghtml
+⏩ First study of Covid-19 patients with diabetes shows that 10% die within seven days of hospital admission and two thirds are men
+https://diabetologia-journal.org/2020/05/29/first-study-of-covid-19-patients-with-diabetes-shows-that-10-die-within-seven-days-of-hospital-admission-and-two-thirds-are-men/
+✏️ Phenotypic characteristics and prognosis of inpatients with Covid-19 and diabetes: the Coronado study
+https://link.springer.com/article/10.1007/s00125-020-05180-x
+--
+📊 Epidemiologia
+
+▶️ Quarentenas funcionam para combater o coronavírus? Veja o que dizem os estudos
+https://www.bbc.com/portuguese/internacional-52830618
+
+▶️ O nº de novos casos diários no mundo bateu recorde. Ontem, 117,2 mil pessoas foram diagnosticadas, de acordo com a Universidade Johns Hopkins. Brasil liderou o ranking com 26.417, recorde nacional até o momento
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/29/novos-casos-de-coronavirus-no-mundo-batem-recorde-brasil-puxa-a-fila.htm
+
+▶️ Europa volta à vida, enquanto Brasil e EUA batem recordes de mortes
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/05/29/europa-volta-a-vida-enquanto-brasil-e-eua-batem-recordes-de-mortes.htm
+
+▶️ 'Poderíamos ter tido um terço das mortes', diz professor da USP sobre Covid-19
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/29/entrevista-paulo-lotufo-professor-de-epidemiologia-da-usp.htm
+
+▶️ Estado indiano sem muitos recursos conseguiu 'achatar a curva'. Engajamento e envolvimento da comunidade é uma das lições que podem ser tiradas do sucesso de Kerala
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/29/a-receita-do-estado-indiano-que-sem-muitos-recursos-conseguiu-achatar-a-curva-do-coronavirus.ghtml
+
+▶️ MPRJ entrou com uma ação contra o município do Rio para que seja criado um Plano de Gestão de Óbitos
+https://saude.estadao.com.br/noticias/geral,mp-do-rio-entra-com-acao-contra-a-prefeitura-por-plano-de-gestao-de-obitos,70003318644
+
+🎦 Vídeo: O que a inflamação tem a ver com a Covid-19
+https://youtu.be/lqzyg8RRGyQ
+
+▶️ RJ: Trajano de Moraes confirma primeiro caso e doença chega a 100% das cidades do estado, que tem 4.856 mortes e 44.886 casos confirmados
+https://g1.globo.com/rj/regiao-serrana/noticia/2020/05/29/trajano-de-moraes-confirma-primeiro-caso-de-coronavirus-e-estado-passa-a-ter-100percent-das-cidades-com-casos-da-doenca.ghtml
+
+▶️ Ceará é único estado com taxa de contágio inferior a um
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/29/estudo-ceara-e-unico-estado-com-taxa-de-contagio-de-covid-19-inferior-a-um.htm
+
+▶️ Nos EUA, algumas empresas decidiram deixar de fora os clientes que cobrem o rosto com máscaras
+https://www.washingtonpost.com/nation/2020/05/28/masks-not-allowed-coronavirus/
+--
+💊 Tratamento
+
+▶️ Estudo: uso da hidroxicloroquina traz risco para tratar câncer e Covid-19
+https://www.uol.com.br/vivabem/reuters/2020/05/29/estudo-uso-da-hidroxicloroquina-traz-risco-para-tratar-cancer-e-covid-19.htm
+
+▶️ Cientistas questionam em carta aberta estudo sobre a hidroxicloroquina na The Lancet
+https://www.uol.com.br/vivabem/noticias/afp/2020/05/29/cientistas-questionam-em-carta-aberta-estudo-sobre-a-hidroxicloroquina-na-the-lancet.htm
+✏️ An open letter to Mehra et al and The Lancet
+https://zenodo.org/record/3862789
+--
+🏡 Distanciamento social
+
+▶️ Fiocruz alerta que flexibilização coloca em risco o RJ e projeta necessidade global de restrições até 2024. Segundo os pesquisadores, sem vacina, o coronavírus continuará circulando e pode resultar em mais mortes. 
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/29/fiocruz-alerta-que-flexibilizacao-coloca-em-risco-o-rj-e-projeta-necessidade-global-de-restricoes-ate-2024.ghtml
+
+▶️ Europa acelera desconfinamento pelo coronavírus entre temores de nova onda na Ásia
+https://g1.globo.com/mundo/noticia/2020/05/29/europa-acelera-desconfinamento-pelo-coronavirus-entre-temores-de-nova-onda-na-asia.ghtml
+
+▶️ 10 medidas adotadas em 7 países para a retomada do ensino
+https://g1.globo.com/educacao/noticia/2020/05/29/volta-as-aulas-apos-quarentena-veja-10-medidas-adotadas-em-7-paises-para-a-retomada-do-ensino.ghtml
+
+▶️ Guedes: governo estuda protocolos de saúde retorno ao trabalho. Ministro não definiu data, mas declarou que esse retorno será segmentado por atividade econômica e por regiões do país
+https://economia.uol.com.br/noticias/redacao/2020/05/29/retorno-ao-trabalho-tera-protocolo-divido-por-regiao-e-setor-diz-guedes.htm
+
+▶️ RJ: apesar de aumento nos casos, prefeitura planeja reabertura em seis fases. Seguindo cronograma sem alterações, a vida dos cariocas voltaria ao normal em três meses
+https://oglobo.globo.com/rio/covid-19-apesar-de-aumento-nos-casos-prefeitura-do-rio-planeja-reabertura-em-seis-fases-24451804
+
+▶️ RJ: MPRJ pede suspensão do decreto da prefeitura que libera a abertura de templos religiosos. Documento afirma que poder municipal não apresentou dados que comprovariam que a reabertura das igrejas não ofereceriam risco para os fiéis.
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/29/mp-rj-pede-suspensao-do-decreto-da-prefeitura-que-libera-a-abertura-de-templos-religiosos-do-rio.ghtml
+
+▶️ SP: flexibilização não é motivo para sair de casa sem necessidade, dizem especialistas
+https://saude.estadao.com.br/noticias/geral,flexibilizacao-em-sp-nao-e-motivo-para-sair-de-casa-sem-necessidade-dizem-especialistas,70003318242
+
+▶️ Doria cede a pressões e separa Grande SP para liberar redução da quarentena. Decisão contrariou parte da equipe médica
+https://saude.estadao.com.br/noticias/geral,doria-cede-a-pressoes-e-separa-grande-sp-para-liberar-reducao-da-quarentena,70003318595
+
+▶️ SP: 86% das cidades que tiveram alta de casos poderão reabrir comércio
+https://saude.estadao.com.br/noticias/geral,em-sp-86-das-cidades-que-tiveram-alta-de-casos-poderao-reabrir-comercio,70003318294
+
+▶️ Como será o funcionamento dos ônibus, CPTM e Metrô em SP com a flexibilização da quarentena
+https://sao-paulo.estadao.com.br/noticias/geral,entenda-como-sera-o-funcionamento-dos-onibus-cptm-e-metro-em-sp-com-a-flexibilizacao-da-quarentena,70003318019
+--
+🗂️ Política
+
+▶️ Ministro interino da Saúde, general Eduardo Pazuello visita a Fiocruz nesta sexta-feira, 29/05
+
+▶️ PIB cai 1,5% no 1º trimestre e mostra início de 'efeito coronavírus', mas pior ainda está por vir
+https://www.bbc.com/portuguese/brasil-52847575
+
+▶️ RJ: grupo de 11 notáveis deixou o comitê científico com a saída de Edmar Santos da Secretaria estadual de Saúde
+https://oglobo.globo.com/rio/covid-19-especialistas-deixam-comite-de-notaveis-do-governo-witzel-24451762
+
+▶️ Com crise na Saúde, avaliação de Bolsonaro na pandemia piora, mostra Datafolha. Rejeição sobe a 50%, mas 45% acham que presidente não é responsável pela disseminação do vírus
+https://www1.folha.uol.com.br/poder/2020/05/com-crise-na-saude-avaliacao-de-bolsonaro-na-pandemia-piora-mostra-datafolha.shtml
+
+▶️ Governo dos EUA financia um site na Armênia que está divulgando informações falsas sobre a pandemia
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/29/eua-financia-portal-que-divulga-noticias-falsas-sobre-coronavirus-diz-site.htm
+--
+🥼 Saúde Pública
+
+▶️ Historicamente pobre, Nordeste enfrenta caos com o coronavírus
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/05/29/historicamente-pobre-nordeste-enfrenta-caos-com-o-coronavirus.htm
+
+▶️ Por que estados com vagas não recebem doentes de locais em situação crítica
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/29/por-que-estados-nao-cedem-leitos-a-quem-tem-colapso-debate-divide-opinioes.htm
+
+▶️ RJ: Iabas não sabe quando entregará hospitais de campanha
+https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/05/29/iabas-hospitais-de-campanha-rio-de-janeiro.htm
+
+▶️ Protocolos de aeroportos e viagens mudarão, diz ministro da Infraestrutura
+https://www.uol.com.br/nossa/noticias/agencia-estado/2020/05/29/protocolos-de-aeroportos-e-viagens-mudarao-diz-ministro-da-infraestrutura.htm
+--
+🌐 Internacional
+
+🇷🇺 Rússia registrou 232 mortes nas últimas 24h, nº recorde que elevou o total para 4.374. Foram registradas 8.572 novas infecções, total chega a 387.623
+
+🇺🇾 Uruguai registrou 789 casos e 22 mortes, cerca de 23 casos para cada 100 mil pessoas. País inicia uma reabertura gradual dos negócios
+
+🇹🇷 Turquia, com 83 milhões de habitantes, registra 4.461 mortes e quase 161 mil casos. Mesquitas voltaram a abrir as portas hoje 
+
+🇰🇷 Coreia do Sul fecha mais de 500 escolas para evitar nova onda
+
+🇫🇷 França libera abertura de bares e restaurantes a partir da próxima semana
+
+🇯🇵 Japão levanta preocupações sobre saúde mental pós-pandemia
+
+🇪🇸 Espanha aprova auxílio mensal de 462 euros para população de baixa renda
+
+🇵🇱 Polônia abrirá parcialmente estádios de futebol para torcedores a partir de 19 de junho
+
+🇮🇪 Irlanda estuda diminuir distância social de dois para um metro
+--
+🔍 Recortes da pandemia
+
+▶️ O nº de mortos nos EUA atingiu 100 mil, porém o impacto público foi muito pequeno em um país com longa história de honrar seus mortos.
+https://www.washingtonpost.com/graphics/2020/national/100000-deaths-american-coronavirus/
+
+▶️ Neto do sanitarista Oswaldo Cruz é internado com Covid-19. Fotógrafo está em estado grave, entubado e com comprometimento renal
+https://oglobo.globo.com/rio/neto-do-sanitarista-oswaldo-cruz-internado-com-covid-19-24451812
+
+▶️ Macacos roubam amostras de sangue contaminado com coronavírus na Índia
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/29/macacos-roubam-amostras-de-sangue-contaminado-com-coronavirus-na-india.htm
+--
+✅ Curtas
+
+➡️ Unicef doa 5 mil kits de higiene a favelas do Rio
+
+➡️ Senado aprova produção de equipamentos por universidades, que poderão produzir e doar máscaras, EPIs e respiradores
+
+➡️ Prefeito de Caxias é multado por descumprir decisão que revogava reabertura do comércio
+
+➡️ Medo de infecção freia vendas mesmo após reabertura em cidades pelo Brasil
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

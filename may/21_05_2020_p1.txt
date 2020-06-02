@@ -1,0 +1,191 @@
+Destaques - 21/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 294.152 casos; 19.038 mortes 
+🌎 Mundo: 5 milhões de casos; 329 mil mortes
+--
+🔬 Pesquisa científica
+
+❇️ O novo coronavírus circula no Brasil antes do primeiro diagnóstico oficial. A afirmação consta em análises feitas pelo Instituto Oswaldo Cruz (IOC/Fiocruz) e é reforçada por descobertas recentes feitas no Brasil e no mundo em relação ao Sars-Cov-2
+https://www.bbc.com/portuguese/brasil-52742802
+
+▶️ Estudo coreano sugere que curados de Covid-19 não transmitem mais a doença
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/estudo-coreano-sugere-que-curados-de-covid-19-nao-transmitem-mais-a-doenca.shtml
+✏️ Findings from investigation and analysis of re-positive cases
+https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030&act=view&list_no=367267&nPage=1
+
+▶️ Pesquisadores investigam mecanismos que desencadeiam fase inflamatória da Covid-19
+http://agencia.fapesp.br/pesquisadores-investigam-mecanismos-que-desencadeiam-fase-inflamatoria-da-covid-19/33211/
+
+▶️ CDC/EUA afirma que o coronavírus não se espalha facilmente por superfícies contaminadas. No entanto, especialistas alertam que isso não significa deixar de manter as precauções para impedir a disseminação
+https://www.foxnews.com/health/cdc-now-says-coronavirus-does-not-spread-easily-via-contaminated-surfaces
+✏️ Covid-19 - Transmission	
+https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html
+
+▶️ Redução da testosterona pode diminuir a gravidade da Covid-19
+https://www.cuimc.columbia.edu/news/lowering-testosterone-may-reduce-severity-covid-19
+✏️ TMPRSS2 Transcriptional Inhibition as a Therapeutic Strategy for COVID-19
+https://www.preprints.org/manuscript/202003.0360/v2
+--
+💊 Tratamento
+
+▶️ Secretária de Gestão do Trabalho e da Educação na Saúde, Mayra Pinheiro cita 'clamor' da população e necessidade de resposta para justificar liberação da cloroquina em casos leves
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/20/secretaria-cita-clamor-da-populacao-e-necessidade-de-resposta-para-justificar-liberacao-da-cloroquina-em-casos-leves.ghtml
+
+▶️ Governo usa estudo suspeito de fraude para validar protocolo da cloroquina
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/21/governo-usa-estudo-suspeito-de-fraude-para-validar-protocolo-da-cloroquina.htm
+⏩ O item 21 das referências bibliográficas traz um link para um documento da Prevent Senior intitulado "Protocolo Manejo Clínico Covid-19", assinado por três médicos
+https://static.poder360.com.br/2020/04/protocolo-Prevent-Senior-tratamento-covid-19.pdf
+⏩ Este estudo da Prevent Senior foi suspenso em 20 de abril pela Comissão Nacional de Ética em Pesquisa (Conep)
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/04/21/prevent-senior-testa-hidroxicloroquina-sem-aval-de-comite.htm
+
+▶️ Ao menos oito Estados não devem aderir a uso generalizado de cloroquina
+https://saude.estadao.com.br/noticias/geral,ao-menos-oito-estados-nao-devem-aderir-a-uso-generalizado-de-cloroquina,70003309566
+
+▶️ Liberação de cloroquina dificulta pesquisas no Brasil. Estudos em doentes com sintomas leves podem correr risco por falta de pacientes para os testes
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/05/liberacao-de-cloroquina-dificulta-pesquisas-no-brasil.shtml
+
+▶️ Opinião: a história mostra que misturar ideologia e ciência não dá certo – e custa ainda mais vidas
+https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/21/a-pantomima-da-cloroquina.ghtml
+
+▶️ Agentes de saúde britânicos iniciarão teste de hidroxicloroquina contra coronavírus
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/05/21/agentes-de-saude-britanicos-iniciarao-teste-de-hidroxicloroquina-contra-covid-19.htm
+
+▶️ Para imprensa europeia, cloroquina se tornou 'arma política' no Brasil
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/05/21/para-imprensa-europeia-cloroquina-se-tornou-arma-politica-no-brasil.htm
+
+▶️ Análise: Cloroquina - as diferenças entre Brasil e Estados Unidos
+https://oglobo.globo.com/podcast/cloroquina-as-diferencas-entre-brasil-estados-unidos-1-24438101
+--
+📊 Epidemiologia
+
+▶️ Mundo ultrapassa 5 milhões de casos. Número de mortes já passa de 328 mil
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/mundo-ultrapassa-5-milhoes-de-casos-confirmados-de-covid-19.shtml
+
+▶️ Análise: Uruguai, sem impor a quarentena obrigatória, é apontado como modelo na região e vem domando o novo coronavírus
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/05/21/uruguai-o-oasis-na-pandemia-na-america-do-sul.ghtml
+
+▶️ Estudos realizados pelo Laboratório de Pesquisa APM (EUA) evidenciam a disparidades nas taxas de mortalidade por Covid-19 entre americanos negros e brancos
+https://www.theguardian.com/world/2020/may/20/black-americans-death-rate-covid-19-coronavirus
+
+▶️ Insuficiência cardíaca causada por doença de Chagas pode agravar quadro de Covid-19
+https://aovivo.folha.uol.com.br/equilibrioesaude/2020/03/17/5890-veja-perguntas-e-respostas-sobre-coronavirus-e-mande-suas-duvidas.shtml#post401584
+--
+🏡 Distanciamento social
+
+▶️ Demora em decretar lockdown causou ao menos 36 mil mortes nos EUA, mostra estudo
+https://oglobo.globo.com/mundo/demora-em-decretar-lockdown-causou-ao-menos-36-mil-mortes-nos-eua-mostra-estudo-24438235
+
+▶️ Reação de prefeitos da Grande SP a feriadão mostra dificuldades para lockdown
+https://oglobo.globo.com/analitico/reacao-de-prefeitos-da-grande-sp-feriadao-mostra-dificuldades-para-lockdown-24438255
+
+⏩ Litoral de SP reforça os bloqueios durante 'megaferiado' em SP
+https://g1.globo.com/sp/santos-regiao/noticia/2020/05/21/litoral-de-sp-reforca-os-bloqueios-durante-megaferiado-em-sp.ghtml
+--
+🥼 Saúde Pública
+
+▶️ Brasil recebe 4,5 milhões de máscaras N-95 
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/05/21/brasil-recebe-45-milhoes-de-mascaras-n-95-contra-a-covid-19.htm
+
+▶️ Justiça dá prazo de 20 dias para que todos os hospitais de campanha do RJ estejam em funcionamento
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/21/dos-13-mil-leitos-previstos-para-os-hospitais-de-campanha-do-rj-apenas-200-estao-abertos.ghtml
+
+▶️ Com 174 óbitos, favelas do Rio somam mais mortes por Covid-19 do que 15 estados do Brasil
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/21/favelas-do-rio-somam-mais-mortes-por-covid-19-do-que-15-estados-do-brasil.ghtml
+--
+🗂️ Política
+
+▶️ Bolsonaro pede a governadores apoio a veto que barra reajuste a servidores até fim de 2021
+https://economia.estadao.com.br/noticias/geral,bolsonaro-pede-a-governadores-apoio-a-veto-que-barra-reajuste-a-servidores,70003309980
+
+▶️ Militar nomeado por Bolsonaro para o Ministério da Saúde postou foto em festa durante isolamento social
+https://www1.folha.uol.com.br/colunas/painel/2020/05/militar-nomeado-por-bolsonaro-para-o-ministerio-da-saude-postou-foto-em-festa-durante-isolamento-social.shtml
+
+▶️ Bilionário que ajudou refugiados venezuelanos vai aconselhar Ministério da Saúde
+https://www1.folha.uol.com.br/colunas/painelsa/2020/05/bilionario-que-ajudou-refugiados-venezuelanos-vai-aconselhar-ministerio-da-saude.shtml
+
+▶️ Editorial Folha: Saúde militarizada, assusta o excesso de fardados na pasta que deveria ser centro contra pandemia
+https://www1.folha.uol.com.br/opiniao/2020/05/saude-militarizada.shtml
+
+▶️ No WhatsApp, Bolsonaro compartilha Tiririca cantando cloroquina, ataques a Doria e Witzel e defende Flávio
+https://www1.folha.uol.com.br/colunas/painel/2020/05/no-whatsapp-bolsonaro-compartilha-tiririca-cantando-cloroquina-ataques-a-doria-e-witzel-e-defende-flavio.shtml
+
+▶️ Governos de Roraima e São Paulo têm menor transparência em contratações emergenciais
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/21/governos-de-roraima-e-sao-paulo-tem-menor-transparencia-em-contratacoes-emergenciais-durante-pandemia-revela-estudo.ghtml
+--
+🌐 Internacional
+
+🇪🇨 Equador: presídio com 610 detentos tem 420 casos. País registra mais de 34,8 mil infectados e mais de 2.800 mortes 
+
+🇨🇳 China: Wuhan já fez mais de 3 milhões de testes, cidade veta consumo de animais selvagens. 
+
+🇿🇦 África do Sul tem o maior nº de infecções e mortes no continente, com mais de 18 mil casos e 339 mortes. Cientistas estimam até 50 mil mortes 
+
+🇵🇰 Paquistão teve 1.017 mortes e mais de 48 mil pessoas infectadas 
+
+🇵🇪 Peru atingiu 104.020 casos e já registrou 3.024 mortes 
+
+🇹🇭 Tailândia registrou três novas infecções e nenhuma nova morte nas últimas 24h, total é de 3.037 casos e 56 mortes
+
+🇩🇪 Alemanha registrou 745 casos, elevando o total para 176.752. O número de mortos relatado foi de 57 - com 8.147 óbitos ao todo.
+
+🇮🇳🇧🇩 Índia e Bangladesh: ciclone mata 84 pessoas 
+--
+🔍 Recortes da pandemia
+
+▶️ Covid-19 aproxima cientistas da mídia de maneira inédita
+http://www.abc.org.br/2020/05/15/covid-19-aproxima-cientistas-da-midia-de-maneira-inedita/
+
+▶️ Pandemia pode reverter desenvolvimento humano pela 1ª vez em 30 anos
+https://agenciabrasil.ebc.com.br/internacional/noticia/2020-05/pandemia-pode-reverter-desenvolvimento-humano-pela-1a-vez-em-30-anos
+
+▶️ 'Não contem com uma vacina', alerta cientista dos EUA sobre o coronavírus 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/21/nao-contem-com-uma-vacina-alerta-cientista-dos-eua-sobre-o-coronavirus.htm
+
+▶️ Um quarto dos americanos tem pouco ou nenhum interesse em vacina contra Covid-19
+https://internacional.estadao.com.br/noticias/geral,um-quarto-dos-americanos-tem-pouco-ou-nenhum-interesse-em-vacina-contra-covid-19,70003309865
+
+▶️ Mais de 900 crianças foram expulsas por uma política de fronteiras de tempos de pandemia
+https://internacional.estadao.com.br/noticias/geral,mais-de-900-criancas-foram-expulsas-por-uma-politica-de-fronteiras-de-tempos-de-pandemia,70003309147
+
+▶️ Crise oferece chance de mudança no perfil das grandes metrópoles globais 
+https://internacional.estadao.com.br/noticias/geral,crise-oferece-chance-de-mudanca-no-perfil-das-grandes-metropoles-globais,70003309583
+
+▶️ Isolamento dificulta denúncias de abuso infantil e deve levar a alta de casos
+https://www.bbc.com/portuguese/brasil-52735898
+
+▶️ Quando o home office pode levar à exaustão mental
+https://emais.estadao.com.br/noticias/comportamento,zoom-fatigue-quando-o-home-office-pode-levar-a-exaustao-mental,70003307910
+--
+📚 Educação
+
+▶️ Adiamento do Enem dá um respiro a estudantes, mas não ameniza disparidades entre ricos e pobres
+https://educacao.estadao.com.br/noticias/geral,adiamento-do-enem-da-um-respiro-a-estudantes-mas-nao-ameniza-disparidades-entre-ricos-e-pobres,70003309647
+
+▶️ Estudantes, pais e professores narram 'apagão' do ensino público na pandemia; em 7 estados e no DF, atividade remota não vai contar para o ano letivo
+https://g1.globo.com/educacao/noticia/2020/05/21/estudantes-pais-e-professores-narram-apagao-do-ensino-publico-na-pandemia-em-7-estados-e-no-df-atividade-remota-nao-vai-contar-para-o-ano-letivo.ghtml
+
+▶️ Sem computador, celular e internet, alunos do RJ falam em concorrência desleal para o Enem
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/21/desanimado-mesmo-tendo-adiamento-diz-aluno-do-rj-sem-computador-celular-e-internet-para-estudar-para-o-enem.ghtml
+--
+✅ Curtas
+
+➡ Crise do coronavírus já responde por 20% das novas ações trabalhistas
+
+➡ Província italiana pede indenização à China por crise no turismo 
+
+➡ Arrecadação federal cai 28,95% e tem pior abril da série histórica 
+
+➡ Não há planos para cancelar voos do Brasil para EUA, diz embaixador 
+
+➡ Justiça de Minas libera R$ 1 bilhão da Vale para combate à pandemia 
+
+➡ Demissões de mulheres durante pandemia podem eliminar US$ 1 trilhão de PIB global 
+
+➡ Pedidos de auxílio-desemprego nos EUA permanecem altos com nova onda de demissões
+
+➡ Flamengo decide manter treinos no Rio mesmo após prefeitura reiterar veto
+
+➡ Grupo que combate crimes virtuais do MP apreende respiradores vendidos a preços abusivos em redes sociais
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

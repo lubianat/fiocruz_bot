@@ -1,0 +1,177 @@
+Destaques - 27/05/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 411.821 casos; 25.598 mortes 
+🌎 Mundo: 5,6 milhões de casos; 353 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Estudo de análise genética sugere que caso de Covid-19 que iniciou o primeiro surto nos EUA pode ter entrado no país em meados de fevereiro, várias semanas depois do que se pensava anteriormente
+https://www.statnews.com/2020/05/26/new-research-rewrites-history-of-when-covid-19-arrived-in-u-s-and-points-to-missed-chances-to-stop-it/
+✏️ The emergence of SARS-CoV-2 in Europe and the US 
+https://www.biorxiv.org/content/10.1101/2020.05.21.109322v1.full.pdf
+
+▶️ Embate sobre cloroquina mostra que medicina baseada em evidências engatinha no país. Entusiasmo de médicos aponta que impressões podem falar mais alto do que a ciência
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/embate-sobre-cloroquina-mostra-que-medicina-baseada-em-evidencias-engatinha-no-pais.shtml
+
+🎙️ Podcast: Quando teremos uma vacina para a Covid-19? Conteúdo conta com a participação do pesquisador Akira Homma, assessor científico sênior da Fiocruz
+https://www.cnnbrasil.com.br/saude/2020/05/27/quando-teremos-uma-vacina-para-a-covid-19
+
+▶️ Ilustradores científicos tornaram o vírus SARS-CoV-2 visível, capturando diversas formas, funções e fraquezas. Reportagem apresenta como foram criadas diversas ilustrações do patógeno
+https://www.theparisreview.org/blog/2020/05/18/how-to-draw-the-coronavirus/
+
+▶️ Super doador de anticorpos tem plasma sanguíneo que pode aumentar significativamente as chances de sobrevivência de outros pacientes
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/27/coronavirus-super-doador-tem-40-vezes-mais-anticorpos-do-que-o-normal.htm
+
+▶️ Ford testa sistema de aquecimento interno para frear contágios dentro dos carros
+https://www.uol.com.br/carros/noticias/redacao/2020/05/27/coronavirus-ford-testa-sistema-de-aquecimento-interno-para-frear-contagios.htm
+--
+📊 Epidemiologia
+
+▶️ Brasil tem 1.086 registros de morte incluídos em 24 horas
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/27/brasil-tem-25598-mortes-causadas-pelo-novo-coronavirus-aponta-boletim-do-ministerio-da-saude.ghtml
+
+▶️ Covid-19 mata mais pardos e negros no Brasil. Critérios étnicos e sociais são um fator de peso nas taxas segundo estudo internacional.
+https://www.uol.com.br/vivabem/noticias/rfi/2020/05/27/estudo-internacional-diz-que-covid-19-no-brasil-mata-mais-pardos-e-negros.htm
+⏩ Ethnicity is a leading risk factor in Brazilian Covid-19 mortality
+https://www.vanderschaar-lab.com/ethnicity-is-a-leading-risk-factor-in-brazilian-covid-19-mortality/
+✏️ Ethnic and regional variation in hospital mortality from Covid-19 in Brazil
+https://www.medrxiv.org/content/10.1101/2020.05.19.20107094v1
+
+▶️ Negros sem escolaridade têm 4 vezes mais chances de morrer por Covid-19 no Brasil, mostra outro estudo. Análise de quase 30 mil internações pela doença foi feita pela PUC-Rio
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/27/negros-sem-escolaridade-tem-4-vezes-mais-chances-de-morrer-por-covid-19-no-brasil-mostra-estudo.ghtml
+✏️ Análise socioeconômica da taxa de letalidade da Covid-19 no Brasil
+https://drive.google.com/open?id=1tSU7mV4OPnLRFMMY47JIXZgzkklvkydO
+
+▶️ Estudo da Fiocruz mostra que mulheres são mais afetadas pela pandemia
+https://www.redebrasilatual.com.br/cidadania/2020/05/estudo-fiocruz-mulheres-pandemia/
+
+▶️ Brasil é o país com mais mortes de enfermeiros por Covid-19 no mundo. De acordo com o Cofen, são 157 mortes de profissionais 
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/27/brasil-e-o-pais-com-mais-mortes-de-enfermeiros-por-covid-19-no-mundo-dizem-entidades.ghtml
+
+▶️ OMS registra 349.095 mortes e 5.488.825 casos de coronavírus no mundo
+https://noticias.uol.com.br/ultimas-noticias/2020/05/27/coronavirus-balanco-da-oms-registra-349095-mortes-e-5488825-casos-no-mundo.htm
+
+▶️ RJ registrou 244 mortes em 24h e chegou a 4.605 óbitos, outros 1.193 estão sob investigação. Estado tem 42.398 casos. Capital contabiliza 3.135 óbitos e 24.750 casos
+
+▶️ SP tem 6.712 mortes e 89.483 casos. Nas últimas 24h, foram registrados 289 novos óbitos e 3.466 casos confirmados. Capital ultrapassa marca de 50 mil casos 
+
+▶️ BA registra 14.566 casos e 495 óbitos. Prefeito de Salvador ameaça decretar toque de recolher
+--
+🥼 Saúde Pública
+
+▶️ Reportagem da Reuters faz análise sobre o enfrentamento da pandemia no Brasil. Texto aponta escassez de testes, menciona a Fiocruz e resposta da instituição sobre cumprimento de todas as obrigações perante o Ministério da Saúde.
+https://economia.uol.com.br/noticias/reuters/2020/05/26/especial-bolsonaro-colocou-generais-para-combater-coronavirus-e-brasil-esta-perdendo-a-batalha.htm
+⏩ Bolsonaro brought in his generals to fight coronavirus. Brazil is losing the battle
+https://www.reuters.com/article/us-health-coronavirus-brazil-response-sp/special-report-bolsonaro-brought-in-his-generals-to-fight-coronavirus-brazil-is-losing-the-battle-idUSKBN2321DU
+
+▶️ OMS cria fundação para receber doações de entes privados. Diretor-geral nega, porém, que medida seja resposta a ameaça de Trump de cortar verbas
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/oms-cria-fundacao-para-receber-doacoes-de-entes-privados.shtml
+
+▶️ Campanha reúne R$ 10 milhões em doações e vai ativar 60 leitos de UTI no hospital da UFRJ
+https://oglobo.globo.com/sociedade/saude/coronavirus-campanha-reune-10-milhoes-em-doacoes-vai-ativar-60-leitos-de-uti-no-hospital-da-ufrj-24334100
+
+▶️ RJ: médicos pedem demissão do Hospital de campanha do Maracanã alegando 'falta de condições'
+https://oglobo.globo.com/rio/medicos-pedem-demissao-do-hospital-de-campanha-do-maracana-alegando-falta-de-condicoes-1-24448420
+--
+💊 Tratamento
+
+▶️ Estudo mostra que não há diferença significativa nos resultados ao aplicar remdesivir por 5 ou 10 dias para pacientes com Covid-19 grave
+https://www.uol.com.br/vivabem/reuters/2020/05/27/estudo-nao-ha-diferenca-ao-aplicar-remdesivir-por-5-ou-10-dias.htm
+✏️ Remdesivir for 5 or 10 Days in Patients with Severe Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMoa2015301
+🎙️ Audio Interview: New Data on Remdesivir in Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMe2019975
+
+▶️ OMS publica seção de perguntas e respostas sobre hidroxicloroquina e Covid-19
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-hydroxychloroquine-and-covid-19
+
+▶️ Reino Unido pausa estudo sobre cloroquina que testaria remédio em médicos
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/27/reino-unido-pausa-estudo-sobre-cloroquina-que-testaria-remedio-em-medicos.htm
+--
+🏡 Distanciamento social
+
+▶️ Opinião: a relação entre vidas perdidas e erro na tomada de decisão política. No Brasil, será importante ver quantas mortes poderiam ter sido evitadas com medidas precoces de isolamento
+https://www1.folha.uol.com.br/colunas/jorge-abrahao/2020/05/a-relacao-entre-vidas-perdidas-e-erro-na-tomada-de-decisao-politica.shtml
+
+▶️ OMS reforça que suspensão de medidas de isolamento deve ser feita de forma lenta
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/27/oms-reforca-que-suspensao-de-medidas-de-isolamento-deve-ser-feita-de-forma-lenta.ghtml
+
+▶️ SP: Doria permite reabertura restrita de lojas e shoppings na capital. Escolas ficam fora de progressão 
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/doria-permite-reabertura-restrita-de-lojas-e-shoppings-na-capital.shtml
+
+⏩ Conheça os protocolos para reabertura
+https://sao-paulo.estadao.com.br/noticias/geral,saiba-quais-os-protocolos-shoppings-e-outros-estabelecimentos-terao-de-cumprir-para-reabrir-em-sp,70003316566
+
+⏩ Para lojistas, reabertura é confusa
+https://www1.folha.uol.com.br/colunas/painelsa/2020/05/lojistas-de-shoppings-dizem-que-reabertura-de-doria-e-confusa.shtml
+
+⏩ Cidades do interior celebram reabertura gradual da economia
+https://www1.folha.uol.com.br/cotidiano/2020/05/cidades-do-interior-celebram-reabertura-gradual-da-economia.shtml
+
+⏩ Flexibilização preocupa médicos e especialistas
+https://oglobo.globo.com/sociedade/coronavirus/flexibilizacao-de-quarentena-em-sao-paulo-preocupa-medicos-especialistas-24448935
+
+▶️ RS anuncia plano de duas etapas para retomada das aulas a partir de junho
+https://educacao.uol.com.br/noticias/2020/05/27/rs-anuncia-retomada-de-aulas-a-distancia-em-1o-de-junho-para-rede-publica.htm
+--
+🗂️ Política
+
+▶️ Entenda as polêmicas do inquérito sobre fake news, que provoca atrito entre Bolsonaro e o STF
+https://www.bbc.com/portuguese/brasil-52824346
+
+▶️ Burocracia pode afetar Brasil no acesso à vacina da Covid-19, dizem deputados
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/27/burocracia-pode-afetar-brasil-no-acesso-a-vacina-da-covid-dizem-deputados.htm
+
+▶️ “É bom que as mortes se concentrem entre os idosos. Melhorará nosso desempenho econômico, reduzirá nosso déficit previdenciário”, disse Solange Vieira, aliada de Paulo Guedes
+https://www.oantagonista.com/economia/e-bom-que-as-mortes-se-concentrem-entre-os-idosos/
+--
+🌐 Internacional
+
+🇺🇸 EUA chegam a 100 mil mortes. Número é mais do dobro de previsão feita por Donald Trump em meados de abril e representa quase um terço das vítimas no mundo. País tem quase 1,7 milhão de casos
+
+🇦🇷 Argentina registrou 600 casos nas últimas 24h. País tem um total de 13.228 infecções e 492 mortes, 4.349 pessoas são consideradas recuperadas
+--
+🔍 Recortes da pandemia
+
+▶️ A batalha épica contra a desinformação do coronavírus e as teorias da conspiração. Os analistas estão rastreando rumores falsos sobre Covid-19, na esperança de conter sua disseminação.
+https://www.nature.com/articles/d41586-020-01452-z
+
+▶️ Novo coronavírus chega a favelas da América Latina e deve se propagar rapidamente. 
+https://internacional.estadao.com.br/noticias/geral,novo-coronavirus-chega-a-favelas-da-america-latina-e-pode-se-propagar-rapidamente,70003316740
+
+⏩ Análise: Governos respondem a surtos de Covid-19 em favelas com punho de ferro ou negligência. Melhoria de condições de higiene e ajuda financeira a famílias pobres têm que ser prioridade
+https://www1.folha.uol.com.br/ilustrissima/2020/05/governos-respondem-a-surtos-de-covid-19-em-favelas-com-punho-de-ferro-ou-negligencia.shtml
+
+🎦 Vídeo: favelas da América Latina perdem batalha para o coronavírus
+https://noticias.uol.com.br/videos/afp/2020/05/27/favelas-da-america-latina-perdem-batalha-para-o-coronavirus.htm
+
+▶️ Proibição de carne de animais selvagens após Covid-19, mas e se a alternativa for a agricultura industrial? Reportagem discute questões culturais e mercadológicas no debate sobre consumo de animais selvagens
+https://www.theguardian.com/environment/2020/may/26/ban-on-bushmeat-after-covid-19-but-what-if-alternative-is-factory-farming
+
+▶️ Corte salarial e suspensão de contrato atingem 8,1 milhões de trabalhadores em 1,2 milhão de empresas
+https://www1.folha.uol.com.br/mercado/2020/05/programa-de-corte-salarial-e-suspensao-de-contrato-atinge-81-milhoes-mas-perde-forca.shtml
+
+▶️ 'Deveríamos já começar a nos preparar para a próxima pandemia', diz Nobel de Economia Robert Shiller
+https://www.bbc.com/portuguese/geral-52818887
+
+▶️ Saiba quais países têm voos que partem do Brasil e quem pode ir para esses lugares
+https://www1.folha.uol.com.br/turismo/2020/05/saiba-quais-paises-tem-voos-que-partem-do-brasil-e-quem-pode-ir-para-esses-lugares.shtml
+--
+✅ Curtas
+
+➡️ Uso de máscaras em menores de 2 anos é perigoso, avisam pediatras 
+
+➡️ Coronavírus causa enxurrada de notícias falsas no Oriente Médio 
+
+➡️ Hollywood está em busca de especialistas em coronavírus para retomar filmagens
+
+➡️ União Europeia lança pacote de 750 bi de euros para reconstruir bloco após coronavírus
+
+➡️ Trump ameça fechar redes sociais após ter post questionado no Twitter
+
+➡️ Dono de festa em piscina nos EUA diz que poderá continuar com eventos
+
+➡️ Força-tarefa aprova plano para reabertura do Disney World a partir de 11 de julho 
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

@@ -1,0 +1,229 @@
+Destaques - 25/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 367.906 casos; 22.965 mortes 
+🌎 Mundo: 5,4 milhões de casos; 345 mil mortes
+--
+❇️ 'Estamos dedicados a desenvolver vacina', diz presidente da Fiocruz, Nísia Trindade Lima, em evento feito por meio de videoconferência para celebrar os 120 anos da instituição
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/25/nisia-trindade-coronavirus-fiocruz.htm
+
+❇️ 'Havendo uma vacina validada, a Fiocruz terá condições de produção', diz presidente da instituição
+https://oglobo.globo.com/sociedade/coronavirus/havendo-uma-vacinavalidada-fiocruz-tera-condicoes-de-producao-diz-presidente-da-instituicao-24442410
+
+❇️ Pioneira no atendimento da Covid-19 no Brasil, médica revela como se tratou da doença. Pneumologista da Fiocruz, Margareth Dalcolmo destaca que não usou cloroquina e alerta para outros riscos nem sempre lembrados
+https://oglobo.globo.com/sociedade/coronavirus/pioneira-no-atendimento-da-covid-19-no-brasil-medica-revela-como-se-tratou-da-doenca-1-24444586
+--
+💊 Tratamento
+
+▶️ OMS suspende testes com cloroquina e hidroxicloroquina contra a Covid-19. Decisão foi tomada dentro dos ensaios Solidariedade, iniciativa internacional da OMS para buscar tratamentos contra a doença.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/25/oms-suspende-testes-com-hidroxicloroquina-contra-a-covid-19.ghtml
+
+▶️ Cloroquina semeia a discórdia na Fox News. Rede de TV de viés conservador tem parte da equipe defendendo o remédio e outra parcela criticando o tratamento
+https://economia.estadao.com.br/noticias/geral,cloroquina-semeia-a-discordia-na-fox-news,70003313386
+
+▶️ Deboche, negligência ou fraude científica? Alguns pesquisadores ignoram os melhores resultados e instauram conflito de legitimidade
+https://www1.folha.uol.com.br/colunas/paola-minoprio/2020/05/e-lamentavel-ver-cientistas-egolatras-defendendo-cloroquina-para-covid-19.shtml
+--
+🔬 Pesquisa científica
+
+▶️ Vital Brazil e UFRJ testam soro para tratar Covid-19. Medicamento é do mesmo tipo dos usados contra a raiva
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/vital-brazil-e-ufrj-testam-soro-para-tratar-covid-19
+
+▶️ Mutações do novo coronavírus não aumentam risco de transmissão, diz estudo ainda não revisado e publicado na plataforma bioRxiv. Cientistas analisaram mais de 15.000 genomas de pessoas com Sars-CoV-2 de 75 países. Ao todo, foram encontradas 6.822 mutações
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/25/mutacoes-do-novo-coronavirus-nao-aumentam-risco-de-transmissao-diz-estudo.htm
+✏️ No evidence for increased transmissibility from recurrent mutations in SARS-CoV-2
+https://www.biorxiv.org/content/10.1101/2020.05.21.108506v1
+
+▶️ Por que podemos não receber uma vacina contra o coronavírus. Políticos se tornaram mais cautelosos quanto às perspectivas de imunização.
+https://www.theguardian.com/world/2020/may/22/why-we-might-not-get-a-coronavirus-vaccine
+--
+📊 Epidemiologia
+
+▶️ 'Impacto' da pandemia no interior do país ainda está por vir, diz Pazuello. Em videoconferência realizada pela Fiocruz, interino da Saúde afirmou que Brasil precisar preparar estrutura para receber pacientes fora dos grande centros.
+https://g1.globo.com/politica/noticia/2020/05/25/impacto-da-pandemia-no-interior-do-pais-ainda-esta-por-vir-diz-pazuello.ghtml
+
+▶️ SP prevê epidemia até outubro e evita cloroquina: 'não é remédio mágico'
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/25/sp-epidemia-ate-outubro-cloroquina-nao-e-remedio-magico.htm
+
+▶️ No Brasil, apenas um de três pacientes graves com Covid-19 sobrevive. Mortalidade dos entubados no país é de 66%, um número alto quando comparado aos internacionais
+https://saude.estadao.com.br/noticias/geral,so-um-de-tres-pacientes-graves-sobrevive,70003313301
+
+▶️ "Teste de anticorpos positivo não é atestado de imunidade", diz pesquisador
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/25/teste-de-anticorpos-positivo-nao-e-atestado-de-imunidade-diz-pesquisador.htm
+
+▶️ Caso bem-sucedido na América Latina, Uruguai enfrenta Covid-19 sem quarentena obrigatória e uso de máscaras
+https://www.bbc.com/portuguese/internacional-52790848
+
+▶️ Síndrome de Guillain-Barré pode aparecer após Covid-19; ter tido a doença no passado não é sinal de maior risco
+https://aovivo.folha.uol.com.br/equilibrioesaude/2020/03/17/5890-veja-perguntas-e-respostas-sobre-coronavirus-e-mande-suas-duvidas.shtml#post401671
+✏️ Guillain–Barré Syndrome Associated with SARS-CoV-2
+https://www.nejm.org/doi/full/10.1056/NEJMc2009191
+✏️ Guillain-Barré syndrome associated with SARS-CoV-2 infection: causality or coincidence?
+https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(20)30109-5/fulltext
+
+▶️ Blog 'A hora da Ciência: O que significam 'teste clínico', 'duplo-cego', 'evidência anedótica' e outros jargões na pandemia
+https://blogs.oglobo.globo.com/a-hora-da-ciencia/post/logica-dos-medicamentos.html
+--
+🏡 Distanciamento social
+
+▶️ Lições dos países asiáticos que começaram a abrir economias em meio a temor de novos surtos
+https://www.bbc.com/portuguese/internacional-52763118
+
+▶️ RJ: segundo município com mais mortes, Duque de Caxias reabre o comércio
+https://www.estadao.com.br/noticias/geral,segundo-municipio-com-mais-mortes-por-covid-no-rio-duque-de-caxias-reabre-o-comercio,70003313645
+
+▶️ RJ: Crivella mantém medidas de isolamento 'Devemos esperar mais'. Prefeito disse que decisão foi tomada após reunião com o Conselho Científico. Decreto libera igrejas
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/25/crivella-mantem-medidas-de-isolamento-no-rio-devemos-esperar-mais.ghtml
+
+▶️ SP: Covas e Doria se desentendem, prefeito defende endurecimento da quarentena para evitar o colapso dos hospitais, mas governador flerta com flexibilizações do isolamento social
+https://oglobo.globo.com/brasil/enquanto-pandemia-avanca-covas-doria-se-desentendem-sobre-combate-ao-coronavirus-em-sp-24444817
+
+▶️ Praias de Fernando de Noronha estão abertas. Não houve novos casos na ilha nos últimos 30 dias. Os 28 casos confirmados foram curados.
+https://saude.estadao.com.br/noticias/geral,praias-de-fernando-de-noronha-estao-liberadas,70003313404
+
+▶️ Itália recruta 60 mil voluntários para controlar aglomerações. País vem acelerando processo de reabertura, com retorno de lojas e de restaurantes
+https://internacional.estadao.com.br/noticias/geral,italia-abre-piscinas-e-ginasios-em-nova-fase-de-desconfinamento,70003313587
+
+▶️ Na Antártida, isolamento dentro do isolamento para um grupo de brasileiros. Dezesseis militares estão na Estação Comandante Ferraz, no único continente sem casos
+https://saude.estadao.com.br/noticias/geral,na-antartida-isolamento-dentro-do-isolamento,70003313332
+
+▶️ Com os EUA se aproximando das 100 mil mortes, americanos aproveitaram chegada do verão em praias e parques
+--
+🥼 Saúde Pública
+
+▶️ Mais de 14 milhões de brasileiros gastam ao menos duas horas até uma UTI para tratamento da Covid-19
+https://oglobo.globo.com/sociedade/mais-de-14-milhoes-de-brasileiros-gastam-ao-menos-duas-horas-ate-uma-uti-para-tratamento-da-covid-19-24442488
+
+▶️ Nas favelas, 20% das mortes por Covid-19 são em casa; estudo aponta falta de assistência médica	
+https://oglobo.globo.com/rio/nas-favelas-20-das-mortes-por-covid-19-sao-em-casa-estudo-aponta-falta-de-assistencia-medica-24444016
+
+▶️ RJ: prefeitura da capital passa a contar sepultamentos nos dados de mortos por Covid-19
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/25/prefeitura-do-rio-passa-a-contar-sepultamentos-nos-dados-de-mortos-por-covid-19.ghtml
+
+▶️ STF resiste a pressões para soltar presos durante pandemia
+https://www1.folha.uol.com.br/cotidiano/2020/05/stf-resiste-a-pressoes-para-soltar-presos-durante-pandemia.shtml
+
+▶️ SP, RJ, PE, PA e AM se aproximam do colapso
+https://saude.estadao.com.br/noticias/geral,apos-brasil-bater-recordes-cinco-estados-se-aproximam-do-colapso,70003313371
+
+↪️ SP: casos já foram registrados em 500 dos 645 municípios
+
+↪️ RJ: ocupação chega a 90% em leitos de UTI na cidade do Rio. De 282 pessoas com suspeita e à espera de vaga, 201 precisam de uma UTI
+
+↪️ PE: corrida incessante para liberar leitos 97% dos 600 leitos de UTI para SRAG
+
+↪️ PA: mortes e confusão no atendimento de pacientes com Covid-19
+
+↪️ AM espera ‘pico’ do coronavírus nesta semana
+--
+🗂️ Política
+
+▶️ Secretário de vigilância do Ministério da Saúde deixará o cargo hoje. Defensor do isolamento, Wanderson de Oliveira chegou a pedir demissão no dia 15 de abril, mas permaneceu a pedido do ex-ministro Mandetta
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/24/secretario-de-vigilancia-do-ministerio-da-saude-diz-que-deixara-o-cargo-na-segunda-25.ghtml
+
+▶️ Centrão entra no Ministério da Saúde e militares devem ganhar mais 20 cargos
+https://politica.estadao.com.br/noticias/geral,centrao-entra-no-ministerio-da-saude-e-militares-devem-ganhar-mais-20-cargos,70003313673
+
+▶️ Trump cumpre aviso e proíbe entrada de brasileiros e viajantes do país nos EUA por causa da crise
+https://oglobo.globo.com/mundo/trump-cumpre-aviso-proibe-entrada-de-brasileiros-nos-eua-por-causa-da-crise-do-coronavirus-24441318
+
+▶️ Por que parte da direita americana questiona veracidade do número de mortes por Covid-19
+https://www.bbc.com/portuguese/internacional-52777804
+
+▶️ Bolsonaro diz ter imagem ruim no exterior por mídia mundial ser de esquerda
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/25/bolsonaro-diz-ter-imagem-ruim-exterior-por-imprensa-mundial-ser-de-esquerda.htm
+
+▶️ Prefeito de Manaus pede que Bolsonaro 'cale a boca e fique em casa'
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/05/25/prefeito-de-manaus-pede-que-bolsonaro-cale-a-boca-e-fique-em-casa.htm
+
+▶️ Crise da pandemia no Brasil está mais profunda por causa de Bolsonaro, diz Jeffrey Sachs
+https://www.bbc.com/portuguese/internacional-52744233
+
+▶️ Teich: 'Não houve um alinhamento com o presidente e decidi sair'
+https://politica.estadao.com.br/noticias/geral,teich-nao-houve-um-alinhamento-com-o-presidente-e-decidi-sair,70003313272
+
+⏩ 'Óbvio que antecipar o uso da cloroquina teve peso', diz Teich sobre saída do Ministério da Saúde
+https://oglobo.globo.com/sociedade/obvio-que-antecipar-uso-da-cloroquina-teve-peso-diz-teich-sobre-saida-do-ministerio-da-saude-24443783
+
+▶️ Coronavírus foi mencionado menos de 30 vezes na reunião de Bolsonaro. Secretários estaduais de Saúde manifestaram espanto com o conteúdo da reunião
+https://www1.folha.uol.com.br/colunas/painel/2020/05/coronavirus-foi-mencionado-menos-de-30-vezes-na-reuniao-de-bolsonaro-e-secretario-diz-que-teve-nauseas-com-video.shtml
+
+▶️ Exame de Toffoli dá negativo para coronavírus, mas presidente do STF fará novo teste. Magistrado sentiu sintomas após fazer pequena cirurgia no sábado
+https://www1.folha.uol.com.br/poder/2020/05/exame-de-toffoli-da-negativo-para-coronavirus-mas-presidente-do-stf-fara-novo-teste.shtml
+--
+🌐 Internacional
+
+🇺🇸 Estados Unidos registraram 638 mortes novas mortes nas últimas 24 horas, totalizando 97.686
+
+🇨🇱 Chile registrou 3.709 novos casos no último dia, elevando o total para 69.102. O número de mortos é 718. Hospitais se aproximam do limite
+
+🇻🇪 Venezuela registrou 111 novos casos em 24h, elevando total para 1.121, após 70 dias de confinamento. País tem 262 recuperados e 10 mortes. 
+
+🇬🇧 Reino Unido: Boris Johnson enfrenta resistência para retorno às aulas. País registra 37 mil mortes
+
+🇪🇸 Espanha registrou mais 50 mortes, total de óbitos subiu para 26.837. Com 132 novos casos nas últimas 24h, país tem 235.400 confirmados 
+
+🇮🇹 Itália lança pesquisa para estimar imunização da população. Estudo submeterá 150 mil pessoas distribuídas por 2 mil municípios italianos a testes sorológicos
+
+🇩🇪 Alemanha registrou 289 novos casos, aumentando o nº de infecções para 178.570. Foram registradas 10 novas mortes, totalizando 8.257
+
+🇨🇦 Canadá registra 103 novas mortes e quase 1.200 casos em 24h, elevando o total para 84 mil. Com 38 milhões de habitantes, país soma 6.380 vítimas fatais. 
+
+🇸🇬 Cingapura registra 344 novos casos, elevando total de infecções para 31.960. 
+
+🇯🇵 Japão suspende estado de emergência em Tóquio e em outras quatro regiões. País registrou mais de 16 mil casos e 825 mortes 
+
+🇦🇺 Austrália: milhares de estudantes voltaram às aulas. País registrou 7.100 casos, incluindo 102 mortes, e desde 17 de maio registra menos de 14 infectados por dia. 
+
+🇳🇿 Nova Zelândia sediará um torneio de tênis. Considerado exemplo, país registrou apenas cerca de 1.500 casos e 21 mortes 
+
+🇬🇹 Guatemala registrou 370 novas infecções. Ao todo, o país soma 3.424 casos e 258 mortes. 
+
+🇮🇳 Índia: aeroportos começam a reabrir para voos domésticos após dois meses. País teve 6.977 novas infecções e contabiliza 4.021 mortes e 138.845 casos confirmados 
+--
+🔍 Recortes da pandemia
+
+▶️ Rejeição ao uso obrigatório de máscara gera tensão e violência nos EUA
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/05/25/rejeicao-ao-uso-obrigatorio-de-mascara-gera-tensao-e-violencia-nos-estados-unidos.htm
+
+▶️ O crescente desespero de milhares de funcionários confinados em cruzeiros há meses
+https://www.bbc.com/portuguese/internacional-52768908
+
+▶️ Transplantes caem 34% durante pandemia 
+https://saude.estadao.com.br/noticias/geral,transplantes-caem-34-durante-pandemia-do-coronavirus,70003312962
+
+▶️ Como funciona o Judiciário durante a pandemia: tribunais, Defensoria Pública e cartórios têm horário especial
+https://agenciabrasil.ebc.com.br/justica/noticia/2020-05/agencia-brasil-explica-como-funciona-o-judiciario-durante-pandemia
+
+▶️ Drive thru nos shoppings: uma tendência da quarentena que veio para ficar
+https://oglobo.globo.com/rio/bairros/drive-thru-nos-shoppings-uma-tendencia-da-quarentena-que-veio-para-ficar-1-24439241
+
+▶️ Pandemia deixará 'cicatrizes' no comércio global, diz brasileiro diretor-geral da OMC
+https://www.bbc.com/portuguese/internacional-52754077
+
+▶️ Situação de stress social pode ser gatilho para quem tem esquizofrenia
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/situacao-de-stress-social-pode-ser-gatilho-para-quem-tem-esquizofrenia
+--
+✅ Curtas
+
+➡ Regras contra coronavírus são ignoradas no Campo de Golfe da Barra da Tijuca, no Rio
+
+➡ Consórcio francês anunciou início da fase de produção de um teste de triagem à base de saliva para detectar Covid-19.
+
+➡ Áustria faz 1º transplante de pulmão em paciente com coronavírus da Europa 
+
+➡ Curador do Jabuti se retrata por citar dados falsos e minimizar coronavírus
+
+➡ PF realiza operação para investigar prejuízo de R$ 25,4 milhões na compra de respiradores no município de Fortaleza
+
+➡ Renato Casagrande, governador do ES, testa positivo
+
+➡ Homem da Guatemala morre de coronavírus na agência de imigração dos EUA 
+
+➡ Macron é acusado de favorecer amigo ao liberar reabertura de parque 
+
+➡ Em Portugal, pedidos de auxílio-desemprego disparam entre jovens
+
+➡ 'Quem ter que dizer que se terá jogo ou não é a ciência', diz Luís Roberto 
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

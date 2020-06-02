@@ -1,0 +1,214 @@
+Destaques - 26/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 376.669 casos; 23.552 mortes 
+🌎 Mundo: 5,5 milhões de casos; 346 mil mortes
+--
+❇️ Fiocruz completa 120 anos com construção de complexo em Santa Cruz. Ministro da Saúde se compromete com o projeto
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/fiocruz-completa-120-anos-com-construcao-de-complexo-em-santa-cruz
+--
+🔬 Pesquisa científica
+
+▶️ Pesquisadores chineses conseguiram isolar amostra viável do novo coronavírus nas fezes de um paciente que morreu 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/25/nuvem-de-coco-pode-transmitir-novo-coronavirus-dizem-pesquisadores.htm
+✏️ Infectious SARS-CoV-2 in Feces of Patient with Severe Covid-19
+https://wwwnc.cdc.gov/eid/article/26/8/20-0681_article
+
+▶️ Ferramenta que permite editar genes pode ajudar a barrar infecção pelo novo coronavírus
+http://agencia.fapesp.br/ferramenta-que-permite-editar-genes-pode-ajudar-a-barrar-infeccao-pelo-novo-coronavirus/33241/
+✏️ A Crispr-Cas9 System Designed to Introduce Point Mutations into the Human ACE2 Gene to Weaken the Interaction of the ACE2 Receptor with the SARS-CoV-2 S Protein
+https://www.preprints.org/manuscript/202005.0134/v1
+
+▶️ Estudo mostra que mesmo doentes leves da Covid-19 podem desenvolver imunidade
+https://www.uol.com.br/vivabem/noticias/afp/2020/05/26/estudo-mostra-que-mesmo-doentes-leves-da-covid-19-podem-desenvolver-imunidade.htm
+
+▶️ Grupo árabe anuncia chamada voltada ao combate da Covid-19
+http://agencia.fapesp.br/grupo-arabe-anuncia-chamada-voltada-ao-combate-da-covid-19/33243/
+
+▶️ Empresas de tecnologia criam adesivo que monitora temperatura para combater Covid-19
+https://www.uol.com.br/tilt/noticias/reuters/2020/05/26/empresas-de-tecnologia-criam-adesivo-que-monitora-temperatura-para-combater-covid-19.htm
+--
+📊 Epidemiologia
+
+▶️ Primeiro estudo nacional de coronavírus estima número de casos sete vezes maior no Brasil. Proporção de pessoas com anticorpos é de 1,4% em 90 cidades analisadas
+https://saude.estadao.com.br/noticias/geral,primeiro-estudo-nacional-de-coronavirus-estima-numero-de-casos-sete-vezes-maior-no-brasil,70003314454
+
+▶️ 'Placar da vida' do governo estimula negacionismo por omitir realidade trágica da Covid-19, dizem especialistas 
+https://noticias.uol.com.br/saude/ultimas-noticias/bbc/2020/05/26/placar-da-vida-estimula-negacionismo-por-omitir-realidade-tragica-da-covid-19-dizem-especialistas.htm
+
+▶️ RJ: estado confirmou mais 112 mortes e chegou a 4.105 óbitos. SES/RJ contabiliza 39.298 casos confirmados e 31.687 pessoas que se recuperaram da infecção.
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/estado-do-rio-passa-de-4-mil-mortes-por-coronavirus
+
+▶️ SP: estado teve 6.220 mortes, casos confirmados chegaram a 83.625
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/estado-de-sao-paulo-tem-6220-mortes-por-covid-19
+
+▶️ Simulação aponta que luz solar pode reduzir coronavírus em superfícies como aço inoxidável
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/25/simulacao-aponta-que-luz-solar-pode-reduzir-coronavirus-em-superficies-como-aco-inoxidavel.ghtml
+
+▶️ Tecnologias militares ajudarão a detectar pessoas com suspeita de Covid-19 em aglomerações
+http://pesquisaparainovacao.fapesp.br/tecnologias_militares_ajudarao_a_detectar_pessoas_com_suspeita_de_covid19_em_aglomeracoes/1392
+
+▶️ Casos de Covid-19 em crianças até 9 anos cresceram 50 vezes em SP no último mês
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/casos-de-covid-em-criancas-ate-9-anos-cresceram-50-vezes-em-sp-no-ultimo-mes.shtml
+
+▶️ Boletim mostra que só seis países africanos não têm mortes por coronavírus
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/26/boletim-mostra-que-so-seis-paises-africanos-nao-tem-mortes-por-coronavirus.htm
+--
+💊 Tratamento
+
+▶️ Por que OMS decidiu interromper testes com cloroquina em pacientes com Covid-19
+https://www.bbc.com/portuguese/geral-52806209
+
+⏩ Apesar da decisão da OMS, Ministério da Saúde manterá orientação sobre cloroquina. Secretária Mayra Pinheiro diz que estudos que apontam riscos não são suficientes para a pasta rever sua posição
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/apesar-da-decisao-da-oms-ministerio-da-saude-mantera-orientacao-sobre-cloroquina.shtml
+
+▶️ Estudos brasileiros com hidroxicloroquina seguem e resultados saem em junho. Decisão da OMS de suspender a própria pesquisa não alterou planos de cientistas brasileiros
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/05/estudos-brasileiros-com-hidroxicloroquina-seguem-e-resultados-saem-em-junho.shtml
+
+▶️ Brasil e EUA defendem cloroquina apesar da OMS
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/05/26/castigados-pela-pandemia-brasil-e-eua-defendem-cloroquina-apesar-da-oms.htm
+
+▶️ Reino Unido aprova uso limitado de remdesivir para tratamento da Covid-19
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/26/reino-unido-aprova-uso-limitado-de-remdesivir-para-tratamento-da-covid-19.htm
+--
+🏡 Distanciamento social
+
+▶️ Em meio a reaberturas, OMS alerta para possível nova onda de Covid-19. Recado vem no momento em que países como Japão, Itália, França e Espanha aliviam regras de distanciamento social
+https://internacional.estadao.com.br/noticias/geral,em-meio-a-reaberturas-oms-alerta-para-possivel-nova-onda-de-covid-19,70003314710
+
+⏩ Sem testes e rastreamento, Brasil não pode abrir mão de confinamento, diz OMS
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/sem-testes-e-rastreamento-brasil-nao-pode-abrir-mao-de-confinamento-diz-oms.shtml
+
+▶️ RJ: decisão de Crivella de liberar culto religioso surpreende comitê científico da prefeitura do Rio
+https://oglobo.globo.com/rio/decisao-de-crivella-de-liberar-culto-religioso-surpreende-comite-cientifico-da-prefeitura-do-rio-24445838
+
+▶️ RJ: Justiça suspende decreto que permite abrir comércio de Duque de Caxias
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/justica-suspende-decreto-que-permite-abrir-comercio-de-duque-de-caxias
+
+▶️ Argentina: Buenos Aires isola bairro na periferia para conter transmissões 
+https://g1.globo.com/mundo/noticia/2020/05/25/buenos-aires-isola-bairro-na-periferia-para-conter-transmissoes-do-novo-coronavirus.ghtml
+
+▶️ Coreia do Sul: homem é preso por violar a quarentena, ele foi condenado por violar a Lei de Controle e Prevenção de Doenças Infecciosas e sentenciado a quatro meses
+https://g1.globo.com/mundo/noticia/2020/05/26/sul-coreano-e-preso-por-violar-a-quarentena-contra-o-coronavirus.ghtml
+--
+🥼 Saúde Pública
+
+▶️ Após prever painel com taxa de UTIs ocupadas, governo diz só ter dados de menos da metade dos hospitais que atuam contra a Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/25/apos-prever-painel-com-taxa-de-utis-com-pacientes-de-covid-19-governo-diz-so-ter-dados-de-menos-da-metade-dos-hospitais.ghtml
+
+▶️ Construção de hospital de campanha deve ser última opção, diz ministério
+https://www1.folha.uol.com.br/cotidiano/2020/05/construcao-de-hospital-de-campanha-deve-ser-ultima-opcao-diz-ministerio.shtml
+
+▶️ Coronavírus se espalha por plataformas de petróleo no Brasil
+https://economia.uol.com.br/noticias/reuters/2020/05/26/exclusivo-coronavirus-se-espalha-por-plataformas-de-petroleo-no-brasil.htm
+
+▶️ Aplicativos criados por alunos da UFF facilitam integração na pandemia. Objetivo é aproximar pessoas que necessitam de EPI a quem queira doar
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/aplicativos-criados-por-alunos-da-uff-facilitam-integracao-na-pandemia
+
+▶️ Governo vai contratar 5,1 mil profissionais para ações contra Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/governo-vai-contratar-5-mil-profissionais-para-acoes-contra-covid-19
+--
+🗂️ Política
+
+▶️ Ministério da Saúde vai publicar nos próximos dias um protocolo de atendimento a pacientes que apresentam sintomas da Covid-19, mas sem um quadro tão grave
+https://politica.estadao.com.br/blogs/coluna-do-estadao/pazuello-prepara-novo-protocolo-para-covid-19/
+
+▶️ Secretário de Vigilância do Ministério da Saúde deixa o cargo. Wanderson de Oliveira foi exonerado a pedido
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/25/secretario-de-vigilancia-do-ministerio-da-saude-deixa-o-cargo.ghtml
+
+▶️ PF faz buscas na casa de Witzel no Palácio das Laranjeiras em operação por desvios de recursos da pandemia
+https://politica.estadao.com.br/blogs/fausto-macedo/pf-na-casa-de-witzel
+
+⏩ Witzel nega participação em esquema de desvios de recursos na Saúde e cita 'interferência' de Bolsonaro
+https://oglobo.globo.com/rio/witzel-nega-participacao-em-esquema-de-desvios-de-recursos-na-saude-cita-interferencia-de-bolsonaro-24446102
+
+▶️ Ministério divulga diretrizes para construção de hospitais de campanha
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/ministerio-fala-sobre-hospital-de-campanha-e-repasse-de-recursos
+
+▶️ Uruguai blinda a fronteira com o Brasil para evitar propagação do coronavírus
+https://g1.globo.com/mundo/noticia/2020/05/26/uruguai-blinda-a-fronteira-com-o-brasil-para-evitar-propagacao-do-coronavirus.ghtml
+
+▶️ Coronavírus: os países onde brasileiros não podem entrar no momento
+https://www.bbc.com/portuguese/internacional-52802951
+
+⏩ Casa Branca antecipa veto a entrada de cidadãos não americanos que passaram pelo Brasil. Medida passa a valer na madrugada de quarta-feira
+https://www1.folha.uol.com.br/mundo/2020/05/casa-branca-antecipa-suspensao-de-entrada-de-cidadaos-nao-americanos-que-passaram-pelo-brasil.shtml
+--
+🌐 Internacional
+
+🇵🇭 Filipinas registraram 13 mortes e 350 novos casos, total de casos subiu para 14.669 e as mortes atingiram 886. Ao todo, 3.412 pacientes já se recuperaram 
+
+🇷🇺 Rússia registrou 174 mortes nas últimas 24h, ao todo, morreram 3.807 pessoas, dos 362.342 casos registrados
+
+🇫🇷 França sai de quarentena rígida para abertura veloz
+
+🇦🇷 Argentina tem protestos contra extensão da quarentena obrigatória no país
+
+🇬🇧 Reino Unido: nº de mortes subiu para pelo menos 47.347
+
+🇸🇦 Arábia Saudita anuncia plano de reabertura e fim do toque de recolher, com exceção de Meca. País registrou mais de 74 mil casos e 399 mortes 
+
+🇨🇳 China: Wuhan faz mais de 6,5 milhões de testes em 12 dias
+
+🇨🇱 Chile enfrenta ameaça de nova convulsão social. País tem recorde de cinco mil novos casos diários e distúrbios violentos em bairros carentes
+
+🇮🇹 Itália estuda reabrir portas para turistas da União Europeia em junho
+
+🌍 África: testes de Covid-19 podem entrar em falta
+--
+🔍 Recortes da pandemia
+
+▶️ OMS diz que cientistas precisam ajudar no combate à desinformação. Temos que falar numa linguagem mais simples, diz cientista
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-05/oms-diz-que-cientistas-precisam-ajudar-no-combate-desinformacao
+
+▶️ Relatório analisa desinformação sobre coronavírus no youtube 
+https://inctdd.org/relatorio-analisa-desinformacao-sobre-coronavirus-no-youtube/
+
+▶️ Com restaurantes fechados, ratos passam a buscar comida de forma mais agressiva, diz CDC
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/26/com-restaurantes-fechados-por-causa-da-covid-19-ratos-passam-a-buscar-comida-de-forma-mais-agressiva-diz-agencia-de-saude-dos-eua.ghtml
+✏️ Rodents control
+https://www.cdc.gov/coronavirus/2019-ncov/community/rodents.html
+
+▶️ Pandemia afeta gravemente direitos das crianças no mundo, diz ONG
+https://g1.globo.com/mundo/noticia/2020/05/26/pandemia-de-covid-19-afeta-gravemente-direitos-das-criancas-no-mundo-diz-ong.ghtml
+
+▶️ Medo de contágio cria obsessão por limpeza e busca de sintomas do coronavírus
+https://www1.folha.uol.com.br/cotidiano/2020/05/medo-de-contagio-cria-obsessao-por-limpeza-e-busca-de-sintomas-do-coronavirus.shtml
+
+▶️ Ações trabalhistas caem 35%; na contramão, as ligadas a vírus disparam
+https://www1.folha.uol.com.br/mercado/2020/05/acoes-trabalhistas-caem-35-na-contramao-as-ligadas-a-virus-disparam.shtml
+
+▶️ Pandemia pode dificultar acesso dos mais velhos ao mercado de trabalho
+https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2020/05/26/pandemia-pode-dificultar-acesso-dos-mais-velhos-ao-mercado-de-trabalho.ghtml
+
+▶️ A 'tempestade perfeita' detonada pela pandemia na maior reserva indígena dos EUA
+https://www.bbc.com/portuguese/internacional-52761359
+
+▶️ O que é o teleaborto, que vem crescendo nos EUA durante a pandemia
+https://www.bbc.com/portuguese/geral-52777810
+
+▶️ ‘Anticoncepção é atividade essencial em tempos de coronavírus’, alertam especialistas
+http://agencia.fapesp.br/anticoncepcao-e-atividade-essencial-em-tempos-de-coronavirus-alertam-especialistas/33234/	
+
+▶️ Filha de vítima da Covid-19 faz alerta: 'Não esperem para acreditar só quando número virar nome de algum familiar'
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/26/filha-de-vitima-da-covid-faz-alerta-nao-esperem-para-acreditar-so-quando-numero-virar-nome-de-algum-familiar.ghtml
+--
+✅ Curtas
+
+➡ Empresa promovida por Trump pode fornecer testes de Covid-19 ao Brasil
+
+➡ Morre segundo ianomâmi vítima de coronavírus
+
+➡ Médicos de hospital de campanha em SP desistem de plantões por causa de estrutura escassa
+
+➡ Doria pagou R$ 242 mi antecipados por respiradores chineses atrasados
+
+➡ Após reabrir shoppings e igrejas, Paraná libera treinos de jogadores de futebol
+
+➡ Fato raro, presença de Sars-CoV-2 na terra ou grama não deve apresentar risco de contágio, afirmam especialistas
+
+➡ Brasil vai vender 43 aeroportos, apesar da crise do coronavírus, diz ministro
+
+➡ Pedido de recuperação da Latam nos EUA expõe vulnerabilidade do setor aéreo
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

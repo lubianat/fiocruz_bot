@@ -1,0 +1,197 @@
+Destaques - 28/05/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 414.661 casos; 25.697 mortes 
+🌎 Mundo: 5,7 milhões de casos; 356 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Estudo indica que 2m de distância não são suficientes para evitar contágios 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/28/estudo-indica-que-2m-de-distancia-nao-sao-suficientes-para-evitar-contagios.htm
+✏️ Reducing transmission of SARS-CoV-2
+https://science.sciencemag.org/content/early/2020/05/27/science.abc6197
+
+▶️ Perda de olfato foi sintoma mais frequente em estudo com 2 mil pacientes de Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/27/perda-de-olfato-foi-sintoma-mais-frequente-em-estudo-com-2-mil-pacientes-de-covid-19.ghtml
+✏️ Loss of Smell and Taste in 2013 European Patients With Mild to Moderate Covid-19
+https://www.acpjournals.org/doi/10.7326/M20-2428
+
+▶️ Covid-19 mata mais jovens no Brasil. Levantamento exclusivo revela que mortalidade até 35 anos é 65% maior que nos países ricos
+https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/05/28/covid-mata-mais-jovens-no-brasil.ghtml
+✏️ Covid-19 death rates by age and sex and the resulting mortality vulnerability of countries and regions in the world
+https://www.medrxiv.org/content/10.1101/2020.05.17.20097410v1
+
+▶️ Rio fará pesquisas com lhamas para produção de soro contra Covid-19
+https://veja.abril.com.br/ciencia/rio-fara-pesquisas-com-lhamas-para-producao-de-soro-contra-covid-19/
+
+▶️ Pelo menos 30 estudos sobre tratamentos contra o coronavírus aguardam na fila da Comissão de Ética do governo. Cientistas reclamam de burocracia e morosidade do órgão do Ministério da Saúde responsável por avaliar protocolos de pesquisa em humanos
+https://oglobo.globo.com/sociedade/coronavirus/pelo-menos-30-estudos-sobre-tratamentos-contracoronavirus-aguardam-na-fila-da-comissao-de-etica-do-governo-24442898
+
+▶️ Laboratório do Grupo Alliar, presente em 10 estados, vai oferecer exame de coronavírus de alta sensibilidade	
+https://veja.abril.com.br/blog/radar/laboratorio-vai-oferecer-exame-de-coronavirus-de-alta-sensibilidade/
+
+▶️ Ciência e mobilização social são armas contra a desesperança. Dados e pesquisadores acessíveis ajudam a reduzir impacto da tragédia do coronavírus
+https://www1.folha.uol.com.br/colunas/perifaconnection/2020/05/ciencia-e-mobilizacao-social-sao-armas-contra-a-desesperanca.shtml	
+--
+📊 Epidemiologia
+
+▶️ Dados da Fiocruz apontam retomada no aumento de casos de síndrome respiratória no Brasil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/05/28/dados-da-fiocruz-apontam-retomada-no-aumento-de-casos-de-sindrome-respiratoria-no-brasil.ghtml
+
+▶️ Epidemia avança de forma heterogênea e ainda sem controle no Brasil
+http://agencia.fapesp.br/epidemia-de-covid-19-avanca-de-forma-heterogenea-e-ainda-sem-controle-no-brasil/33264/
+
+⏩ Taxa de contágio da Covid-19 mostra crescimento em estados ainda pouco atingidos, e Rio e SP longe da estabilização. Índice nacional registra queda, mas ainda está em patamar preocupante
+https://oglobo.globo.com/sociedade/coronavirus/taxa-de-contagio-da-covid-19-mostra-crescimento-em-estados-ainda-pouco-atingidos-rio-sp-longe-da-estabilizacao-24449549
+
+▶️ 'Se Brasil parar por duas semanas, é possível evitar as 125 mil mortes', diz Ali Mokdad, que dirige projeções do IHME, instituto usado pela Casa Branca como um dos modelos para monitorar Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/05/se-brasil-parar-por-duas-semanas-e-possivel-evitar-as-125-mil-mortes-diz-especialista.shtml
+
+▶️ Os 100.000 mortos dos EUA: assim fracassou o país mais poderoso do mundo. A liderança errática de Trump, os alertas ignorados durante meses e a falta de recursos levaram ao limite o país
+https://brasil.elpais.com/internacional/2020-05-28/os-100000-mortos-dos-estados-unidos-assim-fracassou-o-pais-mais-poderoso-do-mundo.html
+
+▶️ Paraguai e Uruguai: os dois casos de sucesso no combate ao coronavírus na América do Sul 
+https://noticias.uol.com.br/saude/ultimas-noticias/rfi/2020/05/28/paraguai-e-uruguai-os-dois-casos-de-sucesso-no-combate-ao-coronavirus-na-america-do-sul.htm
+
+▶️ Reino Unido tem o maior número per capita de mortes adicionais desde o início da pandemia
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/05/28/reino-unido-registra-maior-sobremortalidade-durante-pandemia.htm
+⏩ Financial Times: UK suffers highest death rate from coronavirus 
+https://www.ft.com/content/6b4c784e-c259-4ca4-9a82-648ffde71bf0
+
+▶️ Com número baixo de mortes, governo Putin é acusado de manipular estatísticas, só considerando óbitos que têm como causa principal a Covid-19.
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/05/28/numero-baixo-de-mortes-por-coronavirus-na-russia-nao-convence.ghtml
+
+▶️ 'Tradutor' do coronavírus: Covid-19, achatar a curva, lockdown, R0, isolamento de grupo e outros termos para entender pandemia
+https://www.bbc.com/portuguese/geral-52795842
+
+▶️ Mulher hipertensa de 43 anos e a filha saudável de 17 anos foram internadas com Covid-19, apenas a mãe sobreviveu. 
+https://www.bbc.com/portuguese/brasil-52827781
+
+▶️ Após críticas, Prefeitura do Rio passa a divulgar dois números de óbitos por Covid-19, de hospitais e de cemitérios. Prefeitura havia decidido divulgar apenas os números de atestados de óbito que constem a Covid-19 como causa da morte, enquanto hospitais registram também as mortes suspeitas.
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/05/28/apos-criticas-prefeitura-do-rio-passa-a-divulgar-dois-numeros-de-obitos-por-covid-19-de-hospitais-e-de-cemiterios.ghtml
+
+▶️ Rio tem cinco bairros com mais de cem mortes: Campo Grande (189), Bangu (143), Copacabana (138), Realengo (108) e Santa Cruz (104)
+https://oglobo.globo.com/rio/covid-19-rio-tem-cinco-bairros-com-mais-de-cem-mortes-24449500
+--
+💊 Tratamento
+
+▶️ Lancet: ameaças de morte após ensaio com cloroquina por Covid-19 no Brasil
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30383-2/
+
+▶️ Na contramão da OMS, planos de saúde mandam médicos receitar cloroquina
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/28/na-contramao-da-oms-planos-de-saude-mandam-medicos-receitar-cloroquina.htm
+
+▶️ Por que cloroquina é segura para certas doenças, mas talvez não para Covid-19
+https://www.uol.com.br/vivabem/noticias/redacao/2020/05/28/por-que-cloroquina-e-segura-para-certas-doencas-mas-pode-nao-ser-para-covid.htm
+
+▶️ Evidências sobre os benefícios e malefícios do uso da hidroxicloroquina ou cloroquina são muito fracas e conflitantes, segundo estudo.
+✏️ Hydroxychloroquine or Chloroquine for Treatment or Prophylaxis of COVID-19: A Living Systematic
+https://www.acpjournals.org/doi/10.7326/M20-2496
+
+▶️ Presidente de El Salvador diz tomar hidroxicloroquina para prevenir Covid-19
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/28/presidente-de-el-salvador-afirma-que-toma-hidroxicloroquina.htm
+--
+🏡 Distanciamento social
+
+▶️ Países em desenvolvimento começam a reabrir economia quando número de casos continua a subir. Aumento da pobreza por medidas restritivas eleva chances de distúrbios sociais e pressiona governos
+https://valor.globo.com/mundo/noticia/2020/05/28/emergentes-enfrentam-o-risco-de-reabrir-sem-ter-a-epidemia-sob-controle.ghtml
+
+⏩ Tentativa de reabertura precipitada no Chile deu errado pois autoridades ainda não haviam controlado a epidemia. País vê número de casos e mortes avançar e tem sistema hospitalar perto do colapso.
+https://valor.globo.com/mundo/noticia/2020/05/28/chile-sofre-com-fracasso-da-reabertura-prematura.ghtml
+
+▶️ Nova York, Itália e Espanha só flexibilizaram quarentena mais de um mês após pico de casos, enquanto Estado de São Paulo anunciou a retomada depois de 15 dias de recorde
+https://saude.estadao.com.br/noticias/geral,covid-nova-york-italia-e-espanha-so-flexibilizaram-quarentena-mais-de-um-mes-apos-pico-de-casos,70003317028
+
+▶️ Médicos de comitê foram contrariados sobre retomada das atividades em SP. Integrantes defenderam prolongamento da quarentena mais rigorosa
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/05/medicos-de-comite-foram-contrariados-sobre-retomada-das-atividades-em-sp.shtml	
+
+⏩ SP driblou sua própria regra para flexibilizar quarentena em municípios
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/28/sp-nao-respeitou-regras-que-ele-proprio-criou-para-flexibilizar-quarentena.htm
+
+⏩ Exigências para a volta de setores em SP vão de medir temperatura a limpar banheiro a cada 3 horas
+https://www1.folha.uol.com.br/cotidiano/2020/05/exigencias-para-a-volta-de-setores-em-sp-vao-de-medir-temperatura-a-limpar-banheiro-a-cada-3-horas.shtml
+
+⏩ SP deve anunciar em breve como será reabertura das escolas
+https://educacao.uol.com.br/noticias/2020/05/28/sp-deve-anunciar-em-breve-como-sera-reabertura-das-escolas-diz-secretario.htm
+
+⏩ Prefeitos no litoral de SP pedem revisão a Doria para quarentena mais branda
+https://www1.folha.uol.com.br/cotidiano/2020/05/prefeitos-no-litoral-de-sp-pedem-revisao-a-doria-para-quarentena-mais-branda.shtml
+
+▶️ Ceará e Amazonas têm planos de reabertura
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/05/28/ceara-e-amazonas-tem-planos-de-reabertura.htm
+--
+🗂️ Política
+
+▶️ Ministros da Justiça e Saúde revogam portaria de Moro e Mandetta sobre regras de isolamento. Na prática, Supremo já decidiu que responsabilidade das medidas é de estados e municípios. Portaria revogada previa possibilidade de crime para quem descumprisse medidas.
+https://g1.globo.com/politica/noticia/2020/05/28/atuais-ministros-da-justica-e-saude-revogam-portaria-de-moro-e-mandetta-sobre-regras-de-isolamento.ghtml
+
+▶️ Ministério da Saúde aplicou só 23,6% dos recursos para Covid-19, aponta Conselho Nacional de Saúde
+http://conselho.saude.gov.br/ultimas-noticias-cns/1199-apenas-30-dos-valores-alocados-no-ministerio-da-saude-para-combate-a-pandemia-foram-empenhados-diz-boletim-do-cns
+
+▶️ Bolsonaro aprova ajuda de R$ 60 bi a estados e veta aumento para servidores 
+https://economia.uol.com.br/noticias/redacao/2020/05/28/bolsonaro-aprova-ajuda-de-r-60-bi-a-estados-e-veta-aumento-para-servidores.htm
+✏️ Lei complementar nº 173, de 27 de maio de 2020
+http://www.in.gov.br/en/web/dou/-/lei-complementar-n-173-de-27-de-maio-de-2020-258915168
+
+▶️ Nordeste é região que mais culpa Bolsonaro por mortes na pandemia
+https://veja.abril.com.br/blog/radar/nordeste-e-regiao-que-mais-culpa-bolsonaro-por-mortes-na-pandemia/
+--
+🥼 Saúde Pública
+
+▶️ Maioria dos estados já tem mais de 70% de ocupação de UTI para Covid-19. Ceará, Amapá e Pernambuco têm lotação acima de 90%
+https://www1.folha.uol.com.br/cotidiano/2020/05/maioria-dos-estados-ja-tem-mais-de-70-de-ocupacao-de-uti-para-covid-19.shtml
+
+▶️ RJ: hospital de campanha é inaugurado com atraso e apenas 10 leitos 
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/05/28/covid-19-rio-ganha-hoje-quarto-hospital-de-campanha.htm
+--
+🌐 Internacional
+
+🇨🇱 Chile: médicos são forçados a escolher quem vai para UTI, ocupação de leitos chega a 97% e relatório prevê saturação ainda nesta semana
+
+🇵🇾 Paraguai: presidente disse a Bolsonaro que país não está pronto para reabrir as fronteiras com o Brasil.
+
+🇰🇷 Coreia do Sul restabelece restrições em Seul após alta. Hoje, o país registrou 79 novos casos
+
+🇮🇹 Itália: governo diz que exigir "passaportes sanitários" que comprovem que o turista não está com o novo coronavírus "inconstitucional"
+
+🇸🇪 Suécia: idosos em asilos não recebem ajuda em casos graves. País tem a mais alta taxa de mortalidade per capita por da Europa, com 6,25 mortes por dia por milhão de habitantes
+--
+🔍 Recortes da pandemia
+
+▶️ Pandemia pode deixar até 14 milhões com fome em áreas da América Latina
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/05/28/pandemia-pode-deixar-ate-14-milhoes-com-fome-em-areas-da-america-latina.htm
+
+▶️ Como a Alemanha mantém pleno emprego, mesmo diante de uma pandemia
+https://veja.abril.com.br/mundo/como-a-alemanha-pleno-emprego-mesmo-diante-de-uma-pandemia-global/
+
+▶️ “Os mais velhos não podem ficar em guetos”, afirma especialista. Pandemia mostra que modelo de instituições para idosos está em xeque
+https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2020/05/28/os-mais-velhos-nao-podem-ficar-em-guetos-afirma-especialista.ghtml
+
+▶️ Rejeição de Trump ao uso de máscaras divide republicanos. Presidente desdenha equipamento e recebe críticas até de aliados; Biden se aproveita e posta foto com proteção
+https://internacional.estadao.com.br/noticias/geral,rejeicao-de-trump-ao-uso-de-mascaras-divide-republicanos,70003316948
+
+▶️ Bill Gates vira alvo de teorias da conspiração na África envolvendo o coronavírus
+https://noticias.uol.com.br/saude/ultimas-noticias/afp/2020/05/28/bill-gates-vira-alvo-de-teorias-da-conspiracao-na-africa-envolvendo-o-coronavirus.htm
+
+▶️ Inteligência artificial será capaz de prever pandemias, diz Kai-Fu Lee, empresário chinês, presidente da empresa de investimento Sinovation Ventures
+https://valor.globo.com/empresas/noticia/2020/05/28/inteligencia-artificial-sera-capaz-de-prever-pandemias-diz-kai-fu-lee.ghtml
+--
+✅ Curtas
+
+➡️ Com gastos contra o coronavírus, contas do governo têm rombo de R$ 92 bi em abril
+
+➡️ Pandemia destruiu recorde de 4,9 milhões de postos de trabalho em abril
+
+➡️ Crise do coronavírus já afeta 1 em cada 4 trabalhadores com carteira assinada
+
+➡️ Nos EUA, mais 2,1 milhões de trabalhadores entram com pedido de seguro-desemprego	
+
+➡️ Criminalidade despenca na capital paulista durante a quarentena
+
+➡️ Exportações caíram 6,7% em relação a março e importações despencaram 20,6%, mostram números da OCDE
+
+➡️ ONG arrecada R$ 700 mil para ajudar famílias atingidas pela pandemia
+
+➡️ Quiosques na orla do Rio terão menu digital e pias portáteis quando reabrirem
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)
