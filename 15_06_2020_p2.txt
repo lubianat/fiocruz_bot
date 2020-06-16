@@ -1,0 +1,215 @@
+Destaques - 15/06/2020 [parte 2] 
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 888.271 casos; 43.959 mortes
+🌎 Mundo: 8 milhões de casos; 435 mil mortes
+--
+➕ Ministério da Saúde: Brasil registrou 627 novas mortes e 20.647 casos em 24h. País tem 43.959 mortes e 888.271 casos no total.
+https://covid.saude.gov.br/
+--
+🔬 Pesquisa científica
+
+▶️ Cientistas do Reino Unido testam droga experimental contra coágulos sanguíneos. Experimento vai colocar à prova a teoria de que os coágulos são causados por um desequilíbrio hormonal disparado pela infecção do novo coronavírus
+https://www.bbc.com/portuguese/internacional-53050414
+
+▶️ Bares, karaokê e academias podem ajudar a superdisseminação da Covid-19. Análise investigou 61  incidentes.
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ Clusters of Coronavirus Disease in Communities, Japan, January–April 2020
+https://wwwnc.cdc.gov/eid/article/26/9/20-2272_article
+
+▶️ Até 45% dos infectados por Sars-CoV-2 podem ser assintomáticos, diz estudo
+https://revistagalileu.globo.com/Ciencia/Saude/noticia/2020/06/ate-45-dos-infectados-por-sars-cov-2-podem-ser-assintomaticos-diz-estudo.html
+✏️ Prevalence of Asymptomatic SARS-CoV-2 Infection
+https://www.acpjournals.org/doi/10.7326/M20-3012
+
+▶️ Duas equipes desenvolveram um atalho para gerar modelos de camundongos para Covid-19: usando um vírus inofensivo para tornar as células dos roedores suscetíveis à infecção.
+✏️ A SARS-CoV-2 infection model in mice demonstrates protection by neutralizing
+antibodies
+https://www.sciencedirect.com/science/article/pii/S009286742030742X
+✏️ Generation of a Broadly Useful Model for Covid-19 Pathogenesis Vaccination, and
+Treatment
+https://www.sciencedirect.com/science/article/pii/S0092867420307418
+
+▶️ Novo coronavírus saltou para o Reino Unido mais de 1.300 vezes - principalmente da França e da Espanha, apesar das primeiras manchetes focadas nos viajantes infectados da China e de outras partes da Ásia.
+✏️ Preliminary analysis of SARS-CoV-2 importation & establishment of UK transmission lineages
+https://virological.org/t/preliminary-analysis-of-sars-cov-2-importation-establishment-of-uk-transmission-lineages/507
+
+▶️ Vacina em testes para Covid-19 induz produção de anticorpos em 90% dos pacientes, anuncia empresa chinesa
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/vacina-em-testes-para-covid-19-induz-producao-de-anticorpos-em-90percent-dos-pacientes-anuncia-empresa-chinesa.ghtml
+
+▶️ Primeiras vacinas contra a Covid-19 podem impedir o agravamento, mas não o contágio da doença
+https://oglobo.globo.com/sociedade/primeiras-vacinas-contra-covid-19-podem-impedir-agravamento-mas-nao-contagio-da-doenca-1-24480291
+
+▶️ Cientistas alertam para risco de desenvolver diabetes devido à Covid-19. Grupo internacional com 17 pesquisadores escreve carta no 'The New England Journal of Medicine'
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/cientistas-alertam-para-risco-de-desenvolver-diabetes-devido-a-covid-19.ghtml
+✏️ New-Onset Diabetes in Covid-19
+https://www.nejm.org/doi/10.1056/NEJMc2018688
+
+▶️ Estudo da Ufam busca medicamentos livres de patentes para tratar Covid-19 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/15/estudo-da-ufam-busca-medicamentos-livres-de-patentes-para-tratar-covid-19.htm
+
+▶️ Pesquisadores da UnB estudam impacto do coronavírus no cérebro de infectados. Estudo pretende analisar se Covid-19 é capaz de causar problemas neurológicos. Objetivo é entender como vírus age no sistema nervoso central
+https://g1.globo.com/df/distrito-federal/noticia/2020/06/15/pesquisadores-da-unb-estudam-impacto-do-coronavirus-no-cerebro-de-infectados.ghtml
+
+▶️ Pesquisa alerta para riscos da Covid-19 no desenvolvimento de problemas psiquiátricos
+https://radioagencianacional.ebc.com.br/saude/audio/2020-06/pesquisa-alerta-para-riscos-da-covid-19-no-desenvolvimento-de-problemas
+
+▶️ Governo de SP lança programa para financiar projetos voltados ao combate do coronavírus
+http://ideiagov.sp.gov.br/
+--
+📊 Epidemiologia
+
+▶️ Mundo teve média de 124 mil novos casos de Covid-19 por dia nas últimas duas semanas, mostram dados da OMS
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/mundo-teve-media-de-124-mil-novos-casos-de-covid-19-por-dia-nas-ultimas-duas-semanas-mostram-dados-da-oms.ghtml
+
+▶️ Ressurgimento de casos na China é alvo de preocupação, diz OMS
+https://saude.estadao.com.br/noticias/geral,ressurgimento-de-casos-na-china-e-alvo-de-preocupacao-diz-oms,70003333854
+
+▶️ Brasil é um dos mais afetados entre 75 países onde epidemia ainda cresce
+https://www.bbc.com/portuguese/brasil-53047836
+
+▶️ RJ registra 1.194 casos e 56 mortes. Estado tem 80.946 casos, 7.728 mortes confirmadas e 1.253 em investigação
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/estado-do-rio-passa-de-80-mil-casos-confirmados-de-covid-19
+
+▶️ SP registra 73 mortes e chega a 10.767. Estado tem 181.460 casos, 5.309 pacientes internados em UTIs e 8.019 em enfermarias. Taxa de ocupação de leitos de UTI está em 70,8% no estado e em 77,8% na Grande São Paulo.
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/estado-de-sao-paulo-registra-73-mortes-por-coronavirus-em-24-horas
+
+⏩ Apesar de crescimento no interior, SP tem 1ª semana com redução de mortes por coronavírus
+https://www1.folha.uol.com.br/cotidiano/2020/06/apesar-de-crescimento-no-interior-sp-tem-1a-semana-com-reducao-de-mortes-por-coronavirus.shtml
+
+⏩ Risco de segunda onda 'existe e é real', diz chefe do centro da Covid-19 em São Paulo
+https://saude.estadao.com.br/noticias/geral,risco-de-segunda-onda-existe-e-e-real-diz-chefe-do-centro-da-covid-19-em-sao-paulo,70003333995
+
+▶️ Na construção pesada de SP, 68% dos contaminados trabalham no canteiro
+https://www1.folha.uol.com.br/colunas/painelsa/2020/06/na-construcao-pesada-de-sp-68-dos-contaminados-trabalham-no-canteiro.shtml
+--
+💊 Tratamento
+
+▶️ Ministério da Saúde orienta uso da cloroquina desde o primeiro dia de tratamento para grávidas e crianças
+https://oglobo.globo.com/sociedade/coronavirus-ministerio-da-saude-orienta-uso-da-cloroquina-desde-primeiro-dia-de-tratamento-para-gravidas-criancas-1-24481055
+
+▶️ Agência reguladora dos EUA revoga uso emergencial da hidroxicloroquina para Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/agencia-reguladora-dos-eua-revoga-uso-emergencial-da-hidroxicloroquina-para-covid-19.shtml
+
+⏩ Entenda o porquê:
+https://www.bbc.com/portuguese/internacional-53058069
+
+⏪ Saúde questiona agência dos EUA, cita exemplo da Índia e defende cloroquina
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/15/saude-questiona-agencia-dos-eua-cita-exemplo-da-india-e-defende-cloroquina.htm
+
+⏩ OMS vai discutir se mantém testes com hidroxicloroquina após EUA suspenderem uso da substância contra a Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/oms-vai-discutir-se-mantem-testes-com-hidroxicloroquina-apos-eua-suspender-uso-da-substancia-contra-a-covid-19.ghtml
+
+⏪ Trump diz que continuará enviando hidroxicloroquina ao Brasil mesmo após EUA vetarem uso emergencial do medicamento
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/trump-diz-que-continuara-enviando-hidroxicloroquina-ao-brasil-mesmo-apos-eua-vetarem-uso-emergencial-do-medicamento.ghtml
+
+⏪ Trump elogia hidroxicloroquina após decisão da FDA
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/15/trump-elogia-hidroxicloroquina-apos-agencia-reguladora-dos-eua-revogar-uso-contra-covid-19.htm
+--
+🧪 Diagnóstico
+
+▶️ Quais os tipos de exames para Covid-19 e por que os testes rápidos geram controvérsia
+https://www.bbc.com/portuguese/brasil-53036611
+
+▶️ Petrobras e Firjan apresentam nova metodologia de testes da Covid-19. Método chamado de pooling multiplex é mais ágil e econômico porque pode avaliar várias pessoas simultaneamente
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/petrobras-e-firjan-apresentam-nova-metodologia-de-testes-da-covid-19
+--
+🏡 Distanciamento social
+
+▶️ SP: flexibilização da quarentena pode causar mais de 10.300 mortes, diz estudo. Pesquisadores da USP e da FGV preveem aumento de 71% de óbitos no estado até início de julho, em comparação a cenário sem reabertura
+https://oglobo.globo.com/sociedade/coronavirus/flexibilizacao-da-quarentena-pode-causar-mais-10300-mortes-em-sp-diz-estudo-24480975
+
+▶️ UFRJ só terá aulas presenciais com vacina ou remédio contra Covid-19
+https://agenciabrasil.ebc.com.br/educacao/noticia/2020-06/ufrj-so-tera-aulas-presenciais-com-vacina-ou-remedio-contra-covid-19
+
+▶️ RS: Porto Alegre tem avanço de internações e restringe comércio e serviços 
+https://saude.estadao.com.br/noticias/geral,com-avanco-de-internacoes-em-porto-alegre-comercio-e-servicos-terao-restricoes-a-partir-desta-terca,70003334309
+
+▶️ Países nórdicos se recusam a reabrir fronteiras com Suécia após política anti-quarentena de Estocolmo
+https://g1.globo.com/mundo/noticia/2020/06/15/paises-nordicos-se-recusam-a-reabrir-fronteiras-com-suecia-apos-politica-anti-quarentena-de-estocolmo.ghtml
+--
+🥼 Saúde pública
+
+▶️ Leitos intermediários terão suporte ventilatório pulmonar. Medida temporária foi autorizada pelo Ministério da Saúde
+https://agenciabrasil.ebc.com.br/geral/noticia/2020-06/ao-vivo-governo-brasileiro-fala-sobre-enfrentamento-covid-19
+
+▶️ Brasileiras relatam drama para realizar abortos durante a pandemia 
+https://www.uol.com.br/universa/noticias/rfi/2020/06/15/brasileiras-relatam-drama-para-realizar-abortos-durante-a-pandemia-de-coronavirus.htm
+
+▶️ Conselho Regional de Medicina da Bahia vai apurar fala de médico sobre supernotificação de óbitos
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/15/covid-conselho-vai-apurar-fala-de-medico-sobre-supernotificacao-de-obitos.htm
+
+▶️ Ministério da Saúde retirou alerta contra falsa cura da Covid vendida por pastor, diz MPF
+https://oglobo.globo.com/sociedade/coronavirus/ministerio-da-saude-retirou-alerta-contra-falsa-cura-da-covid-vendida-por-pastor-diz-mpf-24480671
+--
+🗂️ Política
+
+▶️ Em entrevista, Mandetta diz que "Bolsonaro quer encontrar um culpado por pandemia", cita "descompromisso" com favelas e os mais pobres, diz que foi incapaz de explicar ao presidente o "mar onde entraríamos", que Ministério da Saúde sempre foi utilizado em barganhas políticas e aposta que Brasil deve voltar a números normais até agosto
+https://noticias.uol.com.br/videos/2020/06/15/bolsonaro-quer-encontrar-um-culpado-por-pandemia-diz-mandetta.htm
+
+▶️ Bolsonaro: Não temos informações de que alguém tenha falecido por falta de UTI
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/15/bolsonaro-nao-temos-informacoes-de-que-alguem-tenha-falecido-por-falta-de-uti.htm
+
+▶️ Governo do DF multa ministro Weintraub em R$ 2 mil por falta de máscara durante ato de apoio a Bolsonaro
+https://g1.globo.com/df/distrito-federal/noticia/2020/06/15/ibaneis-manda-multar-ministro-weintraub-por-falta-de-mascara-durante-ato-de-apoio-a-bolsonaro.ghtml
+
+⏩ Ala política defende saída de Weintraub da Educação, e STF aguarda demissão
+https://g1.globo.com/politica/blog/andreia-sadi/post/2020/06/15/ala-politica-defende-saida-de-weintraub-da-educacao-e-stf-aguarda-demissao.ghtml
+
+▶️ Guedes quer ampliar suspensão de contrato e corte de jornada para até quatro meses
+https://www1.folha.uol.com.br/mercado/2020/06/guedes-quer-ampliar-suspensao-de-contrato-e-corte-de-jornada-para-ate-quatro-meses.shtml
+--
+🌐 Internacional
+
+🇵🇾 Paraguai registra 1ª morte por novo coronavírus em mais de um mês. País tem 1.296 casos, 12 óbitos e apenas 2 pacientes internados em UTI
+
+🇵🇹 Portugal vai barrar brasileiros se UE determinar, diz primeiro-ministro
+
+🇫🇷 França: Paris reabre totalmente cafés e restaurantes em nova fase do fim da quarentena
+
+🇺🇸 EUA registram 373 mortes e 21.957 casos em 24h. País tem 115.644 mortes e 2.085.769 casos
+
+🇨🇦 Canadá avalia com EUA estender fechamento da fronteira comum, diz Trudeau 
+
+🇰🇷 Coreia do Sul se prepara para possível segunda onda de vírus. País tem 277 mortes e 12.003 casos
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra: Britânicos formam filas no 1º dia de reabertura do comércio 
+
+🇦🇺 Austrália reduz previsão de exportação de carne à China após piora na relação entre os dois países por causa da Covid-19
+--
+🔍 Recortes da pandemia
+
+▶️ Após superarem Covid-19, famílias dizem sentir alívio para passar pela pandemia. Para médicos, sentimento é válido, mas há preocupação de que a imunidade não seja duradoura
+https://www1.folha.uol.com.br/cotidiano/2020/06/apos-superarem-covid-19-familias-dizem-sentir-alivio-para-passar-pela-pandemia.shtml
+
+▶️ Mais de 60% dos brasileiros estão com medo de viajar, diz estudo
+https://www.uol.com.br/nossa/noticias/redacao/2020/06/15/nordeste-sera-o-principal-destino-de-viagens-apos-coronavirus-diz-pesquisa.htm
+
+▶️ O 'apagão de dados' nos anos Kirchner que abalou a credibilidade da Argentina no mundo
+https://www.bbc.com/portuguese/internacional-53019801
+
+▶️ Cerimônia do Oscar de 2021 é adiada de fevereiro para abril
+https://agenciabrasil.ebc.com.br/internacional/noticia/2020-06/covid-19-cerimonia-do-oscar-de-2021-e-adiada-de-fevereiro-para-abril
+
+▶️ Por que a China lançará uma nova companhia aérea, apesar da crise do coronavírus
+https://www.uol.com.br/nossa/noticias/rfi/2020/06/15/por-que-a-china-lancara-uma-nova-companhia-aerea-apesar-da-crise-do-coronavirus.htm
+--
+✅ Curtas
+
+➡️ É falso que Ministério da Saúde tenha determinado mudança no registro de mortes suspeitas de Covid-19
+
+➡️ STF não barrou atendimento a pacientes com Covid-19 em hospitais militares
+
+➡️ 'Invadir hospital é crime', diz Doria em recado a bolsonaristas
+
+➡️ Junho Vermelho: campanha incentiva doação de sangue durante pandemia
+
+➡️ Coletivos femininos levam máscaras a comunidades indígenas e negras na Bahia
+
+➡️ Aneel prorroga por 1 mês suspensão de cortes de energia por pandemia 
+
+➡️ Fundo do Instituto Coca-Cola já impactou 6 milhões de pessoas na pandemia
+
+➡️ Campanha de Trump dará máscaras e medirá temperatura de público em comício de Tulsa
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

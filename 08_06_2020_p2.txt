@@ -1,0 +1,172 @@
+Destaques - 08/06/2020 [parte 2] 
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 694.116 casos; 36.602 mortes
+🌎 Mundo: 7 milhões de casos; 410 mil mortes
+--
+➕ Até o fechamento deste boletim, o Ministério da Saúde não havia divulgado os dados atualizados da Covid-19 no país.
+--
+📊 Divulgação dos dados da Covid-19 no Brasil
+
+▶️ Ministério explica dados diferentes de Covid-19 e diz que divulgou números errados de Roraima e do Ceará. No domingo, Ministério divulgou números divergentes: 1º balanço incluiu 1.382 novas mortes. No entanto, painel oficial sobre a evolução da doença informava 525 óbitos
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/08/ministerio-explica-dados-diferentes-de-covid-19-e-diz-que-divulgou-numeros-errados-de-rondonia-e-do-ceara.ghtml
+
+▶️ Mudança de divulgação ocorreu após Bolsonaro exigir número de mortes por Covid-19 abaixo de mil por dia. Solução foi separar os óbitos ocorridos nas últimas 24h das mortes de datas anteriores, mas que só foram confirmadas naquele período
+https://saude.estadao.com.br/noticias/geral,mudanca-de-divulgacao-ocorreu-apos-bolsonaro-exigir-numero-de-mortes-abaixo-de-mil-por-dia,70003328525
+
+▶️ OMS destaca necessidade de transparência nos dados sobre pandemia no Brasil. Diretor de emergências da entidade, Michael Ryan, respondeu a pergunta sobre divulgação de dados pelo Ministério da Saúde
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/08/oms-destaca-necessidade-de-transparencia-nos-dados-sobre-pandemia-no-brasil.ghtml
+
+▶️ Brasil é destaque no mundo por não divulgar dados de mortes por Covid-19
+https://www.bbc.com/portuguese/brasil-52967730
+
+▶️ Congresso Nacional vai passar a apurar os dados de Covid-19 no país independentemente do governo
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/08/congresso-decide-divulgar-numeros-paralelos-de-covid-19-no-brasil.htm
+
+▶️ Ministério Público no TCU entrou com uma representação pedindo a suspensão imediata da nova metodologia de divulgação dos dados do coronavírus pelo Ministério
+https://noticias.uol.com.br/colunas/constanca-rezende/2020/06/08/ministerio-publico-no-tcu-pede-suspensao-de-nova-contagem-da-covid-19.htm
+
+▶️ OAB vai ao STF contra governo Bolsonaro por omissão de dados
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/oab-vai-ao-stf-contra-governo-bolsonaro-por-omissao-de-dados-da-covid-19.htm
+
+▶️ Governo Bolsonaro comete crime ao omitir dados sobre coronavírus, dizem especialistas
+https://www1.folha.uol.com.br/cotidiano/2020/06/governo-bolsonaro-comete-crime-ao-omitir-dados-sobre-coronavirus-dizem-especialistas.shtml
+
+▶️ Wanderson Oliveira: Ex-secretário do Ministério da Saúde critica maquiagem de dados: 'Me recordo o quanto somos subdesenvolvidos'
+https://oglobo.globo.com/sociedade/ex-secretario-do-ministerio-da-saude-wanderson-critica-maquiagem-de-dados-me-recordo-quanto-somos-subdesenvolvidos-24468566
+
+▶️ 'Essas informações são de propriedade do povo brasileiro', diz presidente do Conass Alberto Beltrame
+https://g1.globo.com/rs/rio-grande-do-sul/noticia/2020/06/08/essas-informacoes-sao-de-propriedade-do-povo-brasileiro-diz-presidente-do-conass-sobre-dados-da-covid-19.ghtml
+
+▶️ Câmara deve votar projeto que obriga governo a ser transparente em dados sobre Covid-19
+https://saude.estadao.com.br/noticias/geral,camara-deve-votar-projeto-que-obriga-governo-a-ser-transparente-em-dados-sobre-covid-19,70003328333
+--
+📊 Epidemiologia
+
+▶️ O que os cientistas já descobriram sobre a Covid-19 nos seus 6 primeiros meses
+https://www.bbc.com/portuguese/geral-52967280
+
+▶️ Disseminação assintomática do coronavírus é "muito rara", diz a OMS
+https://www.cnbc.com/2020/06/08/asymptomatic-coronavirus-patients-arent-spreading-new-infections-who-says.html
+
+▶️ América Latina tem 1,3 milhão de casos e 65 mil mortes por Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/america-latina-tem-13-milhao-de-casos-e-65-mil-mortes-por-covid-19
+
+▶️ Reino Unido registrou o menor número de novos casos e mortes desde o dia 23 de março, início do lockdown. Foram 55 mortes (totalizando 40.597) e 1.205 novos casos. 
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/08/mortes-diarias-por-covid-19-no-reino-unido-voltam-ao-patamar-pre-lockdown.htm
+	
+▶️ SP tem redução de óbitos e de ocupação de leitos de UTI. Estado registrou 43 novos óbitos em 24h, nº mais baixo desde 18 de maio, soma agora 9.188 óbitos e 144.593 casos confirmados 
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/covid-19-sp-tem-reducao-de-obitos-e-de-ocupacao-de-leitos-de-uti
+
+⏩ SP: Doria defende transparência de dados no estado
+https://saude.estadao.com.br/noticias/geral,doria-defende-transparencia-de-dados-e-anuncia-inclusao-de-testes-privados-no-cadastro-estadual,70003328421
+
+⏩ Especial: gráficos mostram o avanço da Covid-19 em SP
+https://www.estadao.com.br/infograficos/cidades,o-avanco-da-covid-19-em-sao-paulo,1099976
+--
+💊 Tratamento
+
+▶️ Agência Europeia de Medicamentos avalia autorizar na UE venda de remdesivir contra Covid-19
+https://www.uol.com.br/vivabem/noticias/afp/2020/06/08/ema-avalia-autorizar-na-ue-venda-de-antiviral-remdesivir-contra-covid-19.htm
+--
+🧪 Diagnóstico
+
+▶️ SP: testes feitos pela iniciativa privada serão contabilizados no cadastro público. Somando os dados, estado deve realizar quase 30 mil por dia
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/sp-promete-quase-30-mil-testes-diarios-de-covid-19-com-soma-da-rede-privada.htm
+--
+🔬 Pesquisa científica
+
+▶️ Pesquisa sobre Covid-19 já é 100 vezes maior que na SARS
+https://asia.nikkei.com/Business/Science/Coronavirus-research-already-100-times-more-than-SARS
+
+▶️ Análises filogenéticas revelam introdução de pelo menos 7 linhagens diferentes de SARS-CoV-2 na Califórnia, com ausência de uma linhagem predominante
+✏️ Genomic surveillance reveals multiple introductions of SARS-CoV-2 into Northern California
+https://science.sciencemag.org/content/early/2020/06/05/science.abb9263
+
+▶️ Simulação de coronavírus criticada é aprovada em esforços de verificação de código. Modelo influente do Imperial College London foi considerado reprodutível
+https://www.nature.com/articles/d41586-020-01685-y
+
+▶️ Medicamento aprovado pela FDA para tratamento de câncer pode ajudar a acalmar tempestade de citocinas na Covid-19
+https://scitechdaily.com/fda-approved-drug-may-help-calm-cytokine-storm-in-covid-19/
+✏️ Inhibition of Bruton tyrosine kinase in patients with severe Covid-19
+https://immunology.sciencemag.org/content/5/48/eabd0110
+
+▶️ Síndrome do tipo Kawasaki observada em crianças com Covid-19 é uma nova doença e pode ser causada pelo coronavírus, sugere um novo estudo
+https://www.dailymail.co.uk/health/article-8399597/Dangerous-Kawaski-like-condition-seen-children-COVID-19-NEW-disease.html
+✏️ Clinical Characteristics of 58 Children With a Pediatric Inflammatory Multisystem Syndrome Temporally Associated With SARS-CoV-2
+https://jamanetwork.com/journals/jama/fullarticle/2767209
+✏️ Multisystem Inflammatory Syndrome Related to Covid-19 in Previously Healthy Children and Adolescents in New York City
+https://jamanetwork.com/journals/jama/fullarticle/2767207
+✏️ Editorial: SARS-CoV-2–Related Inflammatory Multisystem Syndrome in Children. Different or Shared Etiology and Pathophysiology as Kawasaki Disease?
+https://jamanetwork.com/journals/jama/fullarticle/2767205
+
+▶️ Estudo aponta associação entre parto cesárea e complicações da Covid-19 em gestantes infectadas pelo SARS-Cov-2
+✏️ Association Between Mode of Delivery Among Pregnant Women With Covid-19 and Maternal and Neonatal Outcomes in Spain
+https://jamanetwork.com/journals/jama/fullarticle/2767206
+--
+😷 Máscaras
+
+▶️ OMS publica perguntas e respostas sobre máscaras e Covid-19
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/q-a-on-covid-19-and-masks
+--
+🏡 Distanciamento social
+
+▶️ RJ: Justiça suspende trechos de decretos de Witzel e Crivella que flexibilizam isolamento 
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/08/justica-suspende-trechos-de-decretos-de-witzel-e-crivella-que-flexibilizam-isolamento-social.ghtml
+
+⏩ RJ: Prefeituras não seguirão reabertura sugerida pelo governo do estado
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/prefeituras-nao-seguirao-reabertura-sugerida-pelo-governo-do-rio
+
+▶️ SP: prefeito evita dar prazo para análise do protocolo para reabertura do comércio na capital
+https://saude.estadao.com.br/noticias/geral,covas-evita-dar-prazo-para-reabrir-comercio-e-pede-paciencia-ao-setor,70003328356
+
+⏩ SP: ex-ministro Arthur Chioro critica flexibilização: 'Doria não suportou a pressão'
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/ex-ministro-saude-arthur-chioro-dilma-doria-flexibilizacao.htm
+
+↪️ RJ: ônibus e BRTs circulam lotados mesmo com determinação para redução de passageiros
+
+↪️ SP: ônibus contrariam determinação e viajam lotados na capital paulista
+
+↪️ CE: Fortaleza reabre comércio de rua com fila nas portas
+--
+🗂️ Política
+
+▶️ Atitudes "dúbias" de Bolsonaro "assustam" o mundo, diz Toffoli 
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/08/coronavirus-atitudes-dubias-de-bolsonaro-assustam-o-mundo-diz-toffoli.htm
+
+▶️ Teich diz que teme 'guerra de números' e critica liderança 'fraca' da pasta 
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/08/teich-sobre-saude-acho-fundamental-que-nao-vire-uma-guerra-de-numero.htm
+--
+🌐 Internacional
+
+🇨🇺 Cuba não registra mortes pelo 9º dia; país tem 2,2 mil casos e 83 mortes
+
+🇺🇸 EUA passam de 110 mil mortes e se aproximam de 2 milhões de casos. Foram 17.919 novos casos e 709 novas mortes.
+
+🇮🇳 Índia reabre locais de culto e centros comerciais
+--
+🔍 Recortes da pandemia
+
+▶️ Da Baixada Fluminense à Califórnia: o jovem cientista brasileiro selecionado para estudar o coronavírus
+https://www.bbc.com/portuguese/geral-52915459
+
+▶️ A epidemia de meningite que a ditadura militar no Brasil tentou esconder da população
+https://blogs.oglobo.globo.com/blog-do-acervo/post/epidemia-de-meningite-que-ditadura-militar-no-brasil-tentou-esconder-da-populacao.html
+
+▶️ Paralisado com a pandemia de Covid-19, mapeamento da população trans é retomado em SP
+https://oglobo.globo.com/sociedade/paralisado-com-pandemia-de-covid-19-mapeamento-da-populacao-trans-retomado-em-sp-24468735
+
+▶️ Entidades escolhem projetos em favelas para receber verbas
+https://agenciabrasil.ebc.com.br/geral/noticia/2020-06/covid-19-entidades-escolhem-projetos-em-favelas-para-receber-verbas
+--
+✅ Curtas
+
+➡️ Restrição a dados afasta investidor do Brasil, dizem analistas
+
+➡️ Banco Mundial prevê queda de 8% do PIB em 2020 no Brasil, a maior em 120 anos
+
+➡️ BNDES anuncia novas medidas de combate aos impactos da Covid-19
+
+➡️ Pandemia afeta tradição do São João em Campina Grande e Caruaru
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

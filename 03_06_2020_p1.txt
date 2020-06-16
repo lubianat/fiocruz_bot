@@ -1,0 +1,204 @@
+Destaques - 03/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 560.737 casos; 31.417 mortes 
+🌎 Mundo: 6,4 milhões de casos; 381 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Consórcio de Genômica do Reino Unido já sequenciou mais de sete mil genomas do novo coronavírus. Segundo os pesquisadores, esse é o maior número de sequenciamentos em um país até o momento
+✏️ An integrated national scale SARS-CoV-2 genomic surveillance network
+https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30054-9
+
+▶️ Análise: novo coronavírus não sofreu mutações capazes de mudar suas principais características durante a pandemia
+https://www1.folha.uol.com.br/colunas/esper-kallas/2020/06/o-virus-estavel.shtml
+
+▶️ Cientistas questionam segundo estudo sobre coronavírus. Após indagações sobre trabalho que apontou risco da cloroquina publicado no The Lancet, pesquisadores questionaram estudo que indicou segurança de medicamentos anti-hipertensivos publicado no New England Journal of Medicine. Ambos são do mesmo grupo de autores e se basearam em um banco de dados privado administrado por uma empresa chamada Surgisphere. Assim como o The Lancet, editores do NEJM solicitaram esclarecimentos aos autores
+https://www.nytimes.com/2020/06/02/health/coronavirus-study.html
+✏️ An open letter to Mehra et al and The New England Journal of Medicine
+https://zenodo.org/record/3873178#.XtesclVKjIX
+✏️ Expression of Concern: Mehra MR et al. Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMe2020822
+✏️ Expression of concern: Hydroxychloroquine or chloroquine with or without a macrolide for treatment of Covid-19: a multinational registry analysis
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31290-3/
+
+▶️ Brasileiros participarão de testes de vacina contra coronavírus da Universidade de Oxford. Estudo no país será conduzido pela Unifesp e vai envolver 2.000 pessoas
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/brasileiros-participarao-de-testes-de-vacina-contra-coronavirus-da-universidade-de-oxford.shtml
+
+▶️ Processo longo e resultado incerto: entenda o que 133 candidatas a vacina de Covid-19 enfrentam na luta contra possível fracasso
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/03/processo-longo-e-resultado-incerto-entenda-o-que-113-candidatas-a-vacina-de-covid-19-enfrentam-na-luta-contra-possivel-fracasso.ghtml
+
+▶️ Diretora de programa do Pentágono diz ser 'razoável' esperar vacina contra Covid-19 nos EUA até o fim do ano
+https://g1.globo.com/bemestar/vacina/noticia/2020/06/02/diretora-de-programa-do-pentagono-diz-ser-razoavel-esperar-vacina-contra-covid-19-nos-eua-ate-o-fim-do-ano.ghtml
+
+▶️ Estudo brasileiro começa a testar uso de plasma em pacientes de Covid-19. Trabalhos feitos na China, na Coreia do Sul e nos EUA observaram melhoras
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/estudo-brasileiro-comeca-a-testar-uso-de-plasma-em-pacientes-de-covid-19.shtml
+
+▶️ Estudos de anticorpos podem subestimar a parcela de uma população que foi infectada com SARS-CoV-2, indica pesquisa em pré-print.
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ Are SARS-CoV-2 seroprevalence estimates biased?
+https://osf.io/y3fxt/
+
+▶️ Estudo aponta que surto com 21 casos de crianças e adolescentes com síndrome inflamatória multissistêmica do tipo Kawasaki na área de Paris pode estar relacionado ao SARS-CoV-2
+✏️ Kawasaki-like multisystem inflammatory syndrome in children during the Covid-19 pandemic in Paris, France: prospective observational study
+https://www.bmj.com/content/369/bmj.m2094
+
+▶️ Cientistas correm para defender colegas venezuelanos ameaçados por estudo com coronavírus. Um alto funcionário do governo sugeriu ataques ou prisões para punir a Academia Venezuelana de Ciências Físicas, Matemáticas e Naturais por “causar alarme” em um relatório que sugeriu que a epidemia no país é muito pior do que os números oficiais mostram.
+https://www.sciencemag.org/news/2020/06/scientists-rush-defend-venezuelan-colleagues-threatened-over-coronavirus-study
+
+▶️ Pandemia alterará permanentemente a publicação científica? O impulso para a publicação rápida e aberta pode decolar - embora as pressões financeiras estejam à frente.
+https://www.nature.com/articles/d41586-020-01520-4
+
+▶️ Pandemia desafia corrida da China para o topo da ciência. País está ganhando rapidamente dos EUA em pesquisa, mas problemas podem retardar ascensão.
+https://www.nature.com/articles/d41586-020-01522-2
+--
+💊 Tratamento
+
+▶️ OMS anuncia que vai retomar testes com hidroxicloroquina para Covid-19. "O comitê de segurança e monitoramento de dados dos ensaios Solidariedade revisou os dados. Com base nos dados sobre mortalidade disponíveis, os membros do comitê decidiram que não há motivo para modificar o protocolo do ensaio", disse Tedros Adhanom.
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/oms-vai-retomar-estudos-com-hidroxicloroquina-apos-avaliacao-de-seguranca.shtml
+
+▶️ Com cloroquina desaconselhada por cientistas, veja outras apostas de tratamento em estudo para a Covid-19
+https://www.bbc.com/portuguese/geral-52886843
+
+▶️ Reino Unido lança teste com fórmula única de ibuprofeno para tratar Covid-19 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/03/teste-ibuprofeno-coronavirus.htm
+
+▶️ Entidades defendem o uso complementar de terapias integrativas na Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/entidades-defendem-o-uso-complementar-de-terapias-integrativas-na-covid-19.shtml
+--
+📊 Epidemiologia
+
+▶️ China demorou para divulgar genoma do coronavírus para a OMS, de acordo com a Associated Press. AP ouviu gravações de reuniões da OMS que revelam que autoridades da entidade estavam frustradas com a demora 
+https://g1.globo.com/mundo/noticia/2020/06/03/china-demorou-para-divulgar-genoma-do-coronavirus-para-a-oms-de-acordo-com-agencia-de-noticias.ghtml
+
+⏩ China nega ter atrasado informações
+https://noticias.uol.com.br/ultimas-noticias/ansa/2020/06/03/china-nega-ter-atrasado-informacoes-sobre-covid-para-oms.htm
+
+▶️ Cidades do interior têm potencial de propagação da Covid-19 semelhante ao de capitais, aponta estudo
+http://agencia.fapesp.br/cidades-do-interior-tem-potencial-de-propagacao-da-covid-19-semelhante-ao-de-capitais-aponta-estudo/33302/
+✏️ The correspondence between the structure of the terrestrial mobility network and the emergence of Covid-19 in Brazil
+https://www.medrxiv.org/content/10.1101/2020.05.17.20104612v1
+
+▶️ As 'comorbidades silenciosas' que podem levar pacientes com Covid-19 à morte
+https://www.bbc.com/portuguese/geral-52901162
+
+▶️ País tem recorde de mortes no início da semana de reaberturas em Rio e SP: 'Não é hora de afrouxar', diz epidemiologista
+https://oglobo.globo.com/sociedade/pais-tem-recorde-de-mortes-no-inicio-da-semana-de-reaberturas-em-rio-sp-nao-hora-de-afrouxar-diz-epidemiologista-24459551
+
+▶️ Especialistas reforçam importância de minimizar a intensidade da exposição ao novo coronavírus ao recomendar uso de máscaras, distanciamento social e medidas de higiene
+https://saude.estadao.com.br/noticias/geral,a-questao-nao-e-se-fomos-expostos-ao-virus-e-sim-o-quanto,70003322709
+
+▶️ Análise: Japão declara surto de coronavírus sob controle e já vive 'novo normal'
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/03/japao-declara-surto-de-coronavirus-sob-controle-e-ja-vive-novo-normal.htm
+
+▶️ Casos dão salto de um dia para outro na Nicarágua e despertam dúvidas. Em 15 dias, número de infecções em país governado por negacionista passa de 25 para 759
+https://www1.folha.uol.com.br/mundo/2020/06/casos-de-covid-19-dao-salto-de-um-dia-para-outro-na-nicaragua-e-despertam-duvidas.shtml
+
+↪️ RJ tem 5.686 mortes e 56.732 casos. Estado registrou 224 óbitos e 2.202 casos nas últimas 24h
+
+↪️ DF ultrapassou a marca de 11,2 mil infectados e tem 6.373 recuperados.
+
+↪️ SP: mortes por Covid-19 avançam em bairros de classe média
+--
+🧪 Diagnóstico
+
+▶️ Problemas no processamento, coleta e análise de testes podem ter tirado das estatísticas oficiais cerca de 6.000 mortes por Covid-19 no Brasil
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/subnotificacao-de-6000-mortes-por-coronavirus-pode-ter-sido-causada-por-falha-em-testes.shtml
+
+▶️ Anvisa aprova teste rápido 'Liaison Sars-CoV-2 S1/S2 IgG' de empresa italiana DiaSorin
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/03/coronavirus-anvisa-aprova-teste-rapido-de-empresa-italiana.htm
+--
+🏡 Distanciamento social
+
+▶️ 'População foi liberada para ir ao abatedouro', diz integrante do portal Covid-19 Brasil sobre redução do distanciamento. Grupo de cientistas projeta que, em dez dias, número de casos e mortes pode aumentar 150% nas cidades que promoverem relaxamento esta semana
+https://oglobo.globo.com/sociedade/coronavirus/populacao-foi-liberada-para-ir-ao-abatedouro-diz-integrante-do-portal-covid-19-brasil-sobre-reducao-do-distanciamento-24459467
+
+▶️ Citada como exemplo por Bolsonaro, Suécia admite que deveria ter adotado medidas de isolamento mais duras. Comentário do epidemiologista-chefe de Estocolmo se segue críticas à posição do governo no combate à pandemia
+https://oglobo.globo.com/mundo/citada-como-exemplo-por-bolsonaro-suecia-admite-que-deveria-ter-adotado-medidas-de-isolamento-mais-duras-contra-covid-19-24459890
+
+▶️ RJ: Prefeitura e Estado divergem sobre isolamento
+https://valor.globo.com/brasil/noticia/2020/06/03/prefeitura-e-estado-divergem-sobre-isolamento-no-rio.ghtml
+
+▶️ RJ: Prefeitura prorroga fechamento das escolas até 3 de julho
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/03/prefeitura-do-rio-prorroga-fechamento-escolas.htm
+
+▶️ Premiê britânico diz que quarentena é vital para prevenir reinfecção
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/03/premie-britanico-diz-que-quarentena-e-vital-para-prevenir-reinfeccao.htm
+--
+🥼 Saúde Pública
+
+▶️ RJ: Após decreto, Iabas é afastado da construção e da gestão dos hospitais de campanha
+https://oglobo.globo.com/rio/apos-decreto-iabas-afastado-da-construcao-da-gestao-dos-hospitais-de-campanha-no-rio-24459849
+
+▶️ ONG leva oxímetros para favelas no combate ao novo coronavírus
+https://saude.estadao.com.br/noticias/geral,ong-leva-oximetros-para-favelas-no-combate-ao-novo-coronavirus,70003323167
+
+▶️ CNBB elaborou diretrizes para a celebração de cerimônias presenciais. Fiéis só poderão tirar as máscaras no momento da comunhão eucarística e terão de dispor de um espaço mínimo de 4 metros quadrados
+https://saude.estadao.com.br/noticias/geral,cnbb-define-regras-para-cerimonias-religiosas-durante-pandemia-do-coronavirus,70003322639
+--
+🗂️ Política
+
+▶️ Governo oficializa general Pazuello como ministro interino da Saúde. A nomeação foi publicada no Diário Oficial da União
+https://oglobo.globo.com/sociedade/governo-oficializa-general-pazuello-como-ministro-interino-da-saude-1-24459898
+
+▶️ Rede de ensino de idiomas Wizard by Pearson divulgou que não tem mais nenhuma ligação com o empresário Carlos Wizard Martins, que assumiu cargo de secretário no Ministério da Saúde
+https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/03/escola-diz-nao-ter-mais-relacao-com-carlos-wizard-nem-vinculo-com-governo.htm
+
+▶️ Bolsonaro veta repasse de R$ 8,6 bi para estados e municípios combaterem coronavírus
+https://www1.folha.uol.com.br/mercado/2020/06/bolsonaro-veta-repasse-de-r-86-bi-para-estados-e-municipios-combaterem-coronavirus.shtml
+--
+🌐 Internacional
+
+🇸🇪 Suécia registrou 38.589 casos e 4.468 óbitos, como uma taxa de 43,2 mortos por 100 mil habitantes, muito superior à dos vizinhos nórdicos. 
+
+🇮🇳 Índia tem mais de 200 mil casos, 9 mil registrados nas últimas 24h, e cerca de 5,8 mil mortes. Infecções têm aumentado após o fim do lockdown
+
+🇪🇨 Equador tem cerca de 40 mil casos e 3.400 mortos. Notícias falsas e desinformação prejudicam combate à pandemia no país
+
+🇵🇪 Peru tem 174.884 casos e 4.767 óbitos. País planeja passar para a segunda fase da reabertura econômica
+
+🇻🇪 Venezuela: Maduro e Guaidó chegam a acordo para obter recursos contra a Covid-19
+
+🇮🇷 Irã relatou mais de 3.000 novos casos nas últimas 24h e chega a 160.696, com 70 mortes, total é de 8.012
+
+🇺🇦 Ucrânia registra mais de 24 mil casos e 727 mortes
+
+🇭🇳 Honduras registra 5.527 e 225 mortes. 
+
+🇰🇷 Coreia do Sul autorizou o uso do remdesivir para tratar os pacientes de coronavírus. País tem 11.590 casos e 273 mortes
+
+🇰🇵 Coreia do Norte: escolas reabrem após fechamento pelo coronavírus
+
+🇧🇪 Bélgica registra um total de 58.685 casos e 9.522 mortes. País reabrirá bares, restaurantes e outras áreas da vida social e cultural a partir de 8 de junho
+
+🇩🇪 Alemanha registrou 29 óbitos e 342 novos casos nas últimas 24h. O número de mortes chegou a 8.551. País vai suspender restrições de viagens na Europa a partir de 15 de junho
+
+🇳🇿 Nova Zelândia pode voltar à vida normal já na próxima semana. País não registrou novos casos pelo 12º dia consecutivo e possui apenas um caso ativo
+
+🇵🇸 Palestina: mesquitas da Faixa de Gaza reabrem. Região registrou oficialmente cerca de 60 casos e uma morte 
+--
+🔍 Recortes da pandemia
+
+🎙️ Podcast: qual é o futuro dos idosos diante da pandemia?
+https://g1.globo.com/bemestar/podcast/noticia/2020/06/03/bem-estar-41-qual-e-o-futuro-dos-idosos-diante-da-pandemia-de-covid-19.ghtml
+
+▶️ Pesquisa nacional busca impactos da pandemia do novo coronavírus na população trans
+https://www1.folha.uol.com.br/cotidiano/2020/06/pesquisa-nacional-busca-impactos-da-pandemia-do-novo-coronavirus-na-populacao-trans.shtml
+
+▶️ Epidemias fazem parte da história da humanidade
+https://www1.folha.uol.com.br/colunas/marceloviana/2020/06/epidemias-fazem-parte-da-historia-da-humanidade.shtml
+
+▶️ ONU critica aumento da censura na China e outros países da Ásia pela pandemia
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/03/onu-critica-aumento-da-censura-na-china-e-outros-paises-da-asia-pela-pandemia.htm
+--
+✅ Curtas
+
+➡️ Líderes do G-7 vão se reunir em videoconferência para discutir medidas de combate ao novo coronavírus
+
+➡️ Bolsonaro diz que prorrogação de auxílio emergencial é quase certa e estuda nova carteira Verde e Amarela
+
+➡️ STJ decide que todos detentos do semiaberto de MG cumpram prisão domiciliar
+
+➡️ Indústria do Brasil tem perdas recordes em abril com queda generalizada da produção
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

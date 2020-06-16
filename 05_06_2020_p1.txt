@@ -1,0 +1,201 @@
+Destaques - 05/06/2020 
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 621.877 casos; 34.212 mortes 
+🌎 Mundo: 6,6 milhões de casos; 392 mil mortes
+--
+➕ Os dados atualizados da Covid-19 no Brasil de ontem (04) foram divulgados às 22h. O país registrou 1.473 novos óbitos, número recorde em um dia, totalizando 34.021 mortos e 614.941 casos no balanço oficial.
+https://covid.saude.gov.br/
+--
+📊 Epidemiologia
+
+▶️ Bolsonaro ordenou atrasar boletins para não passar em telejornais. Após a decisão, que foi tomada nesta semana, as informações diárias sobre a pandemia passam a ser divulgadas às 22 horas
+https://www.correiobraziliense.com.br/app/noticia/politica/2020/06/05/interna_politica,861307/covid-19-bolsonaro-ordenou-atrasar-boletins-nao-passar-em-telejornais.shtml
+
+⏩ Ministério da Saúde registra 139 mortes a menos do que mostram secretarias
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/dados-ministerio-saude-secretarias-estaduais.htm
+
+⏩ JN cita atrasos de ministério e muda divulgação de números do coronavírus
+https://tvefamosos.uol.com.br/noticias/redacao/2020/06/04/jn-cita-atrasos-de-ministerio-e-muda-divulgacao-de-numeros-do-coronavirus.htm
+
+▶️ Coronavírus mata mais de uma pessoa por minuto no Brasil
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/coronavirus-mata-mais-de-uma-pessoa-por-minuto-no-brasil.shtml
+
+▶️ Estados menos populosos têm maior avanço recente da Covid-19. PB e RN registraram maior crescimento proporcional nos últimos dez dias
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/estados-menos-populosos-tem-maior-avanco-recente-da-covid-19.shtml
+
+▶️ RJ: três meses de coronavírus: veja como a Covid-19 mudou o estado e o que se aprendeu com a pandemia 
+https://oglobo.globo.com/rio/tres-meses-de-coronavirus-veja-como-covid-19-mudou-rio-o-que-se-aprendeu-com-pandemia-no-estado-24463222
+
+↪️ RJ registra 324 mortos em 24h. Estado tem 60.932 casos e 6.327 mortes. Secretário diz que pandemia é hiperdimensionada e 6 mil mortes é pouco
+
+↪️ MG: 'pode vir uma 2ª onda e situação se tornar incontrolável', admite Zema
+
+↪️ SP não teve mortes por colapso do sistema de saúde, diz Gabbardo. Ônibus circularão com capacidade máxima de passageiros sentados. Entrega de respiradores de Doria pode ocorrer só em setembro, diz documento
+--
+💊 Tratamento
+
+▶️ Assim como estudo sobre cloroquina no The Lancet, artigo sobre anti-hipertensivos na Covid-19 é 'despublicado' no New England Journal of Medicine. Pesquisas usaram a mesma base de dados, que não pode ser verificada.
+https://www.nytimes.com/2020/06/04/health/coronavirus-hydroxychloroquine.html 
+✏️ Retraction: Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19. N Engl J Med. DOI: 10.1056/NEJMoa2007621
+https://www.nejm.org/doi/full/10.1056/NEJMc2021225
+
+⏩ Primeiro grande escândalo de pesquisa da pandemia irrompe. Reportagem discute questões ligadas à retratação de trabalhos no The Lancet e NEJM
+https://science.sciencemag.org/content/368/6495/1041
+
+▶️ Carlos Wizard usa dado falso ao defender cloroquina
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/05/no-ministerio-da-saude-bilionario-defende-uso-preventivo-de-cloroquina.htm
+
+▶️ Famotidina, remédio para azia, é testada contra a Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/remedio-para-azia-e-testado-contra-a-covid-19.shtml
+✏️ Famotidine use and quantitative symptom tracking for COVID-19 in non-hospitalised patients: a case series 
+https://gut.bmj.com/content/early/2020/06/04/gutjnl-2020-321852
+--
+🔬 Pesquisa científica
+
+▶️ 70% das pessoas infectadas não transmitiram a ninguém, segundo pesquisas preliminares. Eventos superdisseminação são responsáveis ​​pela maior parte da transmissão.
+https://www.businessinsider.com/super-spreader-events-account-for-most-coronavirus-transmission-2020-6
+✏️ Clustering and superspreading potential of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections in Hong Kong
+https://www.researchsquare.com/article/rs-29548/v1
+
+▶️ O que será necessário para rastrear a origem do coronavírus. O SARS-CoV-2 veio de um animal, mas descobrir qual será mais complicado, assim como afastar a especulação de um vazamento de laboratório.
+https://www.nature.com/articles/d41586-020-01541-z
+
+▶️ Série de seis autópsias aponta que envolvimento do pronunciado do sistema nervoso central em pacientes com Covid-19, com pan-encefalite, meningite e danos às células neuronais do tronco cerebral
+✏️ Early evidence of pronounced brain involvement in fatal Covid-19 outcomes
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31282-4
+
+▶️ Estudo indica maior risco de morrer por Covid-19 em hipertensos e sugere manutenção de medicação
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/04/estudo-indica-maior-risco-de-morrer-por-covid-19-em-hipertensos-e-sugere-manutencao-de-medicacao.ghtml
+✏️ Association of hypertension and antihypertensive treatment with Covid-19 mortality: a retrospective observational study 
+https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehaa433/5851436
+
+▶️ Brasil negocia possibilidade de fazer vacina contra o coronavírus. Acordo com empresa permitiria que a produção brasileira abastecesse toda a América Latina
+https://saude.estadao.com.br/noticias/geral,brasil-negocia-possibilidade-de-fazer-vacina-contra-o-coronavirus,70003325364
+
+⏩ Vacina contra o coronavírus da Oxford/AstraZeneca está prevista para setembro
+https://www.uol.com.br/vivabem/noticias/afp/2020/06/05/vacina-contra-o-coronavirus-da-oxfordastrazeneca-esta-prevista-para-setembro.htm
+
+▶️ Pesquisa da UFSCar analisa estratégias de ventilação mecânica usadas em pacientes com Covid-19
+http://agencia.fapesp.br/pesquisa-da-ufscar-analisa-estrategias-de-ventilacao-mecanica-usadas-em-pacientes-com-covid-19/33328/
+
+▶️ Artigo descreve como os ensaios randomizados para intervenções não farmacológicas podem ser implementados de forma prática e ética em uma pandemia
+https://science.sciencemag.org/content/368/6495/1063
+
+▶️ Tipo de grupo sanguíneo pode afetar a suscetibilidade à insuficiência respiratória por Covid-19
+https://www.news-medical.net/news/20200603/Blood-group-type-may-affect-susceptibility-to-COVID-19-respiratory-failure.aspx
+✏️ The ABO blood group locus and a chromosome 3 gene cluster associate with SARS-CoV-2 respiratory failure in an Italian-Spanish genome-wide association analysis
+https://www.medrxiv.org/content/10.1101/2020.05.31.20114991v1
+
+▶️ 'É preciso mostrar para a sociedade a importância da evidência científica'
+https://www.uol.com.br/ecoa/ultimas-noticias/2020/06/05/e-preciso-mostrar-para-a-sociedade-a-importancia-da-evidencia-cientifica.htm
+
+▶️ Revistas e servidores de pré-print, sobrecarregados pelos artigos relacionados à Covid-19, estão deixando de lado outras linhas de pesquisa médica, em detrimento dos cientistas que trabalham em outros tópicos.
+https://www.natureindex.com/news-blog/coronavirus-pandemic-crowds-out-other-science-research-papers
+
+▶️ Pandemia misturou o que os cientistas estudam - e alguns não voltarão às suas áreas de origem
+https://www.nature.com/articles/d41586-020-01525-z
+
+▶️ Coronavírus pode tornar mais rápido e fácil o teste de drogas. Ensaios clínicos remotos e outras alterações podem alterar permanentemente o desenvolvimento farmacêutico
+https://www.nature.com/articles/d41586-020-01524-0
+--
+🧪 Diagnóstico
+
+▶️ País distribui 3 milhões de testes; 1 milhão são analisados. Mais de 556 mil testes foram analisados em laboratórios públicos
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/covid-19-pais-distribui-3-milhoes-testes-1-milhao-sao-analisados
+
+▶️ Fiocruz e UFMG desenvolvem teste mais preciso e barato para Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/ufmg-e-fiocruz-desenvolvem-teste-mais-preciso-e-barato-para-covid-19
+
+▶️ Fernando Reinach: 'Precisamos de testes em massa para evitar o efeito abre-e-fecha'
+https://saude.estadao.com.br/noticias/geral,evitar-o-abre-e-fecha,70003325273
+--
+🏡 Distanciamento social
+
+▶️ Na contramão do mundo, Brasil flexibiliza quarentena antes de atingir pico de mortes. Estados começam a relaxar medidas enquanto país registra recordes sucessivos de novos casos e mortes e taxas de contágio; 'é uma insanidade', diz epidemiologista.
+https://www.bbc.com/portuguese/brasil-52930843
+
+▶️ Capitais ampliam retomada de atividades, e quatro planejam volta às aulas até julho
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/05/capitais-ampliam-retomada-de-atividades-e-quatro-planejam-volta-as-aulas-ate-julho.ghtml
+
+▶️ RJ: regras da reabertura das atividades incluem ida ao banheiro marcada por aplicativo e distanciamento na escada rolante. Witzel sanciona lei que prevê multa de até R$ 1.065 a quem não usar máscara. Secretário estadual de Educação do Rio critica ação que resultou na reabertura de escolas para distribuição de merenda
+https://oglobo.globo.com/rio/no-novo-normal-ida-ao-banheiro-marcada-por-aplicativo-distanciamento-na-escada-rolante-estao-entre-as-regras-da-reabertura-das-atividades-confira-24463697
+
+▶️ SP: juristas e advogados vão à Justiça contra flexibilização de quarentena
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/juristas-e-advogados-vao-a-justica-contra-flexibilizacao-de-quarentena-em-sp.shtml
+
+▶️ PA: Belém terá reabertura de shopping centers, salões de beleza, clínicas de estética e barbearias
+https://saude.estadao.com.br/noticias/geral,belem-tera-reabertura-de-shopping-centers-saloes-de-beleza-clinicas-de-estetica-e-barbearias,70003325373
+
+▶️ Índia: como lockdown matou mais de 300 pessoas que não tinham o coronavírus
+https://www.bbc.com/portuguese/internacional-52921925
+
+▶️ Como países estrangeiros estão planejando sua reabertura ao turismo 
+https://www.uol.com.br/nossa/noticias/redacao/2020/06/05/como-paises-estrangeiros-estao-planejando-sua-reabertura-ao-turismo.htm
+--
+🥼 Saúde pública
+
+▶️ Pandemia provoca redução de consultas e exames de HIV e tuberculose. Em alguns locais, atendimentos estão paralisados, e laboratórios são usados para testes de Covid
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/pandemia-provoca-reducao-de-consultas-e-exames-de-hiv-e-tuberculose.shtml
+
+▶️ Abin alertou Palácio do Planalto e ministros sobre caos em cemitérios pela Covid-19
+https://saude.estadao.com.br/noticias/geral,abin-alertou-sobre-caos-em-cemiterios-pela-covid-19,70003325776
+
+▶️ Paciente oncológica fala sobre a importância de manter sua rotina de tratamento
+https://aovivo.folha.uol.com.br/equilibrioesaude/2020/03/30/5909-acompanhe-todas-as-informacoes-sobre-a-pandemia-de-coronavirus.shtml#post401949
+
+▶️ Brasil registra 40 mil internações por falta de saneamento nos primeiros três meses do ano; gastos chegam a R$ 16 milhões
+https://g1.globo.com/economia/noticia/2020/06/05/brasil-registra-40-mil-internacoes-por-falta-de-saneamento-nos-primeiros-tres-meses-do-ano-gastos-chegam-a-r-16-milhoes.ghtml
+--
+🗂️ Política
+
+▶️ Governo nomeia Arnaldo de Medeiros novo secretário de Vigilância em Saúde, indicado pelo Centrão. Professor universitário substitui Wanderson Oliveira, que defendia o isolamento social como estratégia contra o novo coronavírus e pediu para deixar o cargo
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/05/governo-nomeia-novo-secretario-de-vigilancia-em-saude-do-ministerio-da-saude.ghtml
+
+▶️ Bolsonaro inaugura hospital de campanha em Goiás sem máscara
+https://politica.estadao.com.br/noticias/geral,bolsonaro-escorrega-e-cai-apos-descer-de-helicoptero-em-goias,70003325684
+
+▶️ SP: deputados e assessores entraram no hospital de campanha do Anhembi, sem autorização, e filmaram pacientes e profissionais. Prefeitura vai prestar queixa
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/prefeitura-vai-registrar-queixa-contra-deputados-que-filmaram-hospital.htm
+
+▶️ Ministério da Saúde desautorizou uma nota técnica sobre aborto e métodos contraceptivos emitida pela equipe de saúde da mulher da pasta e exonerou os responsáveis pela sua elaboração
+https://brpolitico.com.br/noticias/apos-nota-sobre-aborto-ministerio-da-saude-exonera-equipe-de-saude-da-mulher/
+
+▶️ Pandemia e risco de conflito podem limitar alcance de atos contra Bolsonaro e racismo
+https://www.bbc.com/portuguese/brasil-52931385
+--
+🌐 Internacional
+
+🌍 África tem 162 mil casos e 4.600 mortes. Continente já realizou 3,4 milhões de testes e deve triplicar o nº nos próximos meses
+
+🇦🇷 Argentina registrou 929 casos e soma 20.197. País tem 615 mortes e estende quarentena em Buenos Aires até 28 de junho
+
+🇲🇽 México tem um total de 105.680 casos e 12.545 mortes. Foram 816 mortes em 24h
+
+🇺🇸 EUA registram 1.021 mortes em 24h
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra: índice de casos caíram de forma acentuada nas últimas semanas, nº de pessoas infectadas caindo pela metade na segunda quinzena de maio
+
+🇨🇳 China tem leve aumento de infecções, com 5 novos casos. País tem 4.634 mortes e 83.027 casos
+
+🇫🇯 Fiji: arquipélago, que teve 18 casos confirmados, anunciou que está livre da Covid-19. 
+
+🇨🇴 Colômbia: idosos 'se rebelam' contra confinamento 
+
+🇸🇪 Suécia vai flexibilizar restrições a viagens domésticas
+--
+🔍 Recortes da pandemia
+
+▶️ Erros cometidos pelo Brasil na pandemia são históricos, diz médico e cientista Miguel Nicolelis 
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/05/uol-entrevista-miguel-nicolelis.htm
+
+▶️ Historiador holandês Rutger Bregman vê pandemia do coronavírus encorajando novos valores
+https://internacional.estadao.com.br/noticias/geral,mudanca-geracional-historiador-ve-pandemia-do-coronavirus-encorajando-novos-valores,70003325237
+
+▶️ Cacique Raoni acusa Bolsonaro de querer "se aproveitar" da pandemia para eliminar seu povo
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/05/bolsonaro-se-aproveita-do-coronavirus-para-eliminar-indigenas-diz-raoni-a-afp.htm
+
+▶️ Pandemia atrapalha entrada de jovens no mercado de trabalho
+https://saude.estadao.com.br/noticias/geral,pandemia-do-coronavirus-atrapalha-entrada-de-jovens-no-mercado-de-trabalho,70003325376
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

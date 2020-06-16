@@ -1,0 +1,133 @@
+Destaques - 05/06/2020 [parte 2] 
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 630.708 casos; 34.625 mortes 
+🌎 Mundo: 6,7 milhões de casos; 393 mil mortes
+--
+➕ Até o fechamento deste boletim, o Ministério da Saúde não havia divulgado os dados atualizados da Covid-19 no país.
+--
+📊 Epidemiologia
+
+▶️ Como o governo vem reduzindo a transparência de dados sobre a Covid-19
+https://noticias.uol.com.br/saude/ultimas-noticias/deutschewelle/2020/06/05/como-o-governo-vem-reduzindo-a-transparencia-de-dados-sobre-a-covid-19.htm
+
+▶️ Análise: em cada quatro pessoas que morrem de Covid-19 no mundo, uma é do Brasil
+https://oglobo.globo.com/analitico/em-cada-quatro-pessoas-que-morrem-de-covid-19-no-mundo-uma-do-brasil-24464601
+
+▶️ RJ: Crivella defende volta à normalidade, após 70 dias de isolamento. Segundo o prefeito, o número de óbitos na cidade diminuiu. Dados do Sistema Infogripe, da Fiocruz, mostram que as mortes por Srag continuam muito acima da média para a doença no estado
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/crivella-defende-volta-normalidade-apos-70-dias-de-isolamento
+
+⏩ RJ: cartórios têm quase 2.000 mortes a mais que números do governo
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/05/obitos-coronavirus-rj-cartorios-governo.htm
+
+▶️ SP tem 134.565 casos e 8.842 óbitos. Há 4.531 pessoas internadas em UTI com suspeita ou confirmação, além de 7,7 mil em enfermarias
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/sao-paulo-tem-mais-de-134-mil-casos-confirmados-de-coronavirus
+
+▶️ SP, Manaus e Belém já chegaram ao pico de contágio, segundo Gabbardo
+https://noticias.uol.com.br/videos/2020/06/05/gabbardo-sp-manaus-e-belem-ja-chegaram-ao-pico-de-contagio-por-covid-19.htm
+
+🎦 Vídeo: o que torna um lugar mais ou menos perigoso para a transmissão?
+https://www.bbc.com/portuguese/geral-52944237
+--
+🏥 Recomendações OMS
+
+▶️ OMS divulga novas orientações para uso e fabricação de máscaras de pano contra a Covid-19. Entidade recomenda que todos usem máscaras em áreas onde o distanciamento social não é possível. 
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/05/oms-divulga-novas-orientacoes-para-uso-e-fabricacao-de-mascaras-de-pano-contra-a-covid-19.ghtml
+
+▶️ OMS recomenda novo prazo de isolamento, de ao menos dez dias, em casos de novo coronavírus. Organização se baseia em novos estudos que observaram por quanto tempo é possível encontrar o patógeno nos doentes
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/oms-recomenda-novo-prazo-de-isolamento-de-ao-menos-dez-dias-em-casos-de-novo-coronavirus.shtml
+
+▶️ OMS reitera alerta contra flexibilização de isolamento sem queda em novos casos de Covid-19. Porta-voz da organização foi questionada sobre retomada das atividades econômicas no Brasil
+https://oglobo.globo.com/mundo/oms-reitera-alerta-contra-flexibilizacao-de-isolamento-sem-queda-em-novos-casos-de-covid-19-24464606
+--
+💊 Tratamento
+
+▶️ Estudo de Oxford com 1,5 mil pacientes não encontra benefícios em tratar Covid-19 com hidroxicloroquina. Pesquisa integra os ensaios 'Recovery', que envolvem 11 mil pacientes em todo o Reino Unido
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/05/estudo-de-oxford-com-15-mil-pacientes-nao-encontra-beneficios-em-tratar-covid-19-com-hidroxicloroquina-e-ensaio-e-suspenso.ghtml
+
+▶️ Gabbardo: aposta na cloroquina para todos é desnecessária e traz riscos
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/05/aposta-na-cloroquina-para-todos-e-desnecessaria-e-traz-riscos-diz-gabbardo.htm
+--
+🔬 Pesquisa científica
+
+▶️ Tocilizumabe, remédio para artrite tem bons resultados em pacientes com Covid-19 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/05/remedio-para-artrite-tem-bons-resultados-em-pacientes-com-covid-19.htm
+✏️ Tocilizumab for treatment of mechanically ventilated patients with Covid-19
+https://www.medrxiv.org/content/10.1101/2020.05.29.20117358v1
+
+▶️ Vitamina K encontrada em alguns queijos pode ajudar a combater a Covid-19, sugere estudo. Cientistas na Holanda exploram possível ligação entre deficiência e mortes pela doença
+https://www.theguardian.com/science/2020/jun/05/vitamin-k-could-help-fight-coronavirus-study-suggests
+✏️ Reduced Vitamin K Status as A Potentially Modifiable Prognostic Risk Factor in Covid-19
+https://www.preprints.org/manuscript/202004.0457/v2
+--
+🏡 Distanciamento social
+
+▶️ SP: aulas na rede pública voltarão em etapas. Na primeira fase, alunos terão aula apenas uma vez por semana; data exata para retorno ainda não foi definida.
+https://saude.estadao.com.br/noticias/geral,aulas-na-rede-de-sao-paulo-voltarao-em-etapas-afirma-gestao-doria,70003325854
+
+▶️ Gabbardo: Isolar só grupo de risco faria até 3 vezes maior número de mortos
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/05/gabbardo-isolar-so-grupo-de-risco-faria-ate-3-vezes-maior-numero-de-mortos.htm
+
+▶️ Itália pode ter volta de lockdown se houver segunda onda, diz especialista
+https://www.theguardian.com/world/2020/jun/05/lockdown-may-return-if-there-is-second-wave-says-italy-medical-chief-maurizio-cecconi
+--
+🥼 Saúde pública
+
+▶️ MS: Brasil já tem 7.774 leitos de UTI exclusivos para pacientes com coronavírus
+https://www.saude.gov.br/noticias/agencia-saude/47014-brasil-ja-tem-7-774-leitos-de-uti-exclusivos-para-pacientes-com-coronavirus
+
+▶️ SP: leitos vagos em hospital exposto por deputados são para pico da pandemia
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/05/leitos-vagos-em-hospital-de-campanha-invadido-sao-para-pico-da-pandemia.htm
+--
+🗂️ Política
+
+▶️ MS: Arnaldo Correia de Medeiros é o novo Secretário de Vigilância em Saúde
+https://www.saude.gov.br/noticias/agencia-saude/47015-arnaldo-correia-de-medeiros-e-o-novo-secretario-de-vigilancia-em-saude
+
+▶️ Mandetta: paga-se um preço por trocas na Saúde durante pandemia
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/05/mandetta-entrevista-joven-pan-panico.htm
+
+▶️ Bolsonaro ajudou número de mortos de Covid-19 a explodir no Brasil, diz revista Paris Match
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/05/bolsonaro-ajudou-numero-de-mortos-de-covid-19-explodir-no-brasil-denuncia-revista-paris-match.htm
+
+▶️ Trump cita Brasil como mau exemplo no combate ao coronavírus. Presidente americano também fala sobre modelo sueco: 'Se tivéssemos feito isso, teríamos perdido 1 milhão, 1 milhão e meio, talvez até 2 milhões ou mais de vidas'
+https://internacional.estadao.com.br/noticias/geral,trump-cita-brasil-como-mau-exemplo-no-combate-ao-coronavirus,70003325995
+
+⏩ Gabbardo rebate Trump: Brasil ganhou de 5 a 0 na resposta ao coronavírus
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/05/gabbardo-rebate-trump-brasil-ganhou-de-5-a-0-na-resposta-ao-coronavirus.htm
+--
+🌐 Internacional
+
+🇮🇹 Itália teve 518 novos contágios, com aumento da testagem. País já submeteu 2.565.258 pessoas a 4.114.572 testes genéticos. Foram registrados 234.531 casos e 33.774 mortes. 
+
+🇫🇷 França: nº de mortes aumentou 46, atingindo 29,1 mil. Já o de casos confirmados aumentou 0,4%, subindo para 153 mil. País celebra pandemia 'sob controle'
+
+🇨🇱 Chile teve 4.207 novas infecções e 92 mortes nas últimas 24 horas. País registrou 122.499 casos 
+
+🇺🇸 EUA passam de 108 mil mortes e têm mais de 1,8 milhão de casos
+
+🇲🇽 México: feminicídios sobem na pandemia, mas presidente minimiza 
+--
+🔍 Recortes da pandemia
+
+▶️ Moradores de favelas isoladas no Rio lutam por lembrança e ajuda
+https://www1.folha.uol.com.br/cotidiano/2020/06/moradores-de-favelas-isoladas-no-rio-lutam-por-lembranca-e-ajuda.shtml
+
+▶️ Unicamp anuncia mudanças no vestibular por causa do coronavírus
+https://educacao.estadao.com.br/noticias/geral,unicamp-anuncia-mudancas-no-vestibular-por-causa-do-coronavirus,70003325860
+
+▶️ Brasileiros explicam decisão de se infectar voluntariamente para pesquisa
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/05/brasileiros-voluntarios-a-contrair-coronavirus-risco-calculado.htm
+
+▶️ Mulheres são mais atingidas em tripla crise de saúde no Congo: coronavírus, sarampo e Ebola
+https://www.uol.com.br/universa/noticias/reuters/2020/06/05/mulheres-sao-mais-atingidas-em-tripla-crise-de-saude-no-congo-coronavirus-sarampo-e-ebola.htm
+--
+✅ Curtas
+
+➡️ Montadoras adotam desinfecção hospitalar para reabrir suas lojas
+
+➡️ É falso que chá de boldo cure sintomas causados pelo novo coronavírus
+
+➡️ São Paulo plantará uma árvore para cada vítima de Covid-19
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

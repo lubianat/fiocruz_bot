@@ -1,0 +1,217 @@
+Destaques - 15/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 869.956 casos; 43.396 mortes
+🌎 Mundo: 7,9 milhões de casos; 434 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Covid-19 já tinha se disseminado pelo Brasil quando medidas de contenção foram adotadas
+http://agencia.fapesp.br/covid-19-ja-tinha-se-disseminado-pelo-brasil-quando-medidas-de-contencao-foram-adotadas/33396/
+⏩ No estudo, pesquisadores sequenciaram 427 genomas do novo coronavírus e encontraram três cepas principais
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/13/pesquisadores-sequenciam-490-genomas-do-novo-coronavirus-no-brasil-e-localizam-3-predominantes.ghtml
+✏️ Evolution and epidemic spread of SARS-CoV-2 in Brazil 
+https://www.medrxiv.org/content/10.1101/2020.06.11.20128249v1
+
+▶️ Cientistas relatam falhas no estudo da OMS sobre distanciamento de 2 metros
+https://www.theguardian.com/science/2020/jun/14/scientists-report-flaws-in-who-study-on-two-metre-distancing
+
+▶️ Hemorio tem 28% de doadores com anticorpos para Covid-19. Pesquisa inédita foi feita pelo Hemorio com a UFRJ, Fiocruz e Uerj
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/hemorio-tem-28-de-doadores-com-anticorpos-para-covid-19
+
+▶️ Uso de plasma contra Covid-19 é restrito a poucos. Estudos no Rio e em São Paulo verificam que apenas 40% dos doadores inicialmente aptos conseguem colaborar em procedimento; países pobres têm menos recursos para viabilizarem aplicação da técnica
+https://oglobo.globo.com/sociedade/coronavirus/uso-de-plasma-contra-covid-19-restrito-poucos-1-24479725
+
+▶️ Primeiras vacinas contra coronavírus podem não impedir contágio
+https://www.uol.com.br/vivabem/noticias/bloomberg/2020/06/15/primeiras-vacinas-contra-coronavirus-podem-nao-impedir-contagio.htm
+
+▶️ Cientistas latino-americanos se juntam à corrida de vacinas contra o coronavírus: "Ninguém virá nos resgatar"
+https://www.nature.com/articles/d41586-020-01756-0
+
+🎦 Vídeo: entenda por que só um estudo ruim não valida ou invalida a cloroquina
+https://www.uol.com.br/tilt/noticias/redacao/2020/06/15/entenda-porque-so-um-estudo-ruim-nao-valida-ou-invalida-a-cloroquina.htm
+--
+📊 Epidemiologia
+
+▶️ Interiorização da Covid-19 faz seis estados do país registrarem mais mortes em cidades interioranas. Na Região Sul, todos os três estados já registram mais mortes em cidades do interior
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/interiorizacao-da-covid-19-faz-seis-estados-do-pais-registrarem-mais-mortes-em-cidades-interioranas.ghtml
+
+▶️ Varíola: o que podemos aprender com a única erradicação de doença infecciosa no mundo
+https://www.bbc.com/portuguese/geral-53049618
+
+▶️ Especialistas criticam a oferta de produtos que prometem aumentar a imunidade contra a Covid-19. Eles reforçam que para evitar a doença só mesmo distanciamento, máscara e sabão
+https://oglobo.globo.com/ela/beleza/especialistas-criticam-oferta-de-produtos-que-prometem-aumentar-imunidade-contra-covid-19-24479901
+
+⏩ Como aumentar a imunidade para o inverno
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/agencia-brasil-explica-como-aumentar-imunidade-para-o-inverno
+
+▶️ AM: Pesquisadores divergem se Manaus se livrou da epidemia. Mortes caem; pesquisador diz que reabertura ignorou critérios técnicos
+https://www1.folha.uol.com.br/cotidiano/2020/06/pesquisadores-divergem-se-manaus-se-livrou-da-epidemia.shtml
+
+▶️ EUA registram recordes de casos de Covid-19 e hospitalizações em alguns Estados
+https://g1.globo.com/mundo/noticia/2020/06/14/eua-registram-recordes-de-casos-de-covid-19-e-hospitalizacoes-em-alguns-estados.ghtml
+
+▶️ Capital chinesa registrou 36 novas infecções nas últimas 24h, aumentando temores de uma segunda onda de infecções no país 
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/15/novo-foco-de-coronavirus-na-china-expande-quarentena-para-mais-10-bairros-de-pequim.htm
+
+⏩ China evita salmão importado após relação com surto em Pequim
+https://economia.uol.com.br/noticias/bloomberg/2020/06/15/china-evita-salmao-importado-apos-relacao-com-surto-em-pequim.htm
+
+▶️ RJ: capital registra 50 mortes e 357 casos em 24h e chega a 5.043 mortes e 41.768 casos. Estado teve 80 óbitos e 736 casos, acumulando 7.672 mortes e 79.572 casos
+https://oglobo.globo.com/rio/capital-ultrapassa-marca-de-5-mil-mortos-pela-covid-19-1-24479667
+
+▶️ SP registra 113 mortes e 5.327 casos em 24h. Estado tem 10.694 óbitos e 178.202 casos confirmados
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/sao-paulo-registra-106-mil-mortes-por-covid-19
+--
+🧪 Diagnóstico
+
+▶️ Cidade de São Paulo promete testes em 46 mil pessoas para investigar evolução da Covid-19
+https://saude.estadao.com.br/noticias/geral,cidade-de-sao-paulo-promete-testes-em-46-mil-pessoas-para-investigar-evolucao-da-covid-19,70003333279
+
+▶️ O que dizem os testes de anticorpos? Testes sorológicos para Covid-19 detectam não a presença do vírus no corpo humano, mas a reação do organismo à presença do vírus
+https://blogs.oglobo.globo.com/a-hora-da-ciencia/post/o-que-dizem-os-testes-de-anticorpos.html
+--
+🏡 Distanciamento social
+
+▶️ Relaxamento da quarentena pode causar aumento de 71% das mortes em SP, de acordo com projeções de um grupo de pesquisadores da USP e FGV
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/relaxamento-da-quarentena-pode-causar-aumento-de-71-das-mortes-em-sp-alertam-pesquisadores.shtml
+
+▶️ Como empresas estão se preparando para voltar ao escritório após quarentena
+https://economia.uol.com.br/noticias/redacao/2020/06/15/como-empresas-estao-se-preparando-para-voltar-ao-escritorio-apos-quarentena.htm
+
+▶️ Europa reabre suas fronteiras e tenta salvar temporada turística
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/15/europa-reabre-suas-fronteiras-e-tenta-salvar-temporada-turistica.htm
+
+⏩ No entanto, países divergem na reabertura de fronteiras internas
+https://internacional.estadao.com.br/noticias/geral,na-europa-paises-divergem-na-reabertura-de-fronteiras-internas,70003333596
+
+▶️ Opinião: retomada em SP: consciente ou inconsequente. Retorno à normalidade deve ser, sobretudo, deixar de perder vidas aos milhares
+https://www1.folha.uol.com.br/colunas/tabata-amaral/2020/06/retomada-em-sp-consciente-ou-inconsequente.shtml
+
+▶️ Danske Bank: Segunda onda de casos não deve levar a novos lockdowns
+https://economia.estadao.com.br/noticias/geral,danske-bank-segunda-onda-de-casos-da-covid-19-nao-deve-levar-a-novos-lockdowns,70003333248
+--
+🥼 Saúde pública
+
+▶️ Medidas contra o coronavírus atrapalham combate global a outras doenças. Programas de vacinação em massa foram suspensos em países pobres, e retrocesso com sarampo, difteria e poliomielite já é perceptível
+https://oglobo.globo.com/sociedade/coronavirus/medidas-contra-coronavirus-atrapalham-combate-global-outras-doencas-24479820
+
+🎦 Vídeo: imagens dramáticas mostram a luta de uma equipe para salvar pacientes em estado grave com Covid-19
+https://g1.globo.com/fantastico/noticia/2020/06/14/imagens-dramaticas-mostram-a-luta-de-uma-equipe-para-salvar-pacientes-em-estado-grave-com-covid-19.ghtml
+
+▶️ Opas lança pesquisa sobre consumo de álcool durante pandemia
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/opas-lanca-pesquisa-sobre-consumo-de-alcool-durante-pandemia
+✏️ Pesquisa
+https://qfreeaccountssjc1.az1.qualtrics.com/jfe/form/SV_2rb4xCC4dg4w29L
+
+▶️ OMS incentiva doações de sangue durante pandemia
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/oms-incentiva-doacoes-de-sangue-durante-pandemia
+
+▶️ SP: ao menos seis pessoas morrem em casa por dia. Com pandemia, foram 409 casos na capital paulista de 16/3 a 21/5; média normal na cidade entre 2014 e 2018 não chegava a 3
+https://saude.estadao.com.br/noticias/geral,em-sao-paulo-ao-menos-seis-pessoas-morrem-em-casa-por-dia,70003333395
+
+▶️ RJ: rede federal tem falta de profissionais e equipamentos
+https://oglobo.globo.com/rio/rede-federal-tem-falta-de-profissionais-equipamentos-1-24479677
+
+▶️ Pandemia adia tratamentos de câncer no Brasil
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/pandemia-de-covid-19-adia-tratamentos-de-cancer-no-brasil.shtml
+
+▶️ Ministério da Saúde corta R$ 12 milhões de recursos para diálise e trava tratamentos
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/ministerio-da-saude-corta-r-12-milhoes-de-recursos-para-dialise-e-trava-tratamentos.shtml
+
+▶️ Agentes de saúde de SP enfrentam de desinformação a baile funk no combate ao vírus
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/agentes-de-saude-de-sp-enfrentam-de-desinformacao-a-baile-funk-no-combate-ao-virus.shtml
+
+▶️ Hospitais de SP se adaptam à Covid-19 e retomam atendimentos eletivos
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/hospitais-de-sp-se-adaptam-a-covid-19-e-retomam-atendimentos-eletivos.shtml
+
+▶️ Alerta de fake news: diretor do CDC nos EUA não fez lista com 17 dicas que inclui 'evitar o uso prolongado de máscaras'
+https://g1.globo.com/fato-ou-fake/coronavirus/noticia/2020/05/29/e-fake-que-diretor-do-cdc-nos-eua-fez-lista-com-17-dicas-que-inclui-evitar-o-uso-prolongado-de-mascaras.ghtml
+--
+🗂️ Política
+
+▶️ Pazuello militariza Saúde e se destaca como executor de ordens de Bolsonaro
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/14/no-quartel-da-saude-e-sob-ordens-do-chefe.htm
+
+▶️ Após fala de Bolsonaro, procurador-geral da República, Augusto Aras, pediu que sejam investigadas as tentativas de invasão a hospitais
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/14/apos-fala-de-bolsonaro-pgr-pede-investigacao-sobre-invasoes-a-hospitais.htm
+
+▶️ Com coronavírus, prefeito de SP mantém agenda com videoconferências
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/15/com-coronavirus-covas-mantem-agenda-com-videoconferencias.htm
+
+▶️ 'Covidão' já atinge governos de sete Estados e valor investigado chega a R$ 1,07 bilhão
+https://www.bbc.com/portuguese/brasil-53038337
+--
+🌐 Internacional
+
+🇺🇸 EUA tem 382 mortes, o menor nº em 24 horas desde meados de abril. País tem 115.729 óbitos e mais de 2 milhões de casos	 
+
+🇲🇽 México registrou 269 óbitos e 4.147 casos em 24h. País de 127 milhões de habitantes tem 17.141 mortes e 146.837 casos
+
+🇨🇱 Chile tem 174.293 infectados e 3.323 mortes. Foram 6.509 casos e 231 mortes nas últimas 24h. Registros da pandemia no país somarão as mortes suspeitas, um número que pode dobrar o saldo atual
+
+🇬🇹 Guatemala ultrapassou a marca de 10 mil infectados e registrou 384 óbitos. País vai endurecer restrições de distanciamento social
+
+🇧🇴 Bolívia registrou 913 casos em 24h. País tem 17.842 casos e 585 óbitos
+
+🇫🇷 França registrou nove mortes nas últimas 24h e tem um total de 29.407. Ministro da Saúde afirmou que o "mais duro da epidemia ficou para trás". Escolas reabrem dia 22
+
+🇩🇪 Alemanha registrou 192 novos casos e quatro mortes nas últimas 24h. País tem 186.461 infectados e 8.791 óbitos. 
+
+🇬🇧 Reino Unido registrou 36 mortes e 1.514 casos. País tem 41.698 óbitos e 295.889 casos no total
+
+🇵🇹 Portugal vem registrando cerca de 300 novos casos por dia em relaxamento da quarentena, flexibilização será reconsiderada. País tem mais de 36 mil casos e 1.512 mortes.
+
+🇮🇹 Itália libera funcionamento de teatros, espaços para shows e cinemas. Boates e estádios ainda não poderão reabrir. País tem 300 novos casos por dia em média
+
+🇵🇪 Peru liberou 1.502 presos condenados por delitos leves para aliviar superpopulação de presídios
+
+🇵🇾 Paraguai não registra novas mortes há 30 dias. País tem 11 óbitos e 1.289 casos.
+
+🇸🇦 Arábia Saudita estuda cancelar peregrinação à Meca pela 1ª vez na história moderna
+
+🇪🇸 Espanha reabrirá fronteira a alguns turistas em 21 de junho 
+
+🇹🇿 Tanzânia é o primeiro país da África a retomar futebol, sem crianças e idosos nos estádios
+--
+🔍 Recortes da pandemia
+
+▶️ Para Finn Diderichsen, idealizador do modelo de determinantes sociais da saúde, uma diferença básica do Brasil para a Europa é que as pessoas têm maior confiança em seus governos e cientistas
+https://www.uol.com.br/tilt/noticias/redacao/2020/06/14/europa-confia-no-estado-e-na-ciencia-diz-pesquisador-dinamarques-no-brasil.htm
+
+▶️ Como a pandemia está transformando até a arquitetura dos restaurantes 
+https://www.uol.com.br/nossa/noticias/redacao/2020/06/14/como-a-pandemia-esta-transformando-ate-a-arquitetura-dos-restaurantes.htm
+
+▶️ "Ver tantas mortes nos faz sentir como em luto pessoal", diz especialista
+https://www.uol.com.br/universa/noticias/redacao/2020/06/15/ver-tantas-mortes-nos-faz-sentir-como-um-luto-pessoal-diz-especialista.htm
+
+▶️ Compaixão, mais uma vítima do novo coronavírus
+https://www1.folha.uol.com.br/colunas/marceloleite/2020/06/compaixao-mais-uma-vitima-do-novo-coronavirus.shtml
+
+▶️ Grupos de base assumem o trabalho duro de corrigir disparidades de coronavírus
+https://www.nature.com/articles/d41586-020-01781-z
+
+▶️ Podcast: Rubens Ricupero, ex-ministro e embaixador "país vai sair pior em todos os sentidos"
+https://noticias.uol.com.br/videos/2020/06/15/geracao-p-13-para-ricupero-brasil-saira-pior-da-pandemia-em-todos-os-sentidos.htm
+
+▶️ Como a ditadura militar tentou esconder epidemia de meningite no Brasil 
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/14/como-a-ditadura-militar-tentou-esconder-epidemia-de-meningite-no-brasil.htm
+
+▶️ Crises globais do último século trouxeram aprendizados, mas que nem sempre foram aproveitados
+https://g1.globo.com/mundo/noticia/2020/06/14/crises-globais-do-ultimo-seculo-trouxeram-aprendizados-mas-que-nem-sempre-foram-aproveitados-veja-quais.ghtml
+--
+✅ Curtas
+
+➡️ Hospital das Clínicas fará pesquisa sobre a saúde mental de seus 20 mil profissionais durante a crise da Covid-19
+
+➡️ Com possível 2ª onda de Covid-19, mercados internacionais têm queda generalizada
+
+➡️ Lenta retomada da China indica rota difícil para economia global
+
+➡️ Estados devem sair da crise da Covid-19 ainda mais endividados apesar do socorro 
+
+➡️ Para proteger privacidade, Noruega suspende aplicativo usado no combate ao coronavírus
+
+➡️ Arco-íris ilumina Avenida Paulista para celebrar Parada LGBTQIA+, realizada de forma virtual neste domingo
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

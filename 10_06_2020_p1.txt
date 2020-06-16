@@ -1,0 +1,210 @@
+Destaques - 10/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 743.047 casos; 38.543 mortes
+🌎 Mundo: 7,2 milhões de casos; 412 mil mortes
+--
+🧪 Diagnóstico
+
+▶️ Governo estuda diagnóstico sem teste. Em meio à falta de exames, ministério e secretários discutem uso de imagens e análise de sintomas do paciente para confirmar infecção
+https://saude.estadao.com.br/noticias/geral,governo-estuda-diagnostico-sem-teste,70003330119
+
+▶️ Câmara aprova prioridade de profissionais em testes de Covid-19. Projeto segue para sanção presidencial
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/camara-aprova-prioridade-de-profissionais-em-testes-de-covid-19
+--
+🔬 Pesquisa científica
+
+▶️ Vacina chinesa contra Covid-19 se mostra promissora em testes com animais
+https://www.uol.com.br/vivabem/reuters/2020/06/10/vacina-chinesa-contra-covid-19-se-mostra-promissora-em-testes-com-animais.htm
+
+▶️ Pesquisadores descobriram uma segunda proteína que o SARS-CoV-2 usa para entrar nas células humanas, oferecendo potencialmente um novo alvo para vacinas e medicamentos.
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ Neuropilin-1 facilitates SARS-CoV-2 cell entry and provides a possible pathway into the central nervous system
+https://www.biorxiv.org/content/10.1101/2020.06.07.137802v1
+✏️ Neuropilin-1 is a host factor for SARS-CoV-2 infection
+https://www.biorxiv.org/content/10.1101/2020.06.05.134114v1
+
+▶️ Campanha massiva de testes no Vietnã encontrou evidências de que pessoas infectadas que nunca apresentam sintomas podem transmitir o vírus a outras pessoas.
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ The natural history and transmission potential of asymptomatic SARS-CoV-2 infection
+https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa711/5851471
+
+▶️ Prefeitura de SP vai fazer testes em 45 mil pessoas. Inquérito sorológico tentará estimar o percentual de infectados nos 96 distritos da cidade
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/prefeitura-de-sp-vai-fazer-testes-em-45-mil-pessoas-para-pesquisa.shtml
+
+▶️ Novas alegações de que o SARS-CoV-2 foi projetado foram descartadas por especialistas. As alegações foram feitas por um grupo britânico-norueguês à frente do desenvolvimento de uma vacina, em artigo aceito pela revista Quarterly Review of Biophysics
+https://www.forbes.com/sites/davidnikel/2020/06/07/controversial-coronavirus-lab-origin-claims-dismissed-by-experts/
+✏️ Biovacc-19: A Candidate Vaccine for Covid-19 (SARS-CoV-2) Developed from Analysis of its General Method of Action for Infectivity
+https://www.cambridge.org/core/journals/qrb-discovery/article/biovacc19-a-candidate-vaccine-for-covid19-sarscov2-developed-from-analysis-of-its-general-method-of-action-for-infectivity/DBBC0FA6E3763B0067CAAD8F3363E527
+
+▶️ Milhares de cientistas em todo o mundo entraram em greve por vidas negras neste 10 de junho
+https://www.nature.com/articles/d41586-020-01721-x
+
+▶️ Cientistas veem padrão em tropeços da OMS sobre coronavírus e afirmam que agência às vezes fica atrás da pesquisa em rápida evolução
+https://www.nytimes.com/2020/06/09/health/coronavirus-asymptomatic-world-health-organization.html
+
+▶️ Lançada a primeira fase do NIH Preprint Pilot, que testará a viabilidade de tornar pré-prints pesquisáveis ​​no PubMed Central, começando com artigos sobre Covid-19 apoiados pelo NIH.
+https://nlmdirector.nlm.nih.gov/2020/06/09/the-nih-preprint-pilot-a-new-experiment-for-a-new-era/
+
+▶️ Quão histórica é a mais recente crise científica da Covid-19? 
+https://www.wired.com/story/just-how-historic-is-the-latest-covid-19-science-meltdown/
+
+🎙️ Podcast: o caminho para uma vacina contra a Covid-19
+https://g1.globo.com/bemestar/podcast/noticia/2020/06/10/bem-estar-42-o-caminho-para-uma-vacina-contra-a-covid-19.ghtml
+--
+📊 Epidemiologia
+
+▶️ Os 3 fatores que apontam quando Brasil chegará ao pico da epidemia: o número de novos casos e mortes por dia; a taxa de reprodução do vírus; os casos de SRAG
+https://www.bbc.com/portuguese/brasil-52988646
+
+▶️ Ritmo de contágio desacelera em capitais e avança no interior, aponta levantamento com cidades onde há mais mortos por Covid-19 no Brasil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/10/ritmo-de-contagio-desacelera-em-capitais-e-avanca-no-interior-aponta-levantamento-com-cidades-onde-ha-mais-mortos-por-covid-no-brasil.ghtml
+
+⏩ Pequenas cidades paulistas já têm mais casos e mortes por coronavírus do que regiões metropolitanas
+https://saude.estadao.com.br/noticias/geral,pequenas-cidades-paulistas-ja-tem-mais-casos-e-mortes-por-coronavirus-do-que-regioes-metropolitanas,70003330484
+
+⏩ Internações crescem em cidades de SP que tiveram maior abertura; números caem na ‘zona vermelha'
+https://saude.estadao.com.br/noticias/geral,internacoes-crescem-em-cidades-de-sp-que-tiveram-maior-abertura-numeros-caem-na-zona-vermelha,70003330478
+
+▶️ OMS reforça que pacientes sem sintomas podem transmitir Covid-19. Diretor-geral Tedros Adhanom reiterou que ainda não se sabe o quanto eles podem disseminar a doença.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/10/oms-reforca-que-pacientes-sem-sintomas-podem-transmitir-covid-19.ghtml
+
+▶️ Nova alta de infecções de Covid-19 atinge os EUA. País tem registrado cerca de 20 mil infecções diárias. É uma redução em relação ao pico, em abril, quando havia 30 mil, em média. 
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/10/nova-alta-de-infeccoes-de-covid-19-atinge-os-eua.ghtml
+
+▶️ Simulador estima efeitos de medidas de combate à Covid-19 em favelas
+http://agencia.fapesp.br/simulador-estima-efeitos-de-medidas-de-combate-a-covid-19-em-favelas/33365/
+⏩ Favelas Contra o Coronavírus
+https://www.favelascontracorona.com.br/
+--
+😷 Máscaras
+
+▶️ Estudo britânico afirma que uso generalizado de máscara pode evitar novas ondas da Covid-19
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/10/estudo-britanico-afirma-que-uso-generalizado-de-mascara-pode-evitar-novas-ondas-da-covid-19.htm
+✏️ A modelling framework to assess the likely effectiveness of facemasks in combination with ‘lock-down’ in managing the Covid-19 pandemic
+https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0376
+
+▶️ Câmara aprova uso obrigatório de máscara em todo país e texto segue à sanção
+https://saude.estadao.com.br/noticias/geral,camara-aprova-uso-obrigatorio-de-mascara-em-todo-pais-e-texto-segue-a-sancao,70003329999
+--
+💊 Tratamento
+
+▶️ Reino Unido testa anti-inflamatórios e remédios de câncer como possível terapia para Covid-19
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/10/reino-unido-testa-anti-inflamatorios-e-remedios-de-cancer-como-possivel-terapia-para-covid-19.htm
+--
+🏡 Distanciamento social
+
+🎙️ Podcast: Como uma fala da OMS virou arma contra o isolamento social. Alberto Chebabo, vice-presidente da Sociedade Brasileira e Infectologia, e Paulo Buss, da Fiocruz, analisam o poder de contaminação de infectados assintomáticos, e a reação do presidente Bolsonaro após a manifestação da entidade sobre o tema
+https://oglobo.globo.com/podcast/como-uma-fala-da-oms-virou-arma-contra-isolamento-social-24471899
+
+▶️ Petrobras planeja retomada das atividades presenciais. Teletrabalho está mantido pelo menos até o fim do mês; estatal afirma que ainda não há data definida para retorno
+https://www1.folha.uol.com.br/mercado/2020/06/petrobras-planeja-retomada-das-atividades-presenciais.shtml
+
+▶️ Medo de contágio inibe consumo mesmo sem isolamento social. Estudos na Coreia do Sul e na Escandinávia indicam gastos menores mesmo com regras brandas de circulação
+https://www1.folha.uol.com.br/mercado/2020/06/medo-de-contagio-inibe-consumo-mesmo-sem-isolamento-social.shtml
+✏️ Covid-19 doesn't need lockdowns to destroy jobs: the effect of local outbreaks in Korea
+https://www.nber.org/papers/w27264
+
+▶️ RJ: veja o que vale após queda de liminar que suspendia plano de flexibilização
+https://oglobo.globo.com/rio/veja-que-vale-no-rio-apos-queda-de-liminar-que-suspendia-plano-de-flexibilizacao-1-24472115
+
+⏩ RJ: shoppings poderão reabrir na quinta-feira, com restrições
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/10/crivella-diz-que-shoppings-do-rio-poderao-reabrir-na-quinta-feira-com-restricoes.ghtml
+
+▶️ SP: comércio de rua reabre nesta quarta-feira
+https://saude.estadao.com.br/noticias/geral,comercio-de-rua-abre-nesta-quarta-em-sp-entenda-regras,70003330133
+
+⏩ Abertura do comércio no Brás e na 25 de março preocupa autoridades
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/abertura-do-comercio-no-bras-e-na-25-de-marco-preocupa-autoridades.shtml
+
+⏩ 'Quase morri de Covid-19, mas comércio precisa reabrir para povo não morrer de fome', diz comerciante de SP
+https://www.bbc.com/portuguese/brasil-52984385
+--
+🥼 Saúde pública
+
+▶️ Sistema ajuda a prever demanda por EPIs em hospitais
+http://agencia.fapesp.br/sistema-ajuda-a-prever-demanda-por-equipamentos-de-protecao-individual-em-hospitais/33361/
+
+▶️ Queda na procura por vacinação preocupa o Ministério da Saúde
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/queda-na-procura-por-vacinacao-preocupa-o-ministerio-da-saude
+--
+🗂️ Política
+
+▶️ Bolsonaro edita MP que permite a Weintraub escolher reitores temporários de universidades federais durante a pandemia
+https://g1.globo.com/educacao/noticia/2020/06/10/bolsonaro-edita-mp-que-permite-weintraub-escolher-reitores-temporarios-de-universidades-federais-durante-a-pandemia.ghtml
+
+⏩ MP que permite a Weintraub escolher reitores temporários durante a pandemia pode atingir 19 universidades e institutos federais em 2020
+https://g1.globo.com/educacao/noticia/2020/06/10/mp-que-permite-a-weintraub-escolher-reitores-temporarios-durante-a-pandemia-pode-atingir-19-universidades-e-institutos-federais-em-2020.ghtml
+
+⏩ Andifes vai recorrer na Justiça contra a medida que classificou como um atentado à democracia
+https://www1.folha.uol.com.br/educacao/2020/06/na-pandemia-bolsonaro-vai-nomear-reitores-sem-eleicao-nas-universidades.shtml
+✏️ MP
+http://www.in.gov.br/en/web/dou/-/medida-provisoria-n-979-de-9-de-junho-de-2020-261041611
+
+▶️ Bolsonaro volta a descontextualizar OMS e insinua intenção de falir países
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/10/bolsonaro-volta-a-alfinetar-oms-e-insinua-intencao-de-quebrar-paises.htm
+
+▶️ Ministro do TCU discursa contra negação da ciência em sessão com Bolsonaro
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/10/ministro-do-tcu-discursa-contra-negacao-da-ciencia-em-sessao-com-bolsonaro.htm
+
+▶️ PF mira fraude na compra de R$ 50 mi em respiradores e faz buscas no Palácio e na casa de Helder Barbalho, governador do Pará
+https://politica.estadao.com.br/blogs/fausto-macedo/pf-mira-fraudes-na-compra-de-respiradores-no-para/
+
+▶️ Bolsonaro 'expulsa' do Alvorada mulher que o questiona sobre mortes por Covid-19
+https://politica.estadao.com.br/noticias/geral,bolsonaro-expulsa-do-alvorada-mulher-que-o-questiona-sobre-mortes-por-covid-19,70003330349
+--
+🌐 Internacional
+
+🇵🇪 Peru registra 167 mortes e 4.040 casos em 24h. País tem um total de 5.738 mortes e 203.736 casos e está em confinamento nacional obrigatório há 12 semanas
+
+🇷🇺 Rússia registrou 8.404 novos casos e 216 mortes. País tem 493.657 infectados e 6.358 mortes.
+
+🇦🇺 Austrália tem 7.274 casos e está a caminho de erradicar amplamente o coronavírus em julho, disse uma autoridade de saúde pública
+
+🇭🇺 Hungria teve 4.027 infecções e 551 mortes em uma população de 10 milhões de habitantes. O país e a Croácia suspenderão as restrições às viagens externas
+
+🇧🇬 Bulgária registrou 2.889 casos, dos quais 167 morreram. Nas últimas 24 horas, registrou 79 novos casos. País estenderá a emergência da epidemia até o final de junho
+
+🇮🇳 Índia registrou quase 10.000 infecções nas últimas 24h. Governo avança com a reabertura de restaurantes, shoppings e locais de culto 
+
+🇭🇳 Honduras tem 271 mortes e 6.935 casos confirmados
+
+🇫🇷 França considera encerrar medidas de emergência contra Covid-19
+
+🇹🇭 Tailândia registrou quatro novos e nenhuma nova morte. País tem 3.125 infecções, 58 mortes e considera reabrir mais empresas e estabelecimentos a partir de 15 de junho
+
+🇦🇹 Áustria voltará a abrir em 16 de junho a fronteira com a Itália
+
+🇲🇽 México diz que país não pode abrir turismo em estágio máximo de contágio 
+--
+🔍 Recortes da pandemia
+
+▶️ O que pensam os paulistanos sobre a pandemia. Há deterioração do apoio aos políticos e a consciência da importância de reduzir as desigualdades	
+https://www1.folha.uol.com.br/colunas/jorge-abrahao/2020/06/o-que-pensam-os-paulistanos-sobre-a-pandemia.shtml
+
+▶️ Pandemia obriga família a pagar aluguel para manter casa, mas morar na rua por comida
+https://www1.folha.uol.com.br/cotidiano/2020/06/pandemia-obriga-familia-a-pagar-aluguel-para-manter-casa-mas-morar-na-rua-por-comida.shtml
+
+▶️ Opinião: pandemia do novo coronavírus pode ser a crise de que o mundo precisava. Emergência atual tem potencial para nos obrigar a reformar nossas sociedades
+https://www1.folha.uol.com.br/colunas/ian-bremmer/2020/06/pandemia-do-novo-coronavirus-pode-ser-a-crise-que-o-mundo-precisava.shtml
+
+▶️ Contra atraso da pandemia, governo de SP deve lançar 4º ano do ensino médio
+https://www1.folha.uol.com.br/educacao/2020/06/contra-atraso-da-pandemia-governo-de-sp-deve-lancar-4o-ano-do-ensino-medio.shtml
+--
+✅ Curtas
+
+➡️ Controladoria vê superfaturamento em contrato na área de saúde no Rio
+
+➡️ Prefeitura de SP oferece capacitação para combater coronavírus em casas para idosos
+
+➡️ Pandemia deve causar prejuízo de até R$ 161,3 bi ao turismo entre 2020 e 2021
+
+➡️ América Latina se atrasa em medidas para minimizar crise da Covid-19, diz Banco Interamericano de Desenvolvimento
+
+➡️ Professores estudam greve em estados e municípios que planejam volta às aulas
+
+➡️ Brasil tem 422 mil médicos, mas má distribuição de profissionais
+
+➡️ Nos EUA, tropas enviadas a Washington para conter protestos testam positivo para Covid-19
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

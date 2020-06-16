@@ -1,0 +1,183 @@
+Destaques - 04/06/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 607.777 casos; 33.781 mortes 
+🌎 Mundo: 6,5 milhões de casos; 388 mil mortes
+--
+➕ Até o fechamento desse boletim, o Ministério da Saúde não havia divulgado os dados atualizados da Covid-19 no país.
+--
+💊 Tratamento
+
+▶️ Autores pedem 'retratação' de estudo sobre cloroquina publicado na 'The Lancet' e pesquisa é 'despublicada'. Os autores afirmaram não poder mais garantir a veracidade dos dados usados para fundamentar a pesquisa, que havia constatado risco no uso das substâncias contra o novo coronavírus
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/04/the-lancet-publica-nota-de-retratacao-sobre-estudo-com-cloroquina-e-hidroxicloroquina-para-covid-19.ghtml
+✏️ Retraction: "Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis"
+https://www.thelancet.com/lancet/article/s0140673620313246
+
+⏩ Por que cientistas tiveram que se retratar por estudo que negava efeito da cloroquina contra o coronavírus
+https://www.bbc.com/portuguese/geral-52930383
+--
+🔬 Pesquisa científica
+
+▶️ Pesquisadores no Brasil lutam para obter contagens sólidas de mortes por Covid-19. Depois de vasculhar dados sobre avisos de morte públicos no estado de MG, os cientistas dizem que o nº de mortes no país é pior do que o relatado.
+https://www.the-scientist.com/news-opinion/researchers-in-brazil-struggle-to-get-solid-covid-19-death-counts-67609
+✏️ Underreporting of death by Covid-19 in Brazil's second most populous state
+https://www.medrxiv.org/content/10.1101/2020.05.20.20108415v1
+
+▶️ Vacina brasileira contra a Covid-19 entra em fase de testes em animais. Pesquisadores da USP iniciam ensaios pré-clínicos em camundongos para entender a reação do organismo após a imunização
+https://g1.globo.com/bemestar/vacina/noticia/2020/06/04/vacina-brasileira-contra-a-covid-19-entra-em-fase-de-testes-em-animais.ghtml
+
+▶️ Unifesp vai recrutar mil profissionais de saúde para teste de vacina de Covid-19. Voluntários devem ter entre 18 e 55 anos e não podem ter contraído o vírus
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/unifesp-vai-recrutar-mil-profissionais-de-saude-para-teste-de-vacina-de-covid-19.shtml
+
+▶️ Algumas pessoas podem ter uma "vantagem" imunológica contra o novo coronavírus. Estudo recente mostrou que algumas pessoas que nunca foram expostas ainda têm um tipo de célula T que pode identificar e reagir ao vírus.
+https://www.businessinsider.com/coronavirus-immune-system-head-start-t-cells-immunity-2020-5
+✏️ Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with Covid-19 Disease and Unexposed Individuals
+https://www.cell.com/cell/fulltext/S0092-8674(20)30610-3
+
+▶️ Androgênios parecem aumentar a capacidade do vírus de entrar nas células. Grande volume de dados emergentes apoia essa ideia, incluindo resultados da Covid-19 em homens com câncer de próstata e estudos de laboratório sobre como androgênios regulam genes
+https://www.sciencemag.org/news/2020/06/why-coronavirus-hits-men-harder-sex-hormones-offer-clues
+
+▶️ Ataque aos vasos sanguíneos pode desencadear a 'segunda fase' fatal do coronavírus. A chave é o dano direto e indireto às células endoteliais que revestem os vasos sanguíneos, particularmente nos pulmões
+https://www.sciencemag.org/news/2020/06/blood-vessel-attack-could-trigger-coronavirus-fatal-second-phase
+✏️ Covid-19: the vasculature unleashed
+https://www.nature.com/articles/s41577-020-0343-0
+
+▶️ Estudo mostra a utilidade clínica de amostras coletadas pelos pacientes em comparação com amostras nasofaríngeas coletadas por profissionais de saúde para o diagnóstico da Covid-19.
+✏️ Swabs Collected by Patients or Health Care Workers for SARS-CoV-2 Testing
+https://www.nejm.org/doi/full/10.1056/NEJMc2016321
+
+▶️ Acurácia de testes de swab nasal para coronavírus depende de quanto tempo após o início dos sintomas eles são feitos, apontam especialistas em doenças infecciosas
+✏️ Diagnostic testing for SARS-CoV-2
+https://www.cmaj.ca/content/cmaj/early/2020/06/03/cmaj.200858.full.pdf
+
+▶️ Infusões de plasma sanguíneo rico em anticorpos de pessoas que se recuperaram do coronavírus falharam em fazer a diferença em um estudo randomizado com pacientes hospitalizados na China
+https://www.reuters.com/article/us-health-coronavirus-science/convalescent-plasma-not-helpful-in-china-study-hydroxychloroquine-doesnt-prevent-infection-idUSKBN23A34B
+✏️ Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening Covid-19
+https://jamanetwork.com/journals/jama/article-abstract/2766943
+
+▶️ Baixa soroprevalência sugere que maioria da população em Hong Kong e na província de Hubei, na China, permanece suscetível à Covid-19. Pesquisadores consideram que ondas futuras são inevitáveis ​​sem uma vacina ou profilaxia antiviral.
+✏️ Seroprevalence of SARS-CoV-2 in Hong Kong and in residents evacuated from Hubei province, China: a multicohort study
+https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30053-7
+
+▶️ Crianças são menos contagiosas que adultos, aponta estudo francês. Estudo foi realizado por pediatras com 605 crianças de menos de 15 anos na região metropolitana de Paris
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/04/covid-19-criancas-sao-menos-contagiosas-que-adultos-aponta-estudo-frances.ghtml
+
+▶️ Tecnologia antiga, os dados escassos, burocracia, orientações confusas: coronavírus abalou o CDC, criando uma perda de confiança e dificultando a resposta dos EUA à crise.
+https://www.nytimes.com/2020/06/03/us/cdc-coronavirus.html
+
+▶️ NIH dos EUA estão se esforçando para distribuir US$ 3,6 bilhões em financiamento de pesquisa de emergência e os cientistas estão correndo para conseguir uma parte da ação
+https://www.sciencemag.org/news/2020/06/nih-grapples-researchers-rush-claim-billions-pandemic-research-funds
+
+▶️ O mundo dos cientistas encolherá na sequência da pandemia. Pesquisadores esperam mudanças a longo prazo com redução de viagens para trabalho e conferências.
+https://www.nature.com/articles/d41586-020-01523-1
+--
+🧪 Diagnóstico
+
+▶️ IgG e IgM positivo para Covid: entenda significado das siglas e diferença entre teste rápido e PCR
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/04/igg-e-igm-positivo-para-covid-entenda-significado-das-siglas-e-diferenca-entre-teste-rapido-e-pcr.ghtml
+
+▶️ SP: estado inicia teste de Covid-19 em internos da Fundação Casa e asilos
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/estado-de-sp-tem-mais-de-8500-mortos-por-covid-19.shtml
+--
+📊 Epidemiologia
+
+▶️ Estudo revela que um terço dos infectados na Espanha são assintomáticos
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/04/estudo-na-espanha-revela-que-um-terco-dos-infectados-pelo-coronavirus-sao-assintomaticos.htm
+
+▶️ Efeitos colaterais do coronavírus: as mortes 'ocultas' causadas pela Covid-19
+https://www.bbc.com/portuguese/geral-52909844
+
+▶️ Como funciona o 'modelo japonês' que controlou o coronavírus: sem instrução oficial, população passou a lavar as mãos, a usar máscaras e a manter distanciamento
+https://www1.folha.uol.com.br/mundo/2020/06/como-funciona-o-modelo-japones-que-controlou-o-coronavirus.shtml	
+
+▶️ Fala de médicos sobre vírus perder força não tem apoio de órgãos de saúde 
+https://noticias.uol.com.br/comprova/ultimas-noticias/2020/06/04/fala-de-medicos-sobre-virus-perder-forca-nao-tem-apoio-de-orgaos-de-saude.htm
+
+▶️ Pastor alemão é o primeiro cachorro dos EUA a receber o diagnóstico oficial do novo coronavírus
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/02/pastor-alemao-e-o-1-cachorro-com-diagnostico-oficial-de-covid-19-nos-eua.htm
+
+▶️ Número de mortos em São Petersburgo reacende desconfiança sobre dados da Rússia
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/04/numero-de-mortos-em-sao-petersburgo-reacende-desconfianca-sobre-dados-da-russia.htm
+
+↪️ PE: Fernando de Noronha volta a registrar infectados por coronavírus 
+--
+🏡 Distanciamento social
+
+▶️ Escolas deverão ter volta escalonada com aulas presenciais e a distância. Retorno provável seria em agosto, com diferenças pelo país
+https://www1.folha.uol.com.br/educacao/2020/06/escolas-deverao-ter-volta-escalonada-com-aulas-presenciais-e-a-distancia.shtml
+
+⏩ Flexibilização da quarentena leva a pressão para que escolas privadas reabram
+https://www1.folha.uol.com.br/educacao/2020/06/flexibilizacao-da-quarentena-leva-a-pressao-para-que-escolas-privadas-reabram.shtml
+
+▶️ MA: isolamento social atinge o menor índice desde o início dos casos 
+https://g1.globo.com/ma/maranhao/noticia/2020/06/04/isolamento-social-no-maranhao-atinge-o-menor-indice-desde-o-inicio-dos-casos-de-coronavirus.ghtml
+
+▶️ SP: condomínios têm autonomia para flexibilizar quarentena. Cabe a cada prédio decidir sobre uso de máscaras e liberação das áreas comuns
+https://www1.folha.uol.com.br/sobretudo/morar/2020/06/condominios-de-sao-paulo-tem-autonomia-para-flexibilizar-quarentena.shtml
+
+⏩ SP: concessionárias e escritórios serão autorizados a abrir na capital
+https://www1.folha.uol.com.br/mercado/2020/06/concessionarias-e-escritorios-serao-autorizados-a-abrir-na-cidade-de-sp.shtml
+
+⏩ SP: Interior tem festas em meio à quarentena e isolamento cai
+https://www1.folha.uol.com.br/cotidiano/2020/06/interior-de-sp-tem-festas-em-meio-a-quarentena-e-isolamento-cai.shtml
+
+▶️ RJ: Prefeitura libera camelôs, mas comércio em geral segue fechado
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/04/prefeitura-libera-camelos-no-rio-mas-comercio-em-geral-segue-fechado.htm
+
+▶️ Mercado de eventos quer sair da quarentena junto com shoppings
+https://www1.folha.uol.com.br/colunas/painelsa/2020/06/mercado-de-eventos-quer-sair-da-quarentena-junto-com-shoppings.shtml
+
+▶️ Com Suécia fora do plano, Dinamarca e vizinhos nórdicos traçam reabertura pós-pandemia
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/04/covid-19-com-suecia-fora-do-plano-dinamarca-e-vizinhos-nordicos-tracam-reabertura-pos-pandemia.ghtml
+--
+🗂️ Política
+
+▶️ Senadores aprovam obrigação de uso de máscara em locais públicos em todo o país
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/senadores-aprovam-obrigacao-de-uso-de-mascara-em-locais-publicos-em-todo-o-pais.shtml
+
+▶️ 7 governadores já tiveram Covid-19
+https://g1.globo.com/politica/noticia/2020/06/04/governadores-ja-tiveram-covid-19-veja-lista.ghtml	
+
+▶️ Junho é limite para discutir adiamento das eleições, diz presidente do TSE
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/04/junho-e-limite-para-discutir-adiamento-das-eleicoes-diz-presidente-do-tse.htm
+
+⏩ TSE autoriza convenções partidárias virtuais nas eleições 2020
+https://g1.globo.com/politica/eleicoes/2020/noticia/2020/06/04/coronavirus-tse-autoriza-convencoes-partidarias-virtuais-nas-eleicoes-2020.ghtml
+--
+🌐 Internacional
+
+🇺🇸 EUA tem 1.842.101 casos e 107.029 mortes (827 novas)
+
+🇮🇹 Itália tem 234.013 casos e 33.689 mortes. País registrou menor nº de novos casos em quase 100 dias, 177 contágios
+
+🇻🇪 Venezuela: Opas aplicará US$ 10 milhões no país após acordo Maduro-Guaidó
+
+🇬🇧 Reino Unido: uso de máscaras será obrigatório no transporte público. País teve 280 mil casos e quase 40 mil mortes 
+
+🇬🇷 Grécia tem 175 mortes e cerca de 3.000 casos
+--
+🔍 Recortes da pandemia
+
+▶️ Disseminação do coronavírus na Amazônia faz morte de índios disparar no Brasil. Cifras oficiais do governo estimam o número de mortos em 59
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/04/disseminacao-do-coronavirus-na-amazonia-faz-morte-de-indios-disparar-no-brasil.ghtml
+
+▶️ Alemanha anuncia megapacote para reanimar economia no tranco
+https://www1.folha.uol.com.br/mercado/2020/06/alemanha-anuncia-megapacote-de-investimento-publico-para-recuperacao-do-pais.shtml
+
+▶️ Romeno cria sapato para manter o distanciamento social
+https://g1.globo.com/mundo/noticia/2020/06/04/romeno-cria-sapato-para-manter-o-distanciamento-social.ghtml
+
+▶️ Pandemia trará desordem social também ao Brasil
+https://www.bbc.com/portuguese/internacional-52918843
+--
+✅ Curtas
+
+➡️ Câmara aprova projeto que prevê presença em tempo integral de fisioterapeuta em UTI
+
+➡️ Riqueza de bilionários dos EUA cresce mais de meio trilhão de dólares na pandemia 	
+
+➡️ Abatedouro no Paraná registra mais casos de coronavírus que cidade inteira 
+
+➡️ Fundações doam R$ 66 milhões ao combate à Covid-19
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

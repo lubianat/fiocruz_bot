@@ -1,0 +1,180 @@
+Destaques - 09/06/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 739.503 casos; 38.406 mortes
+🌎 Mundo: 7,1 milhões de casos; 409 mil mortes
+--
+➕ Ministério da Saúde: Brasil registrou 1.272 novas mortes e 32.091 casos em 24h. País tem 38.406 mortes e 739.503 casos no total.
+https://covid.saude.gov.br/
+--
+📊 Divulgação dos dados da Covid-19 no Brasil
+
+▶️ Ministério da Saúde recua e volta a divulgar íntegra de dados da Covid-19 após decisão do STF
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/ministerio-da-saude-recua-e-volta-a-divulgar-integra-de-dados-da-covid-19-apos-decisao-do-stf.shtml
+
+▶️ Tabela simples com acumulado de mortos não era 'informação digna', diz Pazuello
+https://www.cnnbrasil.com.br/saude/2020/06/09/soma-de-mortos-por-covid-19-nao-e-informacao-digna-para-o-povo-diz-pazuello
+
+▶️ Em audiência na Câmara dos Deputados, Pazuello diz que mudança em balanço é 'proposta'; Maia cobra transparência
+https://g1.globo.com/politica/noticia/2020/06/09/pazuelo-diz-que-divulgacao-de-mortes-por-covid-19-por-data-e-nao-dia-do-registro-e-proposta-maia-cobra-transparencia.ghtml
+
+▶️ “Nunca houve, não há e nunca haverá omissão de dados”, diz ministro da Saúde em Comissão
+https://www.saude.gov.br/noticias/agencia-saude/47033-nunca-houve-nao-ha-e-nunca-havera-omissao-de-dados-diz-ministro-da-saude-em-comissao-da-camara-dos-deputados
+
+▶️ Após ouvir Pazuello, Maia diz que volta da confiança em dados do governo levará dias
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/apos-ouvir-pazuello-maia-diz-que-volta-da-confianca-em-dados-do-governo-levara-dias.shtml
+
+▶️ Bolsonaro diz que mudança em divulgação foi para que número 'limpo' não manchete jornais
+https://saude.estadao.com.br/noticias/geral,bolsonaro-diz-que-mudanca-em-divulgacao-da-covid-19-foi-para-que-numero-limpo-nao-manchete-jornais,70003329626
+
+▶️ Opinião: o governo contra a transparência - Constituição deixa claro que a regra é a transparência e o sigilo, a exceção
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/o-governo-contra-a-transparencia.shtml
+
+▶️ Opas e OMS dizem que continuarão a trabalhar com Brasil apesar de problemas políticos
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/opas-e-oms-dizem-que-continuarao-a-trabalhar-com-brasil-apesar-de-problemas-politicos.shtml
+--
+🔬 Pesquisa científica
+
+▶️ Pesquisadores na Índia encontram evidências de genes do novo coronavírus em esgoto. Pesquisa integra consórcio global de 51 universidades e institutos para realizar a vigilância
+https://www.hindustantimes.com/cities/scientists-find-evidence-of-covid-19-genetic-material-in-ahmedabad-sewage/story-p8Gs9I1hQPxshtTnPNylHJ.html
+
+▶️ Pesquisadores querem usar vacina da pólio no combate à Covid-19. Expectativa é de que a substância seja usada não como imunização contra o novo coronavírus, mas no fortalecimento do sistema imunológico
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/pesquisadores-cogitam-usar-vacina-da-polio-no-combate-covid-19
+
+▶️ Estudo encontrou evidências de que vírus presentes em leitos hospitalares se espalham pelo edifício em até 10 horas e sobrevivem por cerca de cinco dias após a contaminação inicial.
+https://revistagalileu.globo.com/Ciencia/noticia/2020/06/virus-podem-permanecer-em-superficies-hospitalares-por-pelo-menos-5-dias.html
+✏️ Covid-19 pandemic – let's not forget surfaces
+https://www.journalofhospitalinfection.com/article/S0195-6701(20)30253-X/fulltext
+
+▶️ Estudo sobre gotículas conclui que superfícies como madeira, algodão e tela de celular devem ser mais limpas contra coronavírus
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/09/superficies-como-madeira-algodao-e-tela-de-celular-devem-ser-mais-limpas-contra-coronavirus-conclui-estudo-sobre-goticulas.ghtml
+✏️ Likelihood of survival of coronavirus in a respiratory droplet deposited on a solid surface
+https://aip.scitation.org/doi/10.1063/5.0012009
+
+▶️ Cientistas negros chamam atenção para racismo. Está prevista uma greve acadêmica para esta semana, juntamente com marchas e manifestações em todo o mundo.
+https://www.nature.com/articles/d41586-020-01705-x
+
+▶️ Análise do tecido pulmonar de 38 casos de óbito por Covid-19 aponta lesões características da doença, incluindo trombose difusa.
+✏️ Pulmonary post-mortem findings in a series of Covid-19 cases from northern Italy: a two-centre descriptive study
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30434-5/
+
+▶️ Artigo defende que testes em grupo não são apenas mais viáveis, mas também mais eficientes do que os testes individuais em um momento em que os testes são escassos em todo o mundo
+https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30056-2/
+
+▶️ Quem é culpado? Esses três cientistas estão no coração do escândalo da Surgisphere na Covid-19
+https://www.sciencemag.org/news/2020/06/whos-blame-these-three-scientists-are-heart-surgisphere-covid-19-scandal
+--
+📊 Epidemiologia
+
+▶️ Transmissão de coronavírus no Brasil completa 7 semanas fora de controle, indicam cálculos. Taxa de contágio, que no final de abril era de 2,8, se reduziu para 1,13, o que mostra expansão de casos, segundo o Imperial College
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/transmissao-de-coronavirus-no-brasil-completa-7-semanas-fora-de-controle-indicam-calculos.shtml
+✏️ Short-term forecasts of Covid-19 deaths in multiple countries
+https://mrc-ide.github.io/covid19-short-term-forecasts/index.html#introduction
+
+▶️ Assintomático transmite coronavírus e, sem teste e rastreamento, quarentena é necessária, diz OMS
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/assintomatico-transmite-coronavirus-e-sem-teste-e-rastreamento-quarentena-e-necessaria-diz-oms.shtml
+
+⏩ Assintomáticos podem transmitir coronavírus ao falar, respirar ou pigarrear, diz Eurico Arruda, virologista da USP
+https://oglobo.globo.com/sociedade/coronavirus/assintomaticos-podem-transmitir-coronavirus-ao-falar-respirar-ou-pigarrear-diz-virologista-da-usp-1-24470471
+
+⏩ Análise: assintomáticos e pré-sintomáticos, confusão deriva do uso indiscriminado do termo assintomático (que quer dizer sem sintoma). "Assintomáticos podem, sim, transmitir covid-19; não há dúvida!"
+https://saude.estadao.com.br/noticias/geral,assintomaticos-e-pre-sintomaticos,70003329718
+
+⏩ Sintomas: tosse e febre continuam no topo, veja outros sinais do coronavírus no corpo
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/09/sintomas-da-covid-tosse-e-febre-continuam-no-topo-mas-veja-outros-sinais-do-coronavirus-no-corpo.ghtml
+
+▶️ Opas alerta que chegada do inverno e da temporada de furacões deve tornar combate à Covid-19 mais difícil nas Américas
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/09/chegada-do-inverno-e-da-temporada-de-furacoes-deve-tornar-combate-a-covid-19-mais-dificil-nas-americas-alerta-opas.ghtml
+
+▶️ Por que a pandemia não diminui nos EUA como aconteceu na Europa. País tem quase 111 mil mortes e 2 milhões de casos. NY diz que 1% das pessoas testadas tiveram resultado positivo para Covid-19
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/09/por-que-a-pandemia-nao-diminui-nos-eua-como-aconteceu-na-europa.htm
+
+▶️ Aumento de casos no interior é o maior problema hoje, diz ministro da Saúde. Estratégia do governo, segundo ele, será usar estruturas ociosas em regiões metropolitanas e capitais
+https://saude.estadao.com.br/noticias/geral,aumento-de-casos-de-covid-19-no-interior-e-o-maior-problema-hoje-diz-ministro-da-saude,70003329572
+
+▶️ Nova Zelândia retoma vida 'livre da Covid' com compras, festas e trocas de abraços
+https://g1.globo.com/mundo/noticia/2020/06/09/nova-zelandia-retoma-vida-livre-da-covid-com-compras-festas-e-trocas-de-abracos.ghtml
+
+▶️ SP registra 5.545 casos e 334 (nº recorde) mortes em 24h e totaliza 150.138 infectados e 9.522 óbitos
+https://saude.estadao.com.br/noticias/geral,sao-paulo-ultrapassa-150-mil-casos-confirmados-do-novo-coronavirus,70003329464
+ 
+▶️ RJ registra 3.480 casos e chega a 72.979, mortes chegam a 6.928 no estado, sendo que 1.152 óbitos aguardam confirmação do diagnóstico. Capital tem 37.903 casos e 4.599 mortes.
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/rio-passa-de-70-mil-casos-confirmados-de-covid-19
+--
+💊 Tratamento
+
+▶️ Corrida por cloroquina na Covid-19 causa desassistência de doentes crônicos
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/corrida-por-cloroquina-na-covid-19-causa-desassistencia-de-doentes-cronicos.shtml
+--
+🥼 Saúde pública
+
+▶️ Mais de 2 mil indígenas foram infectados, 82 morreram
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/ministerio-da-saude-fala-sobre-combate-covid-19-na-saude-indigena
+
+▶️ Saúde de SP não corre mais risco de colapsar, diz secretário de Covas
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/saude-de-sp-nao-corre-mais-risco-de-colapsar-diz-secretario-de-covas.shtml
+
+▶️ Assistentes sociais: 61,5% não se sentem prontos para lidar com crise
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/assistencia-social-615-nao-se-sentem-prontos-para-lidar-com-crise
+
+▶️ Secretário de Saúde de MT diz que profissionais nunca viveram experiência como a da Covid-19 e vê colapso emocional
+https://g1.globo.com/mt/mato-grosso/noticia/2020/06/09/secretario-de-saude-de-mt-diz-que-profissionais-nunca-viveram-experiencia-como-a-da-covid-19-e-ve-colapso-emocional.ghtml
+--
+🏡 Distanciamento social
+
+▶️ Modelo projeta que 6 mil vidas seriam salvas no Brasil em duas semanas se fosse mantido o isolamento. Estudo consta em trabalho desenvolvido pelos professores Paulo José da Silva e Silva, da Unicamp, e Claudia Sagastizábal, colaboradora da universidade
+https://saude.estadao.com.br/noticias/geral,modelo-projeta-que-6-mil-vidas-seriam-salvas-no-brasil-em-duas-semanas-se-fosse-mantido-o-isolamento,70003329511
+✏️ Vidas salvas no Brasil pelo isolamento social (v. 2.1)
+http://www.ime.unicamp.br/~pjssilva/vidas_salvas.html
+
+▶️ RJ: Presidente do TJ-RJ derruba liminar que suspendia decretos de flexibilização. Prefeitura e estado tinham entrado com recursos diretamente no gabinete da presidência da corte.
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/09/presidente-do-tj-suspende-liminar-que-suspendia-decretos-de-flexibilizacao.ghtml
+
+▶️ SP: comércio de rua deve reabrir amanhã; shoppings abrem na quinta
+https://sao-paulo.estadao.com.br/noticias/geral,comercio-de-rua-deve-reabrir-amanha-em-sp-shoppings-abrem-na-quinta,70003329463
+--
+🗂️ Política
+
+▶️ Rodrigo Maia sugere cortar salário dos três Poderes para bancar prorrogação de auxílio de R$ 600
+https://economia.estadao.com.br/noticias/geral,maia-sugere-cortar-salario-dos-tres-poderes-para-bancar-prorrogacao-de-auxilio-de-r-600,70003329730
+
+▶️ Bolsonaro diz que OMS perdeu a sua credibilidade na pandemia e alfineta Mandetta
+https://noticias.uol.com.br/videos/2020/06/09/bolsonaro-diz-que-oms-perdeu-a-sua-credibilidade-na-pandemia-e-alfineta-mandetta.htm
+
+▶️ Governo revoga portaria que transferia R$ 83,9 milhões do Bolsa Família para comunicação
+https://g1.globo.com/politica/noticia/2020/06/09/governo-revoga-portaria-que-transferiu-r-839-milhoes-do-bolsa-familia-para-secretaria-de-comunicacao.ghtml
+
+▶️ Antes de Wizard desistir de cargo na Saúde, Bolsonaro pediu 'dossiê' sobre relação dele com Doria
+https://politica.estadao.com.br/noticias/geral,antes-de-wizard-desistir-de-cargo-na-saude-bolsonaro-pediu-dossie-sobre-relacao-dele-com-doria,70003329448 
+--
+🔍 Recortes da pandemia
+
+▶️ Secretário-geral da ONU alerta contra crise alimentar por pandemia
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/09/secretario-geral-da-onu-alerta-contra-crise-alimentar-por-pandemia.htm
+
+▶️ Sem Covid-19, cidade em SP leva remédio à casa de paciente para frear circulação
+https://www1.folha.uol.com.br/cotidiano/2020/06/sem-covid-19-cidade-em-sp-leva-remedio-a-casa-de-paciente-para-frear-circulacao.shtml
+
+▶️ Clínicas se adaptam para que mulheres engravidem durante a pandemia
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/clinicas-se-adaptam-para-que-mulheres-engravidem-durante-a-pandemia.shtml
+
+🎦 Vídeo: os padres que usam exorcismo para tentar combater a Covid-19
+https://www.bbc.com/portuguese/internacional-52986252
+--
+✅ Curtas
+
+➡️ Campanha busca intensificar doação de sangue na pandemia
+
+➡️ Governo federal busca novos fornecedores de equipamentos hospitalares para enfrentamento da Covid-19
+
+➡️ PGR vai analisar caso do governador catarinense que furou quarentena e participou de festa em hotel
+
+➡️ MPRJ e Receita apreendem 97 respiradores pagos com desvio de verba pública 
+
+➡️ Secretário de Educação de SP está na UTI com coronavírus
+
+➡️ Pesquisa mostra que 56% dos fumantes reduziram consumo na quarentena
+
+➡️ Teste mostra que 60% da tripulação de porta-aviões dos EUA têm anticorpos contra o coronavírus
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

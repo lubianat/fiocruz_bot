@@ -1,0 +1,219 @@
+Destaques - 16/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 904.734 casos; 44.657 mortes
+🌎 Mundo: 8 milhões de casos; 437 mil mortes
+--
+💊 Tratamento
+
+▶️ Dexametasona, medicamento barato e amplamente disponível, pode ajudar a salvar a vida de pacientes gravemente doentes com coronavírus. Especialistas do Reino Unido dizem que o tratamento com esteróides em baixa dose é um grande avanço
+https://www.bbc.com/portuguese/internacional-53068028
+✏️ Statement from the Chief Investigators of the Randomised Evaluation of Covid-19 therapy
+(Recovery) Trial on dexamethasone, 16 June 2020
+https://www.recoverytrial.net/files/recovery_dexamethasone_statement_160620_final.pdf
+
+▶️ Maioria dos estados ignora protocolo do governo e não indica cloroquina para casos leves. Catorze estados disseram que usam em casos graves, seis, em casos leves e a Paraíba não indica em nenhum caso
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/maioria-dos-estados-ignora-protocolo-do-governo-e-nao-indica-cloroquina-para-casos-leves.shtml
+
+▶️ Pesquisa da Universidade Federal do Amazonas investiga o potencial do mastruz como remédio caseiro para prevenção ou tratamento do coronavírus
+https://d.emtempo.com.br/ciencia-e-tecnologia-inovacao/207931/mastruz-e-estudado-como-medicamento-para-uso-contra-a-covid-19
+--
+🔬 Pesquisa científica
+
+▶️ Mutação na 'coroa' pode aumentar a capacidade de infecção do coronavírus, aponta estudo. Especialistas dos EUA identificaram alteração no vírus que aumenta o número de espinhos em sua coroa, o que permite maior ligação com as células invadidas.
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/mutacao-em-novo-coronavirus-aumenta-chance-de-infeccao-diz-estudo.ghtml
+✏️ The D614G mutation in the SARS-CoV-2 spike protein reduces S1 shedding and increases infectivity
+https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full.pdf
+
+▶️ 350 milhões de pessoas expostas a uma forma grave de Covid-19, afirma estudo. Resultados mostram que 1,7 bilhão de pessoas, ou seja, 22% da população mundial, apresentam ao menos um fator de risco para a doença
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/16/350-milhoes-de-pessoas-expostas-a-uma-forma-grave-de-covid-19-afirma-estudo.ghtml
+✏️ Global, regional, and national estimates of the population at increased risk of severe Covid-19 due to underlying health conditions in 2020: a modelling study
+https://www.thelancet.com/pdfs/journals/langlo/PIIS2214-109X(20)30264-3.pdf
+
+▶️ Estudo mostra que menores de 20 anos têm metade da probabilidade de contrair Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/16/estudo-mostra-que-menores-de-20-anos-tem-metade-da-probabilidade-de-contrair-covid-19.ghtml
+✏️ Age-dependent effects in the transmission and control of Covid-19 epidemics
+https://www.nature.com/articles/s41591-020-0962-9
+
+▶️ Pesquisadores descobriram anticorpos no sangue de pacientes recuperados da Covid-19 que fornecem proteção poderosa contra o SARS-CoV-2 em testes em animais e culturas de células
+https://www.sciencedaily.com/releases/2020/06/200615140840.htm
+✏️ Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model
+https://science.sciencemag.org/content/early/2020/06/15/science.abc7520
+
+▶️ Pesquisa na Suíça revela que crianças são menos suscetíveis à infecção pelo novo coronavírus
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva, Switzerland (SEROCoV-POP): a population-based study
+https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(20)31304-0.pdf
+
+▶️ HIV e tuberculose aumentam o risco de morte por Covid-19, mas não muito, conclui estudo
+https://www.sciencemag.org/news/2020/06/hiv-and-tb-increase-death-risk-covid-19-study-finds-not-much
+
+▶️ Quão mortal é o coronavírus? Os cientistas estão perto de uma resposta
+https://www.nature.com/articles/d41586-020-01738-2
+
+▶️ Fiocruz e Hospital das Clínicas de SP vão receber um aporte de R$ 3,5 milhões para pesquisas voltadas ao tratamento, diagnóstico e desenvolvimento de medicamentos para o combate de infectados pela Covid-19
+https://veja.abril.com.br/blog/radar/fiocruz-e-hospital-das-clinicas-ganham-reforco-para-pesquisa-da-covid-19/
+
+▶️ Pesquisadores da Fiocruz Brasília publicaram a cartilha ‘Crianças na Pandemia Covid-19’, sobre as repercussões psicossociais da pandemia.  Isolamento pode causar reações emocionais e alterações comportamentais
+https://revistacrescer.globo.com/Criancas/Saude/noticia/2020/06/isolamento-pode-causar-irritabilidade-medo-e-alteracoes-no-sono-das-criancas-diz-fiocruz.html
+--
+💉 Vacina
+
+▶️ Vacina do Imperial College London será testada em 300 pessoas no Reino Unido. Fase em humanos deverá garantir segurança e eficácia na imunização
+https://g1.globo.com/bemestar/vacina/noticia/2020/06/16/vacina-do-imperial-college-london-sera-testada-em-300-pessoas-no-reino-unido.ghtml
+
+▶️ Prazos rápidos para vacinas para Covid-19 não são realistas e colocam em risco a integridade dos cientistas
+https://theconversation.com/fast-covid-19-vaccine-timelines-are-unrealistic-and-put-the-integrity-of-scientists-at-risk-139824
+
+▶️ França investirá 200 mi de euros na relocalização da produção de vacinas
+https://www.uol.com.br/vivabem/noticias/rfi/2020/06/16/franca-investira-200-mi-de-euros-na-relocalizacao-da-producao-de-vacinas.htm
+--
+📊 Epidemiologia
+
+▶️ Casos de novo coronavírus no mundo passam de 8 milhões. Desse total, cerca de 25% foram registrados nos EUA. Mais de 435 mil pessoas morreram de Covid-19 em todo o mundo
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/15/casos-de-novo-coronavirus-no-mundo-passam-de-8-milhoes-diz-universidade.ghtml
+
+⏩ EUA concentram 54% de todos os casos de Covid-19 nas Américas e Brasil, 23%; 'Não vemos desacelaração de contágio', afirma Carissa F. Etienne, diretora da Opas 
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/16/eua-concentram-54percent-de-todos-os-casos-de-covid-19-nas-americas-e-brasil-23percent-nao-vemos-desacelaracao-de-contagio-afirma-diretora-da-opas.ghtml
+
+▶️ Radiografia de três surtos de coronavírus: como se infectaram e como podemos evitar
+https://brasil.elpais.com/brasil/2020-06-16/radiografia-de-tres-surtos-de-coronavirus-como-se-infectaram-e-como-podemos-evitar.html
+
+▶️ Defensoria da União pede que sejam incluídos dados de nacionalidade em registros de Covid-19 no Brasil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/16/defensoria-da-uniao-pede-que-sejam-incluidos-dados-de-nacionalidade-em-registros-de-covid-19-no-brasil.ghtml
+
+▶️ Especialista afirma que Covid-19 deve ser considerada endêmica
+https://www.newscientist.com/article/2246072-global-total-of-confirmed-coronavirus-cases-has-passed-8-million/
+
+▶️ Pequim registra mais 27 casos de Covid-19 e bloqueia outros sete bairros. Já são 30 áreas residenciais em quarentena e um total de 106 novos contaminados nos últimos dias
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/16/pequim-registra-mais-27-casos-de-covid-19-e-bloqueia-outros-sete-bairros.ghtml
+
+⏩ Pequim intensifica medidas contra 2ª onda de coronavírus para não se tornar 'nova Wuhan'
+https://www1.folha.uol.com.br/mundo/2020/06/pequim-intensifica-medidas-contra-2a-onda-de-coronavirus-para-nao-se-tornar-nova-wuhan.shtml
+
+⏩ Após novo surto de coronavírus, situação de Pequim é 'extremamente grave', diz prefeitura
+https://oglobo.globo.com/mundo/apos-novo-surto-de-coronavirus-situacao-de-pequim-extremamente-grave-diz-prefeitura-1-24482086
+
+▶️ Apesar da alegação de Trump, o aumento de novos casos de coronavírus nos EUA não é apenas uma função de mais testes
+https://www.washingtonpost.com/politics/2020/06/15/despite-trumps-claim-increase-new-coronavirus-cases-isnt-just-function-testing/
+
+▶️ Depois de uma semana, Nova Zelândia não está mais livre de Covid-19; há dois casos 'importados'
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/16/depois-de-uma-semana-nova-zelandia-nao-esta-mais-livre-de-covid-19-ha-dois-casos-importados.ghtml
+
+▶️ Enquanto governo de SP projeta segunda onda, médicos dizem que não saímos da primeira
+https://saude.estadao.com.br/noticias/geral,enquanto-governo-de-sp-projeta-2-onda-da-covid-medicos-dizem-que-nao-saimos-da-1,70003334514
+--
+🧪 Diagnóstico
+
+▶️ Em dois laboratórios privados, 20% dos testes de anticorpo para Covid-19 deram positivo. Empresa que lidera o mercado de análises clínicas no Brasil diz já ter feito 500 mil exames genéticos e sorológicos no Brasil
+https://oglobo.globo.com/sociedade/coronavirus/em-dois-laboratorios-privados-20-dos-testes-de-anticorpo-para-covid-19-deram-positivo-24481161
+
+▶️ Prefeitura de SP fará testes de Covid-19 nos 96 distritos do município. Mais de 5 mil moradores serão testados
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/prefeitura-sp-fara-testes-covid-19-96-distritos-municipio
+--
+🏡 Distanciamento social
+
+▶️ RJ: contágio cai na capital, mas Covid-19 preocupa no interior. Além de aglomerações que podem pôr avanços em risco, dados oficiais evidenciam: nem todos os municípios fluminenses vivem o mesmo alívio
+https://oglobo.globo.com/rio/estado-segue-em-alerta-contagio-cai-na-capital-mas-covid-19-preocupa-no-interior-1-24481452
+
+▶️ SP: flexibilização da quarentena e adesão baixa a isolamento provocam efeito 'areia movediça'. Sem atingir o teto da curva de casos, taxa de transmissão se mantém alta no estado
+https://oglobo.globo.com/sociedade/flexibilizacao-da-quarentena-adesao-baixa-isolamento-fazem-sp-viver-efeito-areia-movedica-24481440
+
+▶️ Escolas particulares querem volta às aulas antes das públicas. Donos de colégios dizem ter mais recursos e condições de adotar protocolos de higiene
+https://www1.folha.uol.com.br/educacao/2020/06/escolas-particulares-querem-volta-as-aulas-antes-das-publicas.shtml
+
+▶️ Volta de torcida aos estádios causa preocupação entre especialistas
+https://esportes.estadao.com.br/noticias/futebol,volta-de-torcida-aos-estadios-causa-preocupacao-entre-especialistas,70003333627
+
+▶️ Comerciantes apelam a vereadores para que lojas abram por todo o dia
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/comerciantes-apelam-a-vereadores-para-que-lojas-abram-por-todo-o-dia.shtml
+--
+🥼 Saúde pública
+
+▶️ Combate ao coronavírus está acelerando a disseminação de outras doenças. Isolamento social e fechamento de fronteiras diminuiu o índice de pessoas que vão se vacinar; sarampo, por exemplo, está avançando em diversos países
+https://internacional.estadao.com.br/noticias/geral,combate-ao-coronavirus-esta-acelerando-a-disseminacao-de-outras-doencas,70003334429
+
+▶️ RJ: hospitais de campanha podem se tornar elefantes brancos e não dão retorno esperado
+https://oglobo.globo.com/rio/saude-do-rio-hospitais-de-campanha-podem-se-tornar-elefantes-brancos-nao-dao-retorno-esperado-24481917
+
+▶️ AM: com queda de casos, Manaus fecha hospital municipal de campanha
+https://www1.folha.uol.com.br/cotidiano/2020/06/com-queda-de-casos-de-covid-19-manaus-fecha-hospital-municipal-de-campanha.shtml	
+
+▶️ Coronavírus provoca medo e clamores por mudança em prisões superlotadas do Brasil
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/16/coronavirus-provoca-medo-e-clamores-por-mudanca-em-prisoes-superlotadas-do-brasil.htm
+
+▶️ Menor fica trancado em banheiro da Fundação Casa por ter Covid-19
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/menor-fica-trancado-em-banheiro-da-fundacao-casa-por-ter-covid-19.shtml
+
+▶️ Governo federal já transportou 135 milhões de máscaras da China
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/governo-federal-ja-transportou-135-milhoes-de-mascaras-da-china
+--
+🗂️ Política
+
+▶️ Casa Civil da Presidência se recusou a fornecer os estudos e relatórios sobre hidroxicloroquina e cloroquina produzidos pelo CCOP (Centro de Coordenação das Operações do Comitê de Crise da Covid-19)
+https://noticias.uol.com.br/colunas/rubens-valente/2020/06/16/cloroquina-lei-de-acesso-informacao.htm
+
+▶️ Avanço da pandemia expõe falta de planos e previsões falhas da equipe de Guedes
+https://www1.folha.uol.com.br/mercado/2020/06/avanco-da-pandemia-expoe-falta-de-planos-e-previsoes-falhas-da-equipe-de-guedes.shtml
+
+▶️ Guedes: pandemia é o verdadeiro cisne negro e uma bomba biológica
+https://economia.uol.com.br/noticias/estadao-conteudo/2020/06/16/pandemia-e-o-verdadeiro-cisne-negro-e-uma-bomba-biologica-diz-guedes.htm
+--
+🌐 Internacional
+
+🇲🇽 México registrou 3.427 casos e ultrapassa marca de 150 mil, com 150.264. País teve 439 novas mortes e chega a 17.580
+
+🇩🇪 Alemanha registrou 378 casos e 9 óbitos nas últimas 24h. País tem 186.839 casos e 8,8 mil mortes. País começou a reabrir fronteiras com países vizinhos da União Europeia
+
+🇬🇹 Guatemala registrou 427 novas infecções e 15 mortes. País tem mais de 10 mil casos e 399 mortes
+
+🇬🇧 Reino Unido tem 53.077 mortes 
+
+🇭🇺 Hungria aprovou o fim do polêmico estado de emergência que permitiu ao primeiro-ministro governar por decreto por dois meses
+
+🇨🇳 China: economia pode crescer 3% em 2020
+
+🇯🇵 Japão reavalia medidas de restrição impostas a estrangeiros residentes para liberar entrada no país
+--
+🔍 Recortes da pandemia
+
+▶️ Mais de 210 mil alunos estão sem aulas em universidades públicas em meio a pandemia da Covid-19
+https://oglobo.globo.com/sociedade/mais-de-210-mil-alunos-estao-sem-aulas-em-universidades-publicas-em-meio-pandemia-da-covid-19-24481400
+
+▶️ Conteúdo sobre coronavírus lidera denúncias no aplicativo contra fake news ‘Eu Fiscalizo’, desenvolvido por pesquisadora da Fiocruz 
+https://g1.globo.com/sp/santos-regiao/educacao/noticia/2020/06/14/conteudo-sobre-coronavirus-lidera-denuncias-em-aplicativo-contra-fake-news.ghtml 
+
+▶️ Indústria de limpeza corre para usar imagem do coronavírus. Anvisa autoriza produtos que já comprovaram eficácia contra vírus parecido a fazerem propaganda indireta
+https://www1.folha.uol.com.br/colunas/painelsa/2020/06/industria-de-limpeza-corre-para-usar-imagem-do-coronavirus.shtml
+
+▶️ O estrago da Covid-19 em cidades do Nordeste que cancelaram festa de São João
+https://www.bbc.com/portuguese/brasil-53059347
+
+▶️ O menino de 5 anos que ficou cego e outros efeitos trágicos das informações falsas sobre Covid-19
+https://www.bbc.com/portuguese/internacional-53054554
+
+▶️ Como será o 'novo futebol brasileiro' pós-pandemia?
+https://esportes.estadao.com.br/noticias/futebol,como-sera-o-novo-futebol-brasileiro-pos-pandemia,70003333592
+
+▶️ Médica influencer do HC: "Ninguém precisa visitar UTI para saber gravidade"
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/16/medica-influencer-do-hc-ninguem-precisa-visitar-uti-para-saber-gravidade.htm
+--
+✅ Curtas
+
+➡️ Comércio despenca 16,8% e sofre pior queda em 20 anos com distanciamento social no Brasil
+
+➡️ Mais de 33 mil brasileiros foram repatriados desde o início da pandemia do novo coronavírus
+
+➡️ Empresas de entrega devem fornecer kits para proteção de trabalhadores
+
+➡️ Retomada do Brasil no pós-covid deve ser mais lenta que em 90% dos países
+
+➡️ Condução oscilante no combate ao coronavírus deve afetar recuperação econômica
+
+➡️ Circo gaúcho tem plateia dentro dos carros
+
+➡️ Auditores da Gol manifestam preocupação sobre continuidade da empresa após pandemia
+
+➡️ Azul e Latam fecham acordo para conexões domésticas e pontos de fidelidade
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

@@ -1,0 +1,225 @@
+Destaques - 04/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 587.017 casos; 32.602 mortes 
+🌎 Mundo: 6,5 milhões de casos; 386 mil mortes
+--
+➕ Os dados atualizados da Covid-19 no Brasil de ontem (03) foram divulgados às 22h. O país registrou 1.349 novos óbitos, número recorde em um dia, totalizando 32.548 mortos e 584.016 casos no balanço oficial.
+https://covid.saude.gov.br/
+--
+🔬 Pesquisa científica
+
+▶️ Novo coronavírus é capaz de infectar as células do músculo cardíaco
+http://agencia.fapesp.br/novo-coronavirus-e-capaz-de-infectar-as-celulas-do-musculo-cardiaco/33324/
+
+▶️ Saiba como será o recrutamento de voluntários para testar vacina contra Covid-19 no Brasil, que começa este mês
+https://oglobo.globo.com/sociedade/saiba-como-sera-recrutamento-de-voluntarios-para-testar-vacina-contra-covid-no-brasil-que-comeca-este-mes-1-24461957	
+
+▶️ 'Infelizmente', alta dos casos faz Brasil virar local de oportunidade para testes de vacina e de medicamento, diz pesquisador Júlio Croda, da Fiocruz
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/03/infelizmente-alta-dos-casos-de-covid-faz-brasil-virar-local-de-oportunidade-para-testes-de-vacina-e-de-medicamento-diz-infectologista.ghtml
+
+▶️ 'Privilégio o Brasil estar no desenvolvimento de vacina', diz Coordenadora do Centro de Referência para Imunobiológicos Especiais da Unifesp
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/04/vacina-de-oxford-testada-brasileiros.htm
+
+▶️ Pesquisa avalia implicações da Covid-19 para a saúde sexual e classifica diferentes práticas, da ordem mais segura à menos segura em termos de propagação do vírus
+https://www.uol.com.br/universa/noticias/redacao/2020/06/03/estudo-recomenda-que-casais-facam-sexo-de-mascara.htm
+
+▶️ Pesquisa alerta para aumento do sedentarismo devido ao isolamento para conter Covid-19
+http://agencia.fapesp.br/fique-em-casa-mas-nao-fique-parado-alertam-pesquisadores/33316/
+✏️ Social isolation during the Covid-19 pandemic can increase physical inactivity and the global burden of cardiovascular disease
+https://journals.physiology.org/doi/full/10.1152/ajpheart.00268.2020
+--
+💊 Tratamento
+
+▶️ Hidroxicloroquina não impediu que pessoas saudáveis ​​expostas à Covid-19 adquirissem a doença, de acordo com estudo publicado no New England Journal of Medicine. O estudo é o primeiro ensaio clínico randomizado que testou o medicamento como medida preventiva.
+https://www.washingtonpost.com/health/2020/06/03/hydroxychloroquine-clinical-trial-results/
+⏩ Leia em português: Hidroxicloroquina não previne Covid-19 em pacientes, diz novo estudo
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/hidroxicloroquina-nao-previne-covid-19-em-pacientes-diz-novo-estudo.shtml
+✏️ A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19
+https://www.nejm.org/doi/full/10.1056/NEJMoa2016638
+
+▶️ "Vamos apostar 100%, seguir e defender a cloroquina", diz Carlos Wizard, futuro secretário de Ciência, Tecnologia e Insumos Estratégicos do Ministério da Saúde, que também afirma que defenderá o tratamento precoce 
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/wizard-apostar-100-cloroquina-tratamento-precoce.htm
+
+▶️ Em evento, Mandetta ironiza recomendação de cloroquina. ‘Um leigo propor e outro fazer o protocolo que libera é o mais próximo de um estudo duplo-cego que temos’, afirmou.
+https://saude.estadao.com.br/noticias/geral,em-evento-mandetta-ironiza-recomendacao-de-cloroquina,70003324036
+
+▶️ TCU dá 10 dias para que Saúde e Anvisa expliquem novo protocolo sobre uso de cloroquina
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/03/tcu-da-10-dias-para-que-saude-e-anvisa-expliquem-novo-protocolo-sobre-uso-de-cloroquina.ghtml
+
+▶️ MPF diz que não mudou posição sobre cloroquina após OMS retomar ensaios
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/03/mpf-diz-que-nao-mudou-posicao-sobre-cloroquina-apos-oms-retomar-ensaios.htm
+
+▶️ Hospital das Clínicas de SP começa a usar plasma de pacientes curados de coronavírus para tratar internados com a doença
+https://g1.globo.com/sp/sao-paulo/noticia/2020/06/03/hospital-das-clinicas-de-sp-comeca-a-usar-plasma-de-pacientes-curados-de-coronavirus-para-tratar-casos-graves.ghtml
+
+▶️ Cientistas de SP vão testar antiviral contra Covid-19 em voluntários no Ceará. Fumarato de tenofovir desoproxila, droga empregada contra o HIV, foi testada com sucesso em laboratório
+https://oglobo.globo.com/sociedade/coronavirus/cientistas-de-sp-vao-testar-antiviral-contra-covid-19-em-voluntarios-no-ceara-24460758
+
+▶️ Índia e Coreia do Sul autorizam uso do antiviral remdesivir em pacientes da Covid-19
+https://oglobo.globo.com/sociedade/coronavirus/india-coreia-do-sul-autorizam-uso-do-antiviral-remdesivir-em-pacientes-da-covid-19-24460087
+
+▶️ Por que o ibuprofeno voltou a ser testado contra a Covid-19: cientistas acreditam que a droga pode tratar particularmente dificuldades respiratórias da infecção
+https://www.bbc.com/portuguese/geral-52915237
+--
+📊 Epidemiologia
+
+▶️ Técnica da OMS Maria van Kherkhove diz que o coronavírus não passa por mutação e que batalha contra a Covid-19 está 'longe de acabar'. Kherkhove disse que pesquisadores de todo o mundo já conseguiram sequenciar mais de 40 mil exemplares do novo coronavírus
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/03/tecnica-da-oms-diz-que-o-coronavirus-nao-passa-por-mutacao-e-que-batalha-contra-a-covid-19-esta-longe-de-acabar.ghtml
+
+▶️ SP estima que casos podem dobrar e chegar a 265 mil em junho. Equipe da saúde estadual sustenta que números mostram redução no contágio. Estado tem 8.276 óbitos e 123.483 casos. Foram 282 mortes e 8.188 casos nas últimas 24h
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/governo-de-sp-estima-que-casos-de-coronavirus-podem-dobrar-e-chegar-265-mil-em-junho.shtml
+
+▶️ RJ tem 6.010 óbitos, 324 confirmados nas últimas 24h. Estado teve 2.508 casos novos e chega a 59.240
+https://oglobo.globo.com/rio/covid-com-novo-recorde-de-mortes-registradas-em-24-horas-rio-ultrapassa-marca-de-seis-mil-obitos-24461266
+
+▶️ RJ: Cidades vivem explosão de casos e avanço desigual da doença traz desafios à reabertura do estado
+https://oglobo.globo.com/rio/cidades-vivem-explosao-de-casos-de-coronavirus-no-rio-avanco-desigual-da-doenca-traz-desafios-reabertura-do-estado-1-24459066
+
+▶️ Gabbardo diz que pandemia 'ainda não começou' em áreas do sul do país
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/06/03/ex-numero-2-de-mandetta-diz-que-pandemia-ainda-nao-comecou-em-areas-do-sul-do-pais.htm
+
+▶️ Mortes por síndrome respiratória no Brasil aumentam 20 vezes na pandemia
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/obitos-srag-brasil-coronavirus.htm
+
+▶️ Média diária de mortes por Covid-19 supera patamar de vítimas de enfarte. 'Projeção é devastadora', diz o infectologista José David Urbaéz
+https://saude.estadao.com.br/noticias/geral,media-diaria-de-mortes-por-covid-19-supera-patamar-de-vitimas-de-enfarte,70003323302
+
+▶️ Fronteira com o Brasil preocupa autoridades argentinas
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/03/fronteira-com-o-brasil-preocupa-autoridades-argentinas-e-uma-peneira.htm
+--
+🏡 Distanciamento social
+
+▶️ Estados reabrem mesmo sem dados precisos sobre testes
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/testes-coronavirus-processamento-reabertura.htm
+
+▶️ Cidades que flexibilizaram isolamento têm aumento de casos. Bahia, Santa Catarina e Minas Gerais estão entre os Estados que anteciparam abertura 
+https://saude.estadao.com.br/noticias/geral,cidades-que-flexibilizaram-isolamento-tem-aumento-de-casos-de-coronavirus,70003323847
+
+▶️ Epidemiologista da USP, Paulo Lotufo disse que o afrouxamento das medidas de isolamento social vai sobrecarregar o sistema de saúde
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/reabertura-sobrecarga-sistema-de-saude-usp.htm
+
+▶️ Reabertura com casos em alta pode agravar pico, alertam especialistas
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/03/reabertura-com-casos-em-alta-pode-agravar-pico-alertam-especialistas.htm
+
+▶️ ‘É preciso uma flexibilização mínima para isso fluir’, diz chefe de laboratório de Virologia da UFRJ. Almicar Tanuri diz que modelos de saída do isolamento no Rio e em SP são racionais e devem ser somados a testagens para avaliar a pandemia
+https://oglobo.globo.com/sociedade/e-preciso-uma-flexibilizacao-minima-para-isso-fluir-diz-chefe-de-laboratorio-de-virologia-da-ufrj-24461682
+
+▶️ Universidade Federal do Pará negou ser responsável pela autoria de qualquer estudo que tenha dado embasamento técnico ao plano de retomada das atividades econômicas no estado. Instituição informa que estudo é de responsabilidade apenas da Universidade Federal Rural da Amazônia (Ufra)
+https://saude.estadao.com.br/noticias/geral,universidade-federal-do-para-nega-ser-responsavel-por-plano-de-retomada-economica,70003323746
+
+▶️ RJ: Crivella resolveu liberar as ruas para os camelôs, especialista diz que medida pode levar à aglomeração
+https://oglobo.globo.com/rio/surpreso-com-decisao-de-crivella-especialista-diz-que-liberacao-de-camelo-pode-levar-aglomeracao-24461624
+
+⏩ RJ: reabertura deve aumentar mortes no Rio em 2 semanas, dizem cientistas
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/reabertura-deve-aumentar-mortes-no-rio-em-2-semanas-dizem-cientistas.htm
+
+▶️ Lockdown x flexibilização: com medidas conflitantes, isolamento social caiu
+https://www.uol.com.br/tilt/noticias/redacao/2020/06/04/lockdown-x-flexibilizacao-com-medidas-conflitantes-isolamento-social-caiu.htm
+
+▶️ Alerj aprovou projeto para a desinfecção de escolas, bibliotecas, cinemas e universidades antes de reabertura no estado
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/03/alerj-aprova-projeto-para-desinfeccao-de-escolas-antes-de-reabertura.htm
+
+▶️ Pensando apenas no lado da saúde, o ideal seria não reabrir agora, diz Marcos Boulos. Durante live da Folha, infectologista afirmou que Bolsonaro expõe pessoas à morte
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/pensando-apenas-no-lado-da-saude-o-ideal-seria-nao-reabrir-agora-diz-marcos-boulos.shtml
+
+▶️ Suécia: a sincera admissão do epidemiologista que criou estratégia do país contra pandemia
+https://www.bbc.com/portuguese/internacional-52922122
+--
+🥼 Saúde Pública
+
+▶️ Cinco estados têm mais 90% dos leitos de UTI ocupados: Amapá, Pernambuco, Acre, Rio Grande do Norte e Maranhão enfrentam o cenário mais crítico
+https://www1.folha.uol.com.br/cotidiano/2020/06/cinco-estados-tem-mais-90-dos-leitos-de-uti-ocupados.shtml
+
+▶️ Ministério da Saúde passará a orientar que pacientes com sinais leves de Covid-19 procurem imediatamente um médico para iniciar um tratamento contra a doença
+https://noticias.uol.com.br/saude/ultimas-noticias/reuters/2020/06/03/wizard-orientacao-e-que-mesmo-pessoas-com-sintomas-leves-devem-ir-ao-medico.htm
+
+▶️ Hospitais relatam falta de medicamento para sedar e entubar pacientes de coronavírus. Sem esses remédios, a ventilação mecânica não pode ser feita de forma adequada
+https://saude.estadao.com.br/noticias/geral,hospitais-relatam-falta-de-medicamento-para-sedar-e-entubar-pacientes-de-coronavirus,70003324183
+
+▶️ O velório de bebê indígena morto com Covid-19 que pode ter espalhado o vírus em aldeias de MT
+https://www.bbc.com/portuguese/brasil-52917611
+
+▶️ Opinião: Por que a fila única é a saída para salvar vidas? Medida poderia garantir atendimento digno a pacientes de Covid-19 e romper barreiras da segmentação social e racial
+https://www1.folha.uol.com.br/colunas/perifaconnection/2020/06/por-que-a-fila-unica-e-a-saida-para-salvar-vidas.shtml
+--
+🗂️ Política
+
+▶️ Júlio Croda diz que equipe sentia despreparo do governo na área. "A gente sentia dentro do Governo que não existia união sobre o que deveria ser feito e que a resposta seria pífia, como está sendo. Saí antes que houvesse qualquer impacto desnecessário para o setor técnico"
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/04/ex-ministerio-da-saude-diz-que-equipe-sentia-despreparo-do-governo-na-area.htm
+
+▶️ Dez estados ainda não cumpriram etapa para receber ajuda federal. Governadores e prefeitos têm que entregar ao Tesouro documento se comprometendo a não entrar na Justiça contra União
+https://www1.folha.uol.com.br/colunas/painel/2020/06/mais-da-metade-dos-estados-ainda-nao-cumpriu-etapa-para-receber-ajuda-federal.shtml
+
+▶️ Embaixador britânico exalta ajuda da ciência do Brasil com vacina
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/03/covid-19-embaixador-britanico-exalta-ajuda-da-ciencia-do-brasil-com-vacina.htm
+
+▶️ Ao defender posição contrária a aborto, Bolsonaro erra nome de ministro da Saúde
+https://saude.estadao.com.br/noticias/geral,ao-defender-posicao-contraria-a-aborto-bolsonaro-erra-nome-de-ministro-da-saude,70003324098
+--
+🌐 Internacional
+
+🇮🇷 Irã registrou 3.574 casos e 59 mortes nas últimas 24h. País tem  8.071 mortes e 164.270 casos
+
+🇲🇽 México registrou 1.092 mortes, pela primeira vez acima de mil, e 3.912 novos casos. País tem 11.729 óbitos e 101.238 casos.
+
+🇳🇿 Nova Zelândia prevê que o novo coronavírus seja erradicado no território a partir do dia 15 de junho. País registrou o último contágio no dia 22 de maio 
+
+🇪🇸 Espanha reabrirá fronteiras terrestres com a França e Portugal dia 22. 
+
+🇮🇩 Indonésia: capital Jacarta começa período de transição para relaxar medidas de isolamento
+
+🇵🇹 Portugal registrou 366 casos e 11 mortes em 24h. País tem 33.261 casos e 1.447 mortes
+
+🇸🇻 El Salvador prorrogou até o dia 15 de junho a quarentena obrigatória
+
+🇮🇹 Itália: ministro critica restrições de vizinhos europeus a viagens de italianos	
+
+🇪🇨 Equador: Quito começou processo de flexibilização das restrições. Região ficou 77 dias em isolamento, mas ainda assim contabiliza 305 mortes e 3.842 infectados
+
+🇵🇪 Peru teve 127 óbitos, o que elevou o total para 4.894, também foram registrados 4.030 novos casos, acumulando 178.914 
+
+🇨🇱 Chile tem mais de 113 mil casos e 1.275 mortes, sendo 87 nas últimas 24h. País sofre com  descumprimento da quarentena na capital
+
+🇺🇸 EUA registram 1.850.00 casos e passam de 107 mil mortes. Estado de NY permitirá refeições ao ar livre durante a segunda fase de reabertura 
+
+🇩🇪 Alemanha anunciou que vai retirar, a partir do próximo dia 15, a recomendação para seus cidadãos não viajarem ao exterior 
+--
+🔍 Recortes da pandemia
+
+▶️ Pandemia aumenta violência de gênero e adia pautas feministas na América Latina
+https://www1.folha.uol.com.br/mundo/2020/06/pandemia-aumenta-violencia-de-genero-e-adia-pautas-feministas-na-america-latina.shtml
+
+▶️ Mulheres protestam contra 'Festas do Corona' e em apoio à médica agredida no Rio
+https://www1.folha.uol.com.br/colunas/redesocial/2020/06/mulheres-protestam-contra-festas-do-corona-e-em-apoio-a-medica-agredida.shtml
+
+▶️ Ex-diretor do Inpe: pandemia exaltou o valor da ciência contra o negacionismo
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/04/ex-diretor-do-inpe-pandemia-exaltou-o-valor-da-ciencia-contra-o-negacionismo.htm
+
+▶️ Descuido dos brancos: como os povos indígenas veem a pandemia
+https://tab.uol.com.br/noticias/redacao/2020/06/04/como-os-povos-indigenas-veem-a-pandemia-do-novo-coronavirus.htm
+
+▶️ ‘Cada tribo enxerga na pandemia a confirmação de suas convicções', diz fundador dos Médicos Sem Fronteiras
+https://oglobo.globo.com/mundo/cada-tribo-enxerga-na-pandemia-confirmacao-de-suas-conviccoes-diz-fundador-dos-medicos-sem-fronteiras-24461184	
+
+▶️ Nova morte de médico por Covid-19 em Wuhan causa indignação na China
+https://www.bbc.com/portuguese/internacional-52913942
+
+▶️ Uma em cada cinco profissões no país pode adotar o 'home office', revela estudo
+https://oglobo.globo.com/economia/uma-em-cada-cinco-profissoes-no-pais-pode-adotar-home-office-revela-estudo-24460882
+--
+✅ Curtas
+
+➡️ Futura vacina contra coronavírus deverá ser considerada um "bem público mundial", afirmou o secretário-geral da ONU, Antonio Guterres
+
+➡️ Empresas seguem fazendo doações milionárias ao combate à Covid-19
+
+➡️ Brasil já tem mais de 200 shoppings reabertos
+
+➡️ China vai facilitar entrada de companhias aéreas no país
+
+➡️ Trump se diz confiante de que economia dos EUA já inicia forte retomada 
+
+➡️ Criminosos aproveitam pandemia para aplicar golpes virtuais
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)
