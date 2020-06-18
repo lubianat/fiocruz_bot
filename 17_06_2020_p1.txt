@@ -1,0 +1,195 @@
+Destaques - 17/06/2020
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 929.149 casos; 45.467 mortes
+🌎 Mundo: 8,1 milhões de casos; 444 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Pesquisadores desenvolvem tecido com micropartículas de prata capaz de eliminar por contato o coronavírus. De acordo com o estudo, produto inativa 99,9% do SARS-CoV-2 após dois minutos de contato.
+http://agencia.fapesp.br/empresa-paulista-desenvolve-tecido-capaz-de-eliminar-o-novo-coronavirus-por-contato/33414/
+
+▶️ Estudo sugere que coronavírus pode se espalhar pela descarga do vaso sanitário
+https://www.cnnbrasil.com.br/saude/2020/06/17/estudo-sugere-que-coronavirus-pode-se-espalhar-pela-descarga-do-vaso-sanitario
+✏️ Can a toilet promote virus transmission? From a fluid dynamics perspective
+https://aip.scitation.org/doi/10.1063/5.0013318
+
+▶️ Estudos trazem as primeiras pistas sobre a intensidade e a forma que o vírus afeta o olfato
+https://www1.folha.uol.com.br/colunas/silviacorrea/2020/06/covid-19-deixa-o-mundo-sem-cheiro-por-semanas.shtml
+✏️ The close relationship between sudden loss of smell and Covid-19
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7247493/
+✏️ Expression of the SARS-CoV-2 Entry Proteins, ACE2 and TMPRSS2, in Cells of the Olfactory Epithelium: Identification of Cell Types and Trends with Age
+https://pubs.acs.org/doi/10.1021/acschemneuro.0c00210
+✏️ Non-neuronal expression of SARS-CoV-2 entry genes in the olfactory system suggests mechanisms underlying Covid-19-associated anosmia
+https://www.biorxiv.org/content/10.1101/2020.03.25.009084v4
+
+▶️ Pesquisa internacional: Como a crise da Covid-19 afetou você?
+https://oglobo.globo.com/sociedade/coronavirus-servico/pesquisa-internacional-como-crise-da-covid-19-afetou-voce-24482936
+
+▶️ Mais de 150 vacinas e drogas contra coronavírus estão em teste no mundo
+https://www.uol.com.br/vivabem/noticias/agencia-estado/2020/06/17/mais-de-150-vacinas-e-drogas-contra-coronavirus-estao-em-teste-no-mundo.htm
+--
+💉 Vacina
+
+▶️ Acordo não garante produção de vacina chinesa contra o coronavírus no Brasil. Negociação inicial feita por SP assegura testes locais e governo afirma que vai contratar depois fabricação do imunizante no país
+https://saude.estadao.com.br/noticias/geral,acordo-nao-garante-producao-de-vacina-chinesa-contra-o-coronavirus-no-brasil,70003335691
+
+▶️ Rússia testará duas vacinas para o coronavírus em seres humanos
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/17/russia-teste-vacina-coronavirus.htm
+--
+📊 Epidemiologia
+
+▶️ Taxa de contágio por coronavírus no Brasil cai pela 3ª semana seguida, indica cálculo do Imperial College. Número passou de 1,08 para 1,05, mas completou oito semanas acima de 1, o que aponta transmissão ainda fora de controle
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/taxa-de-contagio-por-coronavirus-no-brasil-cai-pela-3a-semana-seguida-indica-calculo.shtml
+✏️ Short-term forecasts of Covid-19 deaths in multiple countries
+https://mrc-ide.github.io/covid19-short-term-forecasts/index.html#introduction
+
+▶️ Curva de mortes pelo coronavírus se estabiliza no país. Apesar de desaceleração da média de casos, país tem recorde de infectados e deve chegar a 1 milhão nesta semana
+https://oglobo.globo.com/sociedade/coronavirus/curva-de-mortes-pelo-coronavirus-se-estabiliza-no-pais-1-24483397
+
+▶️ Entenda como 15 países em cinco continentes dominaram a pandemia
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/06/17/entenda-como-15-paises-em-cinco-continentes-dominaram-a-pandemia.ghtml
+
+🎙️ Podcast: pandemia da Covid-19 e o fim do isolamento – o que virá depois?
+https://g1.globo.com/bemestar/podcast/noticia/2020/06/17/bem-estar-43-pandemia-da-covid-19-e-o-fim-do-isolamento-o-que-vira-depois.ghtml
+
+▶️ China e Nova Zelândia mostram que não há como se livrar do coronavírus. Endemia se caracteriza quando o vírus não se dissipa totalmente, e a doença acaba se manifestando com frequência em determinadas regiões
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/17/china-e-nova-zelandia-mostram-que-nao-ha-como-se-livrar-da-covid-19.htm
+
+▶️ China: aeroportos de Pequim cancelam mais de mil voos devido ao coronavírus. País já entende que enfrenta uma segunda onda de Covid-19
+https://g1.globo.com/mundo/noticia/2020/06/17/aeroportos-de-pequim-cancelam-mais-de-mil-voos-devido-ao-coronavirus.ghtml
+
+⏩ Pequim: importação de salmão pode ter gerado novo surto de Covid-19 
+https://www.cnnbrasil.com.br/internacional/2020/06/15/importacao-de-salmao-pode-ter-gerado-novo-surto-de-covid-19-em-pequim
+
+▶️ RJ registra 239 mortes e chega a 7.967. Estado tem 83.343 casos confirmados
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/estado-do-rio-de-janeiro-registra-239-mortes-por-covid-19-em-24-horas
+
+▶️ SP: segunda fase de mapeamento da Covid-19 é iniciada. Primeira etapa apontou que 5% da população nos bairros mais afetados teve contato com o vírus
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/segunda-fase-de-mapeamento-da-covid-19-em-sao-paulo-e-iniciada.shtml
+
+▶️ Mães solo da periferia de SP compõem um dos grupos mais vulneráveis à Covid-19, diz estudo
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/maes-solo-da-periferia-de-sp-compoe-um-dos-grupos-mais-vulneraveis-a-covid-19-diz-estudo.shtml
+--
+💊 Tratamento
+
+▶️ Dexametasona: OMS vai mudar orientações para tratar pacientes em estado grave
+https://www.cnnbrasil.com.br/saude/2020/06/17/apos-estudo-oms-vai-atualizar-orientacoes-para-tratar-pacientes-em-estado-grave
+
+⏩ Sociedade Brasileira de Infectologia divulgou nota destacando os resultados do estudo Recovery da Universidade de Oxford com o medicamento dexametasona
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/covid-19-sbi-destaca-resultado-positivo-com-novo-tratamento
+✏️ Nota SBI
+https://www.infectologia.org.br/admin/zcloud/137/2020/06/f590ba9af0faf1a1490ef0b5f945b9c136dceba586b6fa18b86852927fe72b54.pdf
+
+⏩ Dexametasona não tem efeito em fases iniciais da Covid-19, explica médico
+https://www.cnnbrasil.com.br/saude/2020/06/16/dexametasona-nao-tem-efeito-em-fases-iniciais-da-covid-19-explica-medico
+
+⏩ ‘Não é para correr até a farmácia’, dizem especialistas sobre corticoide promissor contra Covid-19
+https://saude.estadao.com.br/noticias/geral,nao-e-para-correr-ate-a-farmacia-dizem-especialistas-sobre-corticoide-promissor-contra-covid,70003335720
+
+⏩ Dexametasona pode ter me salvado", diz paciente que testou droga
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/17/covid-19-dexametasona-pode-ter-me-salvado-diz-paciente-que-testou-droga.htm
+
+▶️ Cloroquina acima de tudo: até Trump já revogou uso da cloroquina na pandemia de Covid-19, mas secretária do Ministério da Saúde diz em reunião com promotores e procuradores que não dar o remédio é "crime contra a humanidade"
+https://piaui.folha.uol.com.br/cloroquina-acima-de-tudo/
+
+⏩ Sociedade de Pediatria não recomenda cloroquina para crianças. SBP alega falta de evidências consistentes reconhecidas pela ciência
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/sociedade-de-pediatria-nao-recomenda-cloroquina-para-criancas
+✏️ Nota SBP
+https://www.sbp.com.br/fileadmin/user_upload/NOTA-ESCLARECIMENTO-CLOROQUINA-CRIANCA-SBP.pdf1
+
+⏩ EUA têm um estoque de 66 milhões de doses de cloroquina e hidroxicloroquina encalhado, de acordo com informações do jornal "The New York Times"
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/06/17/eua-tem-estoque-de-cloroquina-e-nao-sabe-o-que-fazer-com-ele-diz-nyt.htm
+
+▶️ Veja as técnicas mais comuns para ajudar pacientes com Covid-19: deixar o paciente de bruços, usar medicamentos anticoagulantes e aplicar diálise já são técnicas usadas nas UTIs
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/17/mais-de-100-dias-depois-do-1o-caso-no-brasil-veja-as-tecnicas-mais-comuns-para-ajudar-pacientes-com-covid-19.ghtml
+--
+🧪 Diagnóstico
+
+▶️ Companhias aéreas pedem que exames para viajar sejam rápidos e precisos
+https://www.uol.com.br/nossa/noticias/efe/2020/06/17/companhias-aereas-pedem-que-exames-para-viajar-sejam-rapidos-e-precisos.htm
+--
+🏡 Distanciamento social
+
+▶️ RJ: capital dá início à Fase 2 da reabertura da economia. Competições esportivas sem público são liberadas
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/17/rio-da-inicio-a-fase-2-da-reabertura-da-economia-veja-as-regras-e-as-proximas-etapas.ghtml
+
+▶️ Bolívia: presidente propõe adiar as eleições 'um mês ou dois'. Jeanine Áñez alega que haverá um pico de infecções por coronavírus no país. Senadores e deputados já aprovaram votação em 6 de setembro
+https://g1.globo.com/mundo/noticia/2020/06/16/presidente-boliviana-propoe-adiar-as-eleicoes-um-mes-ou-dois.ghtml
+
+▶️ Sem previsão de volta, aulas deverão ter rodízio em sala e máscaras
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/17/conselho-preve-aulas-com-rodizio-e-mascaras.htm
+--
+🥼 Saúde pública
+
+▶️ Portaria define critérios técnicos para implantação de Hospitais de Campanha
+https://www.saude.gov.br/noticias/agencia-saude/47062-portaria-define-criterios-tecnicos-para-implantacao-de-hospitais-de-campanha
+
+▶️ Associação alerta para aumento de pragas urbanas durante isolamento. Recomendação é que ambientes sejam mantidos limpos e higienizados
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/associacao-alerta-para-aumento-de-pragas-urbanas-durante-isolamento
+
+▶️ Marco regulatório de saneamento pode impulsionar investimentos pós-Covid-19. Área precisa de cerca de R$ 500 bilhões para universalizar os serviços de água e esgoto
+https://economia.estadao.com.br/noticias/geral,marco-regulatorio-de-saneamento-pode-impulsionar-investimentos-pos-covid,70003335653
+
+▶️ Sem leito público, paciente com Covid-19 paga R$ 20 mil por dia em Roraima
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/06/17/sem-leito-paciente-paga-r-20-mil-por-dia-em-roraima.htm
+
+▶️ Após 105 dias, primeira paciente diagnosticada com Covid-19 no DF recebe alta
+https://g1.globo.com/df/distrito-federal/noticia/2020/06/16/apos-105-dias-primeira-paciente-diagnosticada-com-covid-19-no-df-recebe-alta-e-vai-para-casa.ghtml
+--
+🗂️ Política
+
+▶️ Militares baixam linha dura no Ministério da Saúde e avisam que vão vasculhar redes sociais de servidores
+http://blogs.correiobraziliense.com.br/vicente/militares-baixam-linha-dura-no-ministerio-da-saude-e-avisam-que-vao-vasculhar-redes-sociais-de-servidores/
+
+▶️ Comissão mista do Congresso aprova requerimento para a formação de uma subcomissão temporária, composta por quatro senadores e quatro deputados, para criar um sistema paralelo de contagem de infectados e mortos pela Covid-19 e comparar com os dados oficiais divulgados pelo governo federal
+https://www.cnnbrasil.com.br/nacional/2020/06/17/comissao-mista-do-congresso-aprova-contagem-paralela-de-infectados-e-mortos
+
+▶️ Brasileiros consideram que País tem a pior resposta à pandemia, diz pesquisa
+https://saude.estadao.com.br/noticias/geral,brasileiros-consideram-que-pais-tem-a-pior-resposta-a-pandemia-diz-pesquisa,70003335740
+
+▶️ Senadora Mara Gabrilli relata sequelas da Covid-19 e prolonga afastamento
+https://www1.folha.uol.com.br/cotidiano/2020/06/senadora-relata-sequelas-da-covid-19-e-prolonga-afastamento.shtml
+
+▶️ Superintendente da Saúde do RJ é preso em nova fase de operação contra irregularidades na compra de respiradores pelo estado
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/17/policia-civil-e-ministerio-publico-do-rj-fazem-operacao-nesta-quarta-feira.ghtml
+
+▶️ Deputado Fábio Faria toma posse no Ministério das Comunicações nesta quarta
+https://www.cnnbrasil.com.br/politica/2020/06/17/deputado-fabio-faria-toma-posse-no-ministerio-das-comunicacoes-nesta-quarta
+
+▶️ China e Índia: o que há por trás da escalada de tensão que deixou 20 soldados mortos em choque na fronteira
+https://www.bbc.com/portuguese/internacional-53073587
+--
+🌐 Internacional
+
+🇨🇳 China registra 44 novos casos (11 importados e 33 autóctones). Total de casos ativos é de 252. País teve 83.265 casos e 4.634 mortes
+
+🇵🇪 Peru registra 190 mortes e 4.164 casos em 24h. País tem 7.056 mortes e 237.195 casos
+
+🇨🇴 Colômbia registra 75 mortes e 1.868 casos em 24h. País tem 1.801 mortes e 54.931 casos
+
+🇦🇷 Argentina registra 24 mortes e 1.374 casos em 24h. País tem 878 mortes e 34.159 casos. Foco continua na Área Metropolitana de Buenos Aires, onde houve 1.285 novas infecções, 488 na capital e 797 no entorno 
+
+🇧🇴 Bolívia teme aumento dos casos. Com 2,9 milhões de habitantes, La Paz concentra 1.213 casos dos 19.073 infectados no país
+
+🇮🇳 Índia registra mais de 2 mil mortes em um dia e chega a 11.903. País teve 11 mil novos casos e total é de 354.065
+
+🇪🇨 Equador registrou 621 casos e 41 mortes em 24h. País tem 47.943 casos e 3.970 mortes ao todo
+
+🇺🇸 EUA: mais estadunidenses já morreram de coronavírus do que durante a Primeira Guerra Mundial. Total ultrapassa 116 mil
+
+🇭🇳 Honduras: presidente e primeira-dama estão com coronavírus
+
+🇷🇺 Rússia: Putin instala câmara de desinfecção na sua própria casa contra coronavírus
+--
+✅ Curtas
+
+➡️ Menino morre de raiva após ser mordido por morcego em Angra dos Reis
+
+➡️ Campeonato Carioca será feio e sem qualidade com retorno sem preparo, diz sindicato de futebolistas
+
+➡️ Fluxo de passageiros em Viracopos volta a subir em maio
+
+➡️ Setor de Serviços despenca 11,7% em abril e sofre pior queda em 9 anos com avanço da pandemia
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

@@ -1,0 +1,198 @@
+Destaques - 17/06/2020 [parte 2]
+
+📈 Balanço geral de casos
+🇧🇷 Brasil: 955.377 casos; 46.510 mortes
+🌎 Mundo: 8,2 milhões de casos; 446 mil mortes
+--
+➕ Ministério da Saúde: Brasil registrou 1.269 novas mortes e 32.188 casos em 24h. País tem 46.510 mortes e 955.377 casos no total.
+https://covid.saude.gov.br/
+--
+🔬 Pesquisa científica
+
+▶️ Banco de dados reúne informações anônimas de pacientes com Covid-19. Repositório de informações clínicas vai subsidiar pesquisas 
+http://agencia.fapesp.br/fapesp-cria-repositorio-de-informacoes-clinicas-para-subsidiar-pesquisas-sobre-covid-19/33427/
+✏️ Covid-19 Data Sharing/BR
+https://repositoriodatasharingfapesp.uspdigital.usp.br/
+
+▶️ Pesquisadores identificam coquetel de anticorpos potente para tratar Covid-19. Publicação destaca processo para obter anticorpos
+https://www.sciencedaily.com/releases/2020/06/200616135739.htm
+✏️ Studies in humanized mice and convalescent humans yield a SARS-CoV-2 antibody cocktail
+https://science.sciencemag.org/content/early/2020/06/15/science.abd0827
+
+▶️ Pesquisadores japoneses confirmam testes de coronavírus em esgotos como possível sistema de alerta para surtos
+https://www.reuters.com/article/us-health-coronavirus-japan-sewers/japanese-researchers-confirm-coronavirus-testing-in-sewers-as-possible-outbreak-warning-system-idUSKBN23O0BX
+✏️ Detection of SARS-CoV-2 in wastewater in Japan by multiple molecular assays-implication for wastewater-based epidemiology (WBE)
+https://www.medrxiv.org/content/10.1101/2020.06.09.20126417v2
+
+▶️ "Precisamos ser capazes de avançar mais rapidamente". A realidade pandêmica dos ensaios clínicos na Covid-19
+https://www.sciencemag.org/news/2020/06/we-ve-got-be-able-move-more-quickly-pandemic-reality-covid-19-clinical-trials
+
+▶️ Pesquisadores israelenses afirmaram que criaram uma máscara reutilizável que pode matar o coronavírus com calor, consumindo energia de carregadores de celular
+https://noticias.uol.com.br/saude/ultimas-noticias/reuters/2020/06/17/pesquisadores-israelenses-criam-mascara-que-mata-virus-com-calor-de-carregador-de-celular.htm
+
+🎦 Vídeo: Laboratório alemão autorizado para testes de vacina
+https://noticias.uol.com.br/videos/afp/2020/06/17/laboratorio-alemao-autorizado-para-testes-de-vacina.htm
+
+▶️ Respiradores criados por engenheiros da Nasa para Covid-19 podem ser feitos no Brasil
+https://saude.estadao.com.br/noticias/geral,respiradores-criados-por-engenheiros-da-nasa-para-covid-19-podem-ser-feitos-no-brasil,70003335747
+
+▶️ Por que as mulheres estão sub-representadas na pesquisa sobre Covid-19? Uma análise de artigos constatou que as pesquisadoras compõem um terço dos autores
+https://www.drugtargetreview.com/article/63311/why-are-women-underrepresented-in-covid-19-research-authorship/
+✏️ Where are the women? Gender inequalities in Covid-19 research authorship
+https://gh.bmj.com/content/5/7/e002922
+--
+🧪 Diagnóstico
+
+▶️ Testes agrupados podem aumentar a capacidade de diagnosticar a Covid-19
+http://agencia.fapesp.br/testes-agrupados-podem-aumentar-a-capacidade-de-diagnosticar-a-covid-19/33416/
+
+▶️ Brasil tem quase 200 tipos de testes para Covid-19, mas ainda testa pouco. Diferentes exames utilizam material genético, pedaços de proteínas ou anticorpos que detectam o vírus, mas oferta é limitada
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/brasil-tem-quase-200-tipos-de-testes-para-covid-19-mas-ainda-testa-pouco.shtml
+--
+📊 Epidemiologia
+
+▶️ Para OMS, Brasil caminha para estabilização e precisa redobrar cautela. Diretor diz que epidemia ainda é severa e que medidas de prevenção devem ser reforçadas para evitar nova alta
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/para-oms-brasil-caminha-para-estabilizacao-e-precisa-redobrar-cautela.shtml
+
+▶️ Fomos avisados ​​sobre o que esperar da pandemia: países com melhores sistemas de saúde segundo avaliação publicada em livro parecem ter se saído melhor contra o coronavírus
+https://www.nature.com/articles/d41586-020-01748-0
+
+▶️ Incêndios na Amazônia podem aumentar risco de infecções graves de coronavírus, dizem especialistas
+https://g1.globo.com/natureza/noticia/2020/06/17/incendios-na-amazonia-podem-aumentar-risco-de-infeccoes-graves-de-coronavirus-dizem-especialistas.ghtml
+
+▶️ Sem apoio internacional, médicos no Haiti implementaram soluções práticas para coordenar os testes de laboratório de Covid-19, fornecer educação e treinamento e superar a desconfiança e o estigma da população.
+✏️ Facing the Monster in Haiti
+https://www.nejm.org/doi/full/10.1056/NEJMc2021362
+
+▶️ SP registra 389 mortes, novo recorde, e chega a 11.521. Estado confirmou 1.232 novos casos e total chega a 191.517 
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/sao-paulo-tem-novo-recorde-de-obitos-por-covid-19-em-24-horas
+--
+💊 Tratamento
+
+▶️ OMS anuncia nova suspensão de testes com hidroxicloroquina. Decisão acontece após órgão americano retirar medicamento de protocolo
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/oms-anuncia-nova-suspensao-de-testes-com-hidroxicloroquina
+
+⏩ Entenda as razões:
+https://www.bbc.com/portuguese/internacional-53085371
+
+▶️ Uso de dexametasona em caso leve de coronavírus é muito arriscado, diz OMS
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/uso-de-dexametasona-em-caso-leve-de-coronavirus-e-muito-arriscado-diz-oms.shtml
+
+⏩ Anúncio sobre uso de corticoide contra Covid-19 é recebido com cautela por médicos dos EUA
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/17/anuncio-sobre-uso-de-corticoide-contra-covid-19-e-recebido-com-cautela-por-medicos-dos-eua.ghtml
+
+⏩ O que é a dexametasona e por que não pode ser tomada sem indicação médica
+https://www.bbc.com/portuguese/geral-53085158
+
+⏩ Automedicação com corticoide pode diminuir defesa do corpo e agravar complicações da Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/17/automedicacao-com-corticoide-pode-diminuir-defesa-do-corpo-e-agravar-complicacoes-da-covid-19.ghtml
+--
+📚 Educação
+
+▶️ MEC estende autorização de aulas a distância até o fim de 2020 em universidades federais e libera estágios práticos
+https://g1.globo.com/educacao/noticia/2020/06/17/mec-estende-autorizacao-de-aulas-a-distancia-ate-o-fim-de-2020-em-universidades-federais.ghtml
+✏️ Portaria nº 544
+http://www.in.gov.br/en/web/dou/-/portaria-n-544-de-16-de-junho-de-2020-261924872
+
+⏩ USP, Unesp e Unicamp decidem voltar só com aulas remotas no segundo semestre
+https://educacao.estadao.com.br/noticias/geral,usp-unesp-e-unicamp-decidem-voltar-so-com-aulas-remotas-no-segundo-semestre,70003336317
+
+▶️ Depois do Sisu, MEC também adia cronograma de ProUni e Fies
+https://www1.folha.uol.com.br/educacao/2020/06/depois-do-sisu-mec-tambem-adia-cronograma-de-prouni-e-fies.shtml
+
+▶️ Cinco irmãos dividem o celular da mãe para estudar após a suspensão das aulas presenciais
+https://g1.globo.com/go/goias/noticia/2020/06/17/cinco-irmaos-dividem-o-celular-da-mae-para-estudar-apos-a-suspensao-das-aulas-presenciais-em-itumbiara.ghtml
+--
+🏡 Distanciamento social
+
+▶️ Artigo aponta que combinação de isolamento e rastreamento de contatos com medidas de distanciamento físico deve aumentar a probabilidade de controle da Covid-19
+✏️ Effectiveness of isolation, testing, contact tracing, and physical distancing on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling study
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30457-6/fulltext
+✏️ Case isolation, contact tracing, and physical distancing are pillars of Covid-19 pandemic control, not optional choices
+https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30512-0/fulltext
+
+▶️ Isolamento social no Rio não atingiu patamar ideal, diz pesquisa. Monitoramento é feito pela UFRJ. Campeonato Carioca volta quinta-feira
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/isolamento-social-no-rio-nao-atingiu-patamar-ideal-diz-pesquisa
+
+▶️ Grupo de 16 amigos é contaminado por coronavírus em bar nos EUA na primeira saída após quarentena
+https://g1.globo.com/mundo/noticia/2020/06/17/grupo-de-16-amigos-e-contaminado-por-coronavirus-em-restaurante-nos-eua-na-primeira-saida-apos-quarentena.ghtml
+--
+🥼 Saúde pública
+
+▶️ Hospitais municipais do Rio retomam cirurgias eletivas amanhã. Atendimento de quem está na fila não pode demorar mais, diz prefeito
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/hospitais-municipais-do-rio-retomam-cirurgias-eletivas-amanha
+
+▶️ SP: Apesar de Doria obrigar uso de máscara, Covas não aplicou nenhuma multa até agora
+https://www1.folha.uol.com.br/colunas/painelsa/2020/06/apesar-de-doria-obrigar-uso-de-mascara-covas-nao-aplicou-nenhuma-multa-ate-agora.shtml
+
+▶️ Governo baiano denuncia invasão de deputado a hospital de tratamento da Covid-19
+https://saude.estadao.com.br/noticias/geral,governo-baiano-denuncia-invasao-de-deputado-a-hospital-de-tratamento-da-covid-19,70003336499
+
+▶️ Fundação Casa afasta diretor de unidade que manteve jovem com Covid-19 trancado em banheiro
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/06/fundacao-casa-afasta-diretor-de-unidade-que-manteve-jovem-com-covid-19-trancado-em-banheiro.shtml
+--
+🗂️ Política
+
+▶️ Fiocruz na mira do bolsonarismo. Em áudio enviado a aliados, secretária Mayra Pinheiro (de Gestão do Trabalho e Educação na Saúde) do Ministério da Saúde indica que governo planeja interferir nas próximas eleições da Fundação. “Tudo deles envolve LGBTI. Eles têm um pênis na porta da Fiocruz, todos os tapetes das portas são a figura do Che Guevara, as salas são figurinhas do Lula Livre, Marielle vive”, diz a gravação.
+https://piaui.folha.uol.com.br/fiocruz-na-mira-do-bolsonarismo/
+
+▶️ Saúde ameaça usar Lei de Segurança Nacional contra quem passar informação sobre ministro. Ministério citou pandemia como justificativa
+https://epoca.globo.com/guilherme-amado/saude-ameaca-usar-lei-de-seguranca-nacional-contra-quem-passar-informacao-sobre-ministro-24484000
+
+▶️ Pazuello costura um acordo com o Palácio do Planalto que agrade, ao mesmo tempo, partidos do Centrão e gestores do SUS na partilha de R$ 10 bilhões
+https://www.bol.uol.com.br/noticias/2020/06/17/ministro-da-saude-tenta-acordo-para-atender-centrao-e-gestores-do-sus.htm
+
+▶️ Eleições 2020: TSE discute suspender biometria em meio à pandemia 
+https://politica.estadao.com.br/noticias/eleicoes,tse-discute-suspender-biometria-em-eleicao-e-distribuir-cartilha-a-eleitores,70003336436
+
+▶️ Governo tira urgência de projeto que repassa R$ 4,2 bi do DPVAT para Saúde
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/17/governo-tira-urgencia-de-projeto-que-repassa-r-42-bi-do-dpvat-para-saude.htm
+
+▶️ Supremo forma maioria favorável ao prosseguimento do inquérito das fake news
+https://g1.globo.com/politica/noticia/2020/06/17/supremo-forma-maioria-favoravel-ao-prosseguimento-do-inquerito-das-fake-news.ghtml
+
+▶️ Deputada Joice Hasselman é diagnosticada com Covid-19
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/17/joice-hasselmann-diz-ter-sido-diagnosticada-com-covid-19.htm
+--
+🌐 Internacional
+
+🇦🇷 Argentina: presidente ficará isolado após pessoas próximas terem Covid-19
+
+🇺🇸 EUA registram 722 mortes e 27.975 casos em 24h. País tem 2.132.321 casos e 116.862 mortes
+
+🇨🇱 Chile aperta lockdown e moradores de Santiago só poderão sair de casa duas vezes por semana. País tem 220.628 infecções e 3.615 mortes
+
+🇸🇪 Suécia registra 102 mortes e 1.239 casos em 24h. País tem 5.041 mortes e 54.562 casos
+
+🇬🇧 Reino Unido registra 184 mortes e 1.115 casos em 24h. País tem 42.153 mortes e 299.251 casos e diz que gravidade da pandemia no Brasil justifica quarentena para viajantes
+--
+🔍 Recortes da pandemia
+
+▶️ Desinformação sobre o coronavírus e como os cientistas podem ajudar a combatê-la
+https://www.nature.com/articles/d41586-020-01834-3
+
+▶️ As vítimas indiretas do coronavírus no Brasil
+https://www.bbc.com/portuguese/brasil-53087159
+
+▶️ Repórter de TV faz teste rápido ao vivo e descobre que está com Covid-19 
+https://tvefamosos.uol.com.br/noticias/redacao/2020/06/17/reporter-ve-resultado-positivo-de-seu-teste-de-covid-19-bem-e-isolada.htm
+--
+✅ Curtas
+
+➡️ Morre liderança caiapó Paulinho Paiakan, vítima da Covid-19
+
+➡️ Fiscal do trabalho é agredido em empresa durante inspeção sobre Covid-19 em SP
+
+➡️ PL incentiva contratação de estagiários durante pandemia
+
+➡️ Federação Mineira quer estadual só no fim de julho e com jogos na capital
+
+➡️ Doria libera volta aos treinos de futebol em julho e frustra clubes
+
+➡️ Burger King segura 238 mil pessoas na quarentena ao dar lanche de recompensa
+
+➡️ Pandemia reduz em 26,1% receita do setor de seguros nacional, em abril
+
+➡️ Trump pediu ajuda do presidente da China para se reeleger, diz ex-assessor da Casa Branca em livro
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)
