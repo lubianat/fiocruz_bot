@@ -1,0 +1,173 @@
+Destaques - 03/07/2020 [parte 2]
+	
+📈 Balanço geral de casos
+🇧🇷 Brasil: 1.539.081 casos; 63.174 mortes
+🌎 Mundo: 10,9 milhões de casos; 523 mil mortes
+--
+➕ Ministério da Saúde: Brasil registrou 1.290 novas mortes e 42.223 casos em 24h. País tem 63.174 mortes e 1.539.081 casos no total.
+https://covid.saude.gov.br/
+--
+🔬 Pesquisa científica
+
+▶️ 'Sound covid': sistema de inteligência artificial da Fiocruz busca reconhecer a tosse do paciente infectado
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/07/03/sound-covid-sistema-de-inteligencia-artificial-da-fiocruz-busca-reconhecer-a-tosse-do-paciente-infectado.ghtml
+
+▶️ Imagens microscópicas revelam 'tentáculos' nas células infectadas
+https://www.bbc.com/portuguese/internacional-53286778
+
+▶️ O que é a vitamina K e o que as pesquisas dizem de seu efeito contra Covid-19
+https://www.bbc.com/portuguese/geral-53277552
+✏️ Reduced Vitamin K Status as A Potentially Modifiable Prognostic Risk Factor in Covid-19
+https://www.preprints.org/manuscript/202004.0457/v2
+✏️ Vitamin K Supplementation and Progression of Coronary Artery Calcium in Older Men and Women
+https://pubmed.ncbi.nlm.nih.gov/19386744/
+
+🎦 Vídeo: nova mutação torna o vírus mais contagioso (estudo Cell de ontem)
+https://noticias.uol.com.br/videos/afp/2020/07/03/nova-mutacao-da-covid-19-torna-o-virus-mais-contagioso.htm
+--
+💊 Tratamento
+
+▶️ OMS prevê resultados de testes com remédios para a Covid-19 em até duas semanas
+https://oglobo.globo.com/sociedade/oms-preve-resultados-de-testes-com-remedios-para-covid-19-em-ate-duas-semanas-1-24514089
+--
+💉 Vacina
+
+▶️ Combinar diferentes vacinas poderia ampliar a proteção contra a Covid-19, avaliam cientistas
+http://agencia.fapesp.br/combinar-diferentes-vacinas-poderia-ampliar-a-protecao-contra-a-covid-19-avaliam-cientistas/33557/
+
+▶️ Anvisa não tem razão para não autorizar teste com vacina chinesa contra Covid, diz Doria
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/07/03/anvisa-nao-tem-razao-para-nao-autorizar-teste-com-vacina-chinesa-contra-covid-diz-doria.htm
+--
+📊 Epidemiologia
+
+▶️ Casos globais de coronavírus ultrapassam 11 milhões, diz agência 
+https://internacional.estadao.com.br/noticias/geral,casos-globais-de-coronavirus-ultrapassam-11-milhoes-diz-agencia,70003353409
+
+▶️ Cepa do Sars CoV-2 em países europeus já contamina mais do que a primeira encontrada na China (estudo Cell)
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/07/03/coronavirus-ja-e-mais-virulento-do-que-virus-surgido-na-china-sugere-estudo.ghtml
+
+▶️ OMS diz que 'não é tarde' para Brasil frear escalada da Covid e recomenda as máscaras para barrar transmissão
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/07/03/oms-diz-que-nao-e-tarde-para-brasil-frear-escalada-da-covid-e-recomenda-as-mascaras-para-barrar-transmissao.ghtml
+
+▶️ Brasil é pior exemplo de reação à pandemia na América Latina, diz pesquisa
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/07/03/latino-americanos-veem-reacao-do-brasil-a-pandemia-como-pior-exemplo-na-regiao-mostra-pesquisa.htm
+
+▶️ América Latina tem mais casos que a Europa
+https://noticias.uol.com.br/videos/afp/2020/07/03/america-latina-tem-mais-casos-de-covid-19-que-a-europa.htm
+
+▶️ Novos casos relacionados a um único bar nos EUA chegam a 158
+https://noticias.uol.com.br/internacional/ultimas-noticias/2020/07/03/novos-casos-de-coronavirus-relacionados-a-um-unico-bar-nos-eua-chegam-a-158.htm
+
+▶️ Melbourne tem novos casos de Covid-19 após falha em quarentena que incluiu sexo entre seguranças e isolados
+https://g1.globo.com/mundo/noticia/2020/07/03/melbourne-tem-novos-casos-de-covid-19-apos-falha-em-quarentena-que-incluiu-sexo-entre-segurancas-e-isolados.ghtml
+
+⏩ Australianos rejeitam fazer teste de Covid-19 e preocupam autoridades
+https://noticias.uol.com.br/ultimas-noticias/efe/2020/07/03/australianos-rejeitam-fazer-teste-de-covid-19-e-preocupam-autoridades.htm
+
+▶️ SP registra 343 mortes em 24h e chega a 15.694. Estado tem 310.517 casos, com 165.766 recuperados
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-07/sao-paulo-registra-156-mil-obitos-por-coronavirus	
+
+▶️ RJ registra 2.133 casos e 168 mortes em 24h. Estado tem 118.956 casos e 10.500 mortes
+--
+🏡 Distanciamento social
+
+▶️ Reabrir economia no epicentro da pandemia, como o Brasil, não é boa ideia, diz OMS
+https://www.bbc.com/portuguese/brasil-53280926
+
+▶️ Cientistas do Consórcio Nordeste defendem lockdown em três capitais da região: Salvador, Maceió e Aracaju
+https://oglobo.globo.com/sociedade/coronavirus/cientistas-do-consorcio-nordeste-defendem-lockdown-em-tres-capitais-da-regiao-24514436
+
+▶️ Flexibilização de isolamento social nos municípios é retorno fake à normalidade. Bares lotados no Rio mostram as consequências
+https://oglobo.globo.com/analitico/flexibilizacao-de-isolamento-nos-municipios-retorno-fake-normalidade-24513547
+
+▶️ Flexibilização pode ter levado 1,1 milhão de pessoas de volta ao trabalho
+https://economia.estadao.com.br/noticias/geral,flexibilizacao-do-isolamento-social-pode-ter-levado-1-1-milhao-de-pessoas-de-volta-ao-trabalho,70003353238
+
+▶️ SP antecipa reabertura de eventos, cinemas, teatros e academias para regiões na fase amarela
+https://g1.globo.com/sp/sao-paulo/noticia/2020/07/03/governo-anuncia-antecipacao-de-reabertura-de-eventos-cinemas-teatros-e-academias-em-sp-para-cidades-na-fase-amarela.ghtml
+
+⏩ SP: prefeitura assina neste sábado protocolo de reabertura de bares, restaurantes e salões de beleza
+https://g1.globo.com/sp/sao-paulo/noticia/2020/07/03/prefeitura-de-sp-assina-neste-sabado-protocolo-de-reabertura-de-bares-restaurantes-e-saloes-de-beleza.ghtml
+
+⏩ Reabertura do comércio prejudicará ainda mais a periferia, diz líder comunitária
+https://www1.folha.uol.com.br/cotidiano/2020/07/reabertura-do-comercio-prejudicara-ainda-mais-a-periferia-diz-lider-comunitaria.shtml
+
+⏩ SP: Eventos esportivos podem voltar a partir de 27 de julho
+https://agenciabrasil.ebc.com.br/esportes/noticia/2020-07/eventos-esportivos-podem-voltar-partir-de-27-de-junho-em-sao-paulo
+
+⏩ SP: cidades do interior fecham tudo em fim de semana para evitar ‘turista de chácara’
+https://sao-paulo.estadao.com.br/noticias/geral,cidades-do-interior-fecham-tudo-em-fim-de-semana-para-evitar-turista-de-chacara,70003353292
+
+⏩ SP: capital tem 37 mil denúncias de violação à quarentena; 636 locais foram interditados
+https://sao-paulo.estadao.com.br/noticias/geral,cidade-de-sp-tem-37-mil-denuncias-de-violacao-a-quarentena-636-locais-foram-interditados,70003353379
+--
+🥼 Saúde pública
+
+▶️ Asilos de São Paulo superam 100 mortes por coronavírus em 20 cidades
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/07/03/lar-de-idosos-registra-6-morte-por-coronavirus-em-tabapua-interior-de-sp.htm
+
+▶️ MPT diz que casos em fábricas de alimentos em MS passam de 1.000 
+https://economia.uol.com.br/noticias/reuters/2020/07/03/mpt-diz-que-casos-de-covid-19-em-fabricas-de-alimentos-em-dourados-passam-de-1000.htm
+
+▶️ RJ: prefeitura começa a desativar leitos exclusivos para Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-07/prefeitura-do-rio-comeca-desativar-leitos-exclusivos-para-covid-19
+
+▶️ Fundo apoiado por artistas socorre povos da floresta na pandemia
+https://www1.folha.uol.com.br/empreendedorsocial/2020/07/fundo-apoiado-por-artistas-socorre-povos-da-floresta-na-pandemia.shtml
+--
+🗂️ Política
+
+▶️ Veto de Bolsonaro em uso de máscara é contra ciência, dizem especialistas
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/07/03/veto-de-bolsonaro-no-uso-de-mascara-e-contra-ciencia-dizem-especialistas.htm
+
+▶️ Justiça suspende compra de 100 mil testes no DF
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-07/justica-suspende-compra-de-100-mil-testes-para-detectar-covid-19-no-df
+
+▶️ Líder do governo no Congresso diz que obrigatoriedade do uso de máscaras será 'obsoleta' em breve
+https://saude.estadao.com.br/noticias/geral,lider-do-governo-no-congresso-diz-que-obrigatoriedade-do-uso-de-mascaras-sera-obsoleta-em-breve,70003353300
+
+▶️ TSE adia prazos eleitorais de julho em 42 dias
+https://agenciabrasil.ebc.com.br/justica/noticia/2020-07/tse-adia-prazos-eleitorais-de-julho-em-42-dias
+
+▶️ Justiça francesa abre investigação contra vários ministros por gestão do coronavírus
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/07/03/justica-francesa-abre-investigacao-contra-varios-ministros-por-gestao-do-coronavirus.htm
+--
+🌐 Internacional
+
+🇺🇸 EUA registram 53.301 casos e 624 mortes em 24h. País tem 2.732.531 casos e 128.648 mortes 
+
+🇪🇨 Equador registra 1.171 casos e 61 mortes em 24h. País tem 60.657 casos e 4,7 mil mortes 
+
+🇰🇷 Coreia do Sul registra 63 casos, maior nº em duas semanas. País tem 12.967 casos e 282 mortes
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra suspende quarentena para viajantes de 50 países; Brasil não está na lista
+
+🇧🇴 Bolívia tem 35.528 casos e 1.271 mortes. Sete ministros do governo interino se infectaram no exercício de suas funções 
+
+🇹🇭 Tailândia quer abrir fronteiras para turistas em jatos privados. País tem pouco mais de 3,1 mil casos e 58 mortes
+--
+🔍 Recortes da pandemia
+
+▶️ Pandemia fortalece comitês de crise em empresas; estrutura deve permanecer ativa no longo prazo
+https://economia.estadao.com.br/noticias/governanca,pandemia-fortalece-comites-de-crise-em-empresas-estrutura-deve-permanecer-ativa-no-longo-prazo,70003353171
+
+▶️ ONU diz que 57,6 milhões na África estão em situação crítica de alimentos
+https://noticias.uol.com.br/ultimas-noticias/efe/2020/07/03/onu-diz-que-576-milhoes-de-africanos-estao-em-situacao-critica-de-alimentos.htm
+
+▶️ Projeto reúne famosos para apoiar pessoas LGBT e pacientes de HIV na pandemia
+https://www1.folha.uol.com.br/empreendedorsocial/2020/07/projeto-reune-famosos-para-apoiar-pessoas-lgbt-e-pacientes-de-hiv-na-pandemia.shtml
+
+▶️ Pandemia ameaça destruir a fruta mais popular do mundo, a banana
+https://www.bbc.com/portuguese/internacional-53273351
+--
+✅ Curtas
+
+➡️ PDT recorre ao STF contra veto de Bolsonaro ao uso obrigatório da máscara
+
+➡️ Prefeito de Manaus agradece Macron por doação de R$ 3 milhões
+
+➡️ Secretário de Educação de SP sobre volta às aulas: Risco zero só com vacina 
+
+➡️ Lar de idosos registra sexta morte por coronavírus em Tabapuã, interior de SP
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

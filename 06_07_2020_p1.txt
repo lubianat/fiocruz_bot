@@ -1,0 +1,236 @@
+Destaques - 06/07/2020
+	
+📈 Balanço geral de casos
+🇧🇷 Brasil: 1.604.683 casos; 64.909 mortes
+🌎 Mundo: 11,4 milhões de casos; 535 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Partículas do novo coronavírus suspensas no ar podem infectar pessoas, dizem cientistas. OMS mantém posição de que o coronavírus se espalha principalmente por gotículas respiratórias maiores
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/07/05/particulas-do-novo-coronavirus-suspensas-no-ar-podem-infectar-pessoas-e-causar-covid-19-dizem-cientistas-a-jornal.ghtml
+✏️ It is Time to Address Airborne Transmission of Covid-19
+https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798
+
+▶️ Na busca de imunidade, anticorpos deixam de ser foco e ciência mira nas células T. Reportagem com entrevista da pesquisadora Adriana Bonomo, do Laboratório de Pesquisa sobre o Timo do Instituto Oswaldo Cruz (IOC/Fiocruz)
+https://g1.globo.com/ciencia-e-saude/noticia/2020/07/06/na-busca-de-imunidade-contra-a-covid-anticorpos-deixam-de-ser-foco-e-ciencia-mira-nas-celulas-t.ghtml
+
+▶️ Estudo aponta que imunidade de rebanho contra Covid-19 é 'inatingível'
+https://www.uol.com.br/vivabem/noticias/redacao/2020/07/06/estudo-aponta-que-imunidade-de-rebanho-contra-covid-19-e-inatingivel.htm
+✏️ Prevalence of SARS-CoV-2 in Spain (ENE-COVID): a nationwide, population-based seroepidemiological study
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31483-5
+
+▶️ Uso de plasma de pacientes recuperados contra Covid-19 é promissor, dizem cientistas
+https://oglobo.globo.com/sociedade/coronavirus/uso-de-plasma-de-pacientes-recuperados-contra-covid-19-promissor-dizem-cientistas-24517165
+
+▶️ Reino Unido inicia testes de tratamento com plasma de recuperados
+https://www.bbc.com/portuguese/internacional-53295720
+
+▶️ OMS paralisa testes com lopinavir e ritonavir no tratamento de coronavírus
+https://www1.folha.uol.com.br/equilibrioesaude/2020/07/oms-paralisa-testes-com-lopinavir-e-ritonavir-no-tratamento-de-coronavirus.shtml
+
+▶️ Farmacêutica Regeneron inicia fase final de teste de coquetel de anticorpos
+https://www.uol.com.br/vivabem/reuters/2020/07/06/coronavirus-regeneron-inicia-fase-final-de-teste-de-coquetel-de-anticorpos.htm
+--
+💉 Vacina
+
+🎙️ Podcast: Marilda Siqueira, chefe do Laboratório de Vírus Respiratórios e Sarampo do IOC/Fiocruz se diz otimista com resultados de vacinas
+https://noticias.uol.com.br/videos/2020/07/04/geracao-p-19-pesquisadora-da-fiocruz-se-diz-otimista-com-resultados-de-vacinas-e-antivirais.htm
+
+▶️ Anvisa autorizou testes de vacina desenvolvida pela farmacêutica chinesa Sinovac
+https://www1.folha.uol.com.br/cotidiano/2020/07/anvisa-autoriza-testes-para-vacina-chinesa-contra-covid-19.shtml
+
+▶️ CureVac recebe empréstimo de 75 milhões de euros da UE para acelerar produção de vacina
+https://g1.globo.com/bemestar/vacina/noticia/2020/07/06/curevac-recebe-emprestimo-de-75-milhoes-de-euros-da-ue-para-acelerar-producao-de-vacina-contra-covid-19.ghtml
+
+▶️ Órgão regulador dos EUA põe em dúvida previsão de Trump
+https://www.bbc.com/portuguese/internacional-53308114	
+--
+📊 Epidemiologia
+
+▶️ Por que números de casos e mortes no Brasil podem estar longe da realidade
+https://www.bbc.com/portuguese/brasil-53287455
+
+▶️ SP teve pico de mortes no começo de junho, aponta estudo. Cidade tem queda consistente nos óbitos, mas é preciso cuidado na reabertura
+https://g1.globo.com/mundo/blog/helio-gurovitz/post/2020/07/06/pico-em-sp-nao-justifica-desleixo.ghtml
+
+▶️ Com poucos testes e sem lockdown, Japão provoca dúvidas sobre baixa mortalidade
+https://www.bbc.com/portuguese/internacional-53298998
+
+▶️ Recorde de casos na Flórida espelha temor de efeitos da pandemia no Sul dos EUA
+https://www1.folha.uol.com.br/mundo/2020/07/recorde-de-casos-na-florida-espelha-temor-de-efeitos-da-pandemia-no-sul-dos-eua.shtml
+
+▶️ República Dominicana e Croácia vão às urnas em meio a alta de casos
+https://g1.globo.com/mundo/noticia/2020/07/05/republica-dominicana-e-croacia-vao-as-urnas-em-meio-a-alta-de-casos-de-covid-19.ghtml
+
+🎦 Vídeo: como o Uruguai conseguiu controlar a Covid-19 sem impor confinamento total
+https://www.bbc.com/portuguese/internacional-53308500
+
+▶️ Holanda sacrifica dezenas de milhares de visons com coronavírus
+https://noticias.uol.com.br/ultimas-noticias/afp/2020/07/06/holanda-sacrifica-dezenas-de-milhares-visons-com-coronavirus.htm
+
+▶️ SP tem 320.179 casos, 16.078 óbitos e 175.439 recuperados. Estado tem 14.094 pessoas internadas em casos suspeitos ou confirmados, 6.416 em UTIs e 8.488 em enfermarias
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-07/sao-paulo-passa-de-16-mil-obitos-por-coronavirus
+
+▶️ RJ tem 121.292 casos, 10.667 mortes e 97.719 recuperados
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-07/rio-de-janeiro-registra-10667-mortes-por-coronavirus
+--
+🧪 Diagnóstico
+
+▶️ Como funcionam os testes para detectar a Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-07/agencia-explica-como-funcionam-os-testes-para-detectar-covid-19
+--
+😷 Máscaras
+
+▶️ Drauzio Varella: qual é a dessas pessoas que andam sem máscara pelas cidades?
+https://www1.folha.uol.com.br/colunas/drauziovarella/2020/07/qual-e-a-dessas-pessoas-que-andam-sem-mascara-pelas-cidades.shtml
+
+▶️ Bolsonaro amplia vetos a uso de máscaras, que agora deixam de ser obrigatórias em prisões
+https://www1.folha.uol.com.br/cotidiano/2020/07/bolsonaro-amplia-vetos-a-uso-de-mascaras-que-agora-deixam-de-ser-obrigatorias-em-prisoes.shtml
+
+⏩ Opinião: com vetos, presidente sem máscara reafirma direito de infectar os semelhantes
+https://www1.folha.uol.com.br/colunas/marceloleite/2020/07/aqui-e-corona-e-odio-ta-ok.shtml
+
+🎙️ Podcast: máscaras - proteção para todos contra Covid-19
+https://g1.globo.com/podcast/o-assunto/noticia/2020/07/06/o-assunto-224-mascaras-protecao-para-todos-contra-covid-19.ghtml
+--
+🏡 Distanciamento social
+
+▶️ Como explicar a flexibilização no pico da curva ascendente de casos de Covid-19?
+https://www1.folha.uol.com.br/colunas/paola-minoprio/2020/07/o-brasil-fica-na-europa.shtml
+
+⏩ Como estão os planos de retomada econômica em cada estado
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-07/saiba-como-estao-os-planos-de-retomada-economica-em-cada-estado
+
+▶️ DF começa a reabrir atividades no auge da pandemia. Autoridades estimam que o pico começou no último fim de semana
+https://www1.folha.uol.com.br/cotidiano/2020/07/df-comeca-a-reabrir-atividades-no-auge-da-pandemia.shtml
+
+▶️ 'Não era momento de abrir bares e restaurantes', alerta microbiologista
+https://www.cnnbrasil.com.br/saude/2020/07/05/nao-era-momento-de-abrir-bares-e-restaurantes-alerta-microbiologista
+
+▶️ SP: capital reabre parcialmente bares, restaurantes e salões de beleza
+https://sao-paulo.estadao.com.br/noticias/geral,sp-reabre-parcialmente-bares-restaurantes-e-saloes-de-beleza-nesta-segunda-feira,70003355012
+
+⏩ SP proíbe bares de atender clientes na calçada
+https://www1.folha.uol.com.br/cotidiano/2020/07/sao-paulo-proibe-bares-de-atender-clientes-na-calcada-veja-regras.shtml
+
+⏩ SP: aglomerados e sem máscaras, banhistas brincam com a morte na praia
+https://www1.folha.uol.com.br/cotidiano/2020/07/aglomerados-e-sem-mascaras-banhistas-brincam-com-a-morte-na-praia-em-sp.shtml
+
+▶️ Fiscais da Vigilância Sanitária do Rio diz sofrem ataques durante trabalho
+https://oglobo.globo.com/rio/fiscal-da-vigilancia-sanitaria-do-rio-diz-apos-ataque-as-agressoes-nao-me-atingiram-estou-ali-para-protege-los-24517459
+
+▶️ 'Bêbados não cumprem distanciamento social', diz associação policial após bares reabrirem na Inglaterra
+https://www.bbc.com/portuguese/internacional-53303040
+--
+📚 Educação
+
+▶️ 60% dos estados monitoram acesso ao ensino remoto: resultados mostram 'apagão' do ensino público na pandemia
+https://g1.globo.com/educacao/noticia/2020/07/06/60percent-dos-estados-monitoram-acesso-ao-ensino-remoto-resultados-mostram-apagao-do-ensino-publico-na-pandemia.ghtml
+--
+🥼 Saúde pública
+
+▶️ Com pacientes longe das UTIs no interior, epidemia deve matar mais
+https://www1.folha.uol.com.br/equilibrioesaude/2020/07/com-pacientes-longe-das-utis-no-interior-epidemia-deve-matar-mais.shtml
+
+▶️ Conselho federal de enfermagem diz que 31.583 profissionais foram afastados por suspeita de Covid-19
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/07/conselho-federal-de-enfermagem-diz-que-31583-profissionais-foram-afastados-por-suspeita-de-covid-19.shtml 
+
+▶️ Na linha de frente da Covid-19, residentes querem repor o período na formação
+https://www1.folha.uol.com.br/equilibrioesaude/2020/07/na-linha-de-frente-da-covid-19-residentes-querem-repor-do-periodo-na-formacao.shtml
+--
+🗂️ Política
+
+▶️ Sem máscara, Bolsonaro comemora independência dos EUA com embaixador
+https://www1.folha.uol.com.br/mundo/2020/07/sem-mascara-bolsonaro-comemora-independencia-dos-eua-com-embaixador.shtml
+
+▶️ Mandetta participa de debate sobre governança no pós-pandemia
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/07/mandetta-participa-de-debate-sobre-governanca-no-pos-pandemia.shtml
+
+▶️ Trump distorce realidade da pandemia: presidente tenta, sem sucesso, fazer com que americanos aceitem ameaça crescente do coronavírus, como tolerável e rotineira
+https://g1.globo.com/mundo/blog/sandra-cohen/post/2020/07/06/trump-distorce-realidade-da-pandemia.ghtml
+--
+🌐 Internacional
+
+🇨🇳 China registra 4 casos, 1 em Pequim. Surto na capital já infectou pelo menos 334 pessoas
+
+🇦🇺 Austrália fecha divisa entre estados pela primeira vez em 100 anos. País tem mais de 8,5 mil casos e 106 mortes
+
+🇮🇳 Índia registra 24.850 novos casos e mais de 600 mortes em 24h. País tem 673.165 casos e desiste de reabrir Taj Mahal
+
+🇩🇪 Alemanha registra 219 casos e 4 mortes. País tem 196.554 casos e 9.016 mortes
+
+🇷🇺 Rússia registra 6.611 casos e 135 mortes. País tem 687.862 casos e 10.296 mortes
+
+🇭🇳 Honduras registra 1.022 casos e 10 mortes. País tem 23.943 casos e 639 mortes
+
+🇲🇽 México registra 4.483 casos e 273 mortes. País tem 256.848 casos e 30.639 óbitos
+
+🇻🇪 Venezuela registra 419 casos e 2 mortes. País tem 7.169 casos e 65 mortes
+
+🇫🇯 Ilhas Fiji têm primeiro caso em 78 dias. 
+
+🇮🇹 Itália: máfia aproveita pandemia e expande atividades ilícitas
+
+🇪🇸 Espanha ordena o confinamento de 200 mil pessoas na Catalunha
+
+🇵🇰 Paquistão: ministro da Saúde testa positivo para novo coronavírus
+
+🇪🇨 Equador: profissionais do sexo convocam manifestação para retomar atividade
+--
+🔍 Recortes da pandemia
+
+▶️ The Economist: a Covid-19 veio para ficar e temos de nos adaptar
+https://internacional.estadao.com.br/noticias/geral,the-economist-a-covid-19-veio-para-ficar-e-temos-de-nos-adaptar,70003354722
+
+▶️ Como a China está impulsionando sua questionada medicina tradicional na pandemia
+https://www.bbc.com/portuguese/internacional-53253788
+
+▶️ 'O coronavírus é um professor cruel porque ensina matando', diz o sociólogo Boaventura de Sousa Santos
+https://www.bbc.com/portuguese/geral-53281462
+
+▶️ Negócios liderados por negros sofreram mais impacto na pandemia, aponta pesquisa
+https://www1.folha.uol.com.br/colunas/monicabergamo/2020/07/negocios-liderados-por-negros-sofreram-mais-impacto-na-pandemia-aponta-pesquisa.shtml
+
+▶️ Opinião: enfrentar a lei é privilégio branco; menosprezar pandemia e direitos também
+https://www1.folha.uol.com.br/colunas/thiago-amparo/2020/07/leblonfobia.shtml
+
+▶️ Mães relatam dificuldades por volta ao trabalho com filhos fora da escola
+https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2020/07/06/a-dura-retomada-com-filhos-e-sem-aulas.htm
+
+▶️ Restrições nas fronteiras para conter pandemia deixam milhões de imigrantes em limbo jurídico
+https://internacional.estadao.com.br/noticias/geral,restricoes-nas-fronteiras-para-conter-pandemia-deixa-milhoes-de-imigrantes-em-limbo-juridico,70003354771
+
+▶️ No México, centro-americanos vagam sem destino durante a pandemia
+https://internacional.estadao.com.br/noticias/geral,no-mexico-centro-americanos-vagam-sem-destino-durante-a-pandemia,70003354789
+
+▶️ Para cada emprego formal fechado, dois informais ficaram sem trabalho
+https://economia.estadao.com.br/noticias/geral,para-cada-emprego-formal-fechado-dois-informais-ficaram-sem-trabalho,70003354806
+
+▶️ Como o aeroporto mais movimentado do mundo foi afetado pelo coronavírus
+https://www.uol.com.br/nossa/noticias/redacao/2020/07/06/como-o-aeroporto-mais-movimentado-do-mundo-foi-afetado-pelo-coronavirus.htm
+--
+✅ Curtas
+
+➡️ Caso de peste bubônica faz China elevar estado de alerta no norte do país
+
+➡️ Ameba 'comedora de cérebro': caso de infecção por Naegleria fowleri na Flórida gera alerta nos EUA
+
+➡️ Decreto autoriza reabertura de escolas particulares de Duque de Caxias
+
+➡️ Detran-RJ retoma alguns serviços a partir de hoje
+
+➡️ Rio terá atendimento a crianças e jovens com depressão pós-Covid-19
+
+➡️ Exercício físico na quarentena pode não melhorar bem estar emocional
+
+➡️ Motorista de ônibus tem morte cerebral após agressão por obrigar uso de máscara 
+
+➡️ China prende professor que criticou presidente Xi Jinping por Covid-19
+
+➡️ Museu do Louvre reabre depois de três meses
+
+➡️ Exame de Vanderlei Luxemburgo dá positivo para Covid-19
+
+➡️ Mercados internacionais têm alta generalizada devido a tratamentos para a Covid-19
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

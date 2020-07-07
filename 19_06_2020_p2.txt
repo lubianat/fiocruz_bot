@@ -1,0 +1,165 @@
+Destaques - 19/06/2020 [parte 2]
+	
+📈 Balanço geral de casos
+🇧🇷 Brasil: 1.032.913 casos; 48.954 mortes
+🌎 Mundo: 8,5 milhões de casos; 457 mil mortes
+--
+➕ Ministério da Saúde: Brasil registrou 1.206 novas mortes e 54.771 casos em 24h. País tem 48.954 mortes e 1.032.913 casos no total.
+https://covid.saude.gov.br/
+--
+📊 Epidemiologia
+
+▶️ Brasil tem mais de 1 milhão de casos confirmados de coronavírus; veja a situação por região
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/19/brasil-tem-mais-de-1-milhao-de-casos-confirmados-de-coronavirus-aponta-consorcio-de-veiculos-de-imprensa-veja-a-situacao-por-regioes.ghtml
+
+▶️ OMS: Pandemia do coronavírus está se acelerando no mundo e fase é 'perigosa'
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/19/pandemia-do-coronavirus-esta-se-acelerando-no-mundo-e-fase-e-perigosa-alerta-oms.ghtml
+
+▶️ G1: Leia o memorial das vítimas da Covid-19 no Brasil
+https://especiais.g1.globo.com/bemestar/coronavirus/memorial-vitimas-covid-19
+
+▶️ Mundo registrou recorde [na contagem da OMS] de novos casos nesta quinta-feira. Foram mais de 150 mil registros 
+https://saude.estadao.com.br/noticias/geral,mundo-registrou-recorde-de-novos-casos-da-covid-19-nesta-quinta-feira,70003338515
+
+▶️ RJ ocupa o 7º lugar no ranking mundial de mortalidade pela Covid-19. Índice de letalidade em 9,63% e de mortalidade de 48,7 por 100 mil habitantes está acima da média do Brasil
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/rio-ocupa-o-7o-lugar-no-ranking-mundial-de-mortalidade-pela-covid-19
+✏️ Monitoramento do portal Covid-19: Observatório Fluminense
+https://www.covid19rj.org/
+✏️ Painel Saúde
+http://painel.saude.rj.gov.br/monitoramento/covid19.html
+
+⏩ RJ está preparado para possível segunda onda de Covid-19, diz Crivella
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/crivella-diz-que-rio-esta-preparado-para-segunda-onda-de-covid-19
+
+▶️ SP registra 19.030 casos (recorde) e 386 mortes. Estado tem 211.658 casos e 12.232 óbitos
+https://saude.estadao.com.br/noticias/geral,sao-paulo-ultrapassa-200-mil-casos-confirmados-de-covid-19-mortes-passam-de-12-mil,70003338622
+
+▶️ 'Não divulgar dados sobre pandemia é tentar achar a chave com luz apagada'. Marty Makary, da Universidade Johns Hopkins, lamenta tensão entre Bolsonaro e pasta da Saúde
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/nao-divulgar-dados-sobre-pandemia-e-tentar-achar-a-chave-com-luz-apagada.shtml
+--
+🔬 Pesquisa científica
+
+▶️ Descoberta de mecanismo imune envolvido na Covid-19 abre caminho para novo tratamento
+http://agencia.fapesp.br/descoberta-de-mecanismo-imune-envolvido-na-covid-19-abre-caminho-para-novo-tratamento/33435/
+✏️ SARS-CoV-2 triggered neutrophil extracellular traps (NETs) mediate Covid-19 pathology
+https://www.medrxiv.org/content/10.1101/2020.06.08.20125823v1.full.pdf
+--
+💉 Vacina
+
+▶️ Laboratórios chineses têm seis promissoras vacinas em fase clínica de testes em humanos
+https://g1.globo.com/bemestar/vacina/noticia/2020/06/19/laboratorios-chineses-tem-seis-promissoras-vacinas-contra-a-covid-em-fase-clinica-de-testes-em-humanos.ghtml
+
+🎦 Vídeo: laboratório chinês trabalha para encontrar vacina
+https://noticias.uol.com.br/videos/afp/2020/06/19/laboratorio-chines-trabalha-para-encontrar-uma-vacina-contra-a-covid-19.htm
+--
+🧪 Diagnóstico
+
+▶️ SP anuncia nova fase de testes de grupo para Covid-19 em servidores públicos e populações vulneráveis. Serão aplicados 233 mil novos exames em profissionais da Segurança Pública, funcionários públicos e grupos vulneráveis, como indígenas e idosos em abrigos. Cerca de 70 mil testes aplicados em policiais militares até agora revelou que 18% tiveram contato com o vírus
+https://g1.globo.com/sp/sao-paulo/noticia/2020/06/19/governo-de-sp-anuncia-nova-fase-de-testes-de-grupo-para-covid-19-em-servidores-publicos-e-populacoes-vulneraveis.ghtml
+
+▶️ Em 20 mil testes rápidos de Covid-19 da RaiaDrogasil, 13% dão positivo. Empresa vem fazendo o procedimento em 150 unidades da rede
+https://www1.folha.uol.com.br/colunas/painelsa/2020/06/em-20-mil-testes-rapidos-de-covid-19-da-raiadrogasil-13-dao-positivo.shtml
+--
+💊 Tratamento
+
+▶️ Governo nega acesso a estudos que basearam orientação para usar cloroquina em pacientes leves da Covid-19. Flexibilização do Ministério para uso do medicamento é criticada por diversas entidades médicas
+https://oglobo.globo.com/sociedade/governo-nega-acesso-estudos-que-basearam-orientacao-para-usar-cloroquina-em-pacientes-leves-da-covid-19-24488755
+--
+🏡 Distanciamento social
+
+▶️ SP: regiões do interior passam a ter medidas mais restritivas de quarentena 
+
+⏪ SP: com mil casos, litoral norte autoriza quiosques e reabre praias
+
+⏩ SP: ônibus da capital paulista voltam a poder circular com pessoas em pé
+
+⏪ SP: Governo libera treinos individuais de jogadores de futebol dos clubes
+
+▶️ RJ: apesar de Regras de Ouro, pontos do Mercadão de Madureira registram aglomerações 
+
+▶️ GO: comércio reabre segunda-feira na capital, quem não usar máscara em lugar público poderá levar multa
+
+▶️ PR proíbe venda de bebida alcoólica e consumo nas ruas
+
+▶️ MG: após aumento de casos, BH não avançará para terceira fase de flexibilização 
+--
+🥼 Saúde pública
+
+▶️ Pazuello quer aumentar controle sobre hospitais federais no RJ. Ideia é redesenhar as funções da Superintendência do ministério no Estado, para que este órgão tenha maior poder
+https://saude.estadao.com.br/noticias/geral,pazuello-quer-aumentar-controle-sobre-hospitais-federais-no-rio-de-janeiro,70003338947 
+
+▶️ Governo lança medidas de controle obrigatórias para prevenir Covid-19 em frigoríficos
+https://economia.estadao.com.br/noticias/agronegocios,governo-lanca-medidas-de-controle-obrigatorias-para-prevenir-a-covid-19-em-frigorificos,70003338738
+✏️ Portaria nº 19
+http://www.in.gov.br/en/web/dou/-/portaria-conjunta-n-19-de-18-de-junho-de-2020-262407973
+
+▶️ SP não tem e não terá colapso no sistema de saúde, diz Doria 
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/19/sao-paulo-nao-tem-e-nao-tera-colapso-no-sistema-de-saude-diz-doria.htm
+
+▶️ SP: Fundação Casa de Itaquaquecetuba tem surto de Covid-19, com 67 casos
+https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/19/fundacao-casa-de-itaquaquecetuba-registra-surto-de-covid-19.htm
+
+▶️ França: hospital trancou internos de instituições psiquiátricas em quartos durante o confinamento
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/19/hospital-frances-trancou-doentes-mentais-nos-quartos-durante-o-confinamento.htm
+
+▶️ Blue puerpério, caso mais brando da depressão pós-parto, pode aumentar durante pandemia e isolamento social
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/blue-puerperio-pode-aumentar-durante-pandemia-e-isolamento-social
+
+▶️ Europeus trabalham com EUA para reformar a OMS, diz autoridade
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/19/exclusivo-europeus-trabalham-com-eua-para-reformar-a-oms-diz-autoridade.htm
+--
+🗂️ Política
+
+▶️ Relatório semanal divulgado pela comissão mista do Congresso aponta baixo aproveitamento de recursos destinados ao coronavírus
+https://economia.uol.com.br/noticias/redacao/2020/06/19/relatorio-aponta-baixo-aproveitamento-de-recursos-destinados-ao-coronavirus.htm
+
+▶️ MPTCU quer investigação sobre preço da cloroquina e ordem de Bolsonaro para aumentar produção. Procurador afirma que o preço do produto pode ter subido seis vezes
+https://saude.estadao.com.br/noticias/geral,mptcu-quer-investigacao-sobre-preco-da-cloroquina-e-ordem-de-bolsonaro-para-aumentar-producao,70003338902
+
+▶️ Senado marca para terça-feira votação da PEC do adiamento das eleições
+https://agenciabrasil.ebc.com.br/politica/noticia/2020-06/senado-marca-para-terca-feira-votacao-da-pec-do-adiamento-das-eleicoes
+
+⏩ TSE lança consulta pública sobre impacto da Covid-19 nas eleições. Contribuições poderão ser enviadas até o dia 30 ao site do tribunal
+https://agenciabrasil.ebc.com.br/justica/noticia/2020-06/tse-lanca-consulta-publica-sobre-impacto-da-covid-19-nas-eleicoes
+
+▶️ Secretário da Segurança de São Paulo, general Campos é diagnosticado com Covid-19
+https://saude.estadao.com.br/noticias/geral,secretario-da-seguranca-de-sao-paulo-general-campos-e-diagnosticado-com-covid-19,70003338663
+
+▶️ Ministro da Saúde do Zimbábue é preso acusado de corrupção na compra de insumos para a Covid-19
+https://g1.globo.com/mundo/noticia/2020/06/19/ministro-da-saude-do-zimbabue-e-preso-acusado-de-corrupcao-na-compra-de-insumos-para-a-covid-19.ghtml
+
+▶️ Trump diz que votação por correio é a maior ameaça à sua reeleição. Partido Democrata quer ampliação do modelo no país para evitar aglomerações durante eleição
+https://oglobo.globo.com/mundo/trump-diz-que-votacao-por-correio-a-maior-ameaca-sua-reeleicao-24488727
+--
+🌐 Internacional
+
+🇺🇸 EUA registram 23.138 casos e 733 óbitos em 24h. País tem 2.178.710 casos e 118.365 mortes
+
+🇮🇹 Itália: recontagem provocou a redução de casos, que caíram de 238.159 ontem para 238.011 hoje, apesar da confirmação de mais 251 em 24h. Foram 47 mortes, total é de 34.561
+
+🇪🇸 Espanha recalcula e tem um total de 28.313 mortes. Foram 53 óbitos novos da semana passada até ontem
+
+🇯🇵 Japão suspendeu as restrições de viagem dentro do país para ajudar recuperação econômica
+--
+🔍 Recortes da pandemia
+
+▶️ Médico comenta danos causados pelo esgotamento mental devido ao grande volume de notícias diárias sobre a pandemia de Covid-19 e instabilidade diária no cenário político 
+https://www.cnnbrasil.com.br/saude/2020/06/19/correspondente-medico-quais-os-riscos-do-esgotamento-mental-a-saude
+
+▶️ Sobrecarga de atividades atinge alunos e docentes e expõe lacunas do ensino remoto
+https://www1.folha.uol.com.br/educacao/2020/06/sobrecarga-de-atividades-atinge-alunos-e-docentes-e-expoe-lacunas-do-ensino-remoto.shtml
+
+▶️ Gincana online mobiliza 10 milhões de jovens para combater a fome na pandemia
+https://www1.folha.uol.com.br/empreendedorsocial/2020/06/gincana-online-mobiliza-10-milhoes-de-jovens-para-combater-a-fome-na-pandemia.shtml
+--
+✅ Curtas
+
+➡️ Enel cobrou por energia não consumida na pandemia, segundo 70% dos restaurantes em São Paulo
+
+➡️ Aeroporto de Guarulhos medirá temperatura com inteligência artificial
+
+➡️ Apple fecha lojas nos EUA após aumento de casos
+
+➡️ E-commerce avança mais de 80% em abril devido ao isolamento social
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

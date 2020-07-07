@@ -1,0 +1,211 @@
+Destaques - 19/06/2020
+	
+📈 Balanço geral de casos
+🇧🇷 Brasil: 984.315 casos; 47.897 mortes
+🌎 Mundo: 8,5 milhões de casos; 454 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Coronavírus é detectado no esgoto da Itália em amostras de dezembro. "Os resultados, confirmados por dois laboratórios que usaram dois diferentes métodos, evidenciaram a presença do RNA do Sars-CoV-2 nas amostras retiradas em Milão e em Turim em 18 de dezembro de 2019 e também em Bolonha em 29 de janeiro de 2020"
+https://noticias.uol.com.br/ultimas-noticias/ansa/2020/06/19/coronavirus-e-detectado-no-esgoto-da-italia-em-amostras-de-dezembro.htm
+✏️ Studio ISS su acque di scarico, a Milano e Torino Sars-Cov-2 presente già a dicembre
+https://www.iss.it/en/covid-19-primo-piano/-/asset_publisher/yX1afjCDBkWH/content/id/5422725
+
+▶️ Cientistas criticam outro estudo sobre coronavírus em um grande periódico. Trabalho sobre sobre máscaras foi publicado na PNAS 
+https://www.nytimes.com/2020/06/18/health/coronavirus-retractions-studies.amp.html 
+✏️ Formal request for the retraction of Zhang et al., 2020
+https://metrics.stanford.edu/PNAS%20retraction%20request%20LoE%20061820
+
+▶️ Por que causador da Covid-19 se comporta como doença sexualmente transmissível: a pessoa infectada continua aparentando estar e se sentindo bem enquanto espalha a doença
+https://www.bbc.com/portuguese/geral-53108446
+⏩ How the coronavirus escapes an evolutionary trade-off that helps keep other pathogens in check
+https://theconversation.com/how-the-coronavirus-escapes-an-evolutionary-trade-off-that-helps-keep-other-pathogens-in-check-140706
+--
+📊 Epidemiologia
+
+▶️ Governo divulga medidas que devem ser adotadas nos ambientes de trabalho para combate à Covid-19. Regras incluem orientações para trabalhadores, afastamento em caso de suspeita ou confirmação de contaminação, distanciamento e diminuição de contato entre funcionários e limpeza e desinfecção frequente dos locais de trabalho.
+https://g1.globo.com/economia/noticia/2020/06/19/governo-divulga-medidas-que-devem-ser-adotadas-noa-ambientes-de-trabalho-para-combate-a-covid-19.ghtml
+✏️ Portaria nº 1.565
+http://www.in.gov.br/en/web/dou/-/portaria-n-1.565-de-18-de-junho-de-2020-262408151
+
+▶️ Ministério da Saúde: novo boletim traz análise detalhada do perfil de casos e óbitos da Covid-19
+https://www.saude.gov.br/noticias/agencia-saude/47074-novo-boletim-traz-analise-detalhada-do-perfil-de-casos-e-obitos-da-covid-19
+✏️ Boletim epidemiológico nº 18
+http://saude.gov.br/images/pdf/2020/June/18/Boletim-epidemiologico-COVID-2.pdf
+
+▶️ Falha na plataforma do Ministério da Saúde gera subnotificação. Nos últimos dois dias, o número de confirmações por coronavírus foi abaixo da média; isso também indica que haverá um grande aumento de casos nos próximos dias quando o sistema for normalizado
+https://saude.estadao.com.br/noticias/geral,falha-na-plataforma-do-ministerio-da-saude-gera-subnotificacao,70003337943
+
+▶️ Brasil tem terceiro dia seguido com mais de mil mortos por Covid-19
+https://www1.folha.uol.com.br/cotidiano/2020/06/brasil-tem-terceiro-dia-seguido-com-mais-de-mil-mortos-por-covid-19.shtml
+
+▶️ SP: após leve queda, média dos novos casos por Covid-19 registrada por dia volta a subir na cidade de SP e puxa estatísticas do estado
+https://g1.globo.com/sp/sao-paulo/noticia/2020/06/19/apos-leve-queda-media-dos-novos-casos-por-covid-19-registrada-por-dia-volta-a-subir-na-cidade-de-sp-e-puxa-estatisticas-do-estado.ghtml
+
+▶️ Pandemia levou 23 estados e o DF a implementarem auxílios econômicos próprios; e 17 estados a fecharem rodovias, aponta levantamento
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/19/pandemia-levou-23-estados-e-o-df-a-implementarem-auxilios-economicos-proprios-e-17-estados-a-fecharem-rodovias-aponta-levantamento.ghtml
+
+▶️ China divulgou o sequenciamento genético do coronavírus responsável pelo surto recente em Pequim. Estudos preliminares apontam que o vírus em circulação foi importado da Europa, apesar de ser “mais antigo” que o vírus em disseminação no continente. 
+https://brasil.estadao.com.br/ao-vivo/coronavirus-no-brasil/722749
+
+▶️ Opinião: há necessidade do rastreamento e quarentena das pessoas que cuidam dos doentes
+https://www1.folha.uol.com.br/colunas/julioabramczyk/2020/06/o-possivel-risco-da-covid-19-em-casa.shtml
+
+▶️ Misterioso 'modelo japonês' contra a Covid-19 não é exemplo para o mundo
+https://tab.uol.com.br/noticias/redacao/2020/06/19/o-misterioso-modelo-japones-contra-a-covid-19-nao-e-exemplo-para-o-mundo.htm
+
+▶️ Curados do coronavírus na África lutam contra estigmatização
+https://noticias.uol.com.br/saude/ultimas-noticias/afp/2020/06/19/curados-do-coronavirus-na-africa-lutam-contra-estigmatizacao.htm
+
+▶️ Brasileiros usam menos dinheiro e cheques para comprar alimentos e roupas. OMS alertou sobre risco de disseminação do vírus através do contato com as cédulas
+https://oglobo.globo.com/economia/na-pandemia-brasileiros-usam-menos-dinheiro-cheques-para-comprar-alimentos-roupas-24487748
+--
+💉 Vacina
+
+▶️ Testes de vacina da CureVac podem estar prontos em 2 meses
+https://www.uol.com.br/vivabem/reuters/2020/06/19/testes-de-vacina-contra-covid-19-da-curevac-podem-estar-prontos-em-2-meses.htm
+--
+🧪 Diagnóstico
+
+▶️ Projeto que quer testar 1 mil asilos para Covid-19 no Brasil
+https://www.bbc.com/portuguese/geral-53101361
+--
+💊 Tratamento
+
+▶️ Hospitais já usam dexametasona para tratar doente grave de Covid-19. Mesmo antes de resultado de estudo inglês, corticoide passou a ser preferido no lugar da cloroquina
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/hospitais-ja-usam-dexametasona-para-tratar-doente-grave-de-covid.shtml
+
+▶️ Médicos relatam que estão sendo ameaçados por não receitarem cloroquina
+https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/19/medicos-relatam-que-estao-sendo-ameacados-por-nao-receitarem-cloroquina.htm
+--
+🏡 Distanciamento social
+
+▶️ 14 estados têm queda de internações após isolamento social; DF e outros 6 Estados enfrentam alta
+https://www.bbc.com/portuguese/brasil-53091219
+
+▶️ RJ: Uerj e MSF defendem que é cedo para relaxar o isolamento social
+https://agenciabrasil.ebc.com.br/geral/noticia/2020-06/uerj-e-msf-defendem-que-e-cedo-para-relaxar-o-isolamento-social-no-rio
+
+⏩ RJ: em 3º dia com mais mortes por Covid-19, Flamengo joga com Maracanã vazio
+https://www1.folha.uol.com.br/esporte/2020/06/em-3o-dia-com-mais-mortes-de-covid-no-rio-flamengo-joga-e-faz-eco-no-maracana.shtml
+
+⏩ Secretária de saúde palestra para jogadores antes da partida
+https://www.uol.com.br/esporte/futebol/ultimas-noticias/2020/06/18/secretaria-de-saude-palestra-para-jogadores-de-fla-e-bangu-antes-do-jogo.htm
+
+⏩ RJ: missas presenciais serão retomadas em julho, anuncia arcebispo Dom Orani
+https://oglobo.globo.com/rio/missas-presenciais-serao-retomadas-em-julho-no-rio-anuncia-arcebispo-dom-orani-24487234
+
+▶️ SP: decisões judiciais respaldam governo e impedem prefeituras de relaxar isolamento
+https://saude.estadao.com.br/noticias/geral,decisoes-judiciais-respaldam-governo-e-impedem-prefeituras-de-relaxar-isolamento-em-sp,70003337742
+
+▶️ BA: de férias, nove pessoas com Covid-19 da mesma família saem de São Paulo e entram no interior baiano
+https://saude.estadao.com.br/noticias/geral,de-ferias-nove-pessoas-com-covid-19-da-mesma-familia-saem-de-sao-paulo-e-entram-no-interior-baiano,70003338106
+
+▶️ Montenegro: autoridades culpam jogo de futebol por volta do coronavírus 
+https://www.uol.com.br/esporte/futebol/ultimas-noticias/2020/06/19/autoridades-culpam-jogo-de-futebol-por-volta-do-coronavirus-em-montenegro.htm
+
+▶️ Uruguai: música ao vivo volta com pelo menos 5 metros de distância do público
+https://www1.folha.uol.com.br/mundo/2020/06/musica-ao-vivo-volta-ao-uruguai-com-pelo-menos-5-metros-de-distancia-do-publico.shtml
+
+▶️ Reflexões sobre os critérios da OMS que os países, estados ou cidades devem considerar para a flexibilização e a realidade brasileira
+https://blogs.oglobo.globo.com/a-hora-da-ciencia/post/metas-para-o-novo-normal.html
+
+▶️ EUA: Anthony Fauci, consultor médico da Casa Branca, não vê necessidade de novas medidas de confinamento ou de paralisação da atividade econômica. Trump ignora vírus e marca comícios para Estados que registram aumento de casos
+https://internacional.estadao.com.br/noticias/geral,trump-ignora-virus-e-marca-comicios-para-estados-que-registram-aumento-de-casos,70003338014
+--
+🥼 Saúde pública
+
+▶️ Ministério da Saúde já distribuiu 4.435 ventiladores pulmonares no país
+https://www.saude.gov.br/noticias/agencia-saude/47073-mais-de-4-4-mil-ventiladores-pulmonares-entregues-pelo-governo-do-brasil
+
+▶️ Ministério Público do Trabalho reúne relatos de motoboys na pandemia
+https://www1.folha.uol.com.br/colunas/painelsa/2020/06/ministerio-publico-do-trabalho-reune-relatos-de-motoboys-na-pandemia.shtml
+
+▶️ RJ: único hospital para presos tem novos respiradores fora de uso há quase um mês
+https://oglobo.globo.com/rio/covid-19-unico-hospital-para-presos-do-rio-tem-novos-respiradores-fora-de-uso-ha-quase-um-mes-24486927
+
+▶️ HC cria protocolos para cuidados com recém-nascidos de mães com Covid-19 
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/19/hc-cria-protocolos-para-cuidados-com-recem-nascidos-de-maes-com-covid-19.htm
+
+▶️ Internado, menino contrai Covid-19 e hospital municipal cobra R$ 250 por teste
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/19/internado-menino-contrai-covid-e-hospital-municipal-cobra-r-250-por-teste.htm
+--
+🗂️ Política
+
+▶️ Governo gasta 43% do dinheiro destinado a combate à pandemia. De um total de R$ 404 bilhões, foram pagos R$$ 175,6 bilhões até o momento
+https://valor.globo.com/brasil/noticia/2020/06/19/governo-gasta-43-do-dinheiro-destinado-a-combate-a-pandemia.ghtml 
+
+▶️ Câmara aprova atendimento a distância para fisioterapia e terapia ocupacional na pandemia
+https://g1.globo.com/politica/noticia/2020/06/18/camara-autoriza-atendimento-a-distancia-para-fisioterapia-e-terapia-ocupacional-na-pandemia.ghtml
+
+▶️ Ministro da Saúde do Brasil defende cooperação entre países contra o coronavírus
+https://www.saude.gov.br/noticias/agencia-saude/47072-ministro-da-saude-do-brasil-defende-cooperacao-entre-paises-contra-a-covid-19
+
+▶️ Senado votará PEC sobre adiamento de eleições municipais na próxima terça-feira, diz Alcolumbre
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/18/senado-votara-pec-sobre-adiamento-de-eleicoes-municipais-na-proxima-terca-feira-diz-alcolumbre.htm
+
+▶️ Câmara dos Deputados aprovou suspensão dos pagamentos devidos pelos estudantes ao Fies durante o estado de calamidade pública
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/18/suspensao-de-pagamento-do-fies-ate-o-fim-do-ano-e-aprovado-na-camara.htm
+
+▶️ EUA questionam credibilidade dos dados oficiais sobre novo surto de coronavírus na China
+https://g1.globo.com/mundo/noticia/2020/06/18/eua-questionam-credibilidade-dos-dados-oficiais-sobre-novo-surto-de-coronavirus-na-china.ghtml
+
+▶️ China pede que exportador de alimento declare produto livre de coronavírus
+https://economia.estadao.com.br/noticias/agronegocios,china-pede-que-exportador-de-alimento-declare-produto-livre-de-coronavirus,70003338385
+--
+🌐 Internacional
+
+🇨🇳 China: Pequim tem 25 novos casos, 4 a mais que ontem. País registrou 32 novos casos, total de casos ativos é de 293, sendo 13 em estado grave. Total é de 83.325 casos e 4.634 mortes
+
+🇲🇽 México registra 5.662 casos (recorde) e 667 mortes em 24h. País tem 165.455 casos e 19.747 mortes
+
+🇺🇸 EUA registram 687 mortes em 24h. País tem mais de 118 mil óbitos e quase 2,2 milhões de pessoas infectadas
+
+🇷🇺 Rússia registra 7.972 casos e 181 mortes em 24h. País tem 569.063 infectados e 7.841 óbitos
+
+🇩🇪 Alemanha registra 770 casos e 16 mortes em 24h. País tem 188.534 infectados e 8.872 mortes
+
+🇨🇴 Colômbia tem pior dia da pandemia e registra 3.171 casos e 86 mortes. País tem 60.217 notificações de contágio, 35.587 casos ainda ativos e 1.950 óbitos
+
+🇨🇱 Chile reforçou as sanções para quem não respeitar a quarentena. Nº de casos superou 225 mil e o de mortes se aproxima de 4 mil
+
+🇨🇦 Canadá contará em breve com uma aplicativo para rastrear casos de Covid-19
+--
+🔍 Recortes da pandemia
+
+▶️ No Peru, pacientes pagam 1.000% a mais por oxigênio no mercado paralelo
+https://internacional.estadao.com.br/noticias/geral,no-peru-pacientes-pagam-1000-a-mais-por-oxigenio-no-mercado-paralelo,70003337802
+
+▶️ Pandemia adiantou mudanças no mundo do trabalho
+https://g1.globo.com/economia/concursos-e-emprego/noticia/2020/06/19/pandemia-adiantou-mudancas-no-mundo-do-trabalho-veja-as-10-principais-tendencias.ghtml
+
+▶️ Favelas poderiam ter problemas de habitação resolvidos em 20 anos por valor 300 vezes menor que o custo da crise da Covid-19 ao Rio
+https://oglobo.globo.com/rio/favelas-poderiam-ter-problemas-de-habitacao-resolvidos-em-20-anos-por-valor-300-vezes-menor-que-custo-da-crise-da-covid-19-ao-rio-24487439
+
+▶️ Coronavírus modifica serviços funerários e impacta a forma de se despedir de um ente querido
+https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2020/06/19/coronavirus-modifica-servicos-funerarios-e-impacta-a-forma-de-se-despedir-de-um-ente-querido-e-uma-coisa-muito-fria.ghtml
+
+▶️ Evento discute novo protagonismo da ciência no pós-pandemia
+http://agencia.fapesp.br/o-novo-protagonismo-da-ciencia-no-pos-pandemia/33437/
+
+▶️ Clínica geriátrica cria 'túnel do abraço' para garantir segurança de idosos 
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/19/clinica-geriatrica-cria-tunel-do-abraco-para-garantir-seguranca-de-idosos.htm
+
+▶️ Romance de 1981 de Dean Koontz viralizou na internet por falar de vírus surgido em Wuhan
+https://cultura.estadao.com.br/noticias/literatura,nao-tive-clarividencia-so-pesquisei-diz-autor-que-previu-coronavirus,70003337758
+--
+✅ Curtas
+
+➡️ Vacinação contra a gripe vai até 30 de junho
+
+➡️ Beijar já está autorizado em filmagens na França
+
+➡️ Primeiro-ministro indiano recomenda ioga contra coronavírus
+
+➡️ 'As pessoas não vão deixar de viajar', diz chefe do Airbnb no Brasil
+
+➡️ Governo britânico anuncia plano bilionário de ajuda aos estudantes 
+
+➡️ Com pandemia, endividamento de famílias bate recorde, diz CNC
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

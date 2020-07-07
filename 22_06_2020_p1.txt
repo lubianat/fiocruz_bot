@@ -1,0 +1,253 @@
+Destaques - 22/06/2020
+	
+📈 Balanço geral de casos
+🇧🇷 Brasil: 1.090.349 casos; 50.737 mortes
+🌎 Mundo: 8,9 milhões de casos; 468 mil mortes
+--
+🔬 Pesquisa científica
+
+▶️ Estudos dizem que imunidade para coronavírus não teria efeito a longo prazo. Pesquisas publicadas na China e nos Estados Unidos mostram que imunidade reduz em até três meses
+https://saude.estadao.com.br/noticias/geral,estudos-dizem-que-imunidade-para-coronavirus-nao-teria-efeito-a-longo-prazo,70003340660
+
+▶️ Assintomáticos podem ter uma proteção imunológica mais fraca contra o Sars CoV-2, aponta estudo
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/22/assintomaticos-podem-ter-uma-protecao-imunologica-mais-fraca-contra-o-sars-cov-2-aponta-estudo.ghtml
+✏️ Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections
+https://www.nature.com/articles/s41591-020-0965-6
+
+▶️ Anticorpo monoclonal tocilizumab apresentou resultados mistos no tratamento da Covid-19 em um pequeno estudo retrospectivo
+✏️ Tocilizumab for treatment of patients with severe Covid-19: A retrospective cohort study
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30162-0/
+
+▶️ Estudo internacional vai comparar como os países responderam à Covid-19
+http://agencia.fapesp.br/estudo-internacional-vai-comparar-como-os-paises-responderam-a-covid-19/33445/
+✏️ The comparative politics of Covid-19: The need to understand government responses
+https://www.tandfonline.com/doi/full/10.1080/17441692.2020.1783340
+
+▶️ Mini órgãos revelam como o coronavírus destrói o corpo. O vírus pode danificar tecidos pulmonares, hepáticos e renais cultivados em laboratório
+https://www.nature.com/articles/d41586-020-01864-x
+
+▶️ Uma pesquisa no genoma de macaco usando o sistema de edição de genoma CRISPR-Cas9 identificou genes que podem ajudar o novo coronavírus a infectar seus hospedeiros.
+https://www.nature.com/articles/d41586-020-00502-w
+✏️ Genome-wide CRISPR screen reveals host genes that regulate SARS-CoV-2 infection
+https://www.biorxiv.org/content/10.1101/2020.06.16.155101v1
+
+▶️ NEJM: Estudo de associação genômica de Covid-19 grave com insuficiência respiratória
+https://www.nejm.org/doi/full/10.1056/NEJMoa2020283
+
+▶️ Máscaras antivirais reutilizáveis da Sonovia, de Israel, com revestimento de nanopartículas de óxido de zinco tem bons resultados contra coronavírus
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/22/fabricante-de-mascaras-de-israel-ve-99-de-sucesso-contra-coronavirus-apos-testes.htm
+
+▶️ JAMA: Os determinantes morais da saúde
+https://jamanetwork.com/journals/jama/fullarticle/2767353
+
+▶️ Estudo com cerca de 50 pacientes aponta que posicionamento prono é viável e eficaz para melhorar rapidamente a oxigenação sanguínea em pacientes com pneumonia por Covid-19
+✏️ Feasibility and physiological effects of prone positioning in non-intubated patients with acute respiratory failure due to Covid-19 (PRON-COVID): a prospective cohort study
+https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30268-X/
+--
+📊 Epidemiologia
+
+▶️ Inverno traz 'tempestade perfeita' para Covid-19, diz chefe de laboratório nacional de referência do coronavírus. Segundo a virologista Marilda Siqueira, cuidados com o vírus deverão ser redobrados na estação
+https://oglobo.globo.com/sociedade/inverno-traz-tempestade-perfeita-para-covid-19-diz-chefe-de-laboratorio-nacional-de-referencia-do-coronavirus-24491029
+
+▶️ Voltar a velhos hábitos como ir ao cinema e restaurantes ou malhar na academia pode levar até um ano. Especialistas revelam o que consideram ou não seguro fazer para retomar atividades cotidianas
+https://oglobo.globo.com/sociedade/voltar-velhos-habitos-como-ir-ao-cinema-restaurantes-ou-malhar-na-academia-pode-levar-ate-um-ano-1-24491802
+
+▶️ Com 1 milhão de casos de Covid-19 em 8 dias, OMS alerta que pandemia continua acelerando no mundo e que efeitos serão sentidos 'por décadas'
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/22/com-1-milhao-de-casos-de-covid-19-em-8-dias-oms-alerta-que-pandemia-continua-acelerando-no-mundo-e-que-efeitos-serao-sentidos-por-decadas.ghtml
+
+⏩ OMS registra novo recorde diário de casos. Foram pouco mais de 183 mil registros nas últimas 24h
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/21/oms-registra-novo-recorde-diario-de-novos-casos-de-coronavirus.ghtml
+
+▶️ Cidades do interior já respondem por quase 60% dos casos no país. Dos municípios sem registros, maioria tem menos de 25 mil habitantes
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/cidades-do-interior-ja-respondem-por-quase-60-dos-casos-de-covid-no-pais.shtml
+
+▶️ Coronavírus mata 13 vezes mais no Norte do que no Sul do Brasil
+https://www.otempo.com.br/brasil/coronavirus-mata-13-vezes-mais-no-norte-do-que-no-sul-do-brasil-1.2351772
+
+▶️ 3 pontos-chave para entender como o Paraguai conseguiu conter a disseminação do coronavírus, apesar de estar no 'epicentro' da pandemia
+https://www.bbc.com/portuguese/internacional-53117602
+
+▶️ 4 gráficos que mostram por que a pandemia não está controlada nos EUA
+https://www.bbc.com/portuguese/internacional-53137480
+
+⏩ Na área de Baltimore e Washington DC, nos EUA, a comunidade latina foi mais afetada do que negros e brancos pela Covid-19
+https://www.jwatch.org/fw116752/2020/06/21/covid-19-immune-response-among-asymptomatic-latino
+✏️ SARS-CoV-2 Positivity Rate for Latinos in the Baltimore-Washington, DC Region
+https://jamanetwork.com/journals/jama/fullarticle/2767632
+
+⏩ Nos EUA, 12 estados batem recorde de Covid-19, e Casa Branca se prepara para 2ª onda
+https://www1.folha.uol.com.br/mundo/2020/06/nos-eua-12-estados-batem-recorde-de-covid-19-e-casa-branca-se-prepara-para-2a-onda.shtml
+
+▶️ A síndrome da fadiga crônica causada pelo coronavírus
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/22/depois-de-12-semanas-continuo-sem-forcas-a-sindrome-da-fadiga-cronica-causada-pelo-coronavirus.ghtml
+
+▶️ Alemanha fecha maior frigorífico do país após registrar mais de mil novos casos. Estabelecimento apresenta mais de 3.100 infecções entre seus 6.500 empregados
+https://g1.globo.com/mundo/noticia/2020/06/20/alemanha-fecha-maior-frigorifico-do-pais-apos-registrar-mais-de-mil-novos-casos-de-coronavirus.ghtml
+
+▶️ Vacas e cavalos viram fábricas de anticorpos contra novo coronavírus. Empresa americana modifica geneticamente animais para que produzam anticorpos humanos
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/vacas-e-cavalos-viram-fabricas-de-anticorpos-contra-novo-coronavirus.shtml
+
+▶️ O que aprendemos (e o que não) com a gripe espanhola de 1918
+https://www1.folha.uol.com.br/ciencia/2020/06/o-que-aprendemos-e-o-que-nao-com-a-gripe-espanhola-de-1918.shtml
+--
+🧪 Diagnóstico
+
+▶️ UFRJ faz parceria com  Bio-Manguinhos/Fiocruz e a empresa FK Biotecnologia-Imunobiotech para a produção de testes sorológicos mais precisos para a Covid-19
+https://oglobo.globo.com/sociedade/coppe-produz-proteina-para-testes-de-diagnostico-mais-precisos-da-covid-19-1-24491791
+--
+💉 Vacina
+
+▶️ Pesquisadores chineses lançam segunda fase de testes de vacina contra Covid-19 em seres humanos
+https://g1.globo.com/bemestar/vacina/noticia/2020/06/21/pesquisadores-chineses-lancam-segunda-fase-de-testes-de-vacina-contra-covid-19-em-seres-humanos.ghtml
+--
+💊 Tratamento
+
+▶️ Medicamento dexametasona, que reduziu o risco de morte por coronavírus em pesquisa, pode faltar, alertam especialistas
+https://www.sciencemag.org/news/2020/06/corticosteroid-drug-recently-shown-reduce-coronavirus-death-risk-could-run-out-experts
+
+▶️ Estudo da Sociedade Espanhola de Farmácia Hospitalar confirma utilidade dos corticoides contra a Covid-19, descarta a dos antivirais e aponta que a hidroxicloroquina pode ter um efeito protetor contra a doença em doses mais baixas
+https://brasil.elpais.com/internacional/2020-06-20/estudo-confirma-utilidade-dos-corticoides-contra-a-covid-19-e-descarta-a-dos-antivirais.html
+--
+📚 Educação
+
+▶️ Pandemia faz USP, Unesp e Unicamp perderem ao menos R$ 1,2 bilhão. Em maio, recursos já foram insuficientes para pagar salários de professores e funcionários, e as instituições tiveram de usar fundo de reserva
+https://educacao.estadao.com.br/noticias/geral,pandemia-faz-usp-unesp-e-unicamp-perderem-ao-menos-r-1-2-bilhao,70003340491
+--
+🏡 Distanciamento social
+
+▶️ NEJM: Desafios do “retorno ao trabalho” em uma pandemia em curso
+https://www.nejm.org/doi/full/10.1056/NEJMsr2019953
+
+▶️ Festa em Brasília teve teste de Covid-19 na entrada com interpretação errada dos resultados. Além de romper o isolamento social, evento reuniu pessoas suscetíveis à infecção
+https://www1.folha.uol.com.br/cotidiano/2020/06/festa-em-brasilia-teve-teste-de-covid-19-na-entrada-com-interpretacao-errada-dos-resultados.shtml
+
+▶️ Suíça tem aumento de casos de Covid-19 e é criticada por suspender quarentena cedo demais
+https://g1.globo.com/mundo/noticia/2020/06/21/suica-tem-aumento-de-casos-de-covid-19-e-e-criticada-por-suspender-quarentena-cedo-demais.ghtml
+
+▶️ Temos que fazer abertura agora porque economia não resiste, diz assessor especial do Ministério da Economia Guilherme Afif
+https://economia.uol.com.br/noticias/reuters/2020/06/22/temos-que-fazer-abertura-agora-porque-economia-nao-resiste-diz-afif.htm
+
+↪️ Santos libera banho de mar com distância de 1,5 metro entre banhistas
+
+↪️ Justiça derruba decreto que autorizava reabertura do comércio em Goiânia 
+
+↪️ Aglomeração em Festa da Música causa indignação na França
+--
+🥼 Saúde pública
+
+▶️ Pacientes internados em UTIs por Covid-19 tiveram o dobro da taxa de mortalidade em hospitais públicos em comparação com os privados, aponta projeto UTIs Brasileiras
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/21/mortalidade-em-utis-publicas-para-covid-19-e-o-dobro-de-hospitais-privados.htm
+
+▶️ Levantamento feito pelo consórcio de veículos de imprensa conclui que apenas 8 das 27 unidades de saúde da federação divulgam dados sobre a cor dos mortos e de doentes com Covid-19
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/maioria-dos-estados-nao-divulga-dados-sobre-raca-de-vitimas-da-covid-19.shtml
+
+▶️ RJ: Secretaria de Saúde recomenda não abrir hospitais de campanha atrasados
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/22/secretaria-saude-rj-nao-abrir-hospital-campanha.htm
+
+▶️ China intensifica controle sanitário sobre importações de carnes
+https://economia.estadao.com.br/noticias/agronegocios,china-intensifica-controle-sanitario-sobre-importacoes-de-carnes,70003340829
+
+▶️ A invisibilidade de médicos e enfermeiros nos registros da Covid-19
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/21/a-invisibilidade-de-medicos-e-enfermeiros-nos-registros-da-covid-19.ghtml
+
+▶️ Covid-19 tira 1,4 milhão do mercado de trabalho por motivo de doença
+https://economia.estadao.com.br/noticias/geral,covid-19-tira-1-4-milhao-do-mercado-de-trabalho-por-motivo-de-doenca,70003340490
+
+▶️ Vivemos subnotificação catastrófica de depressão na pandemia, diz Andrew Solomon
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/vivemos-subnotificacao-catastrofica-de-depressao-na-pandemia-diz-andrew-solomon.shtml
+--
+🗂️ Política
+
+▶️ Gestão Bolsonaro acumula ao menos 13 medidas para reduzir transparência oficial, incluindo esconder pesquisas da Fiocruz sobre drogas e dados da Covid-19 no Brasil
+https://www1.folha.uol.com.br/poder/2020/06/gestao-bolsonaro-acumula-ao-menos-13-medidas-para-reduzir-transparencia-oficial.shtml
+
+▶️ Pandemia do novo coronavírus foi amplificada por politização, diz diretor da OMS
+https://noticias.uol.com.br/ultimas-noticias/reuters/2020/06/22/pandemia-de-covid-19-foi-amplificada-por-politizacao-diz-diretor-da-oms.htm
+
+▶️ Em comício, Trump afirma que reduziu testes para esconder casos de Covid-19; Casa Branca diz que é brincadeira
+https://g1.globo.com/mundo/noticia/2020/06/21/trump-reclama-de-extremismo-radical-e-admite-que-reduziu-testes-para-esconder-casos-de-covid-19.ghtml
+
+▶️ Governo estende por mais 15 dias restrição para entrada de estrangeiros no Brasil
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/governo-estende-por-mais-15-dias-restricao-para-entrada-de-estrangeiros-no-brasil.shtml
+
+▶️ RJ: Fernando Ferry pede demissão da Secretaria Estadual de Saúde nesta segunda. É o segundo secretário de Saúde a deixar o cargo em meio à pandemia. O coronel médico do Corpo de Bombeiros Alex Bousquet assume como novo secretário
+https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/06/22/fernando-ferry-pede-demissao-da-secretaria-estadual-de-saude.ghtml
+
+▶️ Laboratório Químico e Farmacêutico do Exército gastou mais de R$ 1,5 milhão para fabricar cloroquina
+https://www1.folha.uol.com.br/equilibrioesaude/2020/06/laboratorio-do-exercito-gastou-mais-de-r-15-milhao-para-fabricar-cloroquina.shtml
+
+▶️ Teich: Bolsonaro centraliza decisões e enfraquece Ministério da Saúde. Trabalharia informação acima de tudo, disse ex-ministro ao rever atuação no governo 
+https://noticias.uol.com.br/videos/2020/06/22/bolsonaro-centraliza-decisoes-e-enfraquece-ministerio-da-saude-diz-teich.htm
+
+▶️ Alexandre Padilha: 'Brasil vive a pandemia e o pandemônio'. 
+https://noticias.uol.com.br/politica/ultimas-noticias/2020/06/22/brasil-pandemia-pandemonio-alexandre-padilha.htm
+--
+🌐 Internacional
+
+🌍 África tem 303.371 infecções e 7.999 mortes por Covid-19. Nº de contaminados no continente dobrou em menos de um mês 
+
+🌍 África do Sul (97,3 mil casos e 1,9 mil mortes), Egito (53,7 mil casos e 2,1 mil mortes), Nigéria (20,2 mil casos e 518 mortes) e Argélia (11,7 mil casos e 845 mortes) são os mais afetados
+
+🇨🇳 China reportou 18 novos casos, 9 em Pequim. 
+
+🇦🇺 Austrália tenta conter novo surto. País registrou quase 7.500 casos de coronavírus e 102 mortes até o domingo.
+
+🇷🇺 Rússia registrou 7.600 novos casos e 95 mortes. País tem 592.280 casos e 8.206 mortes
+
+🇰🇷 Coreia do Sul registrou 17 novos casos, nº mais baixo em quase um mês. País tem 12.438 casos
+
+🇦🇷 Argentina tem 41.191 casos e 1.000 mortes, 12.728 pessoas foram recuperadas e 27.476 seguem com a doença
+
+🇻🇪 Venezuela registra quase 4.000 casos e 33 mortos. País vai endurecer medidas sanitárias e quarentena
+
+🇸🇻 El Salvador, que não consta nenhum tipo de quarentena, registrou 4.626 casos e 98 mortes
+
+🇩🇪 Alemanha registra 537 novos casos e 3 mortes. País tem 190.359 casos e 8.885 mortes
+
+🇬🇧 Grã-Bretanha tem 42.632 mortes, nº de casos vem caindo constantemente nas últimas semanas
+
+🇹🇭 Tailândia registrou três casos importados e tem 28 dias sem transmissão local. País tem 58 mortes e 3.151 casos
+
+🇭🇳 Honduras registrou 519 casos e total é de 12.772. Presidente Juan Orlando Hernández, internado com Covid-19, convocou população contra pandemia
+
+🇧🇴 Bolívia: coronavírus transforma celebrações do ano novo andino
+
+🇦🇪 Emirados Árabes: Dubai permite que turistas estrangeiros entrem no país a partir de 7 de julho
+
+🇳🇿 Nova Zelândia prorroga proibição de chegadas de cruzeiros no país
+
+🇨🇴 Colômbia: zoológico reabre em Cali após três meses
+--
+🔍 Recortes da pandemia
+
+▶️ Opinião: O novo normal - o que pode ser tão normal quando 50 mil brasileiros perderam a vida?
+https://www1.folha.uol.com.br/colunas/paola-minoprio/2020/06/o-novo-normal.shtml
+
+▶️ O padre russo que nega a pandemia e desafia autoridades com tomada de convento
+https://www.bbc.com/portuguese/internacional-53141017
+
+▶️ Coronavírus matou tantos brasileiros quanto a Guerra do Paraguai
+https://www1.folha.uol.com.br/cotidiano/2020/06/coronavirus-matou-tantos-brasileiros-quanto-a-guerra-do-paraguai.shtml
+
+▶️ O crescente movimento de entregadores que briga por melhorias
+https://www.bbc.com/portuguese/brasil-53124543
+
+▶️ Quarentena afeta dieta de quase metade da população. Em casa, boa parte dos brasileiros mudou alimentação, para o bem ou para o mal
+https://saude.estadao.com.br/noticias/geral,quarentena-afeta-dieta-de-quase-metade-da-populacao,70003340374
+
+▶️ Repórter-fotográfico registra de dentro do carro a São Paulo da pandemia
+https://www1.folha.uol.com.br/cotidiano/2020/06/reporter-fotografico-registra-de-dentro-do-carro-a-sao-paulo-da-pandemia.shtml
+--
+✅ Curtas
+
+➡️ Trump volta a citar Brasil como país em situação ruim na pandemia
+
+➡️ INSS prorroga atendimento remoto até 10 de julho
+
+➡️ Polícia holandesa prende 400 pessoas em ato contra quarentena
+
+➡️ Mudança climática é ‘tão urgente’ quanto coronavírus, diz Greta Thunberg
+
+➡️ Jogadores e funcionários de liga de beisebol americana são confirmados com Covid-19 em meio a negociação para retorno dos jogos
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz)

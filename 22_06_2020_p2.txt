@@ -1,0 +1,160 @@
+Destaques - 22/06/2020 [parte 2]
+	
+📈 Balanço geral de casos
+🇧🇷 Brasil: 1.106.470 casos; 51.271 mortes
+🌎 Mundo: 9 milhões de casos; 470 mil mortes
+--
+➕ Ministério da Saúde: Brasil registrou 654 novas mortes e 21.432 casos em 24h. País tem 51.271 mortes e 1.106.470 casos no total.
+https://covid.saude.gov.br/
+--
+🔬 Pesquisa científica
+
+▶️ Células-tronco são usadas em estudo para combater a Covid-19. Pesquisa é realizada pela Fiocruz Paraná, PUC-PR e Complexo Hospital de Clínicas da UFPR
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/celulas-tronco-sao-usadas-em-estudo-para-combater-covid-19
+
+▶️ Menores de 20 têm menos chance de serem infectados por outro familiar ou contato em casa, diz estudo
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/22/menores-de-20-anos-sao-menos-propensos-a-serem-infectados-por-outro-familiar-ou-contato-em-casa-diz-estudo.ghtml
+✏️ Household secondary attack rate of COVID-19 and associated determinants in Guangzhou, China: a retrospective cohort study
+https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(20)30471-0.pdf
+--
+📊 Epidemiologia
+
+▶️ Possíveis casos de reinfecção pelo coronavírus levantam debate sobre imunidade
+https://www.cnnbrasil.com.br/saude/2020/06/22/casos-de-reinfeccao-coronavirus
+
+▶️ Casos de novo coronavírus no mundo passam de 9 milhões, diz universidade Johns Hopkins. Nº de mortes passa de 470 mil
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/22/casos-de-novo-coronavirus-no-mundo-passam-de-9-milhoes-diz-universidade.ghtml
+
+▶️ Brasil provavelmente tem mais casos de Covid-19 do que os relatados, afirma diretor da OMS
+https://g1.globo.com/bemestar/coronavirus/noticia/2020/06/22/brasil-provavelmente-tem-mais-casos-de-covid-19-do-que-os-relatados-afirma-diretor-da-oms.ghtml
+
+🎦 Vídeo: os 3 fatores que apontam quando Brasil chegará ao pico de casos
+https://www.bbc.com/portuguese/brasil-53144353
+
+▶️ Coreia do Sul: segunda onda de casos leva a novas restrições
+https://www.bbc.com/portuguese/internacional-53143379
+
+▶️ EUA: aumento de casos deve gerar segunda onda no outono
+https://internacional.estadao.com.br/noticias/geral,aumento-de-casos-nos-eua-deve-gerar-segunda-onda-no-outono,70003341097
+
+▶️ SP registra 2.788 casos e 46 mortes em 24h. Estado tem 221.973 casos e 12.634 óbitos. Interior do estado de SP passa a capital em número de novos casos de coronavírus
+https://www1.folha.uol.com.br/cotidiano/2020/06/interior-do-estado-de-sp-passa-a-capital-em-numero-de-novos-casos-de-coronavirus.shtml
+
+▶️ AM: estudo prevê novo pico em Manaus: 'Naturalizaram a situação', alerta pesquisador
+https://saude.estadao.com.br/noticias/geral,estudo-preve-novo-pico-da-covid-em-manaus-naturalizaram-a-situacao-alerta-pesquisador,70003341306
+--
+🧪 Diagnóstico
+
+▶️ Estudo sobre anticorpos de assintomáticos põe em 'xeque' testes rápidos. 'Não sabemos como interpretar adequadamente os resultados dos testes de anticorpos. E isso pode impactar a confiança nos estudos epidemiológicos que usam anticorpos para medir a prevalência da doença', afirma Ricardo Schnekenberg
+https://saude.estadao.com.br/noticias/geral,estudo-sobre-anticorpos-de-assintomaticos-poe-em-xeque-testes-rapidos-de-covid-19-diz-cientista,70003341307
+
+▶️ Presídios federais receberam 87 mil testes rápidos de Covid-19
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/depen-presidios-federais-ja-receberam-testes-rapidos-de-covid-19
+
+▶️ São Bernardo torna obrigatório exame para gestantes e idosos
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/covid-19-sao-bernardo-torna-obrigatorio-exame-para-gestantes-e-idosos
+--
+💉 Vacina
+
+▶️ Dois mil candidatos brasileiros vão participar de testes da vacina. Grupo Fleury divulgou que vai realizar a seleção dos candidatos para os testes da vacina desenvolvida pela Universidade de Oxford
+https://saude.estadao.com.br/noticias/geral,dois-mil-candidatos-brasileiros-vao-participar-de-testes-da-vacina-contra-o-coronavirus,70003341247
+
+▶️ Instituto Jenner, ligado à Universidade de Oxford, pode apresentar uma vacina contra o novo coronavírus já em outubro
+https://www.uol.com.br/vivabem/noticias/redacao/2020/06/22/coronavirus-vacina-pode-estar-pronta-em-outubro-afirma-pesquisador.htm
+
+▶️ Fundação Lemann planeja fábrica para vacina contra Covid-19
+https://blogs.oglobo.globo.com/lauro-jardim/post/fundacao-lemann-planeja-fabrica-para-vacina-contra-covid-19.html
+--
+💊 Tratamento
+
+▶️ Remédio Xarelto (rivaroxabana), que previne coágulos, reduz complicações em pacientes com Covid-19
+https://www.cnnbrasil.com.br/saude/2020/06/22/remedio-que-previne-coagulos-reduz-complicacoes-em-pacientes-com-covid-19
+✏️ Post-Discharge Prophylaxis With Rivaroxaban Reduces Fatal and Major Thromboembolic Events in Medically Ill Patients
+https://www.onlinejacc.org/content/75/25/3140
+--
+🏡 Distanciamento social
+
+▶️ Aplicativo ajuda empresas a fazer checklist de protocolos para reabertura na pandemia
+http://materiais.constructapp.io/checklistcovid
+
+▶️ Eventos religiosos estão ajudando a espalhar Covid-19, diz OMS
+https://www.cnnbrasil.com.br/saude/2020/06/22/eventos-religiosos-estao-ajudando-a-espalhar-covid-19-diz-oms
+
+▶️ RJ: decreto da prefeitura autoriza ônibus convencionais e BRT a transportarem passageiros em pé
+https://oglobo.globo.com/rio/decreto-da-prefeitura-autoriza-onibus-convencionais-brt-transportarem-passageiros-em-pe-1-24492880
+
+▶️ NY: após 3 meses de quarentena e controle da Covid-19, cabeleireiros e lojas reabrem
+https://oglobo.globo.com/mundo/apos-3-meses-de-quarentena-controle-da-covid-19-cabeleireiros-lojas-reabrem-em-nova-york-24492954
+
+▶️ SP: Shopping entre duas cidades ficará 'meio aberto' com flexibilização
+https://noticias.uol.com.br/cotidiano/ultimas-noticias/2020/06/22/sp-shopping-entre-duas-cidades-ficara-meio-aberto-com-flexibilizacao.htm
+--
+🥼 Saúde pública
+
+▶️ SP: taxa de ocupação de UTIs está em 65,6% no estado e 68,8% na Grande SP. Quase 14 mil pessoas internadas por suspeita ou confirmação de infecção
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/Taxa-de-ocupacao-de-UTIs-esta-em-656-no-estado-e-688-na-Grande-SP
+
+▶️ PR: juiz suspende atividades de frigorífico que tem 193 funcionários com Covid-19
+https://economia.uol.com.br/noticias/redacao/2020/06/22/juiz-suspende-atividades-de-frigorifico-que-tem-193-funcionarios-com-covid.htm
+
+▶️ Voo com 6,9 milhões de máscaras da China chega ao Brasil
+https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/06/22/covid-19-carregamento-com-69-milhoes-de-mascaras-da-china-chega-ao-brasil.htm
+--
+🗂️ Política
+
+▶️ Bolsonaro vê 'exagero' em ações contra coronavírus e faz apelo por reabertura do comércio
+https://g1.globo.com/politica/noticia/2020/06/22/bolsonaro-defende-reabertura-do-comercio-e-fala-em-pouco-de-exagero-no-trato-da-pandemia.ghtml
+
+▶️ Mandetta: Bolsonaro é único líder a manter discurso inadequado e 'falta de respeito às vítimas'
+https://noticias.uol.com.br/ultimas-noticias/rfi/2020/06/22/bolsonaro-e-unico-lider-a-manter-discurso-inadequado-e-falta-de-respeito-as-vitimas-diz-mandetta.htm
+
+▶️ Covid-19: Procurador-geral da República Augusto Aras recomenda que Ministério Público não questione ações de governo
+https://noticias.uol.com.br/colunas/leonardo-sakamoto/2020/06/22/covid-aras-recomenda-que-ministerio-publico-nao-questione-acoes-de-governo.htm
+
+▶️ Governo não vai suportar mais duas parcelas de R$ 600 de auxílio emergencial, diz Bolsonaro
+https://economia.estadao.com.br/noticias/geral,governo-nao-vai-suportar-mais-duas-parcelas-de-r-600-de-auxilio-emergencial-diz-bolsonaro,70003341076
+
+▶️ Por que esta semana é crucial para as eleições municipais de 2020
+https://www.bbc.com/portuguese/brasil-53144371
+
+⏩ TSE propõe campanha mais longa com eleições municipais adiadas
+https://politica.estadao.com.br/noticias/geral,tse-propoe-campanha-mais-longa-com-eleicoes-municipais-adiadas,70003341167
+
+⏩ Adiar eleições traz dilema entre ciência e leis, diz conselheira da OAB
+https://noticias.uol.com.br/eleicoes/2020/06/22/adiar-eleicoes-traz-dilema-entre-ciencia-e-leis-diz-conselheira-da-oab.htm
+
+⏩ Relator descarta ampliar voto facultativo para pessoas com mais de 60 anos
+https://oglobo.globo.com/brasil/relator-descarta-ampliar-voto-facultativo-para-pessoas-com-mais-de-60-anos-24492881
+
+▶️ Filho de Mário Peixoto, empresário Vinícius Ferreira Peixoto é preso acusado de desvios na Saúde do Rio
+https://oglobo.globo.com/rio/filho-de-mario-peixoto-empresario-vinicius-ferreira-peixoto-preso-acusado-de-desvios-na-saude-do-rio-24492882
+--
+🌐 Internacional
+
+🇺🇸 EUA registram 27.616 novos casos e 308 mortes em 24h. País tem 2.275.645 casos e 119.923 mortes
+
+🇵🇹 Portugal: Lisboa impõe horário para comércio e lei seca a partir de 20h para conter surto. País soma um total de 1.534 mortes e 39.392 casos. Nº de pessoas consideradas curadas é de 25.548
+
+🇸🇦 Arábia Saudita reduz peregrinação a Meca para evitar coronavírus
+--
+🔍 Recortes da pandemia
+
+▶️ Pandemia leva à subnotificação e redução nos dados criminais do Rio
+https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2020/06/22/pandemia-leva-a-subnotificacao-e-reducao-nos-dados-criminais-do-rio.htm
+
+▶️ Clientes de planos de saúde registraram 4,7 mil queixas sobre pandemia
+https://agenciabrasil.ebc.com.br/saude/noticia/2020-06/clientes-de-planos-de-saude-registraram-47-mil-queixas-sobre-pandemia
+--
+✅ Curtas
+
+➡️ Auditorias independentes sofrem na pandemia, diz setor
+
+➡️ Crivella autoriza funcionamento de salões de beleza, mas só em shoppings
+
+➡️ Vendas de carne enlatada disparam em vários países em pandemia 
+
+➡️ Hospital de campanha do Pacaembu será encerrado dia 30, dizem profissionais 
+
+➡️ Restaurantes japoneses redobraram cuidados no preparo dos alimentos
+--
+Produzido pelo Serviço de Jornalismo e Comunicação do Instituto Oswaldo Cruz (IOC/Fiocruz
